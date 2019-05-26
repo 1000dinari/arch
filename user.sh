@@ -8,3 +8,6 @@ echo exec startxfce4 >> ~/.xinitrc
 cp ./.config/* ~/.config/
 wget https://www.opendesktop.org/p/1136805/startdownload?file_id=1530774688&file_name=ocs-url-3.1.0-1-x86_64.pkg.tar.xz&file_type=application/x-xz&file_size=55500
 pacman -U ./ocs-url-3.1.0-1-x86_64.pkg.tar.xz
+cd ~/
+git clone https://github.com/1000dinari/arch
+cp -rf ~/arch/.config/* ~/.config
