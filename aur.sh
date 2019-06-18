@@ -1,0 +1,14 @@
+yay -S 
+deluge-git
+lostirc
+moon-buggy
+nitroshare
+ocs-url
+pacman4console
+persepolis
+sflock-git
+tor-browser
+uget-integrator
+uget-integrator-firefox
+xfce4-volumed-pulse
+yay
