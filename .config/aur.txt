@@ -1,8 +1,0 @@
-lostirc
-nitroshare
-ocs-url
-sflock-git
-uget-integrator
-uget-integrator-firefox
-xfce4-volumed-pulse
-yay
