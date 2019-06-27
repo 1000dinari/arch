@@ -1,0 +1,25 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/Telegram Desktop/,$HOME/.local/share/TelegramDesktop/,$HOME/
+Height 768=502
+Width 1366=1662
+Window-Maximized 768x1366=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/Telegram Desktop/
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=423,211
+
+[Recent Files]
+File1[$e]=/run/media/barbarik/windows/Users/adminsaurabh/Downloads/deluge/WINDOWS 7 ALL IN ONE(PRE-ACTIVATED).iso
+File2[$e]=$HOME/Downloads/Telegram Desktop/NXP_2.zip
+File3[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx.zip
+File4[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx/chrome/sas_session.jar
+Name1[$e]=WINDOWS 7 ALL IN ONE(PRE-ACTIVATED).iso
+Name2[$e]=NXP_2.zip
+Name3[$e]=sas_session-3.0-fx.zip
+Name4[$e]=sas_session.jar

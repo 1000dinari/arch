@@ -1,0 +1,1 @@
+{"name": "com.persepolis.pdmchromewrapper", "type": "stdio", "path": "/home/barbarik/.config/persepolis_download_manager/persepolis_run_shell", "description": "Integrate Persepolis with vivaldi using WebExtensions", "allowed_origins": ["chrome-extension://legimlagjjoghkoedakdjhocbeomojao/"]}

@@ -1,0 +1,17 @@
+{
+  "endpoint": "https://standardnotes.org/desktop/latest.json",
+  "autoupdateEnabled": true,
+  "checkingForUpdate": false,
+  "latest": {
+    "version": "3.0.14",
+    "changelog": "https://github.com/standardnotes/desktop/releases/v3.0.14",
+    "downloads": {
+      "mac": "https://github.com/standardnotes/desktop/releases/download/v3.0.14/standard-notes-3.0.14-mac.zip",
+      "windows": "https://github.com/standardnotes/desktop/releases/download/v3.0.14/standard-notes-setup-3.0.14.exe",
+      "appimage_32": "https://github.com/standardnotes/desktop/releases/download/v3.0.14/standard-notes-3.0.14-i386.AppImage",
+      "appimage_64": "https://github.com/standardnotes/desktop/releases/download/v3.0.14/standard-notes-3.0.14-x86_64.AppImage"
+    }
+  },
+  "currentVersion": "3.0.14",
+  "lastCheck": "2019-06-19T13:27:45.080Z"
+}

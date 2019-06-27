@@ -1,0 +1,120 @@
+T 1561027748 19*	Now talking on 22#bash
+T 1561027748 22*	Topic for 22#bash is: http://mywiki.wooledge.org/BashFAQ | http://mywiki.wooledge.org/BashGuide | http://gnu.org/s/bash/manual | http://wiki.bash-hackers.org/ | http://mywiki.wooledge.org/Quotes | http://www.shellcheck.net/ | https://lists.gnu.org/mailman/listinfo/help-bash | https://git.savannah.gnu.org/cgit/bash.git?h=devel
+T 1561027748 22*	Topic for 22#bash set by 26izabera (24Wed May 15 23:25:21 2019)
+T 1561027748 -18ChanServ-	[#bash] Welcome to #bash, we discuss the GNU bash shell.  Be explicit if your question is about another shell.  Don't trust the Internet on bash, learn from the resources in the topic instead.  You must be identified to send to the channel.
+T 1561027767 20<hazaardinari>30	https://paste.ee/p/Nikig
+T 1561027779 24*	nikivi has quit (Quit: Free ZNC ~ Powered by LunarBNC: https://LunarBNC.net)
+T 1561027786 24*	Hazalo1122 has quit (Client Quit)
+T 1561027791 23*	Wharncliffe (coffee@gateway/vpn/privateinternetaccess/b23) has joined
+T 1561027827 23*	nikivi (~nikivi@nikivi.powered.by.lunarbnc.net23) has joined
+T 1561027923 23*	ismdeep (~ismdeep@42-98-118-224.static.netvigator.com23) has joined
+T 1561027973 23*	mayurvpatil (~mayurvpat@202.149.218.20223) has joined
+T 1561027974 18<nil18>	this is ridiculously complex
+T 1561027979 20<hazaardinari>30	ikr
+T 1561027985 18<nil18>	yay -Qeq > saved
+T 1561028010 18<nil18>	yay -S < saved
+T 1561028012 23*	yann-kaelig (~yann-kael@89-64-53-99.dynamic.chello.pl23) has joined
+T 1561028031 23*	grettke (~grettke@cpe-65-29-228-30.wi.res.rr.com23) has joined
+T 1561028031 20<hazaardinari>30	and what about replacing the ewlines
+T 1561028034 20<hazaardinari>30	newlines
+T 1561028036 18<nil18>	yay wraps around pacman so you don't need to separate AUR and non-AUR packages
+T 1561028037 23*	keepsmile (~keepsmile@79.171.125.23623) has joined
+T 1561028048 18<nil18>	both yay and pacman accept package names on stdin in -S mode
+T 1561028062 24*	ismdeep has quit (Remote host closed the connection)
+T 1561028075 20<hazaardinari>30	but i need seperate install scripts for yay and pacman
+T 1561028088 18<nil18>	why?
+T 1561028089 23*	ismdeep (~ismdeep@42-98-118-224.static.netvigator.com23) has joined
+T 1561028093 20<hazaardinari>30	i'm looking to run these scripts everytime i install arch
+T 1561028096 18<piotr18>	awk -F':' '{ print $1 }' /etc/passwd   what does -F':'  do ?
+T 1561028108 20<hazaardinari>30	piotr man awk
+T 1561028108 18<nil18>	install yay, then run  yay -S < saved
+T 1561028149 18<piotr18>	im reading it
+T 1561028155 24*	28piotr is now known as 18Filystyn
+T 1561028158 24*	ismdeep has quit (Remote host closed the connection)
+T 1561028159 18<Filystyn18>	but I dont understand
+T 1561028162 20<hazaardinari>30	oh you mean the install script
+T 1561028164 20<hazaardinari>30	right
+T 1561028176 18<nil18>	er,  yay -S - < saved
+T 1561028178 18<nil18>	needs the hyphen
+T 1561028214 18<nil18>	Filystyn: -F sets the field separator. the character (or regex) used to separate fields
+T 1561028224 24*	sean8219 has quit (Quit: Mutter: www.mutterirc.com)
+T 1561028226 24*	kesenai has quit (Quit: Leaving)
+T 1561028230 18<Filystyn18>	you mean it puts character in blank spaceS?
+T 1561028240 18<nil18>	no
+T 1561028249 20<hazaardinari>30	it replaces \n with ' '
+T 1561028253 18<nil18>	the character used to separate fields in the *input*
+T 1561028265 18<nil18>	so if you read  a:b:c  and the field separator is : , you get 3 fields
+T 1561028286 24*	willksm has quit (Remote host closed the connection)
+T 1561028293 24*	smuraru has quit (Quit: smuraru)
+T 1561028294 19<nil>	hazaardinari: what?
+T 1561028303 18<Filystyn18>	ooo...
+T 1561028307 23*	smuraru (~smuraru@141.85.209.1123) has joined
+T 1561028327 24*	queip has quit (Ping timeout: 258 seconds)
+T 1561028333 23*	ismdeep (~ismdeep@42-98-118-224.static.netvigator.com23) has joined
+T 1561028339 20<hazaardinari>30	nothing sorry
+T 1561028344 18<Filystyn18>	not working
+T 1561028348 18<Filystyn18>	it's not replacing \n
+T 1561028355 24*	keepsmile has quit (Quit: bye)
+T 1561028357 24*	ismdeep has quit (Remote host closed the connection)
+T 1561028361 20<hazaardinari>30	i thought you were talking about something else
+T 1561028367 18<nil18>	Filystyn: forget about that
+T 1561028371 24*	IceFoxX has quit (Quit: Connection closed for inactivity)
+T 1561028374 20<hazaardinari>30	this : tr '\n' ' ' < repo-temp.sh >> repo.sh
+T 1561028380 18<Filystyn18>	ihm
+T 1561028433 18<Filystyn18>	ok i see
+T 1561028440 18<Filystyn18>	it tells how to cut  lines
+T 1561028442 24*	timj1 has quit (Ping timeout: 258 seconds)
+T 1561028446 18<Filystyn18>	good thank you
+T 1561028459 23*	stonair (~stonair@115.178.202.24323) has joined
+T 1561028463 20<hazaardinari>30	the gentlemen in the arch irc suggest using pacman for repo packages
+T 1561028482 24*	YuGiOhJCJ has quit (Quit: YuGiOhJCJ)
+T 1561028506 23*	willksm (~will.marl@dev.wksm.xyz23) has joined
+T 1561028530 18<nil18>	they also probably suggest not using yay. but if you are using yay, might as well use it as it's intended to
+T 1561028533 24*	willksm has quit (Remote host closed the connection)
+T 1561028537 18<nil18>	(that is, a pacman wrapper)
+T 1561028549 20<hazaardinari>30	yeah now i'm being yelled at
+T 1561028626 23*	willksm (~will.marl@dev.wksm.xyz23) has joined
+T 1561028653 24*	willksm has quit (Remote host closed the connection)
+T 1561028668 18<Filystyn18>	awk '/France&&8080/' proxylist
+T 1561028673 18<Filystyn18>	sorry wrong
+T 1561028679 23*	queip (~queip@unaffiliated/rezurus23) has joined
+T 1561028716 23*	willksm (~will.marl@dev.wksm.xyz23) has joined
+T 1561028720 18<Filystyn18>	 awk '/France&8080/' proxylist   question. Why does it not print France & 8080 lines ?
+T 1561028738 18<Filystyn18>	|  works but & not
+T 1561028743 24*	willksm has quit (Remote host closed the connection)
+T 1561028747 18<nil18>	learn regex.
+T 1561028768 24*	merzo has quit (Ping timeout: 272 seconds)
+T 1561028789 23*	willksm (~will.marl@dev.wksm.xyz23) has joined
+T 1561028800 24*	tuxed has quit (Quit: This computer has gone to sleep)
+T 1561028804 24*	smuraru has quit (Quit: smuraru)
+T 1561028816 18<Filystyn18>	nah, U tell me
+T 1561028820 23*	smuraru (~smuraru@141.85.209.1123) has joined
+T 1561028895 24*	nelek has quit (Quit: This computer has gone to sleep)
+T 1561028917 24*	willksm has quit (Client Quit)
+T 1561028917 24*	wwilliam has quit (Quit: Konversation terminated!)
+T 1561028934 18<Filystyn18>	guys... this is broken behavior - not intended
+T 1561028996 23*	z8z (~x@ac230029.ppp.asahi-net.or.jp23) has joined
+T 1561029116 18<Filystyn18>	i demand help !
+T 1561029204 18<Soliton18>	!awk
+T 1561029204 18<greybot18>	Check the topic of #awk and also http://www.grymoire.com/Unix/Awk.html -- awk questions belong to #awk. Note: If you are piping through more than one (grep|sed|awk), you're likely doing it wrong.
+T 1561029210 23*	Fernando-Basso (~FernandoB@179.154.154.13623) has joined
+T 1561029220 23*	wwilliam (~afernande@12.187.181.3223) has joined
+T 1561029225 18<Filystyn18>	so you don't answer awk questons here?
+T 1561029237 18<Filystyn18>	they belong to #awk
+T 1561029238 18<Filystyn18>	 
+T 1561029239 18<Filystyn18>	?
+T 1561029250 18*	gl sighs
+T 1561029274 18<Soliton18>	Rojola: -name is matched against the filename so /foo/bar is not going to work.
+T 1561029286 18<Filystyn18>	im going for a sec to #awk
+T 1561029291 18<Filystyn18>	better there be people helping
+T 1561029294 18<Soliton18>	Rojola: yes, you can use -path and -prune as well.
+T 1561029297 18<Filystyn18>	not avoiding harder questions
+T 1561029305 23*	`Cam (~textual@194-193-166-250.tpgi.com.au23) has joined
+T 1561029306 18<Filystyn18>	with channel redirections
+T 1561029332 24*	Filystyn (~piotr@unaffiliated/filystyn24) has left
+T 1561029398 18<Rojola18>	Soliton, everything I tried so far runs for a long time without results
+T 1561029406 23*	vuks (~Vuks69@unaffiliated/vuks6923) has joined
+T 1561029406 18<Rojola18>	Soliton, I think, the commands only tell "find" not to show it
+T 1561029411 24*	xelra has quit (Quit: ZNC - http://znc.in)
+T 1561029416 18<Rojola18>	Soliton, but I feel like find is still searching the excluded directories
+T 1561029422 19*	You have left channel 22#bash (24"Leaving")

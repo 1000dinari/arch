@@ -1,0 +1,52 @@
+T 1561105014 19*	Now talking on 22##c++
+T 1561105014 22*	Topic for 22##c++ is: is a topical channel for discussing standard C++ specifications and code. || Current standard: ISO/IEC 14882:2017 (a.k.a. C++17) || https://isocpp.org/faq || pastes: http://melpon.org/wandbox || Tools/libs/projects/algos: ##c++-general
+T 1561105014 22*	Topic for 22##c++ set by 26V-ille!~vivoutil@85-23-140-45.bb.dnainternet.fi (24Mon Dec  4 20:54:20 2017)
+T 1561105033 24*	ekaOlogik has quit (Read error: Connection reset by peer)
+T 1561105049 20<hazaardinari>30	https://paste.ee/p/xXOHg
+T 1561105049 24*	Newami has quit (Read error: Connection reset by peer)
+T 1561105052 19<RePaste>	Paste xXOHg was moved to https://wandbox.org/permlink/Fib6F6L8p9NYQmMj hazaardinari, please avoid paste sites that can't even compile your code.
+T 1561105093 23*	ekaOlogik (~quassel@x59cc9a65.dyn.telefonica.de23) has joined
+T 1561105099 23*	froggey (~froggey@unaffiliated/froggey23) has joined
+T 1561105105 20<hazaardinari>30	please help
+T 1561105130 19<RandomReader>	hazaardinari - you need to methodically learn C++ from basics, not attempt to jump into it like it's another language
+T 1561105138 18<RandomReader18>	!basics
+T 1561105139 18<nolyc18>	Books, references, tutorials, for all levels of learning: http://isocpp.org/get-started ; https://isocpp.org/faq ; http://www.dev-hq.net/c++/ ; http://learncpp.com/ ; http://stackoverflow.com/q/388242 ; https://github.com/isocpp/CppCoreGuidelines ; http://cppreference.com/
+T 1561105149 20<hazaardinari>30	i've done a 2 year course
+T 1561105153 18<RandomReader18>	strongly recommend the book list from the stackoverflow link
+T 1561105157 20<hazaardinari>30	i was revising
+T 1561105169 23*	queip (~queip@unaffiliated/rezurus23) has joined
+T 1561105174 18<RandomReader18>	then use one of the faster books like Tour, but either way you need to revisit the basics :)
+T 1561105188 20<hazaardinari>30	my strings are very weak
+T 1561105204 20<hazaardinari>30	because there's just so many programs
+T 1561105230 20<hazaardinari>30	there's more than 4 ways to do a single opration
+T 1561105237 20<hazaardinari>30	for strings
+T 1561105297 23*	a_saraf (~a_saraf@123.252.238.1823) has joined
+T 1561105309 24*	pa has quit (Ping timeout: 268 seconds)
+T 1561105359 20<hazaardinari>30	RandomReader, will this work? http://booksdescr.org/item/index.php?md5=89C7BD79C92844749D684CBD31A74C94
+T 1561105374 23*	Kman (~Thunderbi@cable-62-117-26-53.cust.telecolumbus.net23) has joined
+T 1561105390 18<RandomReader18>	sigh
+T 1561105401 20<hazaardinari>30	?
+T 1561105414 18<RandomReader18>	no offense meant here, but dude: stop trying to take shortcuts, this seems to be your entire problem here
+T 1561105416 23*	pa (~pa@unaffiliated/pa23) has joined
+T 1561105423 20<hazaardinari>30	its a tour of c++
+T 1561105435 18<RandomReader18>	if you can't slow down and approach your problem with care, you will *never* be able to effectively use C++
+T 1561105437 20<hazaardinari>30	by the writer of c++
+T 1561105456 18<RandomReader18>	if you want a faster-to-work-with language, you should use one, C++ is not that
+T 1561105460 18<Kman18>	without defining default constructor,  how to use this kind of class as function parameter?  as the error: no matching function for call to 'T::T()'
+T 1561105464 20<hazaardinari>30	this is book 1 in the list you gave me
+T 1561105485 18<RandomReader18>	and right now this is extending to not even bothering to look at the links I provided, because you've linked to an illegal copy of an older version of the book that's already available for free at one of the links I provided!
+T 1561105495 18<ville18>	!ive Kman testcase
+T 1561105497 18<Svitkona18>	Kman, you... just do it
+T 1561105505 24*	saraf has quit (Ping timeout: 248 seconds)
+T 1561105505 18<Svitkona18>	what are you trying to do?
+T 1561105505 18<ville18>	!give Kman testcase
+T 1561105507 18<nolyc18>	Kman: A testcase is the _least_ amount of code that replicates your problem, paste it to https://wandbox.org/ press share and give us the URL. You _must_ use that website. Do _not_ use a different website. Do _not_ paste code to the channel. See the testcase checklist at http://eel.is/iso-c++/testcase/
+T 1561105549 23*	kaffeetrauma (~Thunderbi@2003:cf:33e5:e400:ea2a:eaff:fe80:5f9323) has joined
+T 1561105556 20<hazaardinari>30	Year:	2018
+T 1561105660 23*	Freshnuts (Freshnuts@gateway/vpn/protonvpn/freshnuts23) has joined
+T 1561105729 23*	plq (~Thunderbi@91.93.45.8523) has joined
+T 1561105761 24*	Rabautius has quit (Read error: Connection reset by peer)
+T 1561105804 24*	Freshnuts has quit (Remote host closed the connection)
+T 1561105832 23*	Freshnuts (Freshnuts@gateway/vpn/protonvpn/freshnuts23) has joined
+T 1561106188 24*	mads- has quit (Ping timeout: 246 seconds)
+T 1561106195 23*	mads- (~mfrstar@tenderloin.whatbox.ca23) has joined

@@ -1,0 +1,11 @@
+T 1560341656 19*	Now talking on 22#python
+T 1560341656 22*	Topic for 22#python is: 3[WELCOME]This room is here to help you learn/improve your Python skills, NOT to write your code for you. 3[LEARN] Visit our Python Library (4TEMP LINK) 7https://pylib.neocities.org to start learning the language. Python 3.7 is current version. Feel free to ask your questions. 3[SHARE] Paste your code: 7https://bpaste.net/+python || "I thought we were at css3"
+T 1560341656 22*	Topic for 22#python set by 26v1 (24Tue May 28 01:51:48 2019)
+T 1560341676 20*	You are now known as 18snickety
+T 1560342452 23*	maxmuster (maxmuster@AN-uh9.sn6.l1pteo.IP23) has joined
+T 1560342453 22*	26CoderBot gives channel half-operator status to 18maxmuster
+T 1560343052 24*	AsTra has quit (Ping timeout: 121 seconds)
+T 1560343113 23*	AsTra (AsTra@AN-64h.7d8.ak3nao.IP23) has joined
+T 1560343172 24*	28AsTra is now known as 18ChonkyGuest17290
+T 1560344624 24*	Heimdallr has quit (Quit: https://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html)
+T 1560345846 FiSHLiM plugin unloaded

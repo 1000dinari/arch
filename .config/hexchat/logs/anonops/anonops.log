@@ -1,0 +1,164 @@
+**** BEGIN LOGGING AT Wed Jun 12 17:43:59 2019
+
+Jun 12 17:43:59 *	*** Looking up your hostname...
+Jun 12 17:43:59 *	*** Skipping host resolution (disabled by server administrator)
+Jun 12 17:44:00 *	Capabilities supported: away-notify
+Jun 12 17:44:00 *	Capabilities requested: away-notify 
+Jun 12 17:44:00 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG }bbv|^DeZ~ or /raw PONG }bbv|^DeZ~ now.
+Jun 12 17:44:01 *	Capabilities acknowledged: away-notify
+Jun 12 17:44:02 *	Welcome to AnonOps!
+**** ENDING LOGGING AT Wed Jun 12 17:44:02 2019
+
+**** BEGIN LOGGING AT Wed Jun 12 17:44:02 2019
+
+Jun 12 17:44:02 *	Welcome to the AnonOps IRC Network aslkdjbfe!qwkfb@2405:205:3009:fc6e:a724:88f8:67f7:188d
+Jun 12 17:44:02 *	Your host is lunar.anonops.com, running version InspIRCd-2.0
+Jun 12 17:44:02 *	This server was created 04:53:32 Nov 20 2017
+Jun 12 17:44:02 *	lunar.anonops.com InspIRCd-2.0 BGHIRSTWcdghiorswx ACDFGIJKLMNOPQRSTXYabcfghijklmnopqrstuvz FIJLXYabfghjkloqv
+Jun 12 17:44:02 *	AWAYLEN=30 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXYbg,k,FJLfjl,ACDGKMNOPQRSTcimnprstuz CHANNELLEN=31 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXTBAN=,ACNOQRSTUcmz FNC INVEX=I KICKLEN=150 :are supported by this server
+Jun 12 17:44:02 *	MAP MAXBANS=60 MAXCHANNELS=50 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=AnonOps NICKLEN=22 OVERRIDE PREFIX=(qaohv)~&@%+ SECURELIST SILENCE=32 SSL=[::1]:6697 :are supported by this server
+Jun 12 17:44:02 *	STATUSMSG=~&@%+ TOPICLEN=400 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+Jun 12 17:44:02 *	783AA2703 :your unique ID
+Jun 12 17:44:02 *	lunar.anonops.com message of the day
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	-                                                                                 
+Jun 12 17:44:02 *	- 
+Jun 12 17:44:02 *	- ======================================================================================================
+Jun 12 17:44:02 *	- All users are required to abide by network rules. Read these now. If you cannot abide by these rules, disconnect now.
+Jun 12 17:44:02 *	- Use /rules or see https://anonops.com/rules.html
+Jun 12 17:44:02 *	- ======================================================================================================
+Jun 12 17:44:02 *	- We use a BOPM scanner as part of our network security. When connecting to this server you will be portscanned for open proxy ports. This is a common scan used on many IRC networks and causes no harm nor does it log your IP.
+Jun 12 17:44:02 *	- ======================================================================================================
+Jun 12 17:44:02 *	- Disclaimer
+Jun 12 17:44:02 *	- IRC is an unmoderated medium. We do not log or scrutinise the traffic which passes through this server. We take no responsibility and explicitly disclaim any legal liability for the content of any message which passes through this server, including but not limited to any links, pictures or executable code. Our server operators have no personal involvement with activities carried out under the "Anonymous" banner.
+Jun 12 17:44:02 *	- ======================================================================================================
+Jun 12 17:44:02 *	- Domains: irc.anonops.com irc.anonops.su anonops.ircdrama.us
+Jun 12 17:44:02 *	- Ports: 6697 SSL
+Jun 12 17:44:02 *	- ======================================================================================================
+Jun 12 17:44:02 *	- Tutorials: http://anonops.com/tutorials.html
+Jun 12 17:44:02 *	- Network Info: http://anonops.com/network.html
+Jun 12 17:44:02 *	- Questions: info@anonops.com
+Jun 12 17:44:02 *	- Network help channel: #help
+Jun 12 17:44:02 *	- ======================================================================================================
+Jun 12 17:44:02 *	- 
+Jun 12 17:44:02 *	End of message of the day.
+Jun 12 17:44:02 *	There are 80 users and 134 invisible on 6 servers
+Jun 12 17:44:02 *	7 :operator(s) online
+Jun 12 17:44:02 *	196 :channels formed
+Jun 12 17:44:02 *	I have 114 clients and 1 servers
+Jun 12 17:44:02 *	Current Local Users: 114  Max: 141
+Jun 12 17:44:02 *	Current Global Users: 214  Max: 242
+Jun 12 17:44:02 *	AN-s8mmue.u6cu.53mh.olkmt4.IP :is now your displayed host
+Jun 12 17:44:02 *	aslkdjbfe sets mode +x on aslkdjbfe
+Jun 12 17:44:02 *	aslkdjbfe sets mode +i on aslkdjbfe
+Jun 12 17:44:02 *	aslkdjbfe sets mode +w on aslkdjbfe
+Jun 12 17:44:02 *	aslkdjbfe sets mode +I on aslkdjbfe
+Jun 12 17:44:02 *	aslkdjbfe sets mode +T on aslkdjbfe
+Jun 12 17:44:02 *	*** You are connected using SSL cipher "DHE-RSA-AES256-GCM-SHA384"
+Jun 12 17:44:02 -Global-	[Logon News - Jul 05 2013] We remind everyone to NOT click random links posted in channels or in PM. It's for your own protection.
+Jun 12 17:44:02 -Global-	[Logon News - Dec 24 2016] Verify your fingerprints, it can prevent snooping! More info: https://anonops.com/security.html | New users can get help by typing /join #opnewblood
+Jun 12 17:44:02 -Global-	[Random News - Jun 12 2011] <@daboogieman> only the best - as long as it's the cheapest
+Jun 12 17:44:36 *	You are now known as snickety
+**** BEGIN LOGGING AT Thu Jun 27 22:59:01 2019
+
+Jun 27 22:59:01 *	Welcome to the AnonOps IRC Network aslkdjbfe!qwkfb@2405:205:4010:6e8d:f3a1:b90c:c3c0:ba7d
+Jun 27 22:59:01 *	Your host is lunar.anonops.com, running version InspIRCd-2.0
+Jun 27 22:59:01 *	This server was created 04:53:32 Nov 20 2017
+Jun 27 22:59:01 *	lunar.anonops.com InspIRCd-2.0 BGHIRSTWcdghiorswx ACDFGIJKLMNOPQRSTXYabcfghijklmnopqrstuvz FIJLXYabfghjkloqv
+Jun 27 22:59:01 *	AWAYLEN=30 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXYbg,k,FJLfjl,ACDGKMNOPQRSTcimnprstuz CHANNELLEN=31 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXTBAN=,ACNOQRSTUcmz FNC INVEX=I KICKLEN=150 :are supported by this server
+Jun 27 22:59:01 *	MAP MAXBANS=60 MAXCHANNELS=50 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=AnonOps NICKLEN=22 OVERRIDE PREFIX=(qaohv)~&@%+ SECURELIST SILENCE=32 SSL=[::1]:6697 :are supported by this server
+Jun 27 22:59:01 *	STATUSMSG=~&@%+ TOPICLEN=400 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+Jun 27 22:59:01 *	783ABDFLB :your unique ID
+Jun 27 22:59:01 *	lunar.anonops.com message of the day
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	-                                                                                 
+Jun 27 22:59:01 *	- 
+Jun 27 22:59:01 *	- ======================================================================================================
+Jun 27 22:59:01 *	- All users are required to abide by network rules. Read these now. If you cannot abide by these rules, disconnect now.
+Jun 27 22:59:01 *	- Use /rules or see https://anonops.com/rules.html
+Jun 27 22:59:01 *	- ======================================================================================================
+Jun 27 22:59:01 *	- We use a BOPM scanner as part of our network security. When connecting to this server you will be portscanned for open proxy ports. This is a common scan used on many IRC networks and causes no harm nor does it log your IP.
+Jun 27 22:59:01 *	- ======================================================================================================
+Jun 27 22:59:01 *	- Disclaimer
+Jun 27 22:59:01 *	- IRC is an unmoderated medium. We do not log or scrutinise the traffic which passes through this server. We take no responsibility and explicitly disclaim any legal liability for the content of any message which passes through this server, including but not limited to any links, pictures or executable code. Our server operators have no personal involvement with activities carried out under the "Anonymous" banner.
+Jun 27 22:59:01 *	- ======================================================================================================
+Jun 27 22:59:01 *	- Domains: irc.anonops.com irc.anonops.su anonops.ircdrama.us
+Jun 27 22:59:01 *	- Ports: 6697 SSL
+Jun 27 22:59:01 *	- ======================================================================================================
+Jun 27 22:59:01 *	- Tutorials: http://anonops.com/tutorials.html
+Jun 27 22:59:01 *	- Network Info: http://anonops.com/network.html
+Jun 27 22:59:01 *	- Questions: info@anonops.com
+Jun 27 22:59:01 *	- Network help channel: #help
+Jun 27 22:59:01 *	- ======================================================================================================
+Jun 27 22:59:01 *	- 
+Jun 27 22:59:01 *	End of message of the day.
+Jun 27 22:59:01 *	There are 80 users and 140 invisible on 6 servers
+Jun 27 22:59:01 *	7 :operator(s) online
+Jun 27 22:59:01 *	196 :channels formed
+Jun 27 22:59:01 *	I have 118 clients and 1 servers
+Jun 27 22:59:01 *	Current Local Users: 118  Max: 141
+Jun 27 22:59:01 *	Current Global Users: 220  Max: 242
+Jun 27 22:59:01 *	AN-70eu4v.goqd.8phm.olkmt4.IP :is now your displayed host
+Jun 27 22:59:01 *	aslkdjbfe sets mode +x on aslkdjbfe
+Jun 27 22:59:01 *	aslkdjbfe sets mode +i on aslkdjbfe
+Jun 27 22:59:01 *	aslkdjbfe sets mode +w on aslkdjbfe
+Jun 27 22:59:01 *	aslkdjbfe sets mode +I on aslkdjbfe
+Jun 27 22:59:01 *	aslkdjbfe sets mode +T on aslkdjbfe
+Jun 27 22:59:01 *	*** You are connected using SSL cipher "DHE-RSA-AES256-GCM-SHA384"
+Jun 27 22:59:01 -Global-	[Logon News - Jul 05 2013] We remind everyone to NOT click random links posted in channels or in PM. It's for your own protection.
+Jun 27 22:59:01 -Global-	[Logon News - Dec 24 2016] Verify your fingerprints, it can prevent snooping! More info: https://anonops.com/security.html | New users can get help by typing /join #opnewblood
+Jun 27 22:59:01 -Global-	[Random News - Jul 27 2011] <Riotday> All of these trusted btw? <-- Riotday asking if he should trust all our services bots
+Jun 27 22:59:01 -Donny-	You are being automatically versioned. This is meant to help detect bots. Please do not reply to this, it will be ignored.
+Jun 27 22:59:02 *	Received a CTCP VERSION from Donny
+Jun 27 22:59:21 *	You are now known as windows7
+Jun 27 23:44:33 *	You are now known as arch-btw

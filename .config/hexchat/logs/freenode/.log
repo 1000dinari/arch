@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Thu Jun 13 10:13:01 2019
+
+Jun 13 10:13:01 *	Connecting to chat.freenode.net (2001:948:7:7::140:6697)
+Jun 13 10:13:02 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jun 13 10:13:02 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jun 13 10:13:02 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Jun 13 10:13:02 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jun 13 10:13:02 *	* Subject: /CN=wolfe.freenode.net
+Jun 13 10:13:02 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Jun 13 10:13:03 *	* Certification info:
+Jun 13 10:13:03 *	  Subject:
+Jun 13 10:13:03 *	    CN=wolfe.freenode.net
+Jun 13 10:13:03 *	  Issuer:
+Jun 13 10:13:03 *	    C=US
+Jun 13 10:13:03 *	    O=Let's Encrypt
+Jun 13 10:13:03 *	    CN=Let's Encrypt Authority X3
+Jun 13 10:13:03 *	  Public key algorithm: rsaEncryption (4096 bits)
+Jun 13 10:13:03 *	  Sign algorithm sha256WithRSAEncryption
+Jun 13 10:13:03 *	  Valid since Jun  3 05:01:51 2019 GM to Sep  1 05:01:51 2019 GM
+Jun 13 10:13:03 *	* Cipher info:
+Jun 13 10:13:03 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Jun 13 10:13:03 *	Connected. Now logging in.

@@ -1,0 +1,348 @@
+{
+	"info": {
+		"relation": {
+			"group": 0,
+			"priority": 1
+		},
+		"category": {
+			"hosts": [
+				".edu",
+				".idv"
+			],
+			"schemes": [
+				"ftps",
+				"magnet"
+			],
+			"file-exts": [
+				"torrent",
+				"metalink"
+			],
+			"active-limit": 3,
+			"finished-limit": 300,
+			"recycled-limit": 300
+		},
+		"common": {
+			"name": "New 0",
+			"folder": "\/home\/barbarik",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 1,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		}
+	},
+	"children": [
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 5664695,
+					"total": 5664695,
+					"elapsed": 12,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1561055294,
+					"completed-time": 1561055306,
+					"messages": [
+						{
+							"string": "Not Resumable",
+							"type": 2,
+							"time": 1561055295
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.tipp10.com\/en\/download\/",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/4A8C617.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "tipp10_linux_v2-1-0.tar.gz",
+					"uri": "https:\/\/www.tipp10.com\/en\/download\/getfile\/2\/1561055281\/",
+					"file": "tipp10_linux_v2-1-0.tar.gz",
+					"folder": "\/home\/barbarik\/Downloads",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/barbarik\/Downloads\/tipp10_linux_v2-1-0.tar.gz",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 4504909,
+					"total": 4504909,
+					"elapsed": 3,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1561021942,
+					"completed-time": 1561021946,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1561021943
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/anydesk.com\/",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "anydesk-5.1.1-amd64.tar.gz",
+					"uri": "https:\/\/download.anydesk.com\/linux\/anydesk-5.1.1-amd64.tar.gz",
+					"file": "anydesk-5.1.1-amd64.tar.gz",
+					"folder": "\/home\/barbarik\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/barbarik\/Downloads\/\/anydesk-5.1.1-amd64.tar.gz",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 53724187,
+					"total": 53724187,
+					"elapsed": 40,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1560951210,
+					"completed-time": 1560951250,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1560951212
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.pcloud.com\/",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/393002BD.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "pcloud(1)",
+					"uri": "https:\/\/p-def5.pcloud.com\/cBZ2SG254Z6UT4s4ZZZVT5tA7Z2ZZiEzZkZu5laXZJJZ8VZIVZv7Z17ZbXZBkZPZO0Zq5Z50ZrkZ05ZL0ZNyUE7ZbJm6Q79hmUuPaw3j1528S7rx0Ir7\/pcloud",
+					"file": "pcloud(1)",
+					"folder": "\/home\/barbarik",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/barbarik\/pcloud(1)",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 611056,
+					"total": 611056,
+					"elapsed": 1,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1560949179,
+					"completed-time": 1560949180,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1560949180
+						}
+					]
+				},
+				"http": {
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/3E490FCC.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Noticefor1st-In-person-Counselling-for-BE-BTech-Mode2.pdf",
+					"uri": "https:\/\/admissions.thapar.edu\/UG\/Noticefor1st-In-person-Counselling-for-BE-BTech-Mode2.pdf",
+					"file": "Noticefor1st-In-person-Counselling-for-BE-BTech-Mode2.pdf",
+					"folder": "\/home\/barbarik\/Documents\/thapar",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/barbarik\/Documents\/thapar\/Noticefor1st-In-person-Counselling-for-BE-BTech-Mode2.pdf",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 1459617792,
+					"total": 1459617792,
+					"elapsed": 177,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1560349412,
+					"completed-time": 1560338723,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "http:\/\/ftp.iinet.net.au\/pub\/mx\/MX\/Final\/",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "MX-18.3_x64.iso",
+					"uri": "http:\/\/ftp.iinet.net.au\/pub\/mx\/MX\/Final\/MX-18.3_x64.iso",
+					"file": "MX-18.3_x64.iso",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/isos",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/isos\/MX-18.3_x64.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		}
+	]
+}
+

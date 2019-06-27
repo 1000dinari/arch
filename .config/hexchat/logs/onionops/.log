@@ -1,0 +1,38 @@
+**** BEGIN LOGGING AT Fri Jun  7 09:48:11 2019
+
+Jun 07 09:48:11 *	Unknown host. Maybe you misspelled it?
+Jun 07 09:48:14 net_proxy_host set to: 127.0.0.1 (was: )
+Jun 07 09:48:14 net_proxy_type set to: 3 (was: 0)
+Jun 07 09:48:14 net_proxy_port set to: 9150 (was: 0)
+Jun 07 09:48:14 net_proxy_use set to: 0 (was: 0)
+Jun 07 09:48:18 *	Looking up anonops532vcpz6z.onion
+Jun 07 09:48:18 *	Looking up 127.0.0.1
+Jun 07 09:48:18 *	Connecting to 127.0.0.1 (127.0.0.1:9150)
+Jun 07 09:48:25 *	* Subject: /C=US/ST=California/L=Los Angeles/O=AnonOps/OU=AnonOps/CN=anonops532vcpz6z.onion/emailAddress=info@anonops.com
+Jun 07 09:48:25 *	* Issuer: /C=US/ST=California/L=Los Angeles/O=AnonOps/OU=AnonOps/CN=anonops532vcpz6z.onion/emailAddress=info@anonops.com
+Jun 07 09:48:25 *	* Subject: /C=US/ST=California/L=Los Angeles/O=AnonOps/OU=AnonOps/CN=anonops532vcpz6z.onion/emailAddress=info@anonops.com
+Jun 07 09:48:25 *	* Issuer: /C=US/ST=California/L=Los Angeles/O=AnonOps/OU=AnonOps/CN=anonops532vcpz6z.onion/emailAddress=info@anonops.com
+Jun 07 09:48:26 *	* Certification info:
+Jun 07 09:48:26 *	  Subject:
+Jun 07 09:48:26 *	    C=US
+Jun 07 09:48:26 *	    ST=California
+Jun 07 09:48:26 *	    L=Los Angeles
+Jun 07 09:48:26 *	    O=AnonOps
+Jun 07 09:48:26 *	    OU=AnonOps
+Jun 07 09:48:26 *	    CN=anonops532vcpz6z.onion
+Jun 07 09:48:26 *	    emailAddress=info@anonops.com
+Jun 07 09:48:26 *	  Issuer:
+Jun 07 09:48:26 *	    C=US
+Jun 07 09:48:26 *	    ST=California
+Jun 07 09:48:26 *	    L=Los Angeles
+Jun 07 09:48:26 *	    O=AnonOps
+Jun 07 09:48:26 *	    OU=AnonOps
+Jun 07 09:48:26 *	    CN=anonops532vcpz6z.onion
+Jun 07 09:48:26 *	    emailAddress=info@anonops.com
+Jun 07 09:48:26 *	  Public key algorithm: rsaEncryption (4096 bits)
+Jun 07 09:48:26 *	  Sign algorithm sha256WithRSAEncryption
+Jun 07 09:48:26 *	  Valid since Mar  8 17:36:46 2017 GM to Jul 24 17:36:46 2044 GM
+Jun 07 09:48:26 *	* Cipher info:
+Jun 07 09:48:26 *	  Version: TLSv1.2, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+Jun 07 09:48:26 *	* Verify E: self signed certificate.? (18) -- Ignored
+Jun 07 09:48:26 *	Connected. Now logging in.

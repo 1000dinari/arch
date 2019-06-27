@@ -1,0 +1,9 @@
+**** BEGIN LOGGING AT Wed Jun 12 17:42:58 2019
+
+Jun 12 17:42:58 *	Looking up 127.0.0.1
+Jun 12 17:42:58 *	Connecting to 127.0.0.1 (127.0.0.1:9150)
+Jun 12 17:42:58 *	Connection failed (Connection refused)
+Jun 12 17:43:08 Cycling to next server in anonops...
+Jun 12 17:43:08 *	Disconnected ()
+**** ENDING LOGGING AT Wed Jun 12 17:43:08 2019
+
