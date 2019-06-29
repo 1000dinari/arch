@@ -1,0 +1,22 @@
+T 1561703003 19*	Now talking on 22#dwm
+T 1561703003 22*	26singleton.oftc.net sets mode 24+n on 22#dwm
+T 1561703003 22*	26singleton.oftc.net sets mode 24+t on 22#dwm
+T 1561703004 22*	26ChanServ removes channel operator status from 18hazaardinari
+T 1561703004 -18ChanServ-	Deopped you on channel #dwm because it is registered with channel services
+T 1561703004 -18ChanServ-	and you are not a CHANOP on its access list.
+T 1561703004 -18ChanServ-	[#dwm] Please note that #dwm moved to #suckless.
+T 1561703004 22*	26ChanServ has changed the topic to: CHANNEL MOVED TO #suckless
+T 1561703020 19*	You have left channel 22#dwm
+T 1561703029 19*	Now talking on 22#suckless
+T 1561703029 22*	Topic for 22#suckless is: suckless.org | EN | Use your brain | No patch handholding
+T 1561703029 22*	Topic for 22#suckless set by 26ChanServ!services@services.oftc.net (24Thu Apr 11 12:49:02 2019)
+T 1561703046 20<hazaardinari>30	um i can't use the autostart patch
+T 1561703050 20<hazaardinari>30	for dwm
+T 1561703138 20<hazaardinari>30	wait no it worked
+T 1561703173 20<hazaardinari>30	i can't use the restart patch and the cycle layouts patch
+T 1561703186 20<hazaardinari>30	also i get this message every time i compile:
+T 1561703204 20<hazaardinari>30	dwm.c:653:1: warning: 'cyclelayout' defined but not used [-Wunused-function]
+T 1561703304 24*	neersighted has quit (Server closed connection)
+T 1561703317 23*	neersighted (sid5776@id-5776.brockwell.irccloud.com23) has joined
+T 1561704573 20*	Disconnected (20)
+T 1561704575 FiSHLiM plugin unloaded

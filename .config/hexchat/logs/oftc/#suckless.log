@@ -1,0 +1,16 @@
+**** BEGIN LOGGING AT Fri Jun 28 11:53:49 2019
+
+Jun 28 11:53:49 *	Now talking on #suckless
+Jun 28 11:53:49 *	Topic for #suckless is: suckless.org | EN | Use your brain | No patch handholding
+Jun 28 11:53:49 *	Topic for #suckless set by ChanServ!services@services.oftc.net (Thu Apr 11 12:49:02 2019)
+Jun 28 11:54:06 <hazaardinari>	um i can't use the autostart patch
+Jun 28 11:54:10 <hazaardinari>	for dwm
+Jun 28 11:55:38 <hazaardinari>	wait no it worked
+Jun 28 11:56:13 <hazaardinari>	i can't use the restart patch and the cycle layouts patch
+Jun 28 11:56:26 <hazaardinari>	also i get this message every time i compile:
+Jun 28 11:56:44 <hazaardinari>	dwm.c:653:1: warning: 'cyclelayout' defined but not used [-Wunused-function]
+Jun 28 11:58:24 *	neersighted has quit (Server closed connection)
+Jun 28 11:58:37 *	neersighted (sid5776@id-5776.brockwell.irccloud.com) has joined
+Jun 28 12:19:33 *	Disconnected ()
+**** ENDING LOGGING AT Fri Jun 28 12:19:33 2019
+

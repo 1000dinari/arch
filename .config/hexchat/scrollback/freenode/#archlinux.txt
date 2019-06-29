@@ -1736,3 +1736,328 @@ T 1561667001 23*	Cobra57 (~quassel@2601:144:300:129c:20f:ff:fe8e:2c2823) has j
 T 1561667006 18<greg_18>	it happens on arch too lol
 T 1561667012 18<Namarrgon18>	we don't care lol
 T 1561667029 24*	Yomi has quit (Ping timeout: 244 seconds)
+T 1561704694 19*	Now talking on 22#archlinux
+T 1561704694 22*	Topic for 22#archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+T 1561704694 22*	Topic for 22#archlinux set by 26alad!~alad@archlinux/trusteduser/alad (24Mon Mar 11 21:14:32 2019)
+T 1561704721 20<hazaardinari>30	iss there a way i can output only my battery percentage and not the other info in terminal?
+T 1561704729 20<hazaardinari>30	for a status bar
+T 1561704744 24*	UnhappymealQQ[m] has quit (Remote host closed the connection)
+T 1561704746 24*	olbat[m] has quit (Remote host closed the connection)
+T 1561704763 24*	eemaster5[m] has quit (Remote host closed the connection)
+T 1561704763 24*	triplenull has quit (Read error: Connection reset by peer)
+T 1561704763 24*	rmanak has quit (Read error: Connection reset by peer)
+T 1561704763 24*	felixonmars has quit (Read error: Connection reset by peer)
+T 1561704763 24*	rvlobato[m] has quit (Remote host closed the connection)
+T 1561704763 24*	japhir[m] has quit (Read error: Connection reset by peer)
+T 1561704763 24*	Hm7000 has quit (Write error: Connection reset by peer)
+T 1561704763 24*	shalzz has quit (Write error: Connection reset by peer)
+T 1561704763 24*	sauyon[m] has quit (Remote host closed the connection)
+T 1561704763 24*	bennofs[m] has quit (Read error: Connection reset by peer)
+T 1561704763 24*	m_0xd800 has quit (Read error: Connection reset by peer)
+T 1561704763 24*	dieggsy has quit (Remote host closed the connection)
+T 1561704763 24*	swordfeng has quit (Remote host closed the connection)
+T 1561704763 24*	MayeulC has quit (Write error: Connection reset by peer)
+T 1561704771 24*	vidal72[m] has quit (Write error: Connection reset by peer)
+T 1561704771 24*	thejonny has quit (Remote host closed the connection)
+T 1561704772 24*	gnfzdz has quit (Write error: Connection reset by peer)
+T 1561704773 24*	KodiakIT[m] has quit (Write error: Connection reset by peer)
+T 1561704774 24*	jacobski[m] has quit (Remote host closed the connection)
+T 1561704775 24*	M11dr__m[m] has quit (Write error: Connection reset by peer)
+T 1561704775 24*	eschwartz[m] has quit (Write error: Connection reset by peer)
+T 1561704775 24*	z3ntu has quit (Write error: Connection reset by peer)
+T 1561704775 24*	s0dy`[m] has quit (Read error: Connection reset by peer)
+T 1561704776 24*	diabonas has quit (Read error: Connection reset by peer)
+T 1561704776 24*	greyltc[m] has quit (Write error: Connection reset by peer)
+T 1561704828 18<semeion18>	amosbird: you need adjust your /etc/create_ap.conf and use something like: HT_CAPAB=[HT40+][HT-IBSS][SHORT-GI-40][RX-STBC1][DSSS_CCK-40]
+T 1561704864 23*	mayurvpatil (~mayurvpat@123.201.35.17423) has joined
+T 1561704891 20<hazaardinari>30	i can't see unicode
+T 1561704897 20<hazaardinari>30	for example this character: 
+T 1561704899 24*	irdr has quit (Remote host closed the connection)
+T 1561704902 24*	totte has quit (Ping timeout: 272 seconds)
+T 1561704917 23*	irdr (irdr@137.204.76.34.bc.googleusercontent.com23) has joined
+T 1561704936 24*	rrman has quit (Ping timeout: 248 seconds)
+T 1561704943 24*	benklett has quit (Ping timeout: 248 seconds)
+T 1561704943 24*	jnbek has quit (Ping timeout: 248 seconds)
+T 1561704943 24*	taiyu has quit (Read error: Connection reset by peer)
+T 1561704960 19<semeion>	hazaardinari: i see a square
+T 1561704991 20<hazaardinari>30	i see a an array of F C 2 6
+T 1561705001 20<hazaardinari>30	inside a square matrix
+T 1561705018 19<arshin>	hazaardinari: telegram sign. you need awesome font
+T 1561705028 24*	tsal has quit (Ping timeout: 245 seconds)
+T 1561705040 23*	benklett (~benklett@unaffiliated/benklett23) has joined
+T 1561705040 23*	rrman (~randomac@unaffiliated/rrman23) has joined
+T 1561705045 23*	totte (~totte@chakra/totte23) has joined
+T 1561705050 18<arshin18>	community/otf-font-awesome
+T 1561705071 19<semeion>	hazaardinari: https://i.imgur.com/2PY3ci7.png
+T 1561705082 20<hazaardinari>30	will this give me all unicode characters/
+T 1561705092 24*	kgz has quit (Ping timeout: 272 seconds)
+T 1561705099 18<arshin18>	!TIAS
+T 1561705100 18<phrik18>	Try It And See™
+T 1561705110 24*	yokel has quit (Read error: Connection reset by peer)
+T 1561705110 18<semeion18>	I could try that font too
+T 1561705120 20<hazaardinari>30	do i need a reboot?
+T 1561705157 19<flacks>	hazaardinari, battery info - something like `cat /sys/class/power_supply/BAT0/capacity`
+T 1561705168 23*	taiyu (~taiyu@unaffiliated/taiyu23) has joined
+T 1561705170 24*	jason0597 has quit (Ping timeout: 252 seconds)
+T 1561705183 20<hazaardinari>30	thanks a million flacks 
+T 1561705187 18<flacks18>	amosbird, indeed try what semeion suggested
+T 1561705200 24*	gmpreussner has quit (Quit: kthxbye)
+T 1561705205 19<flacks>	hazaardinari, yw
+T 1561705221 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1561705248 24*	winter_snow has quit (Quit: "If you only knew the power of 3 6 and 9" - Tesla)
+T 1561705257 24*	malSet has quit (Read error: Connection reset by peer)
+T 1561705264 23*	swa_work (~swa_work@2600:16f6:ca83:b1d0::e9e23) has joined
+T 1561705264 23*	cottoneyejim (~cottoneye@46.33.206.3623) has joined
+T 1561705276 23*	pragomer (~pragomer@p200300D4CBE66800244541F6D714DD47.dip0.t-ipconnect.de23) has joined
+T 1561705278 24*	Yomi has quit (Ping timeout: 245 seconds)
+T 1561705301 23*	tsal (~tsal@i59F52307.versanet.de23) has joined
+T 1561705303 24*	tsal has quit (Excess Flood)
+T 1561705329 23*	malSet (~malSet@cpe-173-89-212-155.columbus.res.rr.com23) has joined
+T 1561705344 23*	jnbek (~jnbek@pdpc/supporter/active/jnbek23) has joined
+T 1561705347 23*	kgz (~kragniz@nyaa.kragniz.eu23) has joined
+T 1561705354 18<semeion18>	flacks: yeah but before use that parameters, he need check the hardware capabilities with `iw list` 
+T 1561705363 24*	pragomer has quit (Client Quit)
+T 1561705400 23*	onoketa (~Thunderbi@27.102.130.17323) has joined
+T 1561705411 24*	SteveDeFacto has quit (Quit: WeeChat 2.4)
+T 1561705416 23*	Tazmain (~Tazmain@unaffiliated/tazmain23) has joined
+T 1561705417 23*	tsal (~tsal@i59F52307.versanet.de23) has joined
+T 1561705428 23*	diabonas (diabonasma@gateway/shell/matrix.org/x-spgssnjgnmglbqbb23) has joined
+T 1561705449 23*	m147 (~m147@om126212249111.14.openmobile.ne.jp23) has joined
+T 1561705460 24*	Tazmain has quit (Max SendQ exceeded)
+T 1561705486 23*	Tazmain (~Tazmain@unaffiliated/tazmain23) has joined
+T 1561705488 23*	gmpreussner (~j3rky@cpe-172-74-96-150.nc.res.rr.com23) has joined
+T 1561705496 20*	Disconnected (20)
+T 1561705498 FiSHLiM plugin unloaded
+T 1561706121 19*	Now talking on 22#archlinux
+T 1561706121 22*	Topic for 22#archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+T 1561706121 22*	Topic for 22#archlinux set by 26alad!~alad@archlinux/trusteduser/alad (24Mon Mar 11 21:14:32 2019)
+T 1561706129 20<hazaardinari>30	i still can't see unicode characters guys
+T 1561706140 23*	kageru (~kageru@2a04:4540:6f00:b100:1e7b:fe28:84c6:638823) has joined
+T 1561706149 24*	Noti has quit (Remote host closed the connection)
+T 1561706210 20<hazaardinari>30	https://imgur.com/FXxuqzL.png
+T 1561706244 20<hazaardinari>30	here's the page https://gitlab.com/dwt1/dotfiles/blob/master/dwm/config.h
+T 1561706246 18<phrik18>	Title: dwm/config.h · master · Derek Taylor / dotfiles · GitLab (at gitlab.com)
+T 1561706248 23*	Noti (~steffan@185.2.243.323) has joined
+T 1561706290 24*	cim209 has quit (Quit: Ping timeout (120 seconds))
+T 1561706325 24*	Midna has quit (Quit: ZNC 1.7.x-git-180-1cce7f6 - http://znc.in)
+T 1561706339 23*	Midna (~M@unaffiliated/sachiko23) has joined
+T 1561706340 18<arshin18>	hm, displays fine for me
+T 1561706342 23*	cim209 (~cim209@205.185.117.11023) has joined
+T 1561706343 23*	codewaffle (~codewaffl@otto.codewaffle.com23) has joined
+T 1561706356 23*	tkrizek (~tkrizek@2001:67c:1220:80c:df:5350:68c3:aed523) has joined
+T 1561706359 20<hazaardinari>30	could you post a list of what fonts you have installed?
+T 1561706371 19<semeion>	hazaardinari: i installed otf-font-awesome, type something to me 
+T 1561706386 24*	m147 has quit (Quit: WeeChat 2.5)
+T 1561706397 24*	bakasa has quit (Quit: bye)
+T 1561706399 20<hazaardinari>30	", "", "", "", "", "", "", "", "
+T 1561706422 20<hazaardinari>30	wait i can see them in hexchat but not in firefox
+T 1561706425 18<semeion18>	yeah i cant see it lol
+T 1561706442 24*	y6yuan has quit (Quit: WeeChat 2.5)
+T 1561706463 19<arshin>	hazaardinari: set firefox to use awesome?
+T 1561706485 23*	bakasa (~bakasa@unaffiliated/bakasa23) has joined
+T 1561706509 20<hazaardinari>30	how?
+T 1561706511 24*	hussam has quit (Quit: Connection closed for inactivity)
+T 1561706516 23*	h4rd3n3D (~weechat@gateway/tor-sasl/h4rd3n3d23) has joined
+T 1561706531 18<cim20918>	magic
+T 1561706566 23*	SHRDLULIZ (~Kaos@196.245.9.6023) has joined
+T 1561706578 20<hazaardinari>30	i went into preferences and set fonts and colours to awesome 5 brands
+T 1561706583 18<arshin18>	I can't get firefox to display those either actually. Luakit displays them just fine
+T 1561706670 24*	HuntsMan has quit (Ping timeout: 268 seconds)
+T 1561706672 24*	h4rd3n3D_ has quit (Ping timeout: 260 seconds)
+T 1561706672 18<arshin18>	anyway try to make your bar use awesome font and restart it
+T 1561706756 23*	Perfectionist (~MrReader@unaffiliated/mrreader23) has joined
+T 1561706792 20*	Disconnected (20)
+T 1561706794 FiSHLiM plugin unloaded
+T 1561733650 19*	Now talking on 22#archlinux
+T 1561733650 22*	Topic for 22#archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+T 1561733650 22*	Topic for 22#archlinux set by 26alad!~alad@archlinux/trusteduser/alad (24Mon Mar 11 21:14:32 2019)
+T 1561733658 20<hazaardinari>30	is anyone familiar with dwm?
+T 1561733664 24*	HerbY_NL2 has quit (Quit: Leaving)
+T 1561733684 19<ayekat>	!give hazaardinari anyone
+T 1561733685 19<phrik>	hazaardinari: Quite possibly. Why do you ask?
+T 1561733688 23*	winter_snow (winter_sno@gateway/vpn/protonvpn/wintersnow/x-7543471623) has joined
+T 1561733723 23*	epony (epony@unaffiliated/epony23) has joined
+T 1561733732 20<hazaardinari>30	https://imgur.com/tDbJ0DC.png
+T 1561733751 20<hazaardinari>30	see the highlighted line, then see the top bar on the left side
+T 1561733755 24*	thamoo1 has quit (Ping timeout: 268 seconds)
+T 1561733770 23*	Arcaelyx (~Arcaelyx@cpe-184-152-1-126.nyc.res.rr.com23) has joined
+T 1561733775 20<hazaardinari>30	i need help with those characters, i already installed a handful of fonts and some symbols show
+T 1561733810 18<h4rd3n3D18>	angellus_mortis:  do a search on 'change oem efi boot logo'.  On Win10 is looks like it can be done, but on linux I don't have the time to do your research for you
+T 1561733812 18<Namarrgon18>	set the funt you want it to use explicitly, don't rely on the monospace alias
+T 1561733815 18<Namarrgon18>	*font
+T 1561733828 23*	ShadowKyogre (7358dd25f8@gateway/shell/jabberfr/x-defltvollbnnbbam23) has joined
+T 1561733829 18<gehidore18>	funt too
+T 1561733834 20<hazaardinari>30	alright, so what font do you suggest?
+T 1561733835 23*	tradar (~tradar@gateway/tor-sasl/tradar23) has joined
+T 1561733844 18<Namarrgon18>	one that provides the glyphs you need
+T 1561733848 24*	octes has quit (Remote host closed the connection)
+T 1561733854 20<hazaardinari>30	any examples?
+T 1561733865 18<Hello7118>	it's better to configure monospace to be the funt you want
+T 1561733870 18<Namarrgon18>	well, you're using them in geany
+T 1561733872 18<gehidore18>	otherwise how do you get to see exciting characters like this 🐄🥩
+T 1561733873 23*	Soo_Slow (Soo_Slow@gateway/vpn/privateinternetaccess/sooslow/x-3137616223) has joined
+T 1561733916 20<hazaardinari>30	how do i see geany fonts?
+T 1561733949 18<mefistofeles18>	gehidore: just use emoji fonts, I'd guess
+T 1561733956 18<mefistofeles18>	use/configure
+T 1561733967 18<mefistofeles18>	oh, nvm, misread that
+T 1561733973 18<mefistofeles18>	thought you were asking xD
+T 1561733978 18<gehidore18>	mefistofeles :)
+T 1561734000 20<hazaardinari>30	i can see all symbols in hexchat which uses monospace 9
+T 1561734024 18<Namarrgon18>	monospace is not a font
+T 1561734047 18<Namarrgon18>	fc will resolve it to whatever the configs are set to
+T 1561734085 20<hazaardinari>30	https://imgur.com/dq0XuLr.png
+T 1561734094 20<hazaardinari>30	what's fc?
+T 1561734097 24*	ShadowKyogre (7358dd25f8@gateway/shell/jabberfr/x-defltvollbnnbbam24) has left
+T 1561734109 18<Namarrgon18>	fontconfig
+T 1561734129 20<hazaardinari>30	so i type fontconfig in terminal
+T 1561734131 20<hazaardinari>30	?
+T 1561734133 24*	ninedotnine has quit (Read error: Connection reset by peer)
+T 1561734139 24*	heitzmann has quit (Quit: WeeChat 2.5)
+T 1561734149 18<Namarrgon18>	no, you do some research first
+T 1561734184 23*	Cobra57 (~quassel@2601:144:300:129c:20f:ff:fe8e:2c2823) has joined
+T 1561734226 23*	heitzmann (~heitzmann@s328a-1.fee.unicamp.br23) has joined
+T 1561734297 24*	Tazmain has quit (Remote host closed the connection)
+T 1561734317 24*	tdy has quit (Remote host closed the connection)
+T 1561734375 23*	kts (~kts@103.73.237.18323) has joined
+T 1561734409 19<h4rd3n3D>	hazaardinari:  if you want a great looking font for chat, have a look at Monaco for Powerline
+T 1561734461 18<h4rd3n3D18>	^btw:  that Apple's default terminal font - and they made an excellent choice
+T 1561734471 18<h4rd3n3D18>	*that's
+T 1561734472 24*	cottoneyejim has quit (Quit: cottoneyejim)
+T 1561734532 23*	svito (~svito@archlinux/support/svito23) has joined
+T 1561734539 18<ayekat18>	how is this related to their problem, though?
+T 1561734618 23*	bionade24 (~oskar@server2.oscloud.info23) has joined
+T 1561734687 23*	orivej (orivej@gateway/vpn/mullvad/orivej23) has joined
+T 1561734695 24*	Noti has quit (Quit: Konversation terminated!)
+T 1561734734 19<h4rd3n3D>	ayekat:  not sure it is a problem at all; but the only question I am addressing is:  hazaardinari | alright, so what font do you suggest? - and that was following hazaardinari
+T 1561734774 19<h4rd3n3D>	hazaardinari's not great looking Monospace 9 hexchat screenshot
+T 1561734781 24*	tride has quit (Ping timeout: 246 seconds)
+T 1561734783 18<Namarrgon18>	they are looking for a font that provides these particular glyphs
+T 1561734801 18<h4rd3n3D18>	ah...
+T 1561734802 20<hazaardinari>30	i dont even know what monospace is, i'll look around
+T 1561734813 23*	Cobra57_ (~quassel@2601:144:300:129c:20f:ff:fe8e:2c2823) has joined
+T 1561734853 24*	oml has quit (Ping timeout: 245 seconds)
+T 1561734874 20<hazaardinari>30	ok so monospace has same width for each character
+T 1561734874 18<ayekat18>	h4rd3n3D: and since they can see those glyphs in geany, they already have their desired font - the problem is how to get the dwm statusbar at the top to show the same glyphs
+T 1561734888 24*	winter_snow has quit (Ping timeout: 258 seconds)
+T 1561734896 20<hazaardinari>30	i just need to find what font geany uses eh?
+T 1561734904 24*	ivlioioilvi has quit (Quit: 你的小可爱已退出。)
+T 1561734921 18<h4rd3n3D18>	thanks ayekat - now I'm tracking
+T 1561734931 20<hazaardinari>30	it says monospace reegular 10
+T 1561734944 18<Namarrgon18>	h4rd3n3D: it's an alias, usually matched by some fixed-width fonts
+T 1561734985 23*	panikovsky (~panikovsk@5.139.133.5723) has joined
+T 1561734988 18<Namarrgon18>	monospace is NOT a font, if you happen to not have any fixed-width fonts installed fc _will_ match a proportional font
+T 1561735077 24*	martian67 has quit (Remote host closed the connection)
+T 1561735087 20<hazaardinari>30	i'm not getting any of this
+T 1561735097 20<hazaardinari>30	monospace is a type of a font
+T 1561735097 23*	martian67 (~martian67@about/linux/regular/martian6723) has joined
+T 1561735111 23*	ajak_ (~ajak_@cblmdm170-253-173-242.maxxsouthbb.net23) has joined
+T 1561735112 20<hazaardinari>30	every application i open, says font: monospace
+T 1561735128 18<h4rd3n3D18>	good stuff I was not aware of, thanks Namarrgon - especially given the huge number of font related queries often posed here
+T 1561735136 23*	strive (~strive@unaffiliated/strive/x-845736123) has joined
+T 1561735148 19<ayekat>	hazaardinari: yes, this means that fontconfig should pick a monospace font, but it's up to fontconfig *which* monospace font it chooses
+T 1561735159 20<hazaardinari>30	oh
+T 1561735161 23*	PsychoTron (~PsychoTro@n10ev7f4rxrey5dxd-2.v6.elisa-mobile.fi23) has joined
+T 1561735171 20<hazaardinari>30	so where can i talk to the fontcofig?
+T 1561735198 18<Namarrgon18>	'man fonts-conf' and read the fontconfig page on the wiki
+T 1561735203 18<Namarrgon18>	*pages
+T 1561735216 20<hazaardinari>30	you mean font configuration?
+T 1561735232 18<Namarrgon18>	yes, that's what fc is there for
+T 1561735264 18<Namarrgon18>	i hope you haven't planned anything for the rest of the year
+T 1561735271 20<hazaardinari>30	so i did fc-list
+T 1561735279 20<hazaardinari>30	and there's a fuck ton of fonts
+T 1561735299 20<hazaardinari>30	fc-list | wc -l
+T 1561735299 20<hazaardinari>30	911
+T 1561735316 24*	hobbanero has quit (Quit: Leaving)
+T 1561735345 24*	sepehrdad has quit (Ping timeout: 268 seconds)
+T 1561735381 23*	sepehrdad (~sepehrdad@unaffiliated/sepehrdad23) has joined
+T 1561735412 24*	dullin has quit (Read error: Connection reset by peer)
+T 1561735419 23*	ivlioioilvi (~Thunderbi@2409:8a62:5113:c100:a000:fcff:fe76:70cb23) has joined
+T 1561735421 19<ayekat>	hazaardinari: https://wiki.archlinux.org/index.php/Font_configuration#Query_the_current_settings might help for a start
+T 1561735421 18<phrik18>	Title: Font configuration - ArchWiki (at wiki.archlinux.org)
+T 1561735453 24*	fyrgebraec has quit (Ping timeout: 245 seconds)
+T 1561735454 23*	dullin (~dullin@219.ip-144-217-83.net23) has joined
+T 1561735530 20<hazaardinari>30	http://ix.io/1N0U
+T 1561735552 23*	nperry_ (~nperry@unaffiliated/nperry23) has joined
+T 1561735554 24*	nperry has quit (Read error: Connection reset by peer)
+T 1561735567 23*	tairkarc (adf7819f@ip-173-247-129-159.user.start.ca23) has joined
+T 1561735611 18<ayekat18>	alright, I realise that doesn't help to find out what font provides the specific glyphs you are searching - but at least you know what 'monospace' resolves to ^^'
+T 1561735654 24*	akko has quit (Quit: WeeChat 2.4)
+T 1561735668 18<tairkarc18>	I set up arch on my system for the first time a few days ago and after running a sudo pacman -Syu the kernel modules failed to load at boot. I got the system working again by restoring to the packages from June 24th, but I don't know how well I can continue using Arch being unable to update the system..
+T 1561735696 18<Namarrgon18>	do you have a separate /boot fs?
+T 1561735705 23*	raenk (~raenk@vpn.blacktip.link23) has joined
+T 1561735719 18<tairkarc18>	yes, the EFI system partition
+T 1561735729 18<Namarrgon18>	is it mounted when you update the kernel?
+T 1561735734 18<tairkarc18>	no
+T 1561735749 18<Namarrgon18>	but the kernel is in /boot
+T 1561735752 23*	jathan (~jathan@200.57.243.8423) has joined
+T 1561735752 23*	akko (~gentoo@gateway/tor-sasl/akko23) has joined
+T 1561735795 18<tairkarc18>	sorry, I'm new to this
+T 1561735802 18<Namarrgon18>	if /boot isn't mounted then pacman writes the new kernel to /boot, while your bootloader loads the old version from your ESP
+T 1561735811 20<hazaardinari>30	fc-match shows DejaVuSansMono.ttf: "DejaVu Sans Mono" "Book"
+T 1561735823 18<tairkarc18>	so, I know how to restore the system, but is there a way to just downgrade the kernel and then reupgrade just the kernel with ESP mounted, would probably be faster than the other method
+T 1561735839 18<Namarrgon18>	tairkarc: if you boot the old kernel it can't load any of the modules because they were replaced with the new versions
+T 1561735840 23*	jeco (~jeco@200.131.13.12023) has joined
+T 1561735843 18<wasutton318>	when running the command "drill google.com" there is a number after google.com in the answer section. Can anyone tell me what that number is?
+T 1561735872 24*	jason0597 has quit (Ping timeout: 272 seconds)
+T 1561735875 18<tairkarc18>	should I be mounting my ESP at boot anyways? or just before a kernel update
+T 1561735908 18<Namarrgon18>	why not?
+T 1561735908 24*	cdown has quit (Ping timeout: 245 seconds)
+T 1561735913 18<aibo18>	wasutton3: its the ttl
+T 1561735942 23*	cyberpolice (uid361666@gateway/web/irccloud.com/x-bpgvjakkyffxinzd23) has joined
+T 1561735942 24*	xoan has quit (Ping timeout: 244 seconds)
+T 1561735950 18<tairkarc18>	alright, I will to avoid this happening again in the future
+T 1561735968 18<wasutton318>	ok
+T 1561735976 18<ajak_18>	you should mount it at boot unless you have a reason not to; probably should put it in your fstab
+T 1561735984 18<tairkarc18>	how would I do that?
+T 1561735992 24*	caskd has quit (Ping timeout: 252 seconds)
+T 1561735997 23*	xoan (~xoan@unaffiliated/xoan23) has joined
+T 1561736004 23*	d9k (~d9k@176-93-98-54.bb.dnainternet.fi23) has joined
+T 1561736011 18<ajak_18>	https://wiki.archlinux.org/index.php/Fstab
+T 1561736012 18<phrik18>	Title: fstab - ArchWiki (at wiki.archlinux.org)
+T 1561736030 18<tairkarc18>	sorry, wasn't thinking
+T 1561736047 18<tairkarc18>	i'll look at the article for pacman too to figure out how to downgrade just the kernel
+T 1561736056 18<tairkarc18>	thanks, i wouldnt have been able to figure out that this was the problem without your help
+T 1561736066 18<ajak_18>	why do you need to downgrade the kernel?
+T 1561736075 18<tairkarc18>	so I can reupgrade it with ESP mounted
+T 1561736100 24*	mati89 has quit (Quit: mati89)
+T 1561736100 18<Namarrgon18>	boot the system and -U the 'uname -r' version from the pacman cache
+T 1561736101 24*	jeco has quit (Client Quit)
+T 1561736107 18<Namarrgon18>	then mounte the ESP and -Syu again
+T 1561736127 24*	Cobra57_ has quit (Quit: https://quassel-irc.org - Chat comfortably. Anywhere.)
+T 1561736137 18<tairkarc18>	ok
+T 1561736149 20<hazaardinari>30	even st can show the fonts
+T 1561736162 24*	tairkarc has quit (Remote host closed the connection)
+T 1561736198 20<hazaardinari>30	can i see the font name from st's build files and just use that for the status bar?
+T 1561736232 24*	Cobra57 has quit (Quit: https://quassel-irc.org - Chat comfortably. Anywhere.)
+T 1561736238 20<hazaardinari>30	"Liberation Mono:pixelsize=12:antialias=true:autohint=true"
+T 1561736270 24*	strive has quit (Quit: = "")
+T 1561736295 20<hazaardinari>30	i've pasted that into dwm's config, lets see
+T 1561736299 20*	Disconnected (20)
+T 1561736301 FiSHLiM plugin unloaded
+T 1561736557 19*	Now talking on 22#archlinux
+T 1561736557 22*	Topic for 22#archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+T 1561736557 22*	Topic for 22#archlinux set by 26alad!~alad@archlinux/trusteduser/alad (24Mon Mar 11 21:14:32 2019)
+T 1561736597 20<hazaardinari>30	nothing fucking happened
+T 1561736621 23*	rosmarus (~rosmarus@gateway/tor-sasl/rosmarus23) has joined
+T 1561736622 24*	rosmarus has quit (Client Quit)
+T 1561736718 18<kidnextdoor18>	language, or they ban you.
+T 1561736779 23*	transacid (~transacid@pdpc/supporter/professional/transacid23) has joined
+T 1561736811 24*	MarcinWieczorek has quit (Quit: ZNC 1.7.3 - https://znc.in)
+T 1561736815 18<Scimmia18>	nobody gives a fuck about language
+T 1561736852 18<dreisner18>	What the fuck did you just fucking say about me, you little bitch? 
+T 1561736899 23*	acelogic (~acelogic@pool-108-21-214-163.nycmny.fios.verizon.net23) has joined
+T 1561736949 24*	Destro has quit (Quit: WeeChat 2.3)
+T 1561736956 23*	rosmarus (~rosmarus@gateway/tor-sasl/rosmarus23) has joined
+T 1561737021 18<demize18>	!kick dreisner :O
+T 1561737022 18<phrik18>	demize: Error: I need to be at least halfopped to kick someone.
+T 1561737026 18<demize18>	Aww.
+T 1561737027 24*	transacid has quit (Ping timeout: 245 seconds)
+T 1561737033 18<demize18>	phrik: service op
+T 1561737034 18<phrik18>	demize: You might be able to bribe me for an answer…
+T 1561737047 18<demize18>	phrik: services op
+T 1561737047 22*	26ChanServ gives channel operator status to 18phrik
+T 1561737050 18<demize18>	!kick dreisner :O
+T 1561737052 22*	26phrik has kicked 18dreisner from 22#archlinux (24:O)
+T 1561737057 18<demize18>	There we go!
+T 1561737082 20<hazaardinari>30	try 2 here we go
+T 1561737083 18<hellsenberg18>	o.O
