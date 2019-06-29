@@ -9,6 +9,8 @@
 
 #[[ "$PS1" ]] && neofetch | lolcat
 
+export RANGER_LOAD_DEFAULT_RC=false
+
 export PS1="\[\033[38;5;196m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]@\[$(tput sgr0)\]\[\033[38;5;46m\]\H\[$(tput sgr0)\]\[\033[38;5;15m\]:: \[$(tput sgr0)\]\[\033[38;5;11m\]\\$\[$(tput sgr0)\]"
 
 alias ..='cd ..'
@@ -71,6 +73,7 @@ alias ports='netstat -tulanp'
 alias ptpb='curl -F c=@- https://ptpb.pw'
 alias py='python'
 alias quit='exit'
+alias r='ranger'
 alias rbt='reboot'
 alias remove='sudo apt-get --purge remove'
 alias repopackages='pacman -Qeqn'

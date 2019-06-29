@@ -2061,3 +2061,219 @@ T 1561737052 22*	26phrik has kicked 18dreisner from 22#archlinux (24:O
 T 1561737057 18<demize18>	There we go!
 T 1561737082 20<hazaardinari>30	try 2 here we go
 T 1561737083 18<hellsenberg18>	o.O
+T 1561823000 19*	Now talking on 22#archlinux
+T 1561823000 22*	Topic for 22#archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+T 1561823000 22*	Topic for 22#archlinux set by 26alad!~alad@archlinux/trusteduser/alad (24Mon Mar 11 21:14:32 2019)
+T 1561823004 20<hazaardinari>30	i have a question
+T 1561823017 20<hazaardinari>30	cna i apply gtk and qt themes in window managers?
+T 1561823019 20<hazaardinari>30	i'm on dwm
+T 1561823020 24*	damnruskie has quit (Remote host closed the connection)
+T 1561823031 23*	mowcat (~mowcat@cpc105070-sgyl40-2-0-cust220.18-2.cable.virginm.net23) has joined
+T 1561823041 24*	Dave_Elec has quit (Ping timeout: 248 seconds)
+T 1561823066 19<bytting>	hazaardinari: Try lxapearence for GTK
+T 1561823077 24*	ronthecookie has quit (Ping timeout: 245 seconds)
+T 1561823088 18<bytting18>	*lxappearance
+T 1561823093 18<sandman1318>	qt5ct for qt
+T 1561823099 19<Murray_B>	hazaardinari, gtk and qt themes have nothing to do with windowmanagers, but some, especially desktop evironments have a config tool for it
+T 1561823114 24*	cottoneyejim has quit (Ping timeout: 244 seconds)
+T 1561823132 20<hazaardinari>30	so like thunderbird used to appear black because i had applied dark gtk and qt themes in xfce4
+T 1561823137 20<hazaardinari>30	but now it's white
+T 1561823141 18<Murray_B18>	And yes, for dwm you need extra tools like mentioned above
+T 1561823143 20<hazaardinari>30	same as hexchat
+T 1561823164 24*	desmu has quit (Ping timeout: 250 seconds)
+T 1561823165 20<hazaardinari>30	half of the patches on the dwm site dont work as it is
+T 1561823169 18<yha18>	!paste
+T 1561823169 18<phrik18>	Paste short snippets (up to 3 lines) in channel. Please do NOT use pastebin.com -- some good, sane paste services are http://ix.io, https://paste.rs, https://bpaste.net and https://gist.github.com. See !ix or !rs for an easy way to paste from a pipe.
+T 1561823198 23*	Newami (~Newami@ip174-68-64-138.sd.sd.cox.net23) has joined
+T 1561823202 24*	tilduke has quit (Ping timeout: 248 seconds)
+T 1561823211 18<amdg18>	I have 6 SSDs. I have a 128GB SSD that I want to reserve as a Windows 10 partition, a 1TB to reserve for Arch Linux and its files, etc., along with 4 256GB SSDs for Arch Linux and its files. What RAID possibility do I have? (5 M.2 SSDs available for RAID, 4 M.2 SSDs via MSi Xpander Aero via PCIe).
+T 1561823224 18<sandman1318>	if you are using KDE applications in dwm but use qt5ct, not all widgets will render nicely
+T 1561823259 18<sandman1318>	I had to do this to get uniform look in KDE and dwm: https://bpaste.net/show/daee86ad4cc6
+T 1561823260 18<phrik18>	Title: show at bpaste (at bpaste.net)
+T 1561823274 24*	ghostbox has quit (Quit: WeeChat 2.5)
+T 1561823295 18<sandman1318>	~/.xprofile
+T 1561823354 24*	thamoo has quit (Quit: WeeChat 2.5)
+T 1561823375 20<hazaardinari>30	thanks
+T 1561823381 19<bytting>	hazaardinari: My experience with dwm is, compile everything yourself, dwm, dmenu, st...
+T 1561823385 24*	AndrejSPB has quit (Quit: AndrejSPB)
+T 1561823414 18<bytting18>	that way you might get the patches to work
+T 1561823418 23*	Lukimya (~Lukimya@86-110-40-6.levikom.ee23) has joined
+T 1561823428 18<bytting18>	even though you run into problem sooner or later
+T 1561823459 18<bytting18>	requires manual editing at some point
+T 1561823464 20<hazaardinari>30	yeah
+T 1561823468 18<Murray_B18>	Sounds like I don't want to try dwm…
+T 1561823479 23*	Sentire (~Sentire@mue-88-130-46-018.dsl.tropolys.de23) has joined
+T 1561823485 20<hazaardinari>30	but it's so minimal it barely exists
+T 1561823491 23*	ghostbox (ghostbox@gateway/vpn/protonvpn/ghostbox23) has joined
+T 1561823498 18<bytting18>	I kind of like it, but you can't be afraid of editing pathces manually
+T 1561823504 18<JohnnyMnemonic_18>	amdg, a train leaves Portland going 44 mph
+T 1561823576 23*	Dave_Elec (~Dave@196.188.72.24723) has joined
+T 1561823604 18<alad18>	is it a steam locomotive
+T 1561823614 24*	Lukimya has quit (Client Quit)
+T 1561823617 18<amdg18>	I don't know that story
+T 1561823644 23*	lazlev (~lazlev@i59F52DFC.versanet.de23) has joined
+T 1561823658 24*	meanmachine has quit (Ping timeout: 272 seconds)
+T 1561823707 18<amdg18>	I should probably RTM
+T 1561823707 18<bytting18>	If you got balls, you create a tool that can apply multiple patches in a sequence, adjusting them on the go...
+T 1561823707 23*	thamoo (~thamoo@modemcable107.108-131-66.mc.videotron.ca23) has joined
+T 1561823714 24*	queip has quit (Ping timeout: 258 seconds)
+T 1561823724 23*	Leon_DEV (~leon@b9168fb7.cgn.dg-w.de23) has joined
+T 1561823780 18<JohnnyMnemonic_18>	snip snip
+T 1561823781 20<hazaardinari>30	i have the balls just not the brain
+T 1561823803 19<bytting>	hazaardinari: :D
+T 1561823805 24*	easo2k has quit (Remote host closed the connection)
+T 1561823812 24*	joe3 has quit (Ping timeout: 268 seconds)
+T 1561823822 24*	mcwolf2 has quit (Remote host closed the connection)
+T 1561823842 24*	yokel has quit (Read error: Connection reset by peer)
+T 1561823877 18<bytting18>	The chicken and egg problem, what to grow first, balls or brains
+T 1561823899 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1561823939 24*	jkwki has quit (Ping timeout: 250 seconds)
+T 1561823945 18<Murray_B18>	*g*
+T 1561823989 23*	xorrox (~plusone@05412759.skybroadband.com23) has joined
+T 1561824002 23*	cottoneyejim (~cottoneye@37.0.71.9823) has joined
+T 1561824004 23*	L-o-r-d (~L-o-r-d@159.203.122.5723) has joined
+T 1561824032 20<hazaardinari>30	can i force apply a gtk theme to all gtk apps and do the same to all qt apps?
+T 1561824042 23*	queip (~queip@unaffiliated/rezurus23) has joined
+T 1561824047 18<lod__18>	evolution of birds happens in eggs... so the egg was first...
+T 1561824055 23*	damnruskie (~damnruski@ool-18be7e7d.dyn.optonline.net23) has joined
+T 1561824066 18<lod__18>	just saying.. 
+T 1561824067 23*	seaglass (~seaglass@unaffiliated/seaglass23) has joined
+T 1561824082 18<hellsenberg18>	great, I broke my wm it seems
+T 1561824085 18*	alad points to #archlinux-offtopic
+T 1561824174 24*	damnruskie (~damnruski@ool-18be7e7d.dyn.optonline.net24) has left
+T 1561824185 23*	damnruskie (~damnruski@ool-18be7e7d.dyn.optonline.net23) has joined
+T 1561824236 20*	Disconnected (20)
+T 1561824293 19*	Now talking on 22#archlinux
+T 1561824293 22*	Topic for 22#archlinux is: Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | https://i.imgflip.com/nwm8q.jpg | Happy 17th birthday Arch - may you have the great feature of many more broken installations
+T 1561824293 22*	Topic for 22#archlinux set by 26alad!~alad@archlinux/trusteduser/alad (24Mon Mar 11 21:14:32 2019)
+T 1561824317 23*	plusone (~plusone@05412759.skybroadband.com23) has joined
+T 1561824327 24*	random-nick has quit (Remote host closed the connection)
+T 1561824330 18<CodeArtisan18>	anyone can't start deluge anymore too? it gives me "AttributeError: module 'gi' has no attribute 'require_version'"
+T 1561824382 18<grawity18>	CodeArtisan: python -c "import gi; print(gi.__path__)"
+T 1561824385 24*	xorrox has quit (Ping timeout: 248 seconds)
+T 1561824386 23*	random-nick (~random-ni@unaffiliated/random-nick23) has joined
+T 1561824392 20<hazaardinari>30	well
+T 1561824402 20<hazaardinari>30	it looks like i'll have to ditch these gui apps
+T 1561824410 20<hazaardinari>30	i am sooooo becoming a nerd
+T 1561824423 18<CodeArtisan18>	grawity: _NamespacePath(['/usr/lib/python3.7/site-packages/gi'])
+T 1561824434 18<dagle18>	Ditching gui apps? You only use ed? Hard core.
+T 1561824438 23*	Asterisk (~asterisk@unaffiliated/asterisk23) has joined
+T 1561824452 19<jer>	hazaardinari, as opposed to many of our experiences, where we started when gui's werent a thing, and never really felt they solved a real problem that our cli tools did a decade before =]
+T 1561824454 20<hazaardinari>30	bye bye hexchat, thunderbird, thunar, pcmanfm, clementine, deluge
+T 1561824456 23*	jpw (~jpw@cpc147786-rdng28-2-0-cust29.15-3.cable.virginm.net23) has joined
+T 1561824493 18<grawity18>	CodeArtisan: ok that is slightly suspicious
+T 1561824502 24*	jason0597 has quit (Remote host closed the connection)
+T 1561824517 23*	jason0597 (~jason0597@178-29-36.dynamic.cyta.gr23) has joined
+T 1561824522 18<grawity18>	I'd say reinstall python-gobject
+T 1561824524 20<hazaardinari>30	i swear in 3 months i'll be saying gui is bloat and move to gnu screen
+T 1561824525 18<CodeArtisan18>	it was working fine until my last -Syu
+T 1561824544 18<s00pcan18>	I still don't know how to view these early logs after boot. Basically it's saying "the root device is not configured to be mounted read-write", which really shouldn't be the case here
+T 1561824603 18<grawity18>	where did you check?
+T 1561824664 23*	_thelion_ (~matthias@192-164-8-92.hdsl.highway.telekom.at23) has joined
+T 1561824669 24*	hutch has quit (Quit: WeeChat 2.5)
+T 1561824687 18<CodeArtisan18>	grawity: python-gobject wasn't installed. it works fine now, thanks. the interface (the skin) has changed. 
+T 1561824687 18<s00pcan18>	I think the fstab is wrong. (I was really tired last night…)
+T 1561824695 24*	yyy- has quit (Ping timeout: 244 seconds)
+T 1561824707 24*	stitched_unicorn has quit (Quit: stitched_unicorn)
+T 1561824732 18<grawity18>	ah, it migrated from python2 (and probably gtk2) to python3 and gtk3
+T 1561824744 18<grawity18>	and of course all the gtk stuff is optdeps
+T 1561824748 19<bytting>	hazaardinari: welcome weechat, mutt, vifm, cmus, transmission-cli
+T 1561824759 19<mingdao>	hazaardinari: irssi
+T 1561824761 19<s00pcan>	hazaardinari: you mean move to tmux :)
+T 1561824798 20<hazaardinari>30	i prefer weechat because of the mouse support
+T 1561824806 18<s00pcan18>	damn, that fixed it. I should have given up sooner and went to sleep instead of staying up until 5am
+T 1561824812 20<hazaardinari>30	mutt'll i'll take a look at
+T 1561824820 23*	citazen (~citazen@ip70-178-128-142.ks.ks.cox.net23) has joined
+T 1561824824 18<citazen18>	i think murica about to go to war over the border crisis... july 3-4th?
+T 1561824826 18<s00pcan18>	basically I gave it the partuuid for UUID= in fstab.
+T 1561824829 20<hazaardinari>30	the problem with vifm is that if i use it, i'll have to learn vim first
+T 1561824838 18<citazen18>	ger money, get food, get supplies for about a month
+T 1561824844 18<s00pcan18>	was getting it to mount read-only then unhelpfully the local console just gave "authentication failure"
+T 1561824856 23*	mcwolf2 (5f4ab3de@gateway/web/cgi-irc/kiwiirc.com/ip.95.74.179.22223) has joined
+T 1561824872 18<grawity18>	fstab? the root partition shouldn't really *be* in fstab for Arch
+T 1561824873 19<s00pcan>	hazaardinari: just run vimtutor
+T 1561824873 19<bytting>	hazaardinari: you can configure all of them though
+T 1561824880 23*	hutch (~hutch@71.236.248.12423) has joined
+T 1561824883 20<hazaardinari>30	yeah
+T 1561824885 20<hazaardinari>30	gosh
+T 1561824891 18<hellsenberg18>	okay removing .XAuthority did the trick
+T 1561824891 20<hazaardinari>30	what am i becoming
+T 1561824895 20<hazaardinari>30	is it good or bad?
+T 1561824897 18<mingdao18>	citazen: this should go to #archlinux-offtopic
+T 1561824897 18<grawity18>	I mean it's a possible configuration, but it's not the preferred configuration
+T 1561824910 19<s00pcan>	hazaardinari: years of your life will be wasted and you'll feel it was worth it
+T 1561824919 19<dagle>	hazaardinari: You know weechat is a gui?
+T 1561824926 18<citazen18>	yeah post it there too.
+T 1561824941 20<hazaardinari>30	well i'm just in my second year of linux on desktop
+T 1561824947 18<mingdao18>	citazen: there not here
+T 1561824951 19<bytting>	hazaardinari: you have to consider if it is worth it
+T 1561824952 20<hazaardinari>30	so i guess i'm a quick learner?
+T 1561824967 19<mingdao>	hazaardinari: What do you do with your Arch Linux system?
+T 1561824974 20<hazaardinari>30	right now nothing
+T 1561824991 19<mingdao>	hazaardinari: Then you need nothing to do nothing.
+T 1561824999 18<mingdao18>	No X, no GUI, no CLI.  ;)
+T 1561824999 20<hazaardinari>30	when i ship my ass off to college in a month, coding, pdfs, browsing and studying
+T 1561825000 18<bytting18>	back to dwm...
+T 1561825039 19<mingdao>	hazaardinari: Stick with a good DE (desktop environment) where everything works and you can concentrate on getting a college degree.
+T 1561825043 19<s00pcan>	hazaardinari: if you're donig this before college you're already ahead
+T 1561825054 19<mingdao>	hazaardinari: That is the reason I use Gnome (but not in college, just that everything just works).
+T 1561825057 20<hazaardinari>30	mingdao, my college degree is in computers
+T 1561825065 19<mingdao>	hazaardinari: Software Engineering?
+T 1561825072 18<mingdao18>	I never heard of a 'computers' degree.
+T 1561825072 20<hazaardinari>30	yeah sorta
+T 1561825080 18<dagle18>	I used ubuntu at my last job, I could use whatever I wanted.
+T 1561825081 20<hazaardinari>30	computer science?
+T 1561825086 19<mingdao>	hazaardinari: Don't waste your time with CS anymore.
+T 1561825091 20<hazaardinari>30	what
+T 1561825103 19<mingdao>	hazaardinari: That degree has a lot of waste, such as studying languages you'll not use.
+T 1561825105 18<Benzi-Junior18>	hey, is there a way to have a a client interpret an ip as a specific host, I'm trying to access a router web interface through a ssh tunnel but appears to be doing a redirect using it's explicit local ip
+T 1561825112 19<mingdao>	hazaardinari: What do you want to do in RL after you graduate?
+T 1561825114 20<hazaardinari>30	well it's the only thing i got
+T 1561825116 18<Benzi-Junior18>	which is ... a pain to deal with
+T 1561825117 18<jpw18>	also unless you go to MIT it's all out of date anyway
+T 1561825120 18<s00pcan18>	ok, three working arch linux systems now :D
+T 1561825131 23*	samuelrajan747 (~samuelraj@45.116.113.11323) has joined
+T 1561825140 24*	L-o-r-d has quit (Quit: Join 👉 ##Truth 👈)
+T 1561825144 18<samuelrajan74718>	!ix
+T 1561825145 18<phrik18>	<command to print output> |& curl -F 'f:1=<-' ix.io
+T 1561825158 20<hazaardinari>30	mingdao, pm?
+T 1561825168 19<mingdao>	hazaardinari: What is the only thing you got?
+T 1561825171 19<mingdao>	hazaardinari: sure
+T 1561825208 18<dagle18>	These days, when system programs (like xorg or pulseaudio) doesn't come with sane defaults, I'm like... man, I don't want to do this.
+T 1561825232 18<samuelrajan74718>	Guys I get conflicting files error while doing pacman -Su
+T 1561825242 18<bytting18>	mingdao: A proper CS degree doesn't go out of date though
+T 1561825277 18<mingdao18>	bytting: Good for HR, maybe, but what does it teach you to do in RL?
+T 1561825331 23*	X-dark (~X-dark@unaffiliated/x-dark23) has joined
+T 1561825377 24*	jason0597 has quit (Ping timeout: 248 seconds)
+T 1561825384 18<bytting18>	mingdao: Building systems, software, networking, security. I have seen my share of physicists and mathematicians messing up everything
+T 1561825443 18<strive18>	It's all about enhancing your critical thinking.
+T 1561825590 24*	Dave_Elec has quit (Remote host closed the connection)
+T 1561825711 18<samuelrajan74718>	Guys I get conflicting files error while doing pacman -Su.    http://ix.io/1New
+T 1561825738 23*	cdown (~cdown@85.255.236.2923) has joined
+T 1561825819 18<samuelrajan74718>	Anyone dealt with this before? 
+T 1561825843 18<mingdao18>	samuelrajan747: `pacman -Syu` work?
+T 1561825852 24*	purist has quit (Remote host closed the connection)
+T 1561825858 24*	Jesin has quit (Quit: Leaving)
+T 1561825859 23*	linux_dream (~isaac@unaffiliated/linux-dream/x-583940223) has joined
+T 1561825863 18<samuelrajan74718>	I've done Syy just now
+T 1561825867 23*	purist (~purist@gateway/tor-sasl/purist23) has joined
+T 1561825881 18<samuelrajan74718>	I too give same error 
+T 1561825909 18<mingdao18>	samuelrajan747: `pacman -Syu` work?
+T 1561825911 18<jpw18>	it looks like you have installed python2-validate-email from pip
+T 1561825920 18<jpw18>	uninstall it and try again
+T 1561825942 18<samuelrajan74718>	OK may i know what is pip? 
+T 1561825950 18<jpw18>	python package manager
+T 1561825954 24*	craftyguy has quit (Read error: Connection reset by peer)
+T 1561825966 23*	craftyguy (~craftyguy@qutebrowser/dev/craftyguy23) has joined
+T 1561825969 23*	mframe (~mframe@unaffiliated/mframe23) has joined
+T 1561825970 18<jpw18>	https://pypi.org/
+T 1561825971 18<phrik18>	Title: PyPI – the Python Package Index · PyPI (at pypi.org)
+T 1561826010 18<samuelrajan74718>	Ok
+T 1561826066 23*	AndrejSPB (~andrej@57.51-174-106.customer.lyse.net23) has joined
+T 1561826098 24*	dendazen has quit (Remote host closed the connection)
+T 1561826110 23*	Jesin (~Jesin@pool-72-83-101-226.washdc.east.verizon.net23) has joined
+T 1561826152 18<samuelrajan74718>	Which one can I remove? Python2-slugify or python2-python-slugify? 
+T 1561826165 23*	Lost_Goat (Lost_Goat@gateway/vpn/privateinternetaccess/lostgoat/x-6581641923) has joined
+T 1561826204 24*	binTrl has quit (Ping timeout: 260 seconds)
+T 1561826213 20*	Disconnected (20)
+T 1561826214 FiSHLiM plugin unloaded
