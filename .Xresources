@@ -44,3 +44,5 @@ URxvt.keysym.Control-Left:    \033[1;5D
 URxvt.keysym.Control-Right:    \033[1;5C
 URxvt*depth: 32
 URxvt*background: rgba:0000/0000/0200/c800
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
