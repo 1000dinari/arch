@@ -10,12 +10,12 @@ compton --config ~/.config/compton/compton.conf &
 nitrogen --restore &
 
 Bat(){
-  Bat="$(acpi -b | awk '{print "🔌" $4}' | sed "s/\,//g")"
+  Bat="$(acpi -b | awk '{print "⚡" $4}' | sed "s/\,//g")"
   echo "$Bat"
 }
 
 dte(){
-  dte="$(date +"%a, %b %d | 🕒 %H:%M")"
+  dte="$(date +"%a, %b %d | 🕒 %H:%I")"
   echo "$dte"
 }
 
@@ -45,3 +45,12 @@ while true; do
      sleep 1s    # Update time every ten seconds
 done &
 
+while [ "$(cat /sys/class/power_supply/BAT0/capacity)" -le 10 ] && [ "$(cat /sys/class/power_supply/BAT0/status)" = 'Discharging' ]; do
+	notify-send "CONNECT THE FRICKING CHARGER YOU BLITHERING IDIOT"
+	sleep 10s
+done &
+
+while [ "$(cat /sys/class/power_supply/BAT0/capacity)" == 100 ]; do
+		notify-send "battery full"
+		sleep 10s
+done &
