@@ -46,3 +46,5 @@ URxvt*depth: 32
 URxvt*background: rgba:0000/0000/0200/c800
 URxvt.keysym.Shift-Control-V: eval:paste_clipboard
 URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+URxvt.iso14755: false
+URxvt.iso14755_52: false

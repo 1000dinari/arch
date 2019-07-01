@@ -15,12 +15,18 @@ static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
 static const char col_gray4[]       = "#eeeeee";
 static const char col_cyan[]        = "#005577";
+static const unsigned int baralpha = 0xd0;
+static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
 	[SchemeSel]  = { col_gray4, col_cyan,  col_cyan  },
 };
-
+static const unsigned int alphas[][3]      = {
+	/*               fg      bg        border     */
+	[SchemeNorm] = { OPAQUE, baralpha, borderalpha },
+	[SchemeSel]  = { OPAQUE, baralpha, borderalpha },
+};
 /* tagging */
 /* static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" }; */
 static const char *tags[] = { "🌏", "☯", "", "🖉", "", "", "", "🖄", "➒"};
@@ -68,13 +74,15 @@ static const Layout layouts[] = {
 static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
 static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_cyan, "-sf", col_gray4, NULL };
 static const char *termcmd[]  = { "urxvt", NULL };
-static const char *upvol[] = { "amixer", "-q", "sset", "Master", "1%+", NULL };
-static const char *downvol[] = { "amixer", "-q", "sset", "Master", "1%-", NULL };
+static const char *upvol[] = { "amixer", "-q", "sset", "Master", "4%+", NULL };
+static const char *downvol[] = { "amixer", "-q", "sset", "Master", "4%-", NULL };
 static const char *mute[] = { "amixer", "-q", "-D", "pulse", "sset", "Master", "toggle", NULL };
+static const char *brightup[] = { "xbacklight", "-inc", "3", NULL };
+static const char *brightdown[] = { "xbacklight", "-dec", "3", NULL };
 static const char *telegram[] = { "telegram-desktop", NULL };
 static const char *geany[] = { "geany", NULL };
 static const char *gedit[] = { "gedit", NULL };
-static const char *pcmanfm[] = { "pcmanm", NULL };
+static const char *pcmanfm[] = { "pcmanfm", NULL };
 static const char *thunar[] = { "thunar", NULL };
 static const char *thunderbird[] = { "thunderbird", NULL };
 static const char *firefox[] = { "firefox", NULL };
@@ -127,6 +135,8 @@ static Key keys[] = {
     { 0,              XF86XK_AudioRaiseVolume, spawn,          {.v = upvol } },
     { 0,              XF86XK_AudioLowerVolume, spawn,          {.v = downvol } },
     { 0,              XF86XK_AudioMute,        spawn,          {.v = mute } },
+    { 0,              XF86XK_MonBrightnessUp,        spawn,          {.v = brightup } },
+    { 0,              XF86XK_MonBrightnessDown,        spawn,          {.v = brightdown } },
     { ControlMask|ShiftMask,    		XK_l,      spawn,	       SHCMD("sflock -f fixed -c password") },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)

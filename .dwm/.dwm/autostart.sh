@@ -1,24 +1,34 @@
 #! /bin/bash
 
+systemctl --user import-environment DISPLAY
+systemctl --user start xfce4-notifyd
+xset r rate 300 50; 
 xset -b
 xrdb ~/.Xresources
+redshift -l 30.73629:76.7884 &
 compton --config ~/.config/compton/compton.conf &
 nitrogen --restore &
 
-bat(){
-	bat="$(cat /sys/class/power_supply/BAT0/capacity %)"
-	echo -e "$bat"
+Bat(){
+  Bat="$(acpi -b | awk '{print "🔌" $4}' | sed "s/\,//g")"
+  echo "$Bat"
 }
 
 dte(){
-  dte="$(date +"%A, %B %d | 🕒 %l:%M%p")"
-  echo -e "$dte"
+  dte="$(date +"%a, %b %d | 🕒 %H:%M")"
+  echo "$dte"
 }
 
 mem(){
   mem=`free | awk '/Mem/ {printf "%d MiB/%d MiB\n", $3 / 1024.0, $2 / 1024.0 }'`
   echo -e "🖪 $mem"
 }
+
+Vol(){
+  Vol="$(amixer get Master | awk -F'[][]' 'END{ print " 🔊 " $2 }')"
+  echo "$Vol"
+}
+
 
 cpu(){
   read cpu a b c previdle rest < /proc/stat
@@ -31,7 +41,7 @@ cpu(){
 }
 
 while true; do
-     xsetroot -name "$(cpu) | $(bat) | $(mem) | $(dte)"
+     xsetroot -name "$(cpu) | $(Bat) | $(mem) | $(Vol) | $(dte)"
      sleep 1s    # Update time every ten seconds
 done &
 
