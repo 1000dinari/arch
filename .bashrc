@@ -14,6 +14,7 @@ export RANGER_LOAD_DEFAULT_RC=false
 export PS1="\[\033[38;5;196m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]@\[$(tput sgr0)\]\[\033[38;5;46m\]\H\[$(tput sgr0)\]\[\033[38;5;15m\]:: \[$(tput sgr0)\]\[\033[38;5;11m\]\\$\[$(tput sgr0)\]"
 
 alias ..='cd ..'
+alias aw='wiki-search'
 alias aaja='sudo pacman -S --noconfirm'
 alias aja='sudo pacman -S'
 alias allpackages='pacman -Qeq'
@@ -61,6 +62,7 @@ alias mac-spoof='sudo ifconfig wlp2s0 down; sudo macchanger -r wlp2s0; sudo ifco
 alias mcd='mkdircd'
 alias mictest='arecord -vv -f dat /dev/null'
 alias mirrors='sudo reflector --verbose --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist'
+alias mus='ncmpcpp'
 alias myip='curl http://ifconfig.me/ip'
 alias n='nmtui'
 alias neo='neofetch | lolcat'

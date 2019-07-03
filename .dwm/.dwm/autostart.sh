@@ -15,7 +15,7 @@ Bat(){
 }
 
 dte(){
-  dte="$(date +"%a, %b %d | 🕒 %H:%I")"
+  dte="$(date +"%a, %b %d | 🕒 %I:%M")"
   echo "$dte"
 }
 
@@ -50,7 +50,7 @@ while [ "$(cat /sys/class/power_supply/BAT0/capacity)" -le 10 ] && [ "$(cat /sys
 	sleep 10s
 done &
 
-while [ "$(cat /sys/class/power_supply/BAT0/capacity)" == 100 ]; do
+while [ "$(cat /sys/class/power_supply/BAT0/capacity)" -ge 100 ] && [ "$(cat /sys/class/power_supply/BAT0/status)" = 'Charging' ]; do
 		notify-send "battery full"
 		sleep 10s
 done &

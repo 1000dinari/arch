@@ -109,7 +109,7 @@ static Key keys[] = {
 	{ MODKEY,                       XK_l,      setmfact,       {.f = +0.05} },
 	{ MODKEY,                       XK_Return, zoom,           {0} },
 	{ MODKEY,                       XK_Tab,    view,           {0} },
-	{ MODKEY|ShiftMask,             XK_c,      killclient,     {0} },
+	{ ControlMask,             XK_q,      killclient,     {0} },
 	{ MODKEY,                       XK_u,      setlayout,      {.v = &layouts[0]} },
 	{ MODKEY,                       XK_i,      setlayout,      {.v = &layouts[1]} },
 	{ MODKEY,                       XK_o,      setlayout,      {.v = &layouts[2]} },
@@ -129,7 +129,7 @@ static Key keys[] = {
 	{ MODKEY,                       XK_f,      spawn,          {.v = pcmanfm } },
 	{ MODKEY,                       XK_n,      spawn,          {.v = thunar } },
 	{ MODKEY,                       XK_p,      spawn,          {.v = firefox } },
-	{ MODKEY,                       XK_h,      spawn,          {.v = hexchat } },
+/*	{ MODKEY,                       XK_h,      spawn,          {.v = hexchat } }, */
 	{ MODKEY,                       XK_q,      spawn,          {.v = terminator } },
 	{ 0,                       XK_Print,  spawn,      {.v = ss } },
 	{ MODKEY|ShiftMask, 			XK_r, 		self_restart,	{0} },
