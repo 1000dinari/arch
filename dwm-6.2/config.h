@@ -40,7 +40,7 @@ static const Rule rules[] = {
 	{ "Gimp",         		  NULL,       NULL,       0,              1,           -1 },
 	{ "Firefox",      		  NULL,       NULL,       1 <<    0,      0,           -1 }, 
 	{ "Telegram",		      NULL,       NULL,       1 <<    6,      0,           -1 },
-	{ "Hexchat",      		  NULL,       NULL,       1 <<    2,      0,           -1 },
+/*	{ "Hexchat",      		  NULL,       NULL,       1 <<    2,      0,           -1 }, */
 	{ "Geany",        		  NULL,       NULL,       1 <<    3,      0,           -1 },
 	{ "Thunderbird",  	  	  NULL,       NULL,       1 <<    7,      0,           -1 },
 	{ "Clementine",  	  	  NULL,       NULL,       1 <<    8,      0,           -1 },
@@ -86,7 +86,7 @@ static const char *pcmanfm[] = { "pcmanfm", NULL };
 static const char *thunar[] = { "thunar", NULL };
 static const char *thunderbird[] = { "thunderbird", NULL };
 static const char *firefox[] = { "firefox", NULL };
-static const char *hexchat[] = { "hexchat", NULL };
+/* static const char *hexchat[] = { "hexchat", NULL }; */
 static const char *ss[] = { "xfce4-screenshooter", NULL };
 static const char *terminator[] = { "terminator", NULL };
 static const char *urxvt[] = { "urxvt", NULL };
@@ -97,16 +97,16 @@ static Key keys[] = {
 	{ MODKEY,                       XK_d,      spawn,          {.v = dmenucmd } },
 	{ MODKEY|ShiftMask,             XK_Return, spawn,          {.v = termcmd } },
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
-/*	{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
-	{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } }, */
-	{ MODKEY,                       XK_i,      incnmaster,     {.i = +1 } },
+	{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
+	{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } }, 
+	{ MODKEY,                       XK_x,      incnmaster,     {.i = +1 } },
 	{ MODKEY,                       XK_z,      incnmaster,     {.i = -1 } }, 
-/*	{ MODKEY,                       XK_h,      setmfact,       {.f = -0.05} }, */
+	{ MODKEY,                       XK_h,      setmfact,       {.f = -0.05} }, 
+	{ MODKEY,                       XK_l,      setmfact,       {.f = +0.05} },
 	{ MODKEY|ShiftMask,             XK_j,      rotatestack,    {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_k,      rotatestack,    {.i = -1 } },
 	{ MODKEY|ControlMask,           XK_comma,  cyclelayout,    {.i = -1 } },
 	{ MODKEY|ControlMask,           XK_period, cyclelayout,    {.i = +1 } },
-	{ MODKEY,                       XK_l,      setmfact,       {.f = +0.05} },
 	{ MODKEY,                       XK_Return, zoom,           {0} },
 	{ MODKEY,                       XK_Tab,    view,           {0} },
 	{ ControlMask,             XK_q,      killclient,     {0} },
@@ -129,7 +129,6 @@ static Key keys[] = {
 	{ MODKEY,                       XK_f,      spawn,          {.v = pcmanfm } },
 	{ MODKEY,                       XK_n,      spawn,          {.v = thunar } },
 	{ MODKEY,                       XK_p,      spawn,          {.v = firefox } },
-/*	{ MODKEY,                       XK_h,      spawn,          {.v = hexchat } }, */
 	{ MODKEY,                       XK_q,      spawn,          {.v = terminator } },
 	{ 0,                       XK_Print,  spawn,      {.v = ss } },
 	{ MODKEY|ShiftMask, 			XK_r, 		self_restart,	{0} },

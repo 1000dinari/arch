@@ -1,10 +1,10 @@
-sw_volume: 98
+sw_volume: 80
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: play
-current: 119
-time: 4.097000
-random: 1
+state: pause
+current: 12
+time: 32.647000
+random: 0
 repeat: 0
 single: 0
 consume: 0
@@ -12,134 +12,28 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:dj/[Breaks] - Noisestorm - Sentinel [Monstercat Release].mp3
-1:dj/2014064-martin-garrix-proxy-original-mix-(www.mp3poisk.net).mp3
-2:dj/AeroChord_-_Surface_Original_mix_(mp3.pm).mp3
-3:dj/Alejandro (Afrojack Remix).mp3
-4:dj/Benny Benassi - Satisfaction (Club Mix) - Copy.mp3
-5:dj/clarity.mp3
-6:dj/David Guetta - She Wolf (Falling To Pieces) ft. Sia (Official Video).mp3
-7:dj/David Guetta & Showtek - Bad ft.Vassy (Lyrics Video).mp3
-8:dj/David Guetta Feat. Sam Martin - Dangerous (CDQ).mp3
-9:dj/Dd Guetta   Ain't a party without me (Music Audio).mp3
-10:dj/dead to me.mp3
-11:dj/DJ Snake & Lil Jon - Turn Down For What (Onderkoffer Remix).mp3
-12:dj/echo.mp3
-13:dj/Edward Maya - Stereo Love.mp3
-14:dj/feel me.mp3
-15:dj/Flo Rida-Good Feeling_2.mp3
-16:dj/FM_-_Like_A_G6.mp3
-17:dj/follow me.mp3
-18:dj/Goblins from Mars - Apollo 69.mp3
-19:dj/Goblins from Mars - Bitter World (ft. Bombermenslug).mp3
-20:dj/Hail Mary - Tupac.mp3
-21:dj/Hardwell & Thomas Newson - 8Fifty.mp3
-22:dj/Hardwell feat jake reese run wild original mix.mp3
-23:dj/Hardwell feat. Amba Shepherd - United We Are (OUT NOW!) #UnitedWeAre.mp3
-24:dj/Hardwell_feat._Amba_Shepherd_-_Apollo_(Official_Music_Video).mp3
-25:dj/Harry Potter - Expecto Patronum (Goblins From Mars Trap Remix).mp3
-26:dj/human.mp3
-27:dj/I'm an albatraoz.mp3
-28:dj/Jetta - I'd Love To Change The World (Matstubs Remix)  92267f97.mp3
-29:dj/kid ink -body language ft usher and tinashe .mp3
-30:dj/Krewella - - Alive (Original Mix) [pleer.com].mp3
-31:dj/Krewella_-_Enjoy_the_Ride_(Lyric_Video).mp3
-32:dj/Krewella_-_Live_For_The_Night_(Original_Mix).mp3
-33:dj/Launchpad VS Launchkey  Für Elise [Dubstep Remix].mp3
-34:dj/Maroon5 - Animal 2015 R A (mp3goo.com).mp3
-35:dj/Martin Garrix & Jay Hardway - Registration Code.mp3
-36:dj/Mozart Meets Trap (tribal vs. Himself).mp3
-37:dj/Noisestorm_-_Let_It_Roar__Dubstep_.mp3
-38:dj/now that ive found you.mp3
-39:dj/Pirates Of The Caribbean (Goblins from Mars Trap Remix).mp3
-40:dj/rise and fall.mp3
-41:dj/Shakira - Try Everything (VIDEO).mp3
-42:dj/survivors.mp3
-43:dj/the-chainsmokers-don-t-let-me-down-illenium-remix[].mp3
-44:dj/Tiësto The Chainsmokers - Split (only U (mp3goo.com).mp3
-45:dj/Touched (Slumberjack Edit).mp3
-46:dj/TroyBoi - Afterhours (feat. Diplo & Nina Sky).mp3
-47:dj/trumpets.mp3
-48:dj/uspop12_z.mp3
-49:dj/we go down.mp3
-50:dj/Work.mp3
-51:dj/you take me higher.mp3
-52:dj/Zedd_-_Stay_The_Night_ft._Hayley_Williams.mp3
-53:dj/zero-76-original-mix.mp3
-54:dj/Dimitri-Vegas-Like-Mike-vs-Martin-Garrix-Tremor-Original-Mix.mp3
-55:dj/Gala - Freed From Desire .mp3
-56:dj/Martin Garrix Third Party Ft John Martin Lions In The Wild Free Download - M.mp3
-57:dj/Madcon_-_Begging_You.mp3
-58:dj/21194-07-i-can-only-imagine-feat-chris-brown-lil-wayne-david-guetta-sia--1411570704.mp3
-59:dj/91  David Guetta-Play Hard .mp3
-60:dj/'m an Albatraoz.mp3
-61:dj/Kyoto.mp3
-62:dj/Rihanna_-_Diamonds.mp3
-63:dj/Krewella - Broken Record.mp3
-64:dj/David_Guetta_(International_Mashup_Mix)_-_DJ_Kamal(DjHungama.Net).mp3
-65:dj/19 Salman Khan Mashup .mp3
-66:dj/Dum_Dee_Dee_Dum_-_Zack_Knight_-_320Kbps_-_www.DjPunjab.Com.mp3
-67:dj/Eat Sleep Rave Repeat (Dimitri Vegas & Like Mike & Ummet Ozcan Tomorrowland .mp3
-68:dj/Faded - Alan Walker 320Kbps-(MobiKing.in).mp3
-69:dj/Harry Potter - Hedwigs Theme.mp3
-70:dj/Get_On_The_Floor_-_Jennifer_Lopez_ft._Pitbull(wapking.fm).mp3
-71:dj/Animals-(Mr-Jatt.com).mp3
-72:dj/Deep Purple-Highway Star.MP3
-73:dj/Deep Purple-Smoke On The Water.MP3
-74:dj/how we do.mp3
-75:dj/will.i.am - It's My Birthday (feat. Cody Wise).mp3
-76:dj/Beggars(mp3rule.com).mp3
-77:dj/Hallelujah- Lindsey Stirling- _aSaviorIsBorn.mp3
-78:dj/Shot_Me_Down_feat_Skylar_Gre.mp3
-79:dj/lost in the echo.mp3
-80:dj/blast off.mp3
-81:dj/Justin_Bieber_-_Luis_Fonsi__Daddy_Yankee_320Kbps_Gomirchi.mp3
-82:dj/how deep is your love.mp3
-83:dj/I hate u I love u by gnash .mp3
-84:dj/stories on the floor avicii and hardwell x jennifer lopez rr mashup.mp3
-85:dj/Diplo - Revolution (feat. Faustix & Imanos and Kai) [Official Full Stream].mp3
-86:dj/Hardwell & Martin Garrix - Musicbox (Original Mix).mp3
-87:dj/Justin Bieber - Sorry (Dimitri Vegas & Like Mike vs. W&W Remix).mp3
-88:dj/Rihanna feat Drake - Work (R3hab Remix).mp3
-89:dj/389640-wiggle-ft-snoop-dogg-jason-derulo.mp3
-90:dj/CloZee - Koto.mp3
-91:dj/071. Shakira - Hips Don't Lie.mp3
-92:dj/1330801179_hardwell-cobra_official_energy_anthem_2012-www.newmuz.net.mp3
-93:dj/G.D.F.R. (feat. Sage the Gemini & Lookas).mp3
-94:dj/60.mp3
-95:dj/Light It Up (Feat. Nyla) - Major Lazer 320Kbps - (BossMp3.Me).mp3
-96:dj/Crave you    Flight facilities.mp3
-97:dj/[REVR076] Hardwell & MAKJ - Countdown (Original Mix).mp3
-98:dj/TroyBoi - Change (KinjaBang) Kinjaz [2K HD][60 FPS.mp3
-99:dj/Spaceman.mp3
-100:dj/03 Hands In the Air (feat. Ne-Yo) - (www.SongsLover.pk).mp3
-101:dj/04 Bad Girls (Nick Thayer Remix) - (www.SongsLover.pk).mp3
-102:dj/05 Get Loose - (www.SongsLover.pk).mp3
-103:dj/06 Feel Alive (feat. Pitbull & DJ Po - (www.SongsLover.pk).mp3
-104:dj/07 U Don't Like Me (feat. Lil Jon) - (www.SongsLover.pk).mp3
-105:dj/08 This Is the Life - (www.SongsLover.pk).mp3
-106:dj/09 Bring It Back - (www.SongsLover.pk).mp3
-107:dj/10 Goin' In (feat. Flo Rida) - (www.SongsLover.pk).mp3
-108:dj/11 Dance Without You (Ricky Luna Rem) - (www.SongsLover.pk).mp3
-109:dj/12 I Don't Like You (Nick Thayer Rem - (www.SongsLover.pk).mp3
-110:dj/talk dirty to me.mp3
-111:dj/Avicii The Nights - 1421889514.mp3
-112:dj/As long as you love me.mp3
-113:dj/01 The World (Original Mix).mp3
-114:dj/Hardwell-Feat.mp3
-115:dj/David_Guetta_Feat_Sia_-_Titanium_mp3.shmidt.net.mp3
-116:dj/lean on.mp3
-117:dj/Colors -Hardwell & Tie_sto ft. Andreas Moe.mp3
-118:dj/Arcadia -Hardwell & Joey Dale ft. Luciana.mp3
-119:dj/01. Hardwell - Eclipse (Original Mix) - Hardwell (DJJOhAL.Com).mp3
-120:dj/09._Hardwell_feat._Chris_Jones_-_Young_Again__Original_Mix_-_RedMaza.CoM_.mp3
-121:dj/01. Whistle (www.SongsLover.Pk).mp3
-122:dj/Ludacris-Move_Bitch_-_Bum_bitch_get_out_the_way_(mp3.pm).mp3
-123:dj/United_State_of_Pop_2011_World_Go_Boom.mp3
-124:dj/Kun Faya Kun - Remix - Dj Vikar.mp3
-125:dj/DJ Snake & Lil Jon - Turn Down For What.mp3
-126:dj/Jack U (Skrillex and Diplo) ft. Justin Bieber - Where Are U Now.mp3
-127:dj/Martin Garrix - Proxy (Original Mix) www.powermuza.eu.mp3
-128:dj/Martin_Garrix_-_Animals__Original_Mix_.mp3
-129:dj/David_Guetta_Aint_No_Party_Without_Me_Tomorrowland_2013_(mp3co.biz).mp3
+0:2003-2004 - Diss War/01 Intro.m4a
+1:2003-2004 - Diss War/02 We The Realest Label (Freestyle).m4a
+2:2003-2004 - Diss War/03 The Sauce.m4a
+3:2003-2004 - Diss War/04 Nail In The Coffin.m4a
+4:2003-2004 - Diss War/05 Welcome To Detroit City.m4a
+5:2003-2004 - Diss War/06 Go To Sleep (feat. Eminem & Obie Trice).m4a
+6:2003-2004 - Diss War/07 The Conspiracy (Freestyle).m4a
+7:2003-2004 - Diss War/08 Bump Heads (feat. 50 Cent, Lloyd Banks & Tony Yayo).m4a
+8:2003-2004 - Diss War/09 Hail Mary (feat. 50 Cent).m4a
+9:2003-2004 - Diss War/10 Doe Rae Me (feat. Obie Trice).m4a
+10:2003-2004 - Diss War/11 Keep Talkin'.m4a
+11:2003-2004 - Diss War/12 We All Die One Day (feat. Eminem, 50 Cent & Lloyd Banks).m4a
+12:2003-2004 - Diss War/13 Shit Hits The Fan (feat. Eminem & Dr. Dre).m4a
+13:2003-2004 - Diss War/14 Outro (feat. D12).m4a
+14:2003-2004 - Diss War/15 Real 911 (feat. Boo-Yaa T.R.I.B.E. & B-Real).m4a
+15:2003-2004 - Diss War/16 Monkey See Monkey Do.m4a
+16:2003-2004 - Diss War/17 Bully.m4a
+17:2003-2004 - Diss War/18 Come On In.m4a
+18:2003-2004 - Diss War/19 Armageddon.m4a
+19:2003-2004 - Diss War/20 Got It Twisted (Freestyle).m4a
+20:2003-2004 - Diss War/21 Ja In a Bra'.m4a
+21:2003-2004 - Diss War/22 I'm Gone (feat. Eminem & Obie Trice).m4a
+22:2003-2004 - Diss War/23 Oil Can Harry (feat. Eminem).m4a
+23:2003-2004 - Diss War/24 Fubba U Cubba Cubba (Bonus Remix).m4a
 playlist_end

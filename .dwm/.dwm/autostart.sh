@@ -7,7 +7,6 @@ xset -b
 xrdb ~/.Xresources
 redshift -l 30.73629:76.7884 &
 compton --config ~/.config/compton/compton.conf &
-nitrogen --restore &
 
 Bat(){
   Bat="$(acpi -b | awk '{print "⚡" $4}' | sed "s/\,//g")"
@@ -53,4 +52,9 @@ done &
 while [ "$(cat /sys/class/power_supply/BAT0/capacity)" -ge 100 ] && [ "$(cat /sys/class/power_supply/BAT0/status)" = 'Charging' ]; do
 		notify-send "battery full"
 		sleep 10s
+done &
+
+while true; do
+	feh --bg-scale --no-fehbg --randomize ~/wallpapers
+	sleep 600s
 done &
