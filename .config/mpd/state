@@ -2,8 +2,8 @@ sw_volume: 80
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 12
-time: 32.647000
+current: 18
+time: 26.602000
 random: 0
 repeat: 0
 single: 0
@@ -12,28 +12,24 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:2003-2004 - Diss War/01 Intro.m4a
-1:2003-2004 - Diss War/02 We The Realest Label (Freestyle).m4a
-2:2003-2004 - Diss War/03 The Sauce.m4a
-3:2003-2004 - Diss War/04 Nail In The Coffin.m4a
-4:2003-2004 - Diss War/05 Welcome To Detroit City.m4a
-5:2003-2004 - Diss War/06 Go To Sleep (feat. Eminem & Obie Trice).m4a
-6:2003-2004 - Diss War/07 The Conspiracy (Freestyle).m4a
-7:2003-2004 - Diss War/08 Bump Heads (feat. 50 Cent, Lloyd Banks & Tony Yayo).m4a
-8:2003-2004 - Diss War/09 Hail Mary (feat. 50 Cent).m4a
-9:2003-2004 - Diss War/10 Doe Rae Me (feat. Obie Trice).m4a
-10:2003-2004 - Diss War/11 Keep Talkin'.m4a
-11:2003-2004 - Diss War/12 We All Die One Day (feat. Eminem, 50 Cent & Lloyd Banks).m4a
-12:2003-2004 - Diss War/13 Shit Hits The Fan (feat. Eminem & Dr. Dre).m4a
-13:2003-2004 - Diss War/14 Outro (feat. D12).m4a
-14:2003-2004 - Diss War/15 Real 911 (feat. Boo-Yaa T.R.I.B.E. & B-Real).m4a
-15:2003-2004 - Diss War/16 Monkey See Monkey Do.m4a
-16:2003-2004 - Diss War/17 Bully.m4a
-17:2003-2004 - Diss War/18 Come On In.m4a
-18:2003-2004 - Diss War/19 Armageddon.m4a
-19:2003-2004 - Diss War/20 Got It Twisted (Freestyle).m4a
-20:2003-2004 - Diss War/21 Ja In a Bra'.m4a
-21:2003-2004 - Diss War/22 I'm Gone (feat. Eminem & Obie Trice).m4a
-22:2003-2004 - Diss War/23 Oil Can Harry (feat. Eminem).m4a
-23:2003-2004 - Diss War/24 Fubba U Cubba Cubba (Bonus Remix).m4a
+0:1999 - The Slim Shady LP/01 Public Service Announcement (skit).mp3
+1:1999 - The Slim Shady LP/02 My Name Is.mp3
+2:1999 - The Slim Shady LP/03 Guilty Conscience (feat Dr. Dre).mp3
+3:1999 - The Slim Shady LP/04 Brain Damage.mp3
+4:1999 - The Slim Shady LP/05 Paul (skit).mp3
+5:1999 - The Slim Shady LP/06 If I Had.mp3
+6:1999 - The Slim Shady LP/07 97' Bonnie & Clyde.mp3
+7:1999 - The Slim Shady LP/08 Bitch (skit).mp3
+8:1999 - The Slim Shady LP/09 Role Model.mp3
+9:1999 - The Slim Shady LP/10 Lounge (skit).mp3
+10:1999 - The Slim Shady LP/11 My Fault.mp3
+11:1999 - The Slim Shady LP/12 Ken Kaniff (skit).mp3
+12:1999 - The Slim Shady LP/13 Cum On Everybody.mp3
+13:1999 - The Slim Shady LP/14 Rock Bottom.mp3
+14:1999 - The Slim Shady LP/15 Just Don't Give a Fuck.mp3
+15:1999 - The Slim Shady LP/16 Soap (skit).mp3
+16:1999 - The Slim Shady LP/17 As the World Turns.mp3
+17:1999 - The Slim Shady LP/18 I'm Shady.mp3
+18:1999 - The Slim Shady LP/19 Bad Meets Evil (feat Royce da 5'9).mp3
+19:1999 - The Slim Shady LP/20 Still Don't Give a Fuck.mp3
 playlist_end

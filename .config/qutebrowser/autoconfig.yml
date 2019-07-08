@@ -7,3 +7,4 @@ settings:
     global:
       DEFAULT: https://duckduckgo.com/?q={}
       g: https://google.com/search?q={}
+      r: https://old.reddit.com/r/{}
