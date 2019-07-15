@@ -1,9 +1,9 @@
-sw_volume: 80
+sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 6
-time: 108.994000
+current: 12
+time: 32.874000
 random: 0
 repeat: 0
 single: 0
@@ -12,20 +12,18 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:2002 - 8 Mile/02 Love Me.mp3
-1:2002 - 8 Mile/01 Lose Yourself.mp3
-2:2002 - 8 Mile/03 8 Mile.mp3
-3:2002 - 8 Mile/04 Adrenaline Rush.mp3
-4:2002 - 8 Mile/05 Places to Go.mp3
-5:2002 - 8 Mile/06 Rap Game.mp3
-6:2002 - 8 Mile/07 8 Miles and Running.mp3
-7:2002 - 8 Mile/08 Spitshine.mp3
-8:2002 - 8 Mile/09 Time of My Life.mp3
-9:2002 - 8 Mile/10 U Wanna Be Me.mp3
-10:2002 - 8 Mile/11 Wanksta.mp3
-11:2002 - 8 Mile/12 Wasting My Time.mp3
-12:2002 - 8 Mile/13 R.A.K.I.M..mp3
-13:2002 - 8 Mile/14 That's My Nigga Fo Real.mp3
-14:2002 - 8 Mile/15 Battle.mp3
-15:2002 - 8 Mile/16 Rabbit Run.mp3
+0:2006 - Pesa Nasha Pyar/Bonus Track 1 (RaagJatt.com).mp3
+1:2006 - Pesa Nasha Pyar/Bonus Track 2 (RaagJatt.com).mp3
+2:2006 - Pesa Nasha Pyar/Chordo (RaagJatt.com).mp3
+3:2006 - Pesa Nasha Pyar/Desi (RaagJatt.com).mp3
+4:2006 - Pesa Nasha Pyar/Do Dat Dance (RaagJatt.com).mp3
+5:2006 - Pesa Nasha Pyar/For Rilly Though (RaagJatt.com).mp3
+6:2006 - Pesa Nasha Pyar/Intro (RaagJatt.com).mp3
+7:2006 - Pesa Nasha Pyar/Kali Denali (RaagJatt.com).mp3
+8:2006 - Pesa Nasha Pyar/Kurti (RaagJatt.com).mp3
+9:2006 - Pesa Nasha Pyar/Muindiya To Bachke (RaagJatt.com).mp3
+10:2006 - Pesa Nasha Pyar/Nachiye (RaagJatt.com).mp3
+11:2006 - Pesa Nasha Pyar/Remind Me (RaagJatt.com).mp3
+12:2006 - Pesa Nasha Pyar/The Message (RaagJatt.com).mp3
+13:2006 - Pesa Nasha Pyar/Welcome To The Outfit (RaagJatt.com).mp3
 playlist_end
