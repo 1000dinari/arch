@@ -1,10 +1,8 @@
-sw_volume: 100
+sw_volume: 80
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: pause
-current: 12
-time: 32.874000
-random: 0
+state: stop
+random: 1
 repeat: 0
 single: 0
 consume: 0
@@ -12,18 +10,4 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:2006 - Pesa Nasha Pyar/Bonus Track 1 (RaagJatt.com).mp3
-1:2006 - Pesa Nasha Pyar/Bonus Track 2 (RaagJatt.com).mp3
-2:2006 - Pesa Nasha Pyar/Chordo (RaagJatt.com).mp3
-3:2006 - Pesa Nasha Pyar/Desi (RaagJatt.com).mp3
-4:2006 - Pesa Nasha Pyar/Do Dat Dance (RaagJatt.com).mp3
-5:2006 - Pesa Nasha Pyar/For Rilly Though (RaagJatt.com).mp3
-6:2006 - Pesa Nasha Pyar/Intro (RaagJatt.com).mp3
-7:2006 - Pesa Nasha Pyar/Kali Denali (RaagJatt.com).mp3
-8:2006 - Pesa Nasha Pyar/Kurti (RaagJatt.com).mp3
-9:2006 - Pesa Nasha Pyar/Muindiya To Bachke (RaagJatt.com).mp3
-10:2006 - Pesa Nasha Pyar/Nachiye (RaagJatt.com).mp3
-11:2006 - Pesa Nasha Pyar/Remind Me (RaagJatt.com).mp3
-12:2006 - Pesa Nasha Pyar/The Message (RaagJatt.com).mp3
-13:2006 - Pesa Nasha Pyar/Welcome To The Outfit (RaagJatt.com).mp3
 playlist_end

@@ -6,5 +6,6 @@ settings:
   url.searchengines:
     global:
       DEFAULT: https://duckduckgo.com/?q={}
+      aw: https://wiki.archlinux.org/index.php?search={}
       g: https://google.com/search?q={}
       r: https://old.reddit.com/r/{}
