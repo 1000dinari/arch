@@ -2,9 +2,11 @@
 
 #include "selfrestart.c"
 #include <X11/XF86keysym.h>
+#include "grid.c"
 
 /* appearance */
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
+static const unsigned int gappx     = 6;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 0;        /* 0 means bottom bar */
@@ -15,7 +17,7 @@ static const char col_gray2[]       = "#444444";
 static const char col_white[]       = "#ffffff";
 static const char col_gray4[]       = "#ffffff";
 static const char col_cyan[]        = "#00cc33";
-static const unsigned int baralpha = 0xd0;
+static const unsigned int baralpha = 0x96;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
@@ -56,6 +58,7 @@ static const Layout layouts[] = {
 	{ "tile",      tile },    /* first entry is default */
 	{ "float",      NULL },    /* no layout function means floating behavior */
 	{ "full",      monocle },
+	{ "grid",	   grid },
 };
 
 /* key definitions */
@@ -89,6 +92,7 @@ static const char *ss[] = { "xfce4-screenshooter", NULL };
 static const char *terminator[] = { "terminator", NULL };
 static const char *urxvt[] = { "urxvt", NULL };
 static const char *qute[] = { "qutebrowser", NULL };
+static const char *appf[] = { "xfce4-appfinder", NULL };
 
 
 static Key keys[] = {
@@ -112,6 +116,7 @@ static Key keys[] = {
 	{ MODKEY,                       XK_u,      setlayout,      {.v = &layouts[0]} },
 	{ MODKEY,                       XK_i,      setlayout,      {.v = &layouts[1]} },
 	{ MODKEY,                       XK_o,      setlayout,      {.v = &layouts[2]} },
+	{ MODKEY,                       XK_y,      setlayout,      {.v = &layouts[3]} },
 	{ MODKEY,                       XK_space,  setlayout,      {0} },
 	{ MODKEY|ShiftMask,             XK_space,  togglefloating, {0} },
 	{ MODKEY,                       XK_0,      view,           {.ui = ~0 } },
@@ -130,6 +135,7 @@ static Key keys[] = {
 	{ MODKEY,                       XK_p,      spawn,          {.v = firefox } },
 	{ MODKEY|ShiftMask,             XK_t,      spawn,          {.v = terminator } },
 	{ MODKEY,                       XK_q,      spawn,          {.v = qute } },
+	{ MODKEY|ShiftMask,             XK_d,      spawn,          {.v = appf } },
 	{ 0,                            XK_Print,  spawn,      {.v = ss } },
 	{ MODKEY|ShiftMask, 			XK_r, 		self_restart,	{0} },
     { 0,              XF86XK_AudioRaiseVolume, spawn,          {.v = upvol } },
