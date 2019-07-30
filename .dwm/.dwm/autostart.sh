@@ -74,8 +74,8 @@ while true; do
 done &
 
 while [ "$(cat /sys/class/power_supply/BAT0/capacity)" -le 10 ] && [ "$(cat /sys/class/power_supply/BAT0/status)" = 'Discharging' ]; do
-	notify-send "CONNECT THE FRICKING CHARGER YOU BLITHERING IDIOT"
-	sleep 10s
+		notify-send "CONNECT THE FRICKING CHARGER YOU BLITHERING IDIOT"
+		sleep 10s
 done &
 
 while [ "$(cat /sys/class/power_supply/BAT0/capacity)" -ge 99 ] && [ "$(cat /sys/class/power_supply/BAT0/status)" = 'Charging' ]; do

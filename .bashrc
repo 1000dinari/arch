@@ -50,7 +50,8 @@ alias grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 alias h='history'
 alias ip-bata='dig +short myip.opendns.com @resolver1.opendns.com'
 alias irc='weechat'
-alias ix="curl -F 'f:1=<-' http://ix.io" 
+alias ix="curl -F 'f:1=<-' http://ix.io"
+alias ixp="cat outbuffer.txt | ix"
 alias kali='sudo /home/barbarik/kali.sh'
 alias la='ls -A'
 alias lal='ls -alh'
@@ -68,6 +69,7 @@ alias n='nmtui'
 alias neo='neofetch | lolcat'
 alias nyan='telnet -e ^c nyancat.dakko.us'
 alias nyay='echo Ññ'
+alias p=' > outbuffer.txt'
 alias pacvac='sudo pacman -Rs $(sudo pacman -Qtdq)'
 alias ptch='patch -p1 <'
 alias pico='vi'
