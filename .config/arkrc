@@ -1,11 +1,12 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/dwm-6.2/,$HOME/Downloads/Telegram Desktop/,$HOME/.local/share/TelegramDesktop/,$HOME/
+DirHistory[$e]=$HOME/games/getting over it/,$HOME/dwm-6.2/,$HOME/Downloads/Telegram Desktop/,$HOME/.local/share/TelegramDesktop/,$HOME/
 Height 768=512
-Width 1366=910
+Width 1366=1000
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/dwm-6.2/
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/games/getting over it/
+detailViewIconSize=0
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -102,18 +103,16 @@ Width 1366=749
 splitterSizes=496,247
 
 [Recent Files]
-File1[$e]=/run/media/barbarik/windows/Users/adminsaurabh/Downloads/deluge/WINDOWS 7 ALL IN ONE(PRE-ACTIVATED).iso
-File2[$e]=$HOME/Downloads/Telegram Desktop/NXP_2.zip
-File3[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx.zip
-File4[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx/chrome/sas_session.jar
-File5[$e]=$HOME/.config/mpd/mpd.db
-File6[$e]=$HOME/.config/mpd/database
-Name1[$e]=WINDOWS 7 ALL IN ONE(PRE-ACTIVATED).iso
-Name2[$e]=NXP_2.zip
-Name3[$e]=sas_session-3.0-fx.zip
-Name4[$e]=sas_session.jar
-Name5[$e]=mpd.db
-Name6[$e]=database
+File1[$e]=$HOME/Downloads/Telegram Desktop/NXP_2.zip
+File2[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx.zip
+File3[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx/chrome/sas_session.jar
+File4[$e]=$HOME/.config/mpd/mpd.db
+File5[$e]=$HOME/.config/mpd/database
+Name1[$e]=NXP_2.zip
+Name2[$e]=sas_session-3.0-fx.zip
+Name3[$e]=sas_session.jar
+Name4[$e]=mpd.db
+Name5[$e]=database
 
 [Viewer]
 Height 768=749
