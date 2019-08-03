@@ -27,7 +27,4 @@
       </property>
     </property>
   </property>
-  <property name="Schemes" type="empty">
-    <property name="Apply" type="string" value="Default"/>
-  </property>
 </channel>
