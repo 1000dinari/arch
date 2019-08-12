@@ -1,5 +1,6 @@
 #! /bin/bash
 
+conky -c ~/.config/conky/LSD-Conky-master/.conkyrc &
 systemctl --user import-environment DISPLAY
 systemctl --user start xfce4-notifyd
 xset r rate 300 50; 
