@@ -70,7 +70,7 @@ charg(){
 }
 
 while true; do
-     xsetroot -name "$(MUS) | $(cpu) | $(Bat)$(charg) | $(Wifi) | $(Mut) $(Vol) | $(dte)"
+     xsetroot -name " $(MUS) | $(cpu) | $(Bat)$(charg) | $(Wifi) | $(Mut) $(Vol) | $(dte)"
      sleep 1s    # Update time every one second
 done &
 
