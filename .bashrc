@@ -50,6 +50,7 @@ alias grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 alias h='history'
 alias hotspot='sudo create_ap interface_1 interface_2 AP_NAME AP_PASS'
 alias hotspot-bhasad='rm -rf /tmp/create_ap.all.lock'
+alias htspt='hotspot-bhasad; sudo create_ap wlp2s0 wlp2s0 yele 0987654321'
 alias ip-bata='dig +short myip.opendns.com @resolver1.opendns.com'
 alias irc='weechat'
 alias ix="curl -F 'f:1=<-' http://ix.io"
