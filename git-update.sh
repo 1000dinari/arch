@@ -33,6 +33,8 @@ cp -r ~/dwm-6.2 ~/arch/dwm-6.2
 rm -rf ~/arch/st-0.8.2
 cp -r ~/st-0.8.2 ~/arch/st-0.8.2
 cp -r ~/.dwm ~/arch/.dwm
+rm -rf ~/arch/git-update.sh
+rm -rf ~/arch/git-push.sh
 cp -r ~/git-update.sh ~/arch/git-update.sh
 cp -r ~/git-push.sh ~/arch/git-push.sh
 cp ~/.xinitrc ~/arch/.xinitrc
