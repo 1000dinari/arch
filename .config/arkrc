@@ -1,11 +1,14 @@
+[CreateDialog]
+LastMimeType=application/zip
+
 [ExtractDialog]
 DirHistory[$e]=$HOME/games/getting over it/,$HOME/dwm-6.2/,$HOME/Downloads/Telegram Desktop/,$HOME/.local/share/TelegramDesktop/,$HOME/
 Height 768=512
 Width 1366=1000
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME
-Recent URLs[$e]=file:$HOME/games/getting over it/
+Recent Files[$e]=file:$HOME,file:$HOME/games/Counter Strike Source
+Recent URLs[$e]=file:$HOME/games/
 detailViewIconSize=0
 
 [KTextEditor Document]
@@ -97,12 +100,12 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-Height 768=737
-State=AAAA/wAAAAD9AAAAAAAAAp0AAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 768=751
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKwAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
-Width 1366=669
-splitterSizes=443,220
+Width 1366=1366
+splitterSizes=909,451
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/Telegram Desktop/NXP_2.zip
@@ -110,13 +113,13 @@ File2[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx.zip
 File3[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx/chrome/sas_session.jar
 File4[$e]=$HOME/.config/mpd/mpd.db
 File5[$e]=$HOME/.config/mpd/database
-File6[$e]=$HOME/Downloads/caa_x64.tar.gz
+File6[$e]=$HOME/games/Counter Strike Source/css.zip
 Name1[$e]=NXP_2.zip
 Name2[$e]=sas_session-3.0-fx.zip
 Name3[$e]=sas_session.jar
 Name4[$e]=mpd.db
 Name5[$e]=database
-Name6[$e]=caa_x64.tar.gz
+Name6[$e]=css.zip
 
 [Viewer]
 Height 768=737
