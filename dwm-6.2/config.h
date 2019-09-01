@@ -81,6 +81,8 @@ static const char *downvol[] = { "amixer", "-q", "sset", "Master", "4%-", NULL }
 static const char *mute[] = { "amixer", "-q", "-D", "pulse", "sset", "Master", "toggle", NULL };
 static const char *brightup[] = { "xbacklight", "-inc", "3", NULL };
 static const char *brightdown[] = { "xbacklight", "-dec", "3", NULL };
+static const char *brightmin[] = { "xbacklight", "-set", "1", NULL };
+static const char *brightmax[] = { "xbacklight", "-set", "100", NULL };
 static const char *telegram[] = { "telegram-desktop", NULL };
 static const char *geany[] = { "geany", NULL };
 static const char *gedit[] = { "gedit", NULL };
@@ -143,6 +145,8 @@ static Key keys[] = {
     { 0,              XF86XK_AudioMute,        spawn,          {.v = mute } },
     { 0,              XF86XK_MonBrightnessUp,  spawn,          {.v = brightup } },
     { 0,              XF86XK_MonBrightnessDown,        spawn,          {.v = brightdown } },
+    { MODKEY,         XF86XK_MonBrightnessUp,        spawn,          {.v = brightmax } },
+    { MODKEY,         XF86XK_MonBrightnessDown,        spawn,          {.v = brightmin } },
     { ControlMask|ShiftMask,        XK_l,      spawn,	       SHCMD("sflock -f fixed -c password") },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
