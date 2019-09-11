@@ -1303,6 +1303,9 @@
   <resource identifier="${gimp_data_dir}/palettes/Linux.gpl" checksum="0e7549f6e63ef2b1de3f537cc7da022b">
   </resource>
 
+  <resource identifier="Arabic Newspaper" checksum="(null)">
+  </resource>
+
   <resource identifier="Asana Math" checksum="(null)">
   </resource>
 
@@ -1468,7 +1471,79 @@
   <resource identifier="DejaVu Serif Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Latin Modern Math" checksum="(null)">
+  <resource identifier="Droid Arabic Kufi" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Arabic Kufi Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Naskh Shift Alt" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="East Syriac Adiabene" checksum="(null)">
+  </resource>
+
+  <resource identifier="East Syriac Ctesiphon" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Antioch" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Edessa" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Midyat" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Nisibin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Nisibin Outline" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Quenneshrin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Talada" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo TurAbdin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Font Awesome 5 Brands" checksum="(null)">
+  </resource>
+
+  <resource identifier="Font Awesome 5 Free" checksum="(null)">
+  </resource>
+
+  <resource identifier="Font Awesome 5 Free Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Goha-Tibeb Zemen Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Latin Modern Math" checksum="(null)">
@@ -1538,9 +1613,57 @@
   </resource>
 
   <resource identifier="Latin Modern Math" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Math" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Serif Italic" checksum="(null)">
   </resource>
 
   <resource identifier="MT Extra" checksum="(null)">
+  </resource>
+
+  <resource identifier="MUTT ClearlyU Alternate Glyphs Wide" checksum="(null)">
+  </resource>
+
+  <resource identifier="MUTT ClearlyU PUA" checksum="(null)">
+  </resource>
+
+  <resource identifier="MUTT ClearlyU Wide" checksum="(null)">
   </resource>
 
   <resource identifier="MathJax_AMS" checksum="(null)">
@@ -1607,6 +1730,30 @@
   </resource>
 
   <resource identifier="MathJax_Vector-Bold Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Medium Oblique Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Wide Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Wide Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Monospace" checksum="(null)">
@@ -1718,6 +1865,9 @@
   </resource>
 
   <resource identifier="Nimbus Sans Narrow Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Color Emoji" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Kufi Arabic" checksum="(null)">
@@ -3316,6 +3466,24 @@
   <resource identifier="Sans-serif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Schumacher Clean" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Wide" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Wide Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Wide Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Serif" checksum="(null)">
   </resource>
 
@@ -3326,6 +3494,45 @@
   </resource>
 
   <resource identifier="Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Batnan" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Batnan Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem Outline" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Kharput" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Malankara" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Mardin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Mardin Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Urhoy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Urhoy Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sony Fixed" checksum="(null)">
   </resource>
 
   <resource identifier="Source Code Pro" checksum="(null)">
@@ -3586,6 +3793,30 @@
   <resource identifier="URW Gothic Semi-Bold Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="UbuntuMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Webdings" checksum="(null)">
   </resource>
 
@@ -3599,6 +3830,18 @@
   </resource>
 
   <resource identifier="Z003 Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="cursor.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="deccurs.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="decsess.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="micro.pcf" checksum="(null)">
   </resource>
 
   <resource identifier="mtx" checksum="(null)">

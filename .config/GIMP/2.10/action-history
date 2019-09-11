@@ -1,6 +1,6 @@
 # GIMP action-history
 
-(history-item "file-quit" 4)
+(history-item "file-quit" 5)
 (history-item "image-crop-to-content" 0)
 (history-item "file-export-as" 1)
 (history-item "image-scale" 0)
