@@ -5,8 +5,7 @@ shouldShowToolBarComingFromFullScreen=true
 
 [MainWindow]
 Height 768=768
-MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAALnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1366
 
@@ -16,7 +15,7 @@ File2[$e]=$HOME/Downloads/Telegram Desktop/domicile.pdf
 File3[$e]=$HOME/Downloads/Telegram Desktop/affi-quota.pdf
 File4[$e]=$HOME/Downloads/Third-Online-Counselling-Cut-Off.pdf
 File5[$e]=$HOME/Downloads/books/thomas&Finney.pdf
-File6[$e]=$HOME/Downloads/books/Solution_Manual_Thomas%5B2%5D.pdf
+File6[$e]=$HOME/Downloads/books/Solution_Manual_Thomas[2].pdf
 Name1[$e]=thapar.pdf
 Name2[$e]=domicile.pdf
 Name3[$e]=affi-quota.pdf
