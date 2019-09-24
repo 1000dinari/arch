@@ -42,6 +42,7 @@ alias faltudeps='pacman -Qdt'   #shows unneeded dependancies
 alias fgrep='fgrep --color=auto'
 alias fehbh='feh --bg-scale --no-fehbg --randomize ~/wallpapers'
 alias g='startx'
+alias gcc='gcc -lm'
 alias gdt='sudo gedit'
 alias get='sudo apt-get install'
 alias gitpush='~/git-push.sh'

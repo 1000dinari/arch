@@ -7,6 +7,7 @@ application/javascript=geany.desktop;leafpad.desktop;
 application/rdf+xml=geany.desktop;
 application/x-java-archive=geany.desktop;org.kde.ark.desktop;
 text/plain=leafpad.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
 
 [Default Applications]
 application/pdf=org.kde.okular.desktop

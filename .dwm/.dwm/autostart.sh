@@ -1,5 +1,6 @@
 #! /bin/bash
 
+xscreensaver &
 conky -c ~/.config/conky/LSD-Conky-master/.conkyrc &
 systemctl --user import-environment DISPLAY
 systemctl --user start xfce4-notifyd

@@ -2,13 +2,13 @@
 LastMimeType=application/zip
 
 [ExtractDialog]
-DirHistory[$e]=$HOME/games/getting over it/,$HOME/dwm-6.2/,$HOME/Downloads/Telegram Desktop/,$HOME/.local/share/TelegramDesktop/,$HOME/
+DirHistory[$e]=$HOME/buffer/assignments/,$HOME/games/getting over it/,$HOME/dwm-6.2/,$HOME/Downloads/Telegram Desktop/,$HOME/.local/share/TelegramDesktop/,$HOME/
 Height 768=512
 Width 1366=1000
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME,file:$HOME/games/Counter Strike Source
-Recent URLs[$e]=file:$HOME/games/
+Recent URLs[$e]=file:$HOME/buffer/assignments/
 detailViewIconSize=0
 
 [KTextEditor Document]

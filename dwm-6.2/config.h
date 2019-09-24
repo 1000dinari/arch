@@ -147,7 +147,7 @@ static Key keys[] = {
     { 0,              XF86XK_MonBrightnessDown,        spawn,          {.v = brightdown } },
     { MODKEY,         XF86XK_MonBrightnessUp,        spawn,          {.v = brightmax } },
     { MODKEY,         XF86XK_MonBrightnessDown,        spawn,          {.v = brightmin } },
-    { ControlMask|ShiftMask,        XK_l,      spawn,	       SHCMD("sflock -f fixed -c password") },
+    { ControlMask|ShiftMask,        XK_l,      spawn,	       SHCMD("xscreensaver-command -lock") },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)

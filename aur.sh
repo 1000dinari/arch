@@ -1,1 +1,1 @@
-yay -S  cava cli-visualizer deluge-git dwm-git gtk-xfce-engine hollywood lostirc mat2 moon-buggy nerd-fonts-ubuntu-mono nitroshare ocs-url pacman4console paman persepolis sflock-git st tor-browser ttf-wps-fonts uget-integrator uget-integrator-firefox xfce4-volumed-pulse yay 
+yay -S  cava cli-visualizer deluge-git dwm-git gtk-xfce-engine hollywood lostirc mat2 moon-buggy nerd-fonts-ubuntu-mono nitroshare ocs-url pacman4console paman persepolis st tor-browser ttf-wps-fonts uget-integrator uget-integrator-firefox xfce4-volumed-pulse xscreensaver-arch-logo yay 
