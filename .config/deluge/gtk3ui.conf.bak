@@ -64,7 +64,7 @@
     "sidebar_show_zero": false,
     "standalone": true,
     "start_in_tray": false,
-    "tabsbar_position": 504,
+    "tabsbar_position": 506,
     "tray_download_speed_list": [
         5.0,
         10.0,
@@ -80,9 +80,9 @@
         80.0,
         300.0
     ],
-    "window_height": 749,
+    "window_height": 751,
     "window_maximized": false,
-    "window_width": 1364,
-    "window_x_pos": -2732,
+    "window_width": 1366,
+    "window_x_pos": -2748,
     "window_y_pos": 0
 }

@@ -1,33 +1,32 @@
 [Desktop Entry]
-FullScreen=true
+FullScreen=false
 shouldShowMenuBarComingFromFullScreen=true
 shouldShowToolBarComingFromFullScreen=false
 
 [MainWindow]
-Height 768=768
-MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Height 768=751
+State=AAAA/wAAAAD9AAAAAAAABVYAAALWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1366
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Telegram Desktop/affi-quota.pdf
-File10[$e]=$HOME/Downloads/books/thomas&Finney.pdf
-File2[$e]=$HOME/Downloads/Third-Online-Counselling-Cut-Off.pdf
-File3[$e]=$HOME/Downloads/books/jain_and_jain[1].pdf
-File4[$e]=$HOME/Downloads/pdfs/UEN002_Environmental conventions.pdf
-File5[$e]=$HOME/Downloads/pdfs/Numerical problems on unit and mass balance.pdf
-File6[$e]=$HOME/Downloads/pdfs/UEN002_Air pollution.pdf
-File7[$e]=$HOME/Downloads/pdfs/UEN002 Meteorology and control devices.pdf
-File8[$e]=$HOME/Downloads/books/Copy_of_Hughes_Electrical_and_Electronic_Technology_-_10th_Edition[1].pdf
-File9[$e]=$HOME/Downloads/books/Solution_Manual_Thomas[2].pdf
-Name1[$e]=affi-quota.pdf
-Name10[$e]=thomas&Finney.pdf
-Name2[$e]=Third-Online-Counselling-Cut-Off.pdf
-Name3[$e]=jain_and_jain[1].pdf
-Name4[$e]=UEN002_Environmental conventions.pdf
-Name5[$e]=Numerical problems on unit and mass balance.pdf
-Name6[$e]=UEN002_Air pollution.pdf
-Name7[$e]=UEN002 Meteorology and control devices.pdf
-Name8[$e]=Copy_of_Hughes_Electrical_and_Electronic_Technology_-_10th_Edition[1].pdf
-Name9[$e]=Solution_Manual_Thomas[2].pdf
+File1[$e]=$HOME/Downloads/pdfs/UEN002_Environmental conventions.pdf
+File10[$e]=$HOME/Downloads/pdfs/mechanics_tut[1].pdf
+File2[$e]=$HOME/Downloads/pdfs/Numerical problems on unit and mass balance.pdf
+File3[$e]=$HOME/Downloads/pdfs/UEN002_Air pollution.pdf
+File4[$e]=$HOME/Downloads/pdfs/UEN002 Meteorology and control devices.pdf
+File5[$e]=$HOME/Downloads/books/Copy_of_Hughes_Electrical_and_Electronic_Technology_-_10th_Edition[1].pdf
+File6[$e]=$HOME/Downloads/books/Solution_Manual_Thomas[2].pdf
+File7[$e]=$HOME/Downloads/books/thomas&Finney.pdf
+File8[$e]=$HOME/Downloads/pdfs/hibbeler-statics-11-ed-instructor-solution-manual[1].pdf
+File9[$e]=$HOME/Downloads/pdfs/Hibbeler_R.C._Statitics_12th_edition[1].pdf
+Name1[$e]=UEN002_Environmental conventions.pdf
+Name10[$e]=mechanics_tut[1].pdf
+Name2[$e]=Numerical problems on unit and mass balance.pdf
+Name3[$e]=UEN002_Air pollution.pdf
+Name4[$e]=UEN002 Meteorology and control devices.pdf
+Name5[$e]=Copy_of_Hughes_Electrical_and_Electronic_Technology_-_10th_Edition[1].pdf
+Name6[$e]=Solution_Manual_Thomas[2].pdf
+Name7[$e]=thomas&Finney.pdf
+Name8[$e]=hibbeler-statics-11-ed-instructor-solution-manual[1].pdf
+Name9[$e]=Hibbeler_R.C._Statitics_12th_edition[1].pdf

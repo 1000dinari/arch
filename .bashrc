@@ -30,6 +30,7 @@ alias c='clear'
 alias calc='qalculate'
 alias cnk='conky -c ~/.config/conky/LSD-Conky-master/.conkyrc &'
 alias cp='cp -r'
+alias def="~/define.sh | sed '/^220/d; /^250/d; /^221/d; /^%/d; /^Dload/d; /^100/d'"
 alias df='df -h'
 alias disable-vnc='sudo systemctl disable vncserver@:1.service'
 alias disable='sudo systemctl disable'
