@@ -9,6 +9,7 @@ settings:
   content.notifications:
     https://www.gearbest.com: false
     https://www5.yesmovies.fm: false
+    https://www6.yesmovies.fm: false
   url.searchengines:
     global:
       DEFAULT: https://duckduckgo.com/?q={}
