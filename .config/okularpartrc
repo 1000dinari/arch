@@ -1,3 +1,6 @@
 [Main View]
 ShowBottomBar=false
 ShowLeftPanel=false
+
+[PageView]
+ViewMode=Facing

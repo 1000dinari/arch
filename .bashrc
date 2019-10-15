@@ -81,6 +81,7 @@ alias p=' > outbuffer.txt'
 alias pacvac='sudo pacman -Rs $(sudo pacman -Qtdq)'
 alias ptch='patch -p1 <'
 alias pico='vi'
+alias pipe="~/buffer.txt && ixp"
 alias please='sudo $(history -p !!)'
 alias ports='netstat -tulanp'
 alias ptpb='curl -F c=@- https://ptpb.pw'
