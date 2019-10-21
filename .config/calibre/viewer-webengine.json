@@ -1,0 +1,50 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAALuAAAAAAAAAAAAAAVVAAAC7gAAAAAAAAAABVYAAAAAAAAAAAAABVUAAALu"
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIoA////AAAAAQAAAAAAAAAA/AIAAAAD+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAA1wD////7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAABpAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABUA////AAAFVgAAAu8AAAAEAAAABAAAAAgAAAAI/AAAAAA="
+  }, 
+  "old_prefs_migrated": true, 
+  "session_data": {
+    "book_scrollbar": null, 
+    "controls_help_shown_count": 2, 
+    "current_color_scheme": "sepia-light", 
+    "keyboard_shortcuts": {}, 
+    "margin_bottom": 2, 
+    "margin_left": 2, 
+    "margin_right": 2, 
+    "margin_top": 2, 
+    "paged_margin_clicks_scroll_by_screen": null, 
+    "paged_wheel_scrolls_by_screen": null, 
+    "standalone_font_settings": {}, 
+    "standalone_misc_settings": {
+      "remember_last_read": true, 
+      "remember_window_geometry": false, 
+      "save_annotations_in_ebook": true, 
+      "singleinstance": false
+    }, 
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Douglas Crockford"
+        ], 
+        "key": "/home/barbarik/calibre/Douglas Crockford/JavaScript_ The Good Parts (3)/JavaScript_ The Good Parts - Douglas Crockford.epub", 
+        "pathtoebook": "/home/barbarik/calibre/Douglas Crockford/JavaScript_ The Good Parts (3)/JavaScript_ The Good Parts - Douglas Crockford.epub", 
+        "timestamp": "2019-10-18T12:46:54.036Z", 
+        "title": "JavaScript: The Good Parts"
+      }, 
+      {
+        "authors": [
+          "John Schember"
+        ], 
+        "key": "/home/barbarik/calibre/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub", 
+        "pathtoebook": "/home/barbarik/calibre/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub", 
+        "timestamp": "2019-10-18T12:40:53.551Z", 
+        "title": "Quick Start Guide"
+      }
+    ]
+  }
+}

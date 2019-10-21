@@ -9,9 +9,12 @@
 
 #[[ "$PS1" ]] && neofetch | lolcat
 
+export EDITOR=/usr/bin/vim
 export RANGER_LOAD_DEFAULT_RC=false
 
 export PS1="\[\033[38;5;196m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]@\[$(tput sgr0)\]\[\033[38;5;46m\]\H\[$(tput sgr0)\]\[\033[38;5;15m\]:: \[$(tput sgr0)\]\[\033[38;5;11m\]\\$\[$(tput sgr0)\]"
+
+printf '\033[5 q\r'
 
 alias ..='cd ..'
 alias aw='wiki-search'
@@ -54,7 +57,7 @@ alias grep='grep --color=auto'
 alias grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 alias h='history'
 alias hotspot='sudo create_ap interface_1 interface_2 AP_NAME AP_PASS'
-alias hotspot-bhasad='rm -rf /tmp/create_ap.all.lock'
+alias hotspot-bhasad='sudo rm -rf /tmp/create_ap.all.lock'
 alias htspt='hotspot-bhasad; sudo create_ap wlp2s0 wlp2s0 yele 0987654321'
 alias ip-bata='dig +short myip.opendns.com @resolver1.opendns.com'
 alias irc='weechat'
@@ -118,6 +121,7 @@ alias wps-shutter='sudo reaver -i wlp2s0mon -b 78:44:76:DC:45:70 -c 10 -vvv K 1 
 alias wtr='curl wttr.in'
 alias x='exit'
 alias bright='xbacklight -set'
+alias v='vim'
 alias xres='xrdb .Xresources'
 alias xshowkeys='xev'
 alias y='yes'
