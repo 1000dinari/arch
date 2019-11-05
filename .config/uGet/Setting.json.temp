@@ -45,7 +45,7 @@
 			"complete": 103,
 			"total": 70,
 			"percent": 60,
-			"elapsed": 74,
+			"elapsed": 65,
 			"left": 65,
 			"speed": 80,
 			"UploadSpeed": 80,
@@ -114,10 +114,10 @@
 		"OnError": null
 	},
 	"FolderHistory": [
+		"\/home\/barbarik",
 		"\/home\/barbarik\/isos\/gentoo",
 		"\/home\/barbarik\/Downloads",
 		"\/home\/barbarik\/Downloads\/",
-		"\/home\/barbarik",
 		"\/home\/barbarik\/Documents\/thapar",
 		"\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/isos",
 		"\/home\/barbarik\/tor",

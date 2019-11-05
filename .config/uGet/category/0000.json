@@ -43,6 +43,68 @@
 					"priority": 1
 				},
 				"progress": {
+					"complete": 3956023,
+					"total": 3956023,
+					"elapsed": 78,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1572707249,
+					"completed-time": 1572707327,
+					"messages": [
+						{
+							"string": "Not Resumable",
+							"type": 2,
+							"time": 1572707250
+						}
+					]
+				},
+				"http": {
+					"referrer": "http:\/\/uploaded.net\/file\/ujmdi47w",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Mirrors_Edge_Catalyst(2).exe",
+					"uri": "http:\/\/am4-r1f2-stor05.uploaded.net\/dl\/7fb26154-b5ae-49bb-8276-8bc55558d23d",
+					"file": "Mirrors_Edge_Catalyst(2).exe",
+					"folder": "\/home\/barbarik",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/barbarik\/Mirrors_Edge_Catalyst(2).exe",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
 					"complete": 367001600,
 					"total": 367001600,
 					"elapsed": 1639,
