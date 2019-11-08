@@ -12,3 +12,4 @@ application/vnd.openxmlformats-officedocument.presentationml.presentation=libreo
 
 [Default Applications]
 application/pdf=org.kde.okular.desktop
+text/x-arduino=arduino-arduinoide.desktop

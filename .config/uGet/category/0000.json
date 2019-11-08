@@ -43,6 +43,67 @@
 					"priority": 1
 				},
 				"progress": {
+					"complete": 1929379840,
+					"total": 1929379840,
+					"elapsed": 169,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1572942069,
+					"completed-time": 1572942238,
+					"messages": [
+						{
+							"string": "Not Resumable",
+							"type": 2,
+							"time": 1572942072
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Fedora-Workstation-Live-x86_64-31-1.9.iso",
+					"uri": "ftp:\/\/ftp.cuhk.edu.hk\/pub\/linux\/fedora\/releases\/31\/Workstation\/x86_64\/iso\/Fedora-Workstation-Live-x86_64-31-1.9.iso",
+					"file": "Fedora-Workstation-Live-x86_64-31-1.9.iso",
+					"folder": "\/home\/barbarik\/isos\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/barbarik\/isos\/\/Fedora-Workstation-Live-x86_64-31-1.9.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
 					"complete": 3956023,
 					"total": 3956023,
 					"elapsed": 78,
