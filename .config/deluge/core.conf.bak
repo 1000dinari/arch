@@ -28,10 +28,10 @@
     "info_sent": 0.0,
     "listen_interface": "",
     "listen_ports": [
-        6881,
-        6891
+        51111,
+        51111
     ],
-    "listen_random_port": 57011,
+    "listen_random_port": null,
     "listen_reuse_port": true,
     "listen_use_sys_port": false,
     "lsd": true,
@@ -43,7 +43,7 @@
     "max_connections_per_torrent": -1,
     "max_download_speed": -1.0,
     "max_download_speed_per_torrent": -1,
-    "max_half_open_connections": 50,
+    "max_half_open_connections": 9999,
     "max_upload_slots_global": 9000,
     "max_upload_slots_per_torrent": -1,
     "max_upload_speed": -1.0,
@@ -63,6 +63,7 @@
     "path_chooser_max_popup_rows": 20,
     "path_chooser_show_chooser_button_on_localhost": true,
     "path_chooser_show_hidden_files": false,
+    "path_chooser_show_path_entry": true,
     "peer_tos": "0x00",
     "plugins_location": "/home/barbarik/.config/deluge/plugins",
     "pre_allocate_storage": false,
@@ -80,8 +81,8 @@
         "username": ""
     },
     "queue_new_to_top": false,
-    "random_outgoing_ports": true,
-    "random_port": true,
+    "random_outgoing_ports": false,
+    "random_port": false,
     "rate_limit_ip_overhead": true,
     "remove_seed_at_ratio": false,
     "seed_time_limit": 180,

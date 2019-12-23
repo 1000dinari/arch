@@ -3,4 +3,5 @@ ShowBottomBar=false
 ShowLeftPanel=false
 
 [PageView]
+ShowScrollBars=false
 ViewMode=Facing

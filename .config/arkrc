@@ -7,8 +7,8 @@ Height 768=512
 Width 1366=1000
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME
-Recent URLs[$e]=file:$HOME/Downloads/aarya/
+Recent Files[$e]=file:$HOME,file:$HOME/ebooks/README.txt,file:$HOME/ebooks/Pendragon,file:$HOME/ebooks/Jack Reacher,file:$HOME/ebooks/Gallagher Girls,file:$HOME/ebooks/Alex Rider
+Recent URLs[$e]=file:$HOME/ebooks/
 detailViewIconSize=0
 
 [KTextEditor Document]
@@ -100,12 +100,12 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-Height 768=751
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKwAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 768=737
+State=AAAA/wAAAAD9AAAAAAAAAuEAAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
-Width 1366=1366
-splitterSizes=909,451
+Width 1366=737
+splitterSizes=488,243
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/Telegram Desktop/NXP_2.zip
@@ -115,6 +115,7 @@ File4[$e]=$HOME/.config/mpd/mpd.db
 File5[$e]=$HOME/.config/mpd/database
 File6[$e]=$HOME/buffer/ass.tar.gz
 File7[$e]=$HOME/Downloads/aarya.tar.gz
+File8[$e]=$HOME/ebooks/ebooks.zip
 Name1[$e]=NXP_2.zip
 Name2[$e]=sas_session-3.0-fx.zip
 Name3[$e]=sas_session.jar
@@ -122,9 +123,10 @@ Name4[$e]=mpd.db
 Name5[$e]=database
 Name6[$e]=ass.tar.gz
 Name7[$e]=aarya.tar.gz
+Name8[$e]=ebooks.zip
 
 [Viewer]
 Height 768=737
-State=AAAA/wAAAAD9AAAAAAAAAp0AAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAuEAAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=669
+Width 1366=737

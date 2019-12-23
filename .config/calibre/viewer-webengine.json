@@ -1,11 +1,11 @@
 {
   "main_window_geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAALuAAAAAAAAAAAAAAVVAAAC7gAAAAAAAAAABVYAAAAAAAAAAAAABVUAAALu"
+    "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAAAAABEAAAVVAAAC/wAAAAAABAAABVYAAAAAAAAAAAAABVUAAAL/"
   }, 
   "main_window_state": {
     "__class__": "bytearray", 
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIoA////AAAAAQAAAAAAAAAA/AIAAAAD+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAA1wD////7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAABpAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABUA////AAAFVgAAAu8AAAAEAAAABAAAAAgAAAAI/AAAAAA="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIwA////AAAAAQAAAAAAAAAA/AIAAAAD+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAA1wD////7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAABpAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABUA////AAAFVgAAAwAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   }, 
   "old_prefs_migrated": true, 
   "session_data": {
@@ -33,7 +33,7 @@
         ], 
         "key": "/home/barbarik/calibre/Douglas Crockford/JavaScript_ The Good Parts (3)/JavaScript_ The Good Parts - Douglas Crockford.epub", 
         "pathtoebook": "/home/barbarik/calibre/Douglas Crockford/JavaScript_ The Good Parts (3)/JavaScript_ The Good Parts - Douglas Crockford.epub", 
-        "timestamp": "2019-10-18T12:46:54.036Z", 
+        "timestamp": "2019-12-21T10:30:41.187Z", 
         "title": "JavaScript: The Good Parts"
       }, 
       {

@@ -9,7 +9,7 @@ static const unsigned int borderpx  = 1;        /* border pixel of windows */
 static const unsigned int gappx     = 6;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
-static const int topbar             = 0;        /* 0 means bottom bar */
+static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "UbuntuMono Nerd Font:size=10" };
 static const char dmenufont[]       = "UbuntuMono Nerd Font:size=10";
 static const char col_black[]       = "#000000";
@@ -94,6 +94,7 @@ static const char *ss[] = { "xfce4-screenshooter", NULL };
 static const char *terminator[] = { "terminator", NULL };
 static const char *urxvt[] = { "urxvt", NULL };
 static const char *qute[] = { "qutebrowser", NULL };
+static const char *oku[] = { "okular", NULL };
 static const char *appf[] = { "xfce4-appfinder", NULL };
 
 
@@ -136,8 +137,9 @@ static Key keys[] = {
 	{ MODKEY,                       XK_n,      spawn,          {.v = thunar } },
 	{ MODKEY,                       XK_p,      spawn,          {.v = firefox } },
 	{ MODKEY|ShiftMask,             XK_t,      spawn,          {.v = terminator } },
+	{ MODKEY|ShiftMask,             XK_o,      spawn,          {.v = oku } },
 	{ MODKEY,                       XK_q,      spawn,          {.v = qute } },
-	{ MODKEY|ShiftMask,             XK_d,      spawn,          {.v = appf } },
+	{ MODKEY|ControlMask,             XK_d,      spawn,          {.v = appf } },
 	{ 0,                            XK_Print,  spawn,      {.v = ss } },
 	{ MODKEY|ShiftMask, 			XK_r, 		self_restart,	{0} },
     { 0,              XF86XK_AudioRaiseVolume, spawn,          {.v = upvol } },
@@ -148,6 +150,8 @@ static Key keys[] = {
     { MODKEY,         XF86XK_MonBrightnessUp,        spawn,          {.v = brightmax } },
     { MODKEY,         XF86XK_MonBrightnessDown,        spawn,          {.v = brightmin } },
     { ControlMask|ShiftMask,        XK_l,      spawn,	       SHCMD("i3lock-fancy") },
+    { ControlMask|ShiftMask,        XK_u,      spawn,	       SHCMD("sudo rfkill block wlan") },
+    { ControlMask|ShiftMask,        XK_d,      spawn,	       SHCMD("sudo rfkill unblock wlan") },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)

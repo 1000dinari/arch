@@ -9,6 +9,7 @@ application/x-java-archive=geany.desktop;org.kde.ark.desktop;
 text/plain=leafpad.desktop;
 application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
 application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+application/octet-stream=vlc.desktop;
 
 [Default Applications]
 application/pdf=org.kde.okular.desktop
