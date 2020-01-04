@@ -2,13 +2,13 @@
 LastMimeType=application/zip
 
 [ExtractDialog]
-DirHistory[$e]=$HOME/Downloads/aarya/,$HOME/Downloads/,$HOME/buffer/assignments/,$HOME/games/getting over it/,$HOME/dwm-6.2/,$HOME/Downloads/Telegram Desktop/,$HOME/.local/share/TelegramDesktop/,$HOME/
+DirHistory[$e]=$HOME/learning/,$HOME/learning/wireshark/,$HOME/learning/fs/,$HOME/learning/metasploit/,$HOME/learning/mobile platforms/,$HOME/Downloads/aarya/,$HOME/Downloads/,$HOME/buffer/assignments/,$HOME/games/getting over it/,$HOME/dwm-6.2/
 Height 768=512
 Width 1366=1000
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME/ebooks/README.txt,file:$HOME/ebooks/Pendragon,file:$HOME/ebooks/Jack Reacher,file:$HOME/ebooks/Gallagher Girls,file:$HOME/ebooks/Alex Rider
-Recent URLs[$e]=file:$HOME/ebooks/
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/learning/
 detailViewIconSize=0
 
 [KTextEditor Document]
@@ -116,6 +116,7 @@ File5[$e]=$HOME/.config/mpd/database
 File6[$e]=$HOME/buffer/ass.tar.gz
 File7[$e]=$HOME/Downloads/aarya.tar.gz
 File8[$e]=$HOME/ebooks/ebooks.zip
+File9[$e]=$HOME/learning/CHFI Module 14 Password Crackers.rar
 Name1[$e]=NXP_2.zip
 Name2[$e]=sas_session-3.0-fx.zip
 Name3[$e]=sas_session.jar
@@ -124,6 +125,7 @@ Name5[$e]=database
 Name6[$e]=ass.tar.gz
 Name7[$e]=aarya.tar.gz
 Name8[$e]=ebooks.zip
+Name9[$e]=CHFI Module 14 Password Crackers.rar
 
 [Viewer]
 Height 768=737
