@@ -152,6 +152,8 @@ static Key keys[] = {
     { ControlMask|ShiftMask,        XK_l,      spawn,	       SHCMD("i3lock-fancy") },
     { ControlMask|ShiftMask,        XK_u,      spawn,	       SHCMD("sudo rfkill block wlan") },
     { ControlMask|ShiftMask,        XK_d,      spawn,	       SHCMD("sudo rfkill unblock wlan") },
+    { ControlMask|ShiftMask,        XK_s,      spawn,	       SHCMD("urxvt -e bash -c \"while true; do ~/bin/caa; done ;$SHELL\"") },
+    { ControlMask|ShiftMask,        XK_w,      spawn,	       SHCMD("urxvt -e bash -c \"sudo rm -rf /tmp/create_ap.all.lock; sudo create_ap wlp2s0 wlp2s0 yele 0987654321 ;$SHELL\"") },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)

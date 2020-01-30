@@ -79,3 +79,9 @@ while true; do
 	feh --bg-scale --no-fehbg --randomize ~/wallpapers
 	sleep 600s
 done &
+
+
+while true; do
+	notify-send "PAANI PE LE BHAI MAR JAYEGA"
+	sleep 900s
+done &
