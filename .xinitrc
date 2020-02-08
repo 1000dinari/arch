@@ -10,6 +10,7 @@ xrdb ~/.Xresources
 redshift -l 30.73629:76.7884 &
 compton --config ~/.config/compton/compton.conf &
 ~/battery.sh &
+feh --bg-scale --no-fehbg --randomize ~/wallpapers/pink.png &
 
 exec dwm
 #exec i3

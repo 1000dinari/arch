@@ -75,10 +75,10 @@ while [ "$(cat /sys/class/power_supply/BAT0/capacity)" -ge 99 ] && [ "$(cat /sys
 		sleep 10s
 done &
 
-while true; do
-	feh --bg-scale --no-fehbg --randomize ~/wallpapers
-	sleep 600s
-done &
+#while true; do
+	#feh --bg-scale --no-fehbg --randomize ~/wallpapers
+	#sleep 600s
+#done &
 
 
 #while true; do
