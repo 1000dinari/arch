@@ -81,7 +81,7 @@ while true; do
 done &
 
 
-while true; do
-	notify-send "PAANI PE LE BHAI MAR JAYEGA"
-	sleep 900s
-done &
+#while true; do
+	#notify-send "PAANI PE LE BHAI MAR JAYEGA"
+	#sleep 900s
+#done &

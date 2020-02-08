@@ -116,7 +116,7 @@ File5[$e]=$HOME/.config/mpd/database
 File6[$e]=$HOME/buffer/ass.tar.gz
 File7[$e]=$HOME/Downloads/aarya.tar.gz
 File8[$e]=$HOME/ebooks/ebooks.zip
-File9[$e]=$HOME/learning/CHFI Module 14 Password Crackers.rar
+File9[$e]=$HOME/ctf/app.apk
 Name1[$e]=NXP_2.zip
 Name2[$e]=sas_session-3.0-fx.zip
 Name3[$e]=sas_session.jar
@@ -125,7 +125,7 @@ Name5[$e]=database
 Name6[$e]=ass.tar.gz
 Name7[$e]=aarya.tar.gz
 Name8[$e]=ebooks.zip
-Name9[$e]=CHFI Module 14 Password Crackers.rar
+Name9[$e]=app.apk
 
 [Viewer]
 Height 768=737

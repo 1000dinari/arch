@@ -1390,13 +1390,25 @@
   <resource identifier="Cantarell" checksum="(null)">
   </resource>
 
+  <resource identifier="Cantarell" checksum="(null)">
+  </resource>
+
   <resource identifier="Cantarell Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Cantarell Light" checksum="(null)">
   </resource>
 
+  <resource identifier="Cantarell Light" checksum="(null)">
+  </resource>
+
   <resource identifier="Cantarell Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cantarell Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
@@ -1802,6 +1814,18 @@
   </resource>
 
   <resource identifier="Noto Color Emoji" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Semi-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Music" checksum="(null)">
