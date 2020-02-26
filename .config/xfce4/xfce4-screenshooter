@@ -1,8 +1,8 @@
 app=ristretto
 last_user=
 screenshot_dir=file:/home/barbarik/ctf
-action=1
+action=8
 delay=0
-region=1
+region=3
 show_mouse=0
 

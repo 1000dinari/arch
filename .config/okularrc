@@ -1,28 +1,27 @@
 [Desktop Entry]
-FullScreen=false
+FullScreen=true
 shouldShowMenuBarComingFromFullScreen=true
 shouldShowToolBarComingFromFullScreen=false
 
 [MainWindow]
-Height 768=751
-State=AAAA/wAAAAD9AAAAAAAABVYAAALWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Height 768=768
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1366
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/books/dennis-ritchie.pdf
 File2[$e]=$HOME/Downloads/FileHandlinginCLanguage.pdf
-File3[$e]=$HOME/Downloads/pdfs/population notes.pdf
-File4[$e]=$HOME/Downloads/pdfs/Energy Resource.pdf
-File5[$e]=$HOME/Downloads/pdfs/Water Pollution_UEN002+Numericals.pdf
-File6[$e]=$HOME/ctf/r.pdf
-File7[$e]=$HOME/ctf/Calander.pdf
-File8[$e]=$HOME/ctf/Calander_repaired.pdf
+File3[$e]=$HOME/ctf/r.pdf
+File4[$e]=$HOME/ctf/Calander.pdf
+File5[$e]=$HOME/ctf/Calander_repaired.pdf
+File6[$e]=$HOME/Downloads/pdfs/Lecture-1_Semiconductor_Part1a.pdf
+File7[$e]=$HOME/Downloads/pdfs/Lecture-2_Semiconductor_Part1c.pdf
 Name1[$e]=dennis-ritchie.pdf
 Name2[$e]=FileHandlinginCLanguage.pdf
-Name3[$e]=population notes.pdf
-Name4[$e]=Energy Resource.pdf
-Name5[$e]=Water Pollution_UEN002+Numericals.pdf
-Name6[$e]=r.pdf
-Name7[$e]=Calander.pdf
-Name8[$e]=Calander_repaired.pdf
+Name3[$e]=r.pdf
+Name4[$e]=Calander.pdf
+Name5[$e]=Calander_repaired.pdf
+Name6[$e]=Lecture-1_Semiconductor_Part1a.pdf
+Name7[$e]=Lecture-2_Semiconductor_Part1c.pdf
