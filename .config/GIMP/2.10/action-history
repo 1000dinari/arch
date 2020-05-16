@@ -1,9 +1,9 @@
 # GIMP action-history
 
-(history-item "file-quit" 5)
+(history-item "file-quit" 4)
+(history-item "file-open" 1)
 (history-item "image-crop-to-content" 0)
 (history-item "file-export-as" 0)
-(history-item "file-open" 0)
 (history-item "image-crop-to-selection" 1)
 (history-item "image-scale" 0)
 (history-item "plug-in-zealouscrop" 0)

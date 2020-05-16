@@ -9,20 +9,20 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
-      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=82046238-431f-4a46-8d70-594525f7606d"/>
+      <ExtraDataItem name="GUI/GroupDefinitions/" value="n=GLOBAL,m=8f01189b-0017-4e97-b3e6-b4c81bb142ed"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=gentoo"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="0,0,1366,751,max"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="0,17,1366,751,max"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/barbarik/isos/gentoo"/>
-      <ExtraDataItem name="GUI/RecentListCD" value="/home/barbarik/isos/gentoo/install-amd64-minimal-20191016T214504Z.iso,/run/media/barbarik/windows/Users/adminsaurabh/Downloads/deluge/WINDOWS 7 ALL IN ONE(PRE-ACTIVATED).iso,/run/media/barbarik/windows/Users/adminsaurabh/Downloads/deluge/WINDOWS 7 ALL IN ONE(PRE-ACTIVATED).ISO"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/home/barbarik/isos/gentoo/install-amd64-minimal-20200329T214502Z.iso,--,/home/barbarik/isos/gentoo/install-amd64-minimal-20191016T214504Z.iso,/run/media/barbarik/windows/Users/adminsaurabh/Downloads/deluge/WINDOWS 7 ALL IN ONE(PRE-ACTIVATED).iso,/run/media/barbarik/windows/Users/adminsaurabh/Downloads/deluge/WINDOWS 7 ALL IN ONE(PRE-ACTIVATED).ISO"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="452,913"/>
-      <ExtraDataItem name="GUI/SuppressMessages" value="remindAboutMouseIntegration,remindAboutAutoCapture"/>
+      <ExtraDataItem name="GUI/SuppressMessages" value="remindAboutMouseIntegration,remindAboutAutoCapture,confirmInputCapture"/>
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
       <ExtraDataItem name="GUI/UpdateCheckCount" value="2"/>
       <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-06-18, stable, 6.0.8"/>
     </ExtraData>
     <MachineRegistry>
-      <MachineEntry uuid="{82046238-431f-4a46-8d70-594525f7606d}" src="/home/barbarik/isos/vms/gentoo/gentoo.vbox"/>
+      <MachineEntry uuid="{8f01189b-0017-4e97-b3e6-b4c81bb142ed}" src="/home/barbarik/isos/vms/gentoo/gentoo.vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>

@@ -43,6 +43,68 @@
 					"priority": 1
 				},
 				"progress": {
+					"complete": 364904448,
+					"total": 364904448,
+					"elapsed": 1800,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1585578572,
+					"completed-time": 1585580372,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1585578573
+						}
+					]
+				},
+				"http": {
+					"referrer": "http:\/\/ftp.jaist.ac.jp\/pub\/Linux\/Gentoo\/releases\/amd64\/autobuilds\/current-install-amd64-minimal\/",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "install-amd64-minimal-20200329T214502Z.iso",
+					"uri": "http:\/\/ftp.jaist.ac.jp\/pub\/Linux\/Gentoo\/releases\/amd64\/autobuilds\/current-install-amd64-minimal\/install-amd64-minimal-20200329T214502Z.iso",
+					"file": "install-amd64-minimal-20200329T214502Z.iso",
+					"folder": "\/home\/barbarik\/isos\/gentoo",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 7,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/barbarik\/isos\/gentoo\/install-amd64-minimal-20200329T214502Z.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
 					"complete": 1929379840,
 					"total": 1929379840,
 					"elapsed": 169,

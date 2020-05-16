@@ -19,12 +19,13 @@ static const char col_gray4[]       = "#ffffff";
 static const char col_cyan[]        = "#00cc33";
 static const char col_bhagua[]		= "#f47932";
 static const char col_pink[]		= "#f90040";
+static const char col_krish[]		= "#4f004f";
 static const unsigned int baralpha = 0x96;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_white, col_black, col_black },
-	[SchemeSel]  = { col_black, col_pink,  col_pink  },
+	[SchemeSel]  = { col_black, col_krish,  col_krish  },
 };
 static const unsigned int alphas[][3]      = {
 	/*               fg      bg        border     */
