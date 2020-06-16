@@ -1177,7 +1177,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="f76783ff0a059dd97e17a834ccfdcb2e">
+  <resource identifier="gimp-palette-color-history" checksum="0ba7cce9136d124d52ddd10514af4d62">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1300,7 +1300,7 @@
   <resource identifier="${gimp_data_dir}/palettes/Web.gpl" checksum="f02e8dfa23d01d6acfbab7f895c2dd16">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/palettes/elementary.gpl" checksum="a70a77c546d1cbc31f1e65f9152e1aa2">
+  <resource identifier="${gimp_data_dir}/palettes/elementary.gpl" checksum="ac686c9fe944015722238ecfd6c8cb9f">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Linux.gpl" checksum="0e7549f6e63ef2b1de3f537cc7da022b">

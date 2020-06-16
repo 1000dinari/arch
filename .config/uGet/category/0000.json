@@ -39,6 +39,552 @@
 		{
 			"info": {
 				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".adobe-digital-editions",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.adobe-digital-editions",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".backups",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.backups",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".DataStorage",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.DataStorage",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".facebook_cache",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.facebook_cache",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".InstagramLive",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.InstagramLive",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".NxA7TpQeu2bupGeSGzUMHF9MUUU=",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.NxA7TpQeu2bupGeSGzUMHF9MUUU=",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".o7moDqO9OdIyzgjhEWjQxrJxtwc=",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.o7moDqO9OdIyzgjhEWjQxrJxtwc=",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".PASSIVE_SDK",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.PASSIVE_SDK",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".PASSIVE_VERSION",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.PASSIVE_VERSION",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".SHAREit",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.SHAREit",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"log": {
+					"added-time": 1590223463,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Unsupported scheme (protocol).",
+							"type": 3,
+							"time": 1590223464
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/androidfilehost.com\/?fid=5862345805528062932",
+					"cookie-file": "\/home\/barbarik\/.config\/uGet\/attachment\/58142F04.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": ".appodeal",
+					"uri": "mtp:\/\/asus_SDM636-QRD__SN%3A31FCF5AD_K3AAGF006266BG3\/Internal%20shared%20storage\/.appodeal",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 1316104865,
+					"total": 1316104865,
+					"elapsed": 2524,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1590217212,
+					"completed-time": 1590220354,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1590217839
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/sourceforge.net\/projects\/havoc-os\/files\/X00T\/Havoc-OS-v3.5-20200521-X00T-Official-GApps.zip\/download",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Havoc-OS-v3.5-20200521-X00T-Official-GApps.zip",
+					"uri": "https:\/\/liquidtelecom.dl.sourceforge.net\/project\/havoc-os\/X00T\/Havoc-OS-v3.5-20200521-X00T-Official-GApps.zip",
+					"file": "Havoc-OS-v3.5-20200521-X00T-Official-GApps.zip",
+					"folder": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/run\/media\/barbarik\/windows\/Users\/adminsaurabh\/Downloads\/phoneroot\/Havoc-OS-v3.5-20200521-X00T-Official-GApps.zip",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
 					"group": 72,
 					"priority": 1
 				},

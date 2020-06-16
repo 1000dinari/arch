@@ -1,3 +1,6 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry
+
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true

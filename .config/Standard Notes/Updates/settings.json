@@ -3,15 +3,15 @@
   "autoupdateEnabled": true,
   "checkingForUpdate": false,
   "latest": {
-    "version": "3.0.14",
-    "changelog": "https://github.com/standardnotes/desktop/releases/v3.0.14",
+    "version": "3.4.1",
+    "changelog": "https://github.com/standardnotes/desktop/releases/v3.4.1",
     "downloads": {
-      "mac": "https://github.com/standardnotes/desktop/releases/download/v3.0.14/standard-notes-3.0.14-mac.zip",
-      "windows": "https://github.com/standardnotes/desktop/releases/download/v3.0.14/standard-notes-setup-3.0.14.exe",
-      "appimage_32": "https://github.com/standardnotes/desktop/releases/download/v3.0.14/standard-notes-3.0.14-i386.AppImage",
-      "appimage_64": "https://github.com/standardnotes/desktop/releases/download/v3.0.14/standard-notes-3.0.14-x86_64.AppImage"
+      "mac": "https://github.com/standardnotes/desktop/releases/download/v3.4.1/Standard-Notes-3.4.1.dmg",
+      "windows": "https://github.com/standardnotes/desktop/releases/download/v3.4.1/Standard-Notes-Setup-3.4.1.exe",
+      "appimage_32": "https://github.com/standardnotes/desktop/releases/download/v3.4.1/Standard-Notes-3.4.1-i386.AppImage",
+      "appimage_64": "https://github.com/standardnotes/desktop/releases/download/v3.4.1/Standard-Notes-3.4.1.AppImage"
     }
   },
   "currentVersion": "3.0.14",
-  "lastCheck": "2019-06-19T13:27:45.080Z"
+  "lastCheck": "2020-06-14T23:28:37.084Z"
 }

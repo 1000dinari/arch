@@ -7,12 +7,12 @@ systemctl --user start xfce4-notifyd
 xset r rate 300 50; 
 xset -b
 xrdb ~/.Xresources
-redshift -l 30.73629:76.7884 &
-compton --config ~/.config/compton/compton.conf &
+# redshift -l 30.73629:76.7884 &
+picom --config ~/.config/picom/picom.conf &
 ~/battery.sh &
 feh --bg-scale --no-fehbg --randomize ~/wallpapers/kwp.jpg &
 
 exec dwm
 #exec i3
-
+#exec xmonad
 [[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources

@@ -149,3 +149,14 @@ From previous event:
 [2019-05-11 14:36:13:0493] [info] Update for version 3.0.8 is not available (latest version: 3.0.8, downgrade is disallowed).
 [2019-06-19 18:57:43:0906] [info] Checking for update
 [2019-06-19 18:57:47:0400] [info] Update for version 3.0.14 is not available (latest version: 3.0.14, downgrade is disallowed).
+[2020-05-26 01:05:15:0159] [info] Checking for update
+[2020-05-26 01:05:19:0653] [info] Found version 3.4.1 (url: Standard-Notes-3.4.1.AppImage)
+[2020-05-26 01:05:19:0655] [info] Downloading update from Standard-Notes-3.4.1.AppImage
+[2020-05-26 01:05:19:0681] [info] No cached update available
+[2020-05-26 01:05:21:0371] [info] File has 3710 changed blocks
+[2020-05-26 01:05:21:0373] [info] Full: 76,572.43 KB, To download: 76,372.48 KB (100%)
+[2020-05-26 01:05:21:0381] [info] Differential download: https://github.com/standardnotes/desktop/releases/download/v3.4.1/Standard-Notes-3.4.1.AppImage
+[2020-05-26 01:05:21:0498] [info] Redirect to https://github-production-release-asset-2e65be.s3.amazonaws.com/77399704/ffbee200-8e02-11ea-90ea-189033b0912d
+[2020-05-26 01:08:33:0053] [info] New version 3.4.1 has been downloaded to /home/barbarik/.config/Standard Notes/Standard-Notes-3.4.1.AppImage
+[2020-05-26 01:45:11:0928] [info] Auto install update on quit
+[2020-05-26 01:45:11:0930] [info] Install: isSilent: true, isRunAfter: false

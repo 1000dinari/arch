@@ -1,33 +1,32 @@
 [Desktop Entry]
-FullScreen=true
+FullScreen=false
 shouldShowMenuBarComingFromFullScreen=true
 shouldShowToolBarComingFromFullScreen=false
 
 [MainWindow]
-Height 768=768
-MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Height 768=751
+State=AAAA/wAAAAD9AAAAAAAABVYAAALWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1366
 
 [Recent Files]
-File1[$e]=$HOME/ctf/Calander.pdf
-File10[$e]=$HOME/Downloads/pdfs/EM.pdf
-File2[$e]=$HOME/ctf/Calander_repaired.pdf
-File3[$e]=$HOME/Downloads/pdfs/Lecture-3_DiodeRectifer.pdf
-File4[$e]=$HOME/Downloads/pdfs/Lecture-1_Semiconductor_Part1a.pdf
-File5[$e]=$HOME/Downloads/pdfs/boylstead.pdf
-File6[$e]=$HOME/Downloads/pdfs/boylstead1.pdf
-File7[$e]=$HOME/Downloads/pdfs/Lecture-4_Doide_Clippers_Clampers[1703413].pdf
-File8[$e]=$HOME/Downloads/pdfs/Lecture-2_Semiconductor_Part1c.pdf
-File9[$e]=$HOME/Downloads/pdfs/Lecture-1_Semiconductor_Part1b.pdf
-Name1[$e]=Calander.pdf
-Name10[$e]=EM.pdf
-Name2[$e]=Calander_repaired.pdf
-Name3[$e]=Lecture-3_DiodeRectifer.pdf
-Name4[$e]=Lecture-1_Semiconductor_Part1a.pdf
-Name5[$e]=boylstead.pdf
-Name6[$e]=boylstead1.pdf
-Name7[$e]=Lecture-4_Doide_Clippers_Clampers[1703413].pdf
-Name8[$e]=Lecture-2_Semiconductor_Part1c.pdf
-Name9[$e]=Lecture-1_Semiconductor_Part1b.pdf
+File1[$e]=$HOME/Documents/kitaab-pdf.pdf
+File10[$e]=$HOME/Documents/101915205_Saurabh_Chaudhary.pdf
+File2[$e]=$HOME/Downloads/ED.pdf
+File3[$e]=$HOME/Downloads/ED2.pdf
+File4[$e]=$HOME/Downloads/kun.pdf
+File5[$e]=$HOME/Downloads/rag1.pdf
+File6[$e]=$HOME/Documents/kitaab.pdf
+File7[$e]=$HOME/Documents/kitaab1.pdf
+File8[$e]=$HOME/Documents/aishani.pdf
+File9[$e]=$HOME/Documents/test1.pdf
+Name1[$e]=kitaab-pdf.pdf
+Name10[$e]=101915205_Saurabh_Chaudhary.pdf
+Name2[$e]=ED.pdf
+Name3[$e]=ED2.pdf
+Name4[$e]=kun.pdf
+Name5[$e]=rag1.pdf
+Name6[$e]=kitaab.pdf
+Name7[$e]=kitaab1.pdf
+Name8[$e]=aishani.pdf
+Name9[$e]=test1.pdf

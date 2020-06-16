@@ -10,6 +10,8 @@ text/plain=leafpad.desktop;
 application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
 application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
 application/octet-stream=uget-gtk.desktop;vlc.desktop;
+application/x-zip-compressed=uget-gtk.desktop;
+image/jpeg=ristretto.desktop;
 
 [Default Applications]
 application/pdf=org.kde.okular.desktop
