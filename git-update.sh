@@ -39,6 +39,7 @@ cp -r ~/git-update.sh ~/arch/git-update.sh
 cp -r ~/git-push.sh ~/arch/git-push.sh
 cp ~/.xinitrc ~/arch/.xinitrc
 cp ~/.Xresources ~/arch/.Xresources 
+rm -rf ~/arch/.config/Standard\ Notes/
 cd ~/arch
 git init
 git add ~/arch

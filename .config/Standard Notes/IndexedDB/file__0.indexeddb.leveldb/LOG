@@ -1,6 +1,0 @@
-2020/06/15-04:58:32.824 708 Reusing MANIFEST /home/barbarik/.config/Standard Notes/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2020/06/15-04:58:32.825 708 Recovering log #74
-2020/06/15-04:58:32.901 708 Reusing old log /home/barbarik/.config/Standard Notes/IndexedDB/file__0.indexeddb.leveldb/000074.log 
-2020/06/15-05:40:15.626 cb39 Level-0 table #79: started
-2020/06/15-05:40:15.790 cb39 Level-0 table #79: 3053248 bytes OK
-2020/06/15-05:40:15.857 cb39 Delete type=0 #74
