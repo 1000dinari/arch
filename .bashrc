@@ -130,6 +130,8 @@ alias xshowkeys='xev'
 alias yayslay='yay -Rs $(yay -Qtdq)'
 alias yeet='sudo pacman -Rns'
 
+PATH=$PATH:~/.cabal/bin
+
 if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
         source /etc/profile.d/vte.sh
 fi

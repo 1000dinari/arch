@@ -1,32 +1,33 @@
 [Desktop Entry]
-FullScreen=false
-shouldShowMenuBarComingFromFullScreen=true
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=false
 
 [MainWindow]
-Height 768=751
-State=AAAA/wAAAAD9AAAAAAAABVYAAALWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Height 768=768
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAALvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1366
 
 [Recent Files]
-File1[$e]=$HOME/Documents/kitaab-pdf.pdf
-File10[$e]=$HOME/Documents/101915205_Saurabh_Chaudhary.pdf
-File2[$e]=$HOME/Downloads/ED.pdf
-File3[$e]=$HOME/Downloads/ED2.pdf
-File4[$e]=$HOME/Downloads/kun.pdf
-File5[$e]=$HOME/Downloads/rag1.pdf
-File6[$e]=$HOME/Documents/kitaab.pdf
-File7[$e]=$HOME/Documents/kitaab1.pdf
-File8[$e]=$HOME/Documents/aishani.pdf
-File9[$e]=$HOME/Documents/test1.pdf
-Name1[$e]=kitaab-pdf.pdf
-Name10[$e]=101915205_Saurabh_Chaudhary.pdf
-Name2[$e]=ED.pdf
-Name3[$e]=ED2.pdf
-Name4[$e]=kun.pdf
-Name5[$e]=rag1.pdf
-Name6[$e]=kitaab.pdf
-Name7[$e]=kitaab1.pdf
-Name8[$e]=aishani.pdf
-Name9[$e]=test1.pdf
+File1[$e]=$HOME/Downloads/ED.pdf
+File10[$e]=$HOME/Documents/libredoc.pdf
+File2[$e]=$HOME/Downloads/ED2.pdf
+File3[$e]=$HOME/Downloads/kun.pdf
+File4[$e]=$HOME/Downloads/rag1.pdf
+File5[$e]=$HOME/Documents/kitaab.pdf
+File6[$e]=$HOME/Documents/kitaab1.pdf
+File7[$e]=$HOME/Documents/aishani.pdf
+File8[$e]=$HOME/Documents/test1.pdf
+File9[$e]=$HOME/Documents/101915205_Saurabh_Chaudhary.pdf
+Name1[$e]=ED.pdf
+Name10[$e]=libredoc.pdf
+Name2[$e]=ED2.pdf
+Name3[$e]=kun.pdf
+Name4[$e]=rag1.pdf
+Name5[$e]=kitaab.pdf
+Name6[$e]=kitaab1.pdf
+Name7[$e]=aishani.pdf
+Name8[$e]=test1.pdf
+Name9[$e]=101915205_Saurabh_Chaudhary.pdf
