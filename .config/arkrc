@@ -109,23 +109,25 @@ splitterSizes=488,243
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/Telegram Desktop/NXP_2.zip
+File10[$e]=$HOME/.cache/yay/openoffice/v4.1.7-x86_64.uncompressed
 File2[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx.zip
 File3[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx/chrome/sas_session.jar
 File4[$e]=$HOME/.config/mpd/mpd.db
 File5[$e]=$HOME/.config/mpd/database
 File6[$e]=$HOME/buffer/ass.tar.gz
 File7[$e]=$HOME/ebooks/ebooks.zip
-File8[$e]=$HOME/ctf/app.apk
-File9[$e]=$HOME/Downloads/tipp10_linux_v2-1-0.tar.gz
+File8[$e]=$HOME/Downloads/TL-MR3020_V1_150921.zip
+File9[$e]=$HOME/.cache/yay/openoffice/v4.1.7-x86_64
 Name1[$e]=NXP_2.zip
+Name10[$e]=v4.1.7-x86_64.uncompressed
 Name2[$e]=sas_session-3.0-fx.zip
 Name3[$e]=sas_session.jar
 Name4[$e]=mpd.db
 Name5[$e]=database
 Name6[$e]=ass.tar.gz
 Name7[$e]=ebooks.zip
-Name8[$e]=app.apk
-Name9[$e]=tipp10_linux_v2-1-0.tar.gz
+Name8[$e]=TL-MR3020_V1_150921.zip
+Name9[$e]=v4.1.7-x86_64
 
 [Viewer]
 Height 768=737

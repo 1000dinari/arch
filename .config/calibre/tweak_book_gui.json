@@ -111,11 +111,11 @@
   }, 
   "import-foreign-geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywADAAAAAAGcAAAA+AAAA6wAAAG9AAABnQAAAPkAAAOrAAABvAAAAAAAAAAABVYAAAGdAAAA+QAAA6sAAAG8"
+    "__value__": "AdnQywADAAAAAAGdAAAA+QAAA60AAAG+AAABngAAAPoAAAOsAAABvQAAAAAAAAAABVYAAAGeAAAA+gAAA6wAAAG9"
   }, 
   "main_window_geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywADAAAAAAAGAAAAFwAAAugAAAL5AAAABwAAABgAAALnAAAC+AAAAAAAAAAABVYAAAAHAAAAGAAAAucAAAL4"
+    "__value__": "AdnQywADAAAAAAAFAAAAFgAAAucAAAL4AAAABgAAABcAAALmAAAC9wAAAAAAAAAABVYAAAAGAAAAFwAAAuYAAAL3"
   }, 
   "main_window_state": {
     "__class__": "bytearray", 

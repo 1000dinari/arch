@@ -1,6 +1,6 @@
 {
   "fonts": {
-    "/usr/share/calibre/fonts/liberation/LiberationMono-Bold.ttf||302688:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationMono-Bold.ttf||302688:1593795705.0": {
       "family_name": "Liberation Mono", 
       "font-family": "Liberation Mono", 
       "font-stretch": "normal", 
@@ -36,7 +36,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationMono-BoldItalic.ttf||278692:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationMono-BoldItalic.ttf||278692:1593795705.0": {
       "family_name": "Liberation Mono", 
       "font-family": "Liberation Mono", 
       "font-stretch": "normal", 
@@ -72,7 +72,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationMono-Italic.ttf||275740:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationMono-Italic.ttf||275740:1593795705.0": {
       "family_name": "Liberation Mono", 
       "font-family": "Liberation Mono", 
       "font-stretch": "normal", 
@@ -108,7 +108,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationMono-Regular.ttf||314408:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationMono-Regular.ttf||314408:1593795705.0": {
       "family_name": "Liberation Mono", 
       "font-family": "Liberation Mono", 
       "font-stretch": "normal", 
@@ -144,7 +144,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationSans-Bold.ttf||356140:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSans-Bold.ttf||356140:1593795705.0": {
       "family_name": "Liberation Sans", 
       "font-family": "Liberation Sans", 
       "font-stretch": "normal", 
@@ -180,7 +180,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationSans-BoldItalic.ttf||351672:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSans-BoldItalic.ttf||351672:1593795705.0": {
       "family_name": "Liberation Sans", 
       "font-family": "Liberation Sans", 
       "font-stretch": "normal", 
@@ -216,7 +216,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationSans-Italic.ttf||357416:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSans-Italic.ttf||357416:1593795705.0": {
       "family_name": "Liberation Sans", 
       "font-family": "Liberation Sans", 
       "font-stretch": "normal", 
@@ -252,7 +252,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationSans-Regular.ttf||352308:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSans-Regular.ttf||352308:1593795705.0": {
       "family_name": "Liberation Sans", 
       "font-family": "Liberation Sans", 
       "font-stretch": "normal", 
@@ -288,7 +288,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationSerif-Bold.ttf||367460:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSerif-Bold.ttf||367460:1593795705.0": {
       "family_name": "Liberation Serif", 
       "font-family": "Liberation Serif", 
       "font-stretch": "normal", 
@@ -324,7 +324,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationSerif-BoldItalic.ttf||372716:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSerif-BoldItalic.ttf||372716:1593795705.0": {
       "family_name": "Liberation Serif", 
       "font-family": "Liberation Serif", 
       "font-stretch": "normal", 
@@ -360,7 +360,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationSerif-Italic.ttf||371712:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSerif-Italic.ttf||371712:1593795705.0": {
       "family_name": "Liberation Serif", 
       "font-family": "Liberation Serif", 
       "font-stretch": "normal", 
@@ -396,7 +396,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/calibre/fonts/liberation/LiberationSerif-Regular.ttf||390836:1589516112.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSerif-Regular.ttf||390836:1593795705.0": {
       "family_name": "Liberation Serif", 
       "font-family": "Liberation Serif", 
       "font-stretch": "normal", 
@@ -432,7 +432,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/OTF/Font Awesome 5 Brands-Regular-400.otf||456956:1585085279.0": {
+    "/usr/share/fonts/OTF/Font Awesome 5 Brands-Regular-400.otf||465076:1594897414.0": {
       "family_name": "Font Awesome 5 Brands Regular", 
       "font-family": "Font Awesome 5 Brands Regular", 
       "font-stretch": "normal", 
@@ -468,7 +468,7 @@
       "wws_family_name": "Font Awesome 5 Brands", 
       "wws_subfamily_name": "Regular"
     }, 
-    "/usr/share/fonts/OTF/Font Awesome 5 Free-Regular-400.otf||97016:1585085279.0": {
+    "/usr/share/fonts/OTF/Font Awesome 5 Free-Regular-400.otf||97112:1594897414.0": {
       "family_name": "Font Awesome 5 Free Regular", 
       "font-family": "Font Awesome 5 Free Regular", 
       "font-stretch": "normal", 
@@ -504,7 +504,7 @@
       "wws_family_name": "Font Awesome 5 Free", 
       "wws_subfamily_name": "Regular"
     }, 
-    "/usr/share/fonts/OTF/Font Awesome 5 Free-Solid-900.otf||580620:1585085279.0": {
+    "/usr/share/fonts/OTF/Font Awesome 5 Free-Solid-900.otf||589036:1594897414.0": {
       "family_name": "Font Awesome 5 Free Solid", 
       "font-family": "Font Awesome 5 Free Solid", 
       "font-stretch": "normal", 
@@ -540,7 +540,7 @@
       "wws_family_name": "Font Awesome 5 Free", 
       "wws_subfamily_name": "Solid"
     }, 
-    "/usr/share/fonts/TTF/DejaVuMathTeXGyre.ttf||577708:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuMathTeXGyre.ttf||577616:1593422937.0": {
       "family_name": "DejaVu Math TeX Gyre", 
       "font-family": "DejaVu Math TeX Gyre", 
       "font-stretch": "normal", 
@@ -576,7 +576,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSans-Bold.ttf||705684:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSans-Bold.ttf||705684:1593422937.0": {
       "family_name": "DejaVu Sans", 
       "font-family": "DejaVu Sans", 
       "font-stretch": "normal", 
@@ -612,7 +612,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSans-BoldOblique.ttf||643292:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSans-BoldOblique.ttf||643288:1593422937.0": {
       "family_name": "DejaVu Sans", 
       "font-family": "DejaVu Sans", 
       "font-stretch": "normal", 
@@ -648,7 +648,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSans-ExtraLight.ttf||355380:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSans-ExtraLight.ttf||356760:1593422937.0": {
       "family_name": "DejaVu Sans Light", 
       "font-family": "DejaVu Sans Light", 
       "font-stretch": "normal", 
@@ -684,7 +684,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSans-Oblique.ttf||635416:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSans-Oblique.ttf||635412:1593422937.0": {
       "family_name": "DejaVu Sans", 
       "font-family": "DejaVu Sans", 
       "font-stretch": "normal", 
@@ -720,7 +720,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSans.ttf||757076:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSans.ttf||757076:1593422937.0": {
       "family_name": "DejaVu Sans", 
       "font-family": "DejaVu Sans", 
       "font-stretch": "normal", 
@@ -756,7 +756,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSansCondensed-Bold.ttf||665028:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSansCondensed-Bold.ttf||703880:1593422937.0": {
       "family_name": "DejaVu Sans Condensed", 
       "font-family": "DejaVu Sans Condensed", 
       "font-stretch": "semi-condensed", 
@@ -792,7 +792,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSansCondensed-BoldOblique.ttf||611836:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSansCondensed-BoldOblique.ttf||641696:1593422937.0": {
       "family_name": "DejaVu Sans Condensed", 
       "font-family": "DejaVu Sans Condensed", 
       "font-stretch": "semi-condensed", 
@@ -828,7 +828,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSansCondensed-Oblique.ttf||599292:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSansCondensed-Oblique.ttf||633824:1593422937.0": {
       "family_name": "DejaVu Sans Condensed", 
       "font-family": "DejaVu Sans Condensed", 
       "font-stretch": "semi-condensed", 
@@ -864,7 +864,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSansCondensed.ttf||680264:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSansCondensed.ttf||755124:1593422937.0": {
       "family_name": "DejaVu Sans Condensed", 
       "font-family": "DejaVu Sans Condensed", 
       "font-stretch": "semi-condensed", 
@@ -900,7 +900,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSansMono-Bold.ttf||331992:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSansMono-Bold.ttf||331992:1593422937.0": {
       "family_name": "DejaVu Sans Mono", 
       "font-family": "DejaVu Sans Mono", 
       "font-stretch": "normal", 
@@ -936,7 +936,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSansMono-BoldOblique.ttf||253580:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSansMono-BoldOblique.ttf||253580:1593422937.0": {
       "family_name": "DejaVu Sans Mono", 
       "font-family": "DejaVu Sans Mono", 
       "font-stretch": "normal", 
@@ -972,7 +972,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSansMono-Oblique.ttf||251932:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSansMono-Oblique.ttf||251932:1593422937.0": {
       "family_name": "DejaVu Sans Mono", 
       "font-family": "DejaVu Sans Mono", 
       "font-stretch": "normal", 
@@ -1008,7 +1008,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSansMono.ttf||340712:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSansMono.ttf||340712:1593422937.0": {
       "family_name": "DejaVu Sans Mono", 
       "font-family": "DejaVu Sans Mono", 
       "font-stretch": "normal", 
@@ -1044,7 +1044,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSerif-Bold.ttf||356088:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSerif-Bold.ttf||356088:1593422937.0": {
       "family_name": "DejaVu Serif", 
       "font-family": "DejaVu Serif", 
       "font-stretch": "normal", 
@@ -1080,7 +1080,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSerif-BoldItalic.ttf||347460:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSerif-BoldItalic.ttf||358820:1593422937.0": {
       "family_name": "DejaVu Serif", 
       "font-family": "DejaVu Serif", 
       "font-stretch": "normal", 
@@ -1116,7 +1116,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSerif-Italic.ttf||345996:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSerif-Italic.ttf||359000:1593422937.0": {
       "family_name": "DejaVu Serif", 
       "font-family": "DejaVu Serif", 
       "font-stretch": "normal", 
@@ -1152,7 +1152,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSerif.ttf||380132:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSerif.ttf||380132:1593422937.0": {
       "family_name": "DejaVu Serif", 
       "font-family": "DejaVu Serif", 
       "font-stretch": "normal", 
@@ -1188,7 +1188,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSerifCondensed-Bold.ttf||331244:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSerifCondensed-Bold.ttf||355220:1593422937.0": {
       "family_name": "DejaVu Serif Condensed", 
       "font-family": "DejaVu Serif Condensed", 
       "font-stretch": "semi-condensed", 
@@ -1224,7 +1224,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSerifCondensed-BoldItalic.ttf||346508:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSerifCondensed-BoldItalic.ttf||357888:1593422937.0": {
       "family_name": "DejaVu Serif Condensed", 
       "font-family": "DejaVu Serif Condensed", 
       "font-stretch": "semi-condensed", 
@@ -1260,7 +1260,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSerifCondensed-Italic.ttf||345324:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSerifCondensed-Italic.ttf||358324:1593422937.0": {
       "family_name": "DejaVu Serif Condensed", 
       "font-family": "DejaVu Serif Condensed", 
       "font-stretch": "semi-condensed", 
@@ -1296,7 +1296,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/DejaVuSerifCondensed.ttf||346664:1588824752.0": {
+    "/usr/share/fonts/TTF/DejaVuSerifCondensed.ttf||379296:1593422937.0": {
       "family_name": "DejaVu Serif Condensed", 
       "font-family": "DejaVu Serif Condensed", 
       "font-stretch": "semi-condensed", 
@@ -1332,7 +1332,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/Ubuntu Mono Bold Italic Nerd Font Complete Mono.ttf||968792:1561736860.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Bold Italic Nerd Font Complete Mono.ttf||959312:1592332152.0": {
       "family_name": "UbuntuMono Nerd Font Mono", 
       "font-family": "UbuntuMono Nerd Font Mono", 
       "font-stretch": "normal", 
@@ -1368,7 +1368,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/Ubuntu Mono Bold Italic Nerd Font Complete.ttf||989020:1561736860.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Bold Italic Nerd Font Complete.ttf||975060:1592332152.0": {
       "family_name": "UbuntuMono Nerd Font", 
       "font-family": "UbuntuMono Nerd Font", 
       "font-stretch": "normal", 
@@ -1404,7 +1404,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/Ubuntu Mono Bold Nerd Font Complete Mono.ttf||943916:1561736860.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Bold Nerd Font Complete Mono.ttf||934436:1592332152.0": {
       "family_name": "UbuntuMono Nerd Font Mono", 
       "font-family": "UbuntuMono Nerd Font Mono", 
       "font-stretch": "normal", 
@@ -1440,7 +1440,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/Ubuntu Mono Bold Nerd Font Complete.ttf||964148:1561736860.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Bold Nerd Font Complete.ttf||950184:1592332152.0": {
       "family_name": "UbuntuMono Nerd Font", 
       "font-family": "UbuntuMono Nerd Font", 
       "font-stretch": "normal", 
@@ -1476,7 +1476,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/Ubuntu Mono Italic Nerd Font Complete Mono.ttf||964828:1561736860.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Italic Nerd Font Complete Mono.ttf||955348:1592332152.0": {
       "family_name": "UbuntuMono Nerd Font Mono", 
       "font-family": "UbuntuMono Nerd Font Mono", 
       "font-stretch": "normal", 
@@ -1512,7 +1512,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/Ubuntu Mono Italic Nerd Font Complete.ttf||985056:1561736860.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Italic Nerd Font Complete.ttf||971096:1592332152.0": {
       "family_name": "UbuntuMono Nerd Font", 
       "font-family": "UbuntuMono Nerd Font", 
       "font-stretch": "normal", 
@@ -1548,7 +1548,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/Ubuntu Mono Nerd Font Complete Mono.ttf||958272:1561736860.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Nerd Font Complete Mono.ttf||948792:1592332152.0": {
       "family_name": "UbuntuMono Nerd Font Mono", 
       "font-family": "UbuntuMono Nerd Font Mono", 
       "font-stretch": "normal", 
@@ -1584,7 +1584,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/TTF/Ubuntu Mono Nerd Font Complete.ttf||978504:1561736860.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Nerd Font Complete.ttf||964540:1592332152.0": {
       "family_name": "UbuntuMono Nerd Font", 
       "font-family": "UbuntuMono Nerd Font", 
       "font-stretch": "normal", 
@@ -1620,7 +1620,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Black.otf||149272:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Black.otf||149272:1589874691.0": {
       "family_name": "Source Code Pro Black", 
       "font-family": "Source Code Pro Black", 
       "font-stretch": "normal", 
@@ -1656,7 +1656,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-BlackIt.otf||124432:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-BlackIt.otf||124432:1589874691.0": {
       "family_name": "Source Code Pro Black", 
       "font-family": "Source Code Pro Black", 
       "font-stretch": "normal", 
@@ -1692,7 +1692,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Bold.otf||148456:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Bold.otf||148456:1589874691.0": {
       "family_name": "Source Code Pro", 
       "font-family": "Source Code Pro", 
       "font-stretch": "normal", 
@@ -1728,7 +1728,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-BoldIt.otf||123112:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-BoldIt.otf||123112:1589874691.0": {
       "family_name": "Source Code Pro", 
       "font-family": "Source Code Pro", 
       "font-stretch": "normal", 
@@ -1764,7 +1764,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-ExtraLight.otf||141356:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-ExtraLight.otf||141356:1589874691.0": {
       "family_name": "Source Code Pro ExtraLight", 
       "font-family": "Source Code Pro ExtraLight", 
       "font-stretch": "normal", 
@@ -1800,7 +1800,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-ExtraLightIt.otf||120104:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-ExtraLightIt.otf||120104:1589874691.0": {
       "family_name": "Source Code Pro ExtraLight", 
       "font-family": "Source Code Pro ExtraLight", 
       "font-stretch": "normal", 
@@ -1836,7 +1836,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-It.otf||122288:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-It.otf||122288:1589874691.0": {
       "family_name": "Source Code Pro", 
       "font-family": "Source Code Pro", 
       "font-stretch": "normal", 
@@ -1872,7 +1872,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Light.otf||145036:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Light.otf||145036:1589874691.0": {
       "family_name": "Source Code Pro Light", 
       "font-family": "Source Code Pro Light", 
       "font-stretch": "normal", 
@@ -1908,7 +1908,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-LightIt.otf||123040:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-LightIt.otf||123040:1589874691.0": {
       "family_name": "Source Code Pro Light", 
       "font-family": "Source Code Pro Light", 
       "font-stretch": "normal", 
@@ -1944,7 +1944,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Medium.otf||145516:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Medium.otf||145516:1589874691.0": {
       "family_name": "Source Code Pro Medium", 
       "font-family": "Source Code Pro Medium", 
       "font-stretch": "normal", 
@@ -1980,7 +1980,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-MediumIt.otf||122368:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-MediumIt.otf||122368:1589874691.0": {
       "family_name": "Source Code Pro Medium", 
       "font-family": "Source Code Pro Medium", 
       "font-stretch": "normal", 
@@ -2016,7 +2016,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Regular.otf||145556:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Regular.otf||145556:1589874691.0": {
       "family_name": "Source Code Pro", 
       "font-family": "Source Code Pro", 
       "font-stretch": "normal", 
@@ -2052,7 +2052,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Semibold.otf||146808:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Semibold.otf||146808:1589874691.0": {
       "family_name": "Source Code Pro Semibold", 
       "font-family": "Source Code Pro Semibold", 
       "font-stretch": "normal", 
@@ -2088,7 +2088,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-SemiboldIt.otf||122652:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-SemiboldIt.otf||122652:1589874691.0": {
       "family_name": "Source Code Pro Semibold", 
       "font-family": "Source Code Pro Semibold", 
       "font-stretch": "normal", 
@@ -2124,7 +2124,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodeVariable-Italic.otf||164304:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodeVariable-Italic.otf||164304:1589874691.0": {
       "family_name": "Source Code Variable", 
       "font-family": "Source Code Variable", 
       "font-stretch": "normal", 
@@ -2160,7 +2160,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodeVariable-Roman.otf||194728:1552750011.0": {
+    "/usr/share/fonts/adobe-source-code-pro/SourceCodeVariable-Roman.otf||194728:1589874691.0": {
       "family_name": "Source Code Variable", 
       "font-family": "Source Code Variable", 
       "font-stretch": "normal", 
@@ -2412,7 +2412,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidKufi-Bold.ttf||81220:1562862449.0": {
+    "/usr/share/fonts/droid/DroidKufi-Bold.ttf||81220:1594139813.0": {
       "family_name": "Droid Arabic Kufi", 
       "font-family": "Droid Arabic Kufi", 
       "font-stretch": "normal", 
@@ -2448,7 +2448,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidKufi-Regular.ttf||81224:1562862449.0": {
+    "/usr/share/fonts/droid/DroidKufi-Regular.ttf||81224:1594139813.0": {
       "family_name": "Droid Arabic Kufi", 
       "font-family": "Droid Arabic Kufi", 
       "font-stretch": "normal", 
@@ -2484,7 +2484,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidNaskh-Bold.ttf||94620:1562862449.0": {
+    "/usr/share/fonts/droid/DroidNaskh-Bold.ttf||94620:1594139813.0": {
       "family_name": "Droid Arabic Naskh", 
       "font-family": "Droid Arabic Naskh", 
       "font-stretch": "normal", 
@@ -2520,7 +2520,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidNaskh-Regular-SystemUI.ttf||158148:1562862449.0": {
+    "/usr/share/fonts/droid/DroidNaskh-Regular-SystemUI.ttf||158148:1594139813.0": {
       "family_name": "Droid Naskh Shift Alt", 
       "font-family": "Droid Naskh Shift Alt", 
       "font-stretch": "normal", 
@@ -2556,7 +2556,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidNaskh-Regular.ttf||91340:1562862449.0": {
+    "/usr/share/fonts/droid/DroidNaskh-Regular.ttf||91340:1594139813.0": {
       "family_name": "Droid Arabic Naskh", 
       "font-family": "Droid Arabic Naskh", 
       "font-stretch": "normal", 
@@ -2592,7 +2592,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSans-Bold.ttf||194488:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSans-Bold.ttf||194488:1594139813.0": {
       "family_name": "Droid Sans", 
       "font-family": "Droid Sans", 
       "font-stretch": "normal", 
@@ -2628,7 +2628,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSans.ttf||190776:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSans.ttf||190776:1594139813.0": {
       "family_name": "Droid Sans", 
       "font-family": "Droid Sans", 
       "font-stretch": "normal", 
@@ -2664,7 +2664,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansArabic.ttf||35880:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansArabic.ttf||35880:1594139813.0": {
       "family_name": "Droid Sans Arabic", 
       "font-family": "Droid Sans Arabic", 
       "font-stretch": "normal", 
@@ -2700,7 +2700,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansArmenian.ttf||13856:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansArmenian.ttf||13856:1594139813.0": {
       "family_name": "Droid Sans Armenian", 
       "font-family": "Droid Sans Armenian", 
       "font-stretch": "normal", 
@@ -2736,7 +2736,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansDevanagari-Regular.ttf||123372:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansDevanagari-Regular.ttf||123372:1594139813.0": {
       "family_name": "Droid Sans Devanagari", 
       "font-family": "Droid Sans Devanagari", 
       "font-stretch": "normal", 
@@ -2772,7 +2772,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansEthiopic-Bold.ttf||222592:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansEthiopic-Bold.ttf||222592:1594139813.0": {
       "family_name": "Droid Sans Ethiopic", 
       "font-family": "Droid Sans Ethiopic", 
       "font-stretch": "normal", 
@@ -2808,7 +2808,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansEthiopic-Regular.ttf||227928:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansEthiopic-Regular.ttf||227928:1594139813.0": {
       "family_name": "Droid Sans Ethiopic", 
       "font-family": "Droid Sans Ethiopic", 
       "font-stretch": "normal", 
@@ -2844,7 +2844,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansFallback.ttf||3838696:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansFallback.ttf||3838696:1594139813.0": {
       "family_name": "Droid Sans Fallback", 
       "font-family": "Droid Sans Fallback", 
       "font-stretch": "normal", 
@@ -2880,7 +2880,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansFallbackFull.ttf||5398328:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansFallbackFull.ttf||5398328:1594139813.0": {
       "family_name": "Droid Sans Fallback", 
       "font-family": "Droid Sans Fallback", 
       "font-stretch": "normal", 
@@ -2916,7 +2916,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansFallbackLegacy.ttf||3081908:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansFallbackLegacy.ttf||3081908:1594139813.0": {
       "family_name": "Droid Sans Fallback", 
       "font-family": "Droid Sans Fallback", 
       "font-stretch": "normal", 
@@ -2952,7 +2952,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansGeorgian.ttf||21096:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansGeorgian.ttf||21096:1594139813.0": {
       "family_name": "Droid Sans Georgian", 
       "font-family": "Droid Sans Georgian", 
       "font-stretch": "normal", 
@@ -2988,7 +2988,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansHebrew-Bold.ttf||30280:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansHebrew-Bold.ttf||30280:1594139813.0": {
       "family_name": "Droid Sans Hebrew", 
       "font-family": "Droid Sans Hebrew", 
       "font-stretch": "normal", 
@@ -3024,7 +3024,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansHebrew-Regular.ttf||30024:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansHebrew-Regular.ttf||30024:1594139813.0": {
       "family_name": "Droid Sans Hebrew", 
       "font-family": "Droid Sans Hebrew", 
       "font-stretch": "normal", 
@@ -3060,7 +3060,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansJapanese.ttf||1173140:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansJapanese.ttf||1173140:1594139813.0": {
       "family_name": "Droid Sans Japanese", 
       "font-family": "Droid Sans Japanese", 
       "font-stretch": "normal", 
@@ -3096,7 +3096,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansMono.ttf||119380:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansMono.ttf||119380:1594139813.0": {
       "family_name": "Droid Sans Mono", 
       "font-family": "Droid Sans Mono", 
       "font-stretch": "normal", 
@@ -3132,7 +3132,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansTamil-Bold.ttf||36448:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansTamil-Bold.ttf||36448:1594139813.0": {
       "family_name": "Droid Sans Tamil", 
       "font-family": "Droid Sans Tamil", 
       "font-stretch": "normal", 
@@ -3168,7 +3168,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansTamil-Regular.ttf||36308:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansTamil-Regular.ttf||36308:1594139813.0": {
       "family_name": "Droid Sans Tamil", 
       "font-family": "Droid Sans Tamil", 
       "font-stretch": "normal", 
@@ -3204,7 +3204,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSansThai.ttf||35584:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSansThai.ttf||35584:1594139813.0": {
       "family_name": "Droid Sans Thai", 
       "font-family": "Droid Sans Thai", 
       "font-stretch": "normal", 
@@ -3240,7 +3240,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSerif-Bold.ttf||185228:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSerif-Bold.ttf||185228:1594139813.0": {
       "family_name": "Droid Serif", 
       "font-family": "Droid Serif", 
       "font-stretch": "normal", 
@@ -3276,7 +3276,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSerif-BoldItalic.ttf||190304:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSerif-BoldItalic.ttf||190304:1594139813.0": {
       "family_name": "Droid Serif", 
       "font-family": "Droid Serif", 
       "font-stretch": "normal", 
@@ -3312,7 +3312,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSerif-Italic.ttf||177560:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSerif-Italic.ttf||177560:1594139813.0": {
       "family_name": "Droid Serif", 
       "font-family": "Droid Serif", 
       "font-stretch": "normal", 
@@ -3348,7 +3348,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/droid/DroidSerif-Regular.ttf||172916:1562862449.0": {
+    "/usr/share/fonts/droid/DroidSerif-Regular.ttf||172916:1594139813.0": {
       "family_name": "Droid Serif", 
       "font-family": "Droid Serif", 
       "font-stretch": "normal", 
@@ -3384,7 +3384,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/C059-BdIta.otf||103444:1547578229.0": {
+    "/usr/share/fonts/gsfonts/C059-BdIta.otf||103444:1589628025.0": {
       "family_name": "C059", 
       "font-family": "C059", 
       "font-stretch": "normal", 
@@ -3420,7 +3420,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/C059-Bold.otf||100692:1547578229.0": {
+    "/usr/share/fonts/gsfonts/C059-Bold.otf||100692:1589628025.0": {
       "family_name": "C059", 
       "font-family": "C059", 
       "font-stretch": "normal", 
@@ -3456,7 +3456,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/C059-Italic.otf||101324:1547578229.0": {
+    "/usr/share/fonts/gsfonts/C059-Italic.otf||101324:1589628025.0": {
       "family_name": "C059", 
       "font-family": "C059", 
       "font-stretch": "normal", 
@@ -3492,7 +3492,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/C059-Roman.otf||97476:1547578229.0": {
+    "/usr/share/fonts/gsfonts/C059-Roman.otf||97476:1589628025.0": {
       "family_name": "C059", 
       "font-family": "C059", 
       "font-stretch": "normal", 
@@ -3528,7 +3528,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/D050000L.otf||29832:1547578229.0": {
+    "/usr/share/fonts/gsfonts/D050000L.otf||29832:1589628025.0": {
       "family_name": "D050000L", 
       "font-family": "D050000L", 
       "font-stretch": "normal", 
@@ -3564,7 +3564,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-Bold.otf||87520:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-Bold.otf||87520:1589628025.0": {
       "family_name": "Nimbus Mono PS", 
       "font-family": "Nimbus Mono PS", 
       "font-stretch": "normal", 
@@ -3600,7 +3600,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-BoldItalic.otf||89580:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-BoldItalic.otf||89580:1589628025.0": {
       "family_name": "Nimbus Mono PS", 
       "font-family": "Nimbus Mono PS", 
       "font-stretch": "normal", 
@@ -3636,7 +3636,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-Italic.otf||82648:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-Italic.otf||82648:1589628025.0": {
       "family_name": "Nimbus Mono PS", 
       "font-family": "Nimbus Mono PS", 
       "font-stretch": "normal", 
@@ -3672,7 +3672,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-Regular.otf||77936:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-Regular.otf||77936:1589628025.0": {
       "family_name": "Nimbus Mono PS", 
       "font-family": "Nimbus Mono PS", 
       "font-stretch": "normal", 
@@ -3708,7 +3708,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusRoman-Bold.otf||100984:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-Bold.otf||100984:1589628025.0": {
       "family_name": "Nimbus Roman", 
       "font-family": "Nimbus Roman", 
       "font-stretch": "normal", 
@@ -3744,7 +3744,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusRoman-BoldItalic.otf||104772:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-BoldItalic.otf||104772:1589628025.0": {
       "family_name": "Nimbus Roman", 
       "font-family": "Nimbus Roman", 
       "font-stretch": "normal", 
@@ -3780,7 +3780,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusRoman-Italic.otf||105684:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-Italic.otf||105684:1589628025.0": {
       "family_name": "Nimbus Roman", 
       "font-family": "Nimbus Roman", 
       "font-stretch": "normal", 
@@ -3816,7 +3816,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusRoman-Regular.otf||98200:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-Regular.otf||98200:1589628025.0": {
       "family_name": "Nimbus Roman", 
       "font-family": "Nimbus Roman", 
       "font-stretch": "normal", 
@@ -3852,7 +3852,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusSans-Bold.otf||83264:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-Bold.otf||83264:1589628025.0": {
       "family_name": "Nimbus Sans", 
       "font-family": "Nimbus Sans", 
       "font-stretch": "normal", 
@@ -3888,7 +3888,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusSans-BoldItalic.otf||88020:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-BoldItalic.otf||88020:1589628025.0": {
       "family_name": "Nimbus Sans", 
       "font-family": "Nimbus Sans", 
       "font-stretch": "normal", 
@@ -3924,7 +3924,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusSans-Italic.otf||88520:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-Italic.otf||88520:1589628025.0": {
       "family_name": "Nimbus Sans", 
       "font-family": "Nimbus Sans", 
       "font-stretch": "normal", 
@@ -3960,7 +3960,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusSans-Regular.otf||82264:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-Regular.otf||82264:1589628025.0": {
       "family_name": "Nimbus Sans", 
       "font-family": "Nimbus Sans", 
       "font-stretch": "normal", 
@@ -3996,7 +3996,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Bold.otf||81340:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Bold.otf||81340:1589628025.0": {
       "family_name": "Nimbus Sans Narrow", 
       "font-family": "Nimbus Sans Narrow", 
       "font-stretch": "semi-condensed", 
@@ -4032,7 +4032,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-BoldOblique.otf||87956:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-BoldOblique.otf||87956:1589628025.0": {
       "family_name": "Nimbus Sans Narrow", 
       "font-family": "Nimbus Sans Narrow", 
       "font-stretch": "semi-condensed", 
@@ -4068,7 +4068,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Oblique.otf||87068:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Oblique.otf||87068:1589628025.0": {
       "family_name": "Nimbus Sans Narrow", 
       "font-family": "Nimbus Sans Narrow", 
       "font-stretch": "semi-condensed", 
@@ -4104,7 +4104,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Regular.otf||80864:1547578229.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Regular.otf||80864:1589628025.0": {
       "family_name": "Nimbus Sans Narrow", 
       "font-family": "Nimbus Sans Narrow", 
       "font-stretch": "semi-condensed", 
@@ -4140,7 +4140,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/P052-Bold.otf||110980:1547578229.0": {
+    "/usr/share/fonts/gsfonts/P052-Bold.otf||110980:1589628025.0": {
       "family_name": "P052", 
       "font-family": "P052", 
       "font-stretch": "normal", 
@@ -4176,7 +4176,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/P052-BoldItalic.otf||110928:1547578229.0": {
+    "/usr/share/fonts/gsfonts/P052-BoldItalic.otf||110928:1589628025.0": {
       "family_name": "P052", 
       "font-family": "P052", 
       "font-stretch": "normal", 
@@ -4212,7 +4212,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/P052-Italic.otf||109824:1547578229.0": {
+    "/usr/share/fonts/gsfonts/P052-Italic.otf||109824:1589628025.0": {
       "family_name": "P052", 
       "font-family": "P052", 
       "font-stretch": "normal", 
@@ -4248,7 +4248,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/P052-Roman.otf||110236:1547578229.0": {
+    "/usr/share/fonts/gsfonts/P052-Roman.otf||110236:1589628025.0": {
       "family_name": "P052", 
       "font-family": "P052", 
       "font-stretch": "normal", 
@@ -4284,7 +4284,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/StandardSymbolsPS.otf||21176:1547578229.0": {
+    "/usr/share/fonts/gsfonts/StandardSymbolsPS.otf||21176:1589628025.0": {
       "family_name": "Standard Symbols PS", 
       "font-family": "Standard Symbols PS", 
       "font-stretch": "normal", 
@@ -4320,7 +4320,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/URWBookman-Demi.otf||97208:1547578229.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-Demi.otf||97208:1589628025.0": {
       "family_name": "URW Bookman", 
       "font-family": "URW Bookman", 
       "font-stretch": "normal", 
@@ -4356,7 +4356,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/URWBookman-DemiItalic.otf||101584:1547578229.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-DemiItalic.otf||101584:1589628025.0": {
       "family_name": "URW Bookman", 
       "font-family": "URW Bookman", 
       "font-stretch": "normal", 
@@ -4392,7 +4392,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/URWBookman-Light.otf||98396:1547578229.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-Light.otf||98396:1589628025.0": {
       "family_name": "URW Bookman", 
       "font-family": "URW Bookman", 
       "font-stretch": "normal", 
@@ -4428,7 +4428,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/URWBookman-LightItalic.otf||102764:1547578229.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-LightItalic.otf||102764:1589628025.0": {
       "family_name": "URW Bookman", 
       "font-family": "URW Bookman", 
       "font-stretch": "normal", 
@@ -4464,7 +4464,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/URWGothic-Book.otf||82968:1547578229.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-Book.otf||82968:1589628025.0": {
       "family_name": "URW Gothic", 
       "font-family": "URW Gothic", 
       "font-stretch": "normal", 
@@ -4500,7 +4500,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/URWGothic-BookOblique.otf||85336:1547578229.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-BookOblique.otf||85336:1589628025.0": {
       "family_name": "URW Gothic", 
       "font-family": "URW Gothic", 
       "font-stretch": "normal", 
@@ -4536,7 +4536,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/URWGothic-Demi.otf||83580:1547578229.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-Demi.otf||83580:1589628025.0": {
       "family_name": "URW Gothic", 
       "font-family": "URW Gothic", 
       "font-stretch": "normal", 
@@ -4572,7 +4572,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/URWGothic-DemiOblique.otf||86232:1547578229.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-DemiOblique.otf||86232:1589628025.0": {
       "family_name": "URW Gothic", 
       "font-family": "URW Gothic", 
       "font-stretch": "normal", 
@@ -4608,7 +4608,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/gsfonts/Z003-MediumItalic.otf||114052:1547578229.0": {
+    "/usr/share/fonts/gsfonts/Z003-MediumItalic.otf||114052:1589628025.0": {
       "family_name": "Z003", 
       "font-family": "Z003", 
       "font-stretch": "normal", 
@@ -4644,7 +4644,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationMono-Bold.ttf||303656:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationMono-Bold.ttf||304680:1591594951.0": {
       "family_name": "Liberation Mono", 
       "font-family": "Liberation Mono", 
       "font-stretch": "normal", 
@@ -4680,7 +4680,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationMono-BoldItalic.ttf||279668:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationMono-BoldItalic.ttf||281016:1591594951.0": {
       "family_name": "Liberation Mono", 
       "font-family": "Liberation Mono", 
       "font-stretch": "normal", 
@@ -4716,7 +4716,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationMono-Italic.ttf||276668:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationMono-Italic.ttf||278536:1591594951.0": {
       "family_name": "Liberation Mono", 
       "font-family": "Liberation Mono", 
       "font-stretch": "normal", 
@@ -4752,7 +4752,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationMono-Regular.ttf||314844:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationMono-Regular.ttf||316128:1591594951.0": {
       "family_name": "Liberation Mono", 
       "font-family": "Liberation Mono", 
       "font-stretch": "normal", 
@@ -4788,7 +4788,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationSans-Bold.ttf||412304:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationSans-Bold.ttf||412304:1591594951.0": {
       "family_name": "Liberation Sans", 
       "font-family": "Liberation Sans", 
       "font-stretch": "normal", 
@@ -4824,7 +4824,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationSans-BoldItalic.ttf||407164:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationSans-BoldItalic.ttf||407164:1591594951.0": {
       "family_name": "Liberation Sans", 
       "font-family": "Liberation Sans", 
       "font-stretch": "normal", 
@@ -4860,7 +4860,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationSans-Italic.ttf||413688:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationSans-Italic.ttf||413688:1591594951.0": {
       "family_name": "Liberation Sans", 
       "font-family": "Liberation Sans", 
       "font-stretch": "normal", 
@@ -4896,7 +4896,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationSans-Regular.ttf||408856:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationSans-Regular.ttf||408856:1591594951.0": {
       "family_name": "Liberation Sans", 
       "font-family": "Liberation Sans", 
       "font-stretch": "normal", 
@@ -4932,7 +4932,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationSerif-Bold.ttf||366524:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationSerif-Bold.ttf||367760:1591594951.0": {
       "family_name": "Liberation Serif", 
       "font-family": "Liberation Serif", 
       "font-stretch": "normal", 
@@ -4968,7 +4968,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationSerif-BoldItalic.ttf||372592:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationSerif-BoldItalic.ttf||374332:1591594951.0": {
       "family_name": "Liberation Serif", 
       "font-family": "Liberation Serif", 
       "font-stretch": "normal", 
@@ -5004,7 +5004,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationSerif-Italic.ttf||372036:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationSerif-Italic.ttf||373208:1591594951.0": {
       "family_name": "Liberation Serif", 
       "font-family": "Liberation Serif", 
       "font-stretch": "normal", 
@@ -5040,7 +5040,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/liberation/LiberationSerif-Regular.ttf||389764:1581295497.0": {
+    "/usr/share/fonts/liberation/LiberationSerif-Regular.ttf||390888:1591594951.0": {
       "family_name": "Liberation Serif", 
       "font-family": "Liberation Serif", 
       "font-stretch": "normal", 
@@ -23508,7 +23508,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/wps-fonts/WEBDINGS.TTF||121664:1561026649.0": {
+    "/usr/share/fonts/wps-fonts/WEBDINGS.TTF||121664:1595271175.0": {
       "family_name": "Webdings", 
       "font-family": "Webdings", 
       "font-stretch": "normal", 
@@ -23544,7 +23544,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/wps-fonts/WINGDNG2.ttf||65788:1561026649.0": {
+    "/usr/share/fonts/wps-fonts/WINGDNG2.ttf||65788:1595271175.0": {
       "family_name": "Wingdings 2", 
       "font-family": "Wingdings 2", 
       "font-stretch": "normal", 
@@ -23580,7 +23580,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/wps-fonts/WINGDNG3.ttf||35328:1561026649.0": {
+    "/usr/share/fonts/wps-fonts/WINGDNG3.ttf||35328:1595271175.0": {
       "family_name": "Wingdings 3", 
       "font-family": "Wingdings 3", 
       "font-stretch": "normal", 
@@ -23616,7 +23616,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/wps-fonts/mtextra.ttf||27092:1561026649.0": {
+    "/usr/share/fonts/wps-fonts/mtextra.ttf||27092:1595271175.0": {
       "family_name": "MT Extra", 
       "font-family": "MT Extra", 
       "font-stretch": "normal", 
@@ -23652,7 +23652,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/wps-fonts/symbol.ttf||70128:1561026649.0": {
+    "/usr/share/fonts/wps-fonts/symbol.ttf||70128:1595271175.0": {
       "family_name": "Symbol", 
       "font-family": "Symbol", 
       "font-stretch": "normal", 
@@ -23688,7 +23688,7 @@
       "wws_family_name": null, 
       "wws_subfamily_name": null
     }, 
-    "/usr/share/fonts/wps-fonts/wingding.ttf||83740:1561026649.0": {
+    "/usr/share/fonts/wps-fonts/wingding.ttf||83740:1595271175.0": {
       "family_name": "Wingdings", 
       "font-family": "Wingdings", 
       "font-stretch": "normal", 
