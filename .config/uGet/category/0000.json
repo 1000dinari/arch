@@ -39,6 +39,75 @@
 		{
 			"info": {
 				"relation": {
+					"group": 3,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 42667328,
+					"total": 1430860631,
+					"elapsed": 45,
+					"uploaded": 0,
+					"percent": 2
+				},
+				"log": {
+					"added-time": 1596305816,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Not Resumable",
+							"type": 2,
+							"time": 1596307221
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/usersdownload.com\/a6pi5ft0llz3.html",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "com.laminarresearch.x_plane10.zip",
+					"uri": "https:\/\/s3.apkandroidfree.com\/cgi-bin\/dl.cgi\/kmn4zxzdwfbbjdqnuuzkyqqrs73isjdz4sxnoiwzut6t4d6vjd3uwka\/com.laminarresearch.x_plane10.zip",
+					"file": "com.laminarresearch.x_plane10.zip",
+					"folder": "\/home\/barbarik",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/barbarik\/com.laminarresearch.x_plane10.zip",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/home\/barbarik\/com.laminarresearch.x_plane10.zip.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
 					"group": 72,
 					"priority": 1
 				},

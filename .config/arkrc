@@ -100,16 +100,16 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-Height 768=737
+Height 768=361
 State=AAAA/wAAAAD9AAAAAAAAAuEAAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 Width 1366=737
-splitterSizes=488,243
+splitterSizes=397,198
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/Telegram Desktop/NXP_2.zip
-File10[$e]=$HOME/.cache/yay/openoffice/v4.1.7-x86_64.uncompressed
+File10[$e]=$HOME/Downloads/Quiz Form.csv.zip
 File2[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx.zip
 File3[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx/chrome/sas_session.jar
 File4[$e]=$HOME/.config/mpd/mpd.db
@@ -119,7 +119,7 @@ File7[$e]=$HOME/ebooks/ebooks.zip
 File8[$e]=$HOME/Downloads/TL-MR3020_V1_150921.zip
 File9[$e]=$HOME/.cache/yay/openoffice/v4.1.7-x86_64
 Name1[$e]=NXP_2.zip
-Name10[$e]=v4.1.7-x86_64.uncompressed
+Name10[$e]=Quiz Form.csv.zip
 Name2[$e]=sas_session-3.0-fx.zip
 Name3[$e]=sas_session.jar
 Name4[$e]=mpd.db

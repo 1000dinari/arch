@@ -9,6 +9,6 @@
     <property name="width" type="uint" value="1366"/>
   </property>
   <property name="file" type="empty">
-    <property name="current-uri" type="string" value="file:///home/barbarik/Downloads"/>
+    <property name="current-uri" type="string" value="file:///home/barbarik/Pictures/screenshots"/>
   </property>
 </channel>
