@@ -12,6 +12,7 @@ application/vnd.openxmlformats-officedocument.presentationml.presentation=libreo
 application/octet-stream=org.octave.Octave.desktop;uget-gtk.desktop;vlc.desktop;
 application/x-zip-compressed=uget-gtk.desktop;
 image/jpeg=ristretto.desktop;
+image/png=ristretto.desktop;
 
 [Default Applications]
 application/pdf=org.kde.okular.desktop
