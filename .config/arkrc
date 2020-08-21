@@ -100,12 +100,12 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-Height 768=361
+Height 768=737
 State=AAAA/wAAAAD9AAAAAAAAAuEAAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 Width 1366=737
-splitterSizes=397,198
+splitterSizes=488,243
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/Telegram Desktop/NXP_2.zip

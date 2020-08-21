@@ -13,6 +13,7 @@ application/octet-stream=org.octave.Octave.desktop;uget-gtk.desktop;vlc.desktop;
 application/x-zip-compressed=uget-gtk.desktop;
 image/jpeg=ristretto.desktop;
 image/png=ristretto.desktop;
+video/mp4=vlc.desktop;
 
 [Default Applications]
 application/pdf=org.kde.okular.desktop
