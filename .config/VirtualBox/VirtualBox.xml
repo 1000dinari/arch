@@ -9,7 +9,7 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
-      <ExtraDataItem name="GUI/GroupDefinitions/" value="n=GLOBAL,m=8f01189b-0017-4e97-b3e6-b4c81bb142ed"/>
+      <ExtraDataItem name="GUI/GroupDefinitions/" value="n=GLOBAL"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="n=GLOBAL"/>
       <ExtraDataItem name="GUI/LastWindowPosition" value="0,17,1366,751,max"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/barbarik/isos/gentoo"/>
@@ -21,9 +21,7 @@
       <ExtraDataItem name="GUI/UpdateCheckCount" value="2"/>
       <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-06-18, stable, 6.0.8"/>
     </ExtraData>
-    <MachineRegistry>
-      <MachineEntry uuid="{8f01189b-0017-4e97-b3e6-b4c81bb142ed}" src="/home/barbarik/isos/vms/gentoo/gentoo.vbox"/>
-    </MachineRegistry>
+    <MachineRegistry/>
     <NetserviceRegistry>
       <DHCPServers>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>

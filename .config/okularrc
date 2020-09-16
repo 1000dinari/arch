@@ -1,31 +1,54 @@
 [Desktop Entry]
-FullScreen=true
+FullScreen=false
 shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=false
 
+[Interface]
+ShowRulers=false
+
 [MainWindow]
-Height 768=768
+Height 768=741
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAALvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
-Width 1366=1366
+Width 1366=741
 
 [Recent Files]
-File1[$e]=$HOME/acad/Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley) - libgen.lc.pdf
-File2[$e]=$HOME/Documents/NA.pdf
-File3[$e]=$HOME/Pictures/cv/resume.pdf
-File4[$e]=$HOME/acad/ED/Assignment1.pdf
-File5[$e]=$HOME/acad/ED/920489.pdf
-File6[$e]=$HOME/acad/ED/assignment-2.pdf
-File7[$e]=$HOME/Downloads/Telegram Desktop/101915205_Saurabh_Chaudhary.pdf
-File8[$e]=$HOME/acad/NA/exp2.pdf
-File9[$e]=$HOME/acad/ED/101915205_Saurabh.pdf
-Name1[$e]=Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley) - libgen.lc.pdf
-Name2[$e]=NA.pdf
-Name3[$e]=resume.pdf
-Name4[$e]=Assignment1.pdf
-Name5[$e]=920489.pdf
-Name6[$e]=assignment-2.pdf
-Name7[$e]=101915205_Saurabh_Chaudhary.pdf
-Name8[$e]=exp2.pdf
-Name9[$e]=101915205_Saurabh.pdf
+File1[$e]=$HOME/acad/NA/experiment4.pdf
+File10[$e]=$HOME/acad/NA/MATLAB.pdf
+File2[$e]=$HOME/csfdd/Computer-Stuff-for-Dum-Dums.pdf
+File3[$e]=$HOME/Downloads/Telegram Desktop/101915205_Saurabh.pdf
+File4[$e]=$HOME/acad/EM/101915205_EN 03.pdf
+File5[$e]=$HOME/acad/ED/eced-1.pdf
+File6[$e]=$HOME/acad/NA/experiment4-gauss.pdf
+File7[$e]=$HOME/acad/ED/ENC8_101915205_Saurabh_Chaudhary_Assignment2.pdf
+File8[$e]=$HOME/Downloads/farewell.pdf.odt
+File9[$e]=$HOME/acad/EM/101915205_EN 04.pdf
+Name1[$e]=experiment4.pdf
+Name10[$e]=MATLAB.pdf
+Name2[$e]=Computer-Stuff-for-Dum-Dums.pdf
+Name3[$e]=101915205_Saurabh.pdf
+Name4[$e]=101915205_EN 03.pdf
+Name5[$e]=eced-1.pdf
+Name6[$e]=experiment4-gauss.pdf
+Name7[$e]=ENC8_101915205_Saurabh_Chaudhary_Assignment2.pdf
+Name8[$e]=farewell.pdf.odt
+Name9[$e]=101915205_EN 04.pdf
+
+[SlideShow]
+PresentationMonitor=0
+PresenterViewEnabled=false
+
+[calligra]
+ColorSpacePlugins=kolcmsengine
+ColorSpacePluginsDisabled=
+ShapePlugins=artistictextshape,chartshape,formulashape,musicshape,pathshapes,pictureshape,pluginshape,textshape,threedshape,vectorshape,videoshape
+ShapePluginsDisabled=
+TextInlinePlugins=textvariables,kprvariables
+TextInlinePluginsDisabled=
+ToolPlugins=basicflakesplugin,defaulttools,karbontools
+ToolPluginsDisabled=
+
+[stage]
+PageEffectPlugins=kpr_pageeffect_barwipe,kpr_pageeffect_clockwipe,kpr_pageeffect_edgewipe,kpr_pageeffect_fade,kpr_pageeffect_iriswipe,kpr_pageeffect_matrixwipe,kpr_pageeffect_slidewipe,kpr_pageeffect_spacerotation,kpr_pageeffect_swapeffect
+PageEffectPluginsDisabled=

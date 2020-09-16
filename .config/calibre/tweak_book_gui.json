@@ -111,7 +111,7 @@
   }, 
   "import-foreign-geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywADAAAAAAGeAAAA+gAAA64AAAG/AAABnwAAAPsAAAOtAAABvgAAAAAAAAAABVYAAAGfAAAA+wAAA60AAAG+"
+    "__value__": "AdnQywADAAAAAAGfAAAA+wAAA68AAAHAAAABoAAAAPwAAAOuAAABvwAAAAAAAAAABVYAAAGgAAAA/AAAA64AAAG/"
   }, 
   "main_window_geometry": {
     "__class__": "bytearray", 

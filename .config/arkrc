@@ -6,6 +6,9 @@ DirHistory[$e]=$HOME/learning/,$HOME/learning/wireshark/,$HOME/learning/fs/,$HOM
 Height 768=512
 Width 1366=1000
 
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME
 Recent URLs[$e]=file:$HOME/learning/
@@ -69,6 +72,7 @@ Dynamic Word Wrap=true
 Dynamic Word Wrap Align Indent=80
 Dynamic Word Wrap At Static Marker=false
 Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
 Fold First Line=false
 Folding Bar=true
 Folding Preview=true
@@ -100,37 +104,36 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-Height 768=737
-State=AAAA/wAAAAD9AAAAAAAAAuEAAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
-StatusBar=Disabled
+Height 768=741
+State=AAAA/wAAAAD9AAAAAAAAAuUAAAKGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=737
-splitterSizes=488,243
+Width 1366=741
+splitterSizes=491,244
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Telegram Desktop/NXP_2.zip
-File10[$e]=$HOME/Downloads/Quiz Form.csv.zip
-File2[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx.zip
-File3[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx/chrome/sas_session.jar
-File4[$e]=$HOME/.config/mpd/mpd.db
-File5[$e]=$HOME/.config/mpd/database
-File6[$e]=$HOME/buffer/ass.tar.gz
-File7[$e]=$HOME/ebooks/ebooks.zip
-File8[$e]=$HOME/Downloads/TL-MR3020_V1_150921.zip
-File9[$e]=$HOME/.cache/yay/openoffice/v4.1.7-x86_64
-Name1[$e]=NXP_2.zip
-Name10[$e]=Quiz Form.csv.zip
-Name2[$e]=sas_session-3.0-fx.zip
-Name3[$e]=sas_session.jar
-Name4[$e]=mpd.db
-Name5[$e]=database
-Name6[$e]=ass.tar.gz
-Name7[$e]=ebooks.zip
-Name8[$e]=TL-MR3020_V1_150921.zip
-Name9[$e]=v4.1.7-x86_64
+File1[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx.zip
+File10[$e]=$HOME/Downloads/discord-0.0.12.tar.gz
+File2[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx/chrome/sas_session.jar
+File3[$e]=$HOME/.config/mpd/mpd.db
+File4[$e]=$HOME/.config/mpd/database
+File5[$e]=$HOME/buffer/ass.tar.gz
+File6[$e]=$HOME/ebooks/ebooks.zip
+File7[$e]=$HOME/Downloads/TL-MR3020_V1_150921.zip
+File8[$e]=$HOME/.cache/yay/openoffice/v4.1.7-x86_64
+File9[$e]=$HOME/Downloads/Quiz Form.csv.zip
+Name1[$e]=sas_session-3.0-fx.zip
+Name10[$e]=discord-0.0.12.tar.gz
+Name2[$e]=sas_session.jar
+Name3[$e]=mpd.db
+Name4[$e]=database
+Name5[$e]=ass.tar.gz
+Name6[$e]=ebooks.zip
+Name7[$e]=TL-MR3020_V1_150921.zip
+Name8[$e]=v4.1.7-x86_64
+Name9[$e]=Quiz Form.csv.zip
 
 [Viewer]
-Height 768=737
-State=AAAA/wAAAAD9AAAAAAAAAuEAAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 768=741
+State=AAAA/wAAAAD9AAAAAAAAAuUAAAKmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=737
+Width 1366=741

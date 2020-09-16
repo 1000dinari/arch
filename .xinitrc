@@ -10,7 +10,7 @@ xrdb ~/.Xresources
 # redshift -l 30.73629:76.7884 &
 picom --config ~/.config/picom/picom.conf &
 ~/battery.sh &
-feh --bg-scale --no-fehbg --randomize ~/wallpapers/kwp.jpg &
+feh --bg-scale --no-fehbg ~/wallpapers/ancient.png &
 
 while [ "$(cat /sys/class/power_supply/BAT0/capacity)" -le 10 ] && [ "$(cat /sys/class/power_supply/BAT0/status)" = 'Discharging' ]; do
 		notify-send "CONNECT THE FRICKING CHARGER YOU BLITHERING IDIOT"

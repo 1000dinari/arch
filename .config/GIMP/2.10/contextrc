@@ -2,7 +2,6 @@
 
 (tool "gimp-rect-select-tool")
 (paint-info "gimp-paintbrush")
-(foreground (color-rgb 0.96153846153846156 0.81622688101779484 0.73567372225090344))
 (brush "2. Hardness 050")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")
