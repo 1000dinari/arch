@@ -12,28 +12,32 @@ MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABVYAAALvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1366=741
+eDP1 Height 768=751
+eDP1 Width 1366=1366
+eDP1 XPosition=0
+eDP1 YPosition=17
 
 [Recent Files]
-File1[$e]=$HOME/acad/NA/experiment4.pdf
-File10[$e]=$HOME/acad/NA/MATLAB.pdf
-File2[$e]=$HOME/csfdd/Computer-Stuff-for-Dum-Dums.pdf
-File3[$e]=$HOME/Downloads/Telegram Desktop/101915205_Saurabh.pdf
-File4[$e]=$HOME/acad/EM/101915205_EN 03.pdf
-File5[$e]=$HOME/acad/ED/eced-1.pdf
-File6[$e]=$HOME/acad/NA/experiment4-gauss.pdf
-File7[$e]=$HOME/acad/ED/ENC8_101915205_Saurabh_Chaudhary_Assignment2.pdf
-File8[$e]=$HOME/Downloads/farewell.pdf.odt
-File9[$e]=$HOME/acad/EM/101915205_EN 04.pdf
-Name1[$e]=experiment4.pdf
-Name10[$e]=MATLAB.pdf
-Name2[$e]=Computer-Stuff-for-Dum-Dums.pdf
-Name3[$e]=101915205_Saurabh.pdf
-Name4[$e]=101915205_EN 03.pdf
-Name5[$e]=eced-1.pdf
-Name6[$e]=experiment4-gauss.pdf
-Name7[$e]=ENC8_101915205_Saurabh_Chaudhary_Assignment2.pdf
-Name8[$e]=farewell.pdf.odt
-Name9[$e]=101915205_EN 04.pdf
+File1[$e]=$HOME/csfdd/Computer-Stuff-for-Dum-Dums.pdf
+File10[$e]=$HOME/acad/ED/ENC8_101915205_Saurabh_Chaudhary_Assignment3.pdf
+File2[$e]=$HOME/Downloads/Telegram Desktop/101915205_Saurabh.pdf
+File3[$e]=$HOME/acad/EM/101915205_EN 03.pdf
+File4[$e]=$HOME/acad/ED/eced-1.pdf
+File5[$e]=$HOME/acad/NA/experiment4-gauss.pdf
+File6[$e]=$HOME/acad/ED/ENC8_101915205_Saurabh_Chaudhary_Assignment2.pdf
+File7[$e]=$HOME/Downloads/farewell.pdf.odt
+File8[$e]=$HOME/acad/EM/101915205_EN 04.pdf
+File9[$e]=$HOME/acad/NA/MATLAB.pdf
+Name1[$e]=Computer-Stuff-for-Dum-Dums.pdf
+Name10[$e]=ENC8_101915205_Saurabh_Chaudhary_Assignment3.pdf
+Name2[$e]=101915205_Saurabh.pdf
+Name3[$e]=101915205_EN 03.pdf
+Name4[$e]=eced-1.pdf
+Name5[$e]=experiment4-gauss.pdf
+Name6[$e]=ENC8_101915205_Saurabh_Chaudhary_Assignment2.pdf
+Name7[$e]=farewell.pdf.odt
+Name8[$e]=101915205_EN 04.pdf
+Name9[$e]=MATLAB.pdf
 
 [SlideShow]
 PresentationMonitor=0
