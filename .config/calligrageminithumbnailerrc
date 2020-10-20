@@ -1,7 +1,0 @@
-[calligra]
-DockerPlugins=calligradockers,calligra_docker_stencils
-DockerPluginsDisabled=
-ShapePlugins=artistictextshape,chartshape,formulashape,musicshape,pathshapes,pictureshape,pluginshape,textshape,threedshape,vectorshape,videoshape
-ShapePluginsDisabled=
-ToolPlugins=basicflakesplugin,defaulttools,karbontools
-ToolPluginsDisabled=

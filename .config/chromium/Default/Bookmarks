@@ -1,0 +1,40 @@
+{
+   "checksum": "a26c86309b5281d15955184acb1401a4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13247213455697974",
+            "guid": "eea8c8e3-76a6-4b35-bc6c-b31fa52993cf",
+            "id": "5",
+            "name": "Welcome to thapar.codetantra.com",
+            "type": "url",
+            "url": "https://thapar.codetantra.com/login.jsp"
+         } ],
+         "date_added": "13247213121063715",
+         "date_modified": "13247213455697974",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13247213121063718",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13247213121063720",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
