@@ -4,7 +4,25 @@ shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=false
 
 [Interface]
+ResolutionX=14.1732529
+ResolutionY=14.1732529
+Rulers=false
 ShowRulers=false
+StatusBarShowLineNumber=true
+StatusBarShowModified=true
+StatusBarShowMouse=false
+StatusBarShowPage=true
+StatusBarShowPageSize=false
+StatusBarShowPageStyle=true
+StatusBarShowWordCount=false
+StatusBarShowZoom=true
+ViewFieldShadings=true
+ViewFormattingChars=false
+ViewFrameBorders=true
+ViewSectionBounds=false
+ViewTableBorders=true
+Zoom=100
+ZoomMode=1
 
 [MainWindow]
 Height 768=741
@@ -12,32 +30,37 @@ MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABVYAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1366=741
+eDP1 Height 1080=1080
 eDP1 Height 768=768
 eDP1 Width 1366=1366
+eDP1 Width 1920=1920
 eDP1 XPosition=0
 eDP1 YPosition=0
 
+[Misc]
+Units=pt
+
 [Recent Files]
-File1[$e]=$HOME/acad/NA/experiment7-power.odt
+File1[$e]=$HOME/acad/ED/ENC8_101915205_Saurabh_Chaudhary_Assignment1.pdf
 File10[$e]=$HOME/acad/NA/MATLAB.pdf
-File2[$e]=$HOME/acad/ED/ENC8_101915205_Saurabh_Chaudhary_Assignment4.pdf
-File3[$e]=$HOME/acad/ED/ENC8_101915205_Saurabh_Chaudhary_Assignment1.pdf
-File4[$e]=$HOME/acad/ED/ENC8_101915205_Saurabh_Chaudhary_Assignment3.pdf
-File5[$e]=$HOME/acad/ED/all.pdf
-File6[$e]=$HOME/acad/ED/final.pdf
-File7[$e]=$HOME/acad/EM/101915205_EN 06.pdf
-File8[$e]=$HOME/tribaan/pitch.md
-File9[$e]=$HOME/acad/EM/101915205_EN 07.pdf
-Name1[$e]=experiment7-power.odt
+File2[$e]=$HOME/acad/ED/ENC8_101915205_Saurabh_Chaudhary_Assignment3.pdf
+File3[$e]=$HOME/acad/ED/all.pdf
+File4[$e]=$HOME/acad/ED/final.pdf
+File5[$e]=$HOME/acad/EM/101915205_EN 06.pdf
+File6[$e]=$HOME/tribaan/pitch.md
+File7[$e]=$HOME/acad/EM/101915205_EN 07.pdf
+File8[$e]=$HOME/acad/EM/101915205_EN 08.pdf
+File9[$e]=$HOME/acad/EM/101915205_EN 10.pdf
+Name1[$e]=ENC8_101915205_Saurabh_Chaudhary_Assignment1.pdf
 Name10[$e]=MATLAB.pdf
-Name2[$e]=ENC8_101915205_Saurabh_Chaudhary_Assignment4.pdf
-Name3[$e]=ENC8_101915205_Saurabh_Chaudhary_Assignment1.pdf
-Name4[$e]=ENC8_101915205_Saurabh_Chaudhary_Assignment3.pdf
-Name5[$e]=all.pdf
-Name6[$e]=final.pdf
-Name7[$e]=101915205_EN 06.pdf
-Name8[$e]=pitch.md
-Name9[$e]=101915205_EN 07.pdf
+Name2[$e]=ENC8_101915205_Saurabh_Chaudhary_Assignment3.pdf
+Name3[$e]=all.pdf
+Name4[$e]=final.pdf
+Name5[$e]=101915205_EN 06.pdf
+Name6[$e]=pitch.md
+Name7[$e]=101915205_EN 07.pdf
+Name8[$e]=101915205_EN 08.pdf
+Name9[$e]=101915205_EN 10.pdf
 
 [SlideShow]
 PresentationMonitor=0
@@ -46,6 +69,8 @@ PresenterViewEnabled=false
 [calligra]
 ColorSpacePlugins=kolcmsengine
 ColorSpacePluginsDisabled=
+DockerPlugins=calligradockers,calligra_docker_stencils
+DockerPluginsDisabled=
 ShapePlugins=artistictextshape,chartshape,formulashape,musicshape,pathshapes,pictureshape,pluginshape,textshape,threedshape,vectorshape,videoshape
 ShapePluginsDisabled=
 TextInlinePlugins=textvariables,kprvariables

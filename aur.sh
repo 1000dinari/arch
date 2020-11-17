@@ -1,1 +1,1 @@
-yay -S  cava cli-visualizer create_ap dwm-git gtk-xfce-engine hollywood i3lock-fancy-git lostirc megasync moon-buggy nerd-fonts-ubuntu-mono nitroshare ocs-url openoffice pacman4console paman qalculate-gtk-nognome qt5-styleplugins rarian st tor-browser trickle ttf-wps-fonts uget-integrator uget-integrator-firefox windscribe-cli xfce4-volumed-pulse yay zenmap zoom 
+yay -S  gputest nerd-fonts-ubuntu-mono write-good yay zoom 

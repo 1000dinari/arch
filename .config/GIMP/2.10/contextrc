@@ -8,7 +8,7 @@
 (pattern "Pine")
 (gradient "FG to BG (RGB)")
 (palette "Color History")
-(font "Noto Serif Devanagari Bold")
+(font "Standard")
 (tool-preset "Core Pointer")
 
 # end of user context

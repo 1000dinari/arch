@@ -16,7 +16,7 @@
     (open-on-exit)
     (aux-info
         (left-docks-width "213")
-        (right-docks-width "208")
+        (right-docks-width "209")
         (maximized "no"))
     (gimp-toolbox
         (side left)

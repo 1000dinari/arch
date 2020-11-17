@@ -11,7 +11,7 @@ Bat(){
 }
 
 dte(){
-  dte="$(date +"%a, %b %d | 🕒 %I:%M:%S")"
+  dte="$(date +"%a, %b %d | %I:%M:%S")"
   echo "$dte"
 }
 
@@ -50,11 +50,11 @@ cpu(){
   read cpu a b c idle rest < /proc/stat
   total=$((a+b+c+idle))
   cpu=$((100*( (total-prevtotal) - (idle-previdle) ) / (total-prevtotal) ))
-  echo -e "💻 $cpu%"
+  echo -e "cpu $cpu%"
 }
 
 charg(){
-	if [ "$(cat /sys/class/power_supply/BAT0/status)" = 'Charging' ]
+	if [ "$(cat /sys/class/power_supply/BAT1/status)" = 'Charging' ]
 	then 
 		echo "(ac)"
 	fi

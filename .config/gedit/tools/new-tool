@@ -1,0 +1,10 @@
+#!/bin/sh
+# [Gedit Tool]
+# Name=New tool
+# Input=selection
+# Output=output-panel
+# Applicability=all
+# Save-files=nothing
+# Shortcut=<Primary>m
+
+write-good --no-passive --no-cliches $GEDIT_CURRENT_DOCUMENT_NAME

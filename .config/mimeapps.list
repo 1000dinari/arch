@@ -11,7 +11,7 @@ application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoff
 application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;org.kde.calligragemini.desktop;okularApplication_pptx_calligra.desktop;
 application/octet-stream=org.octave.Octave.desktop;uget-gtk.desktop;vlc.desktop;
 application/x-zip-compressed=uget-gtk.desktop;
-image/jpeg=ristretto.desktop;
+image/jpeg=feh.desktop;ristretto.desktop;
 image/png=ristretto.desktop;
 video/mp4=vlc.desktop;
 

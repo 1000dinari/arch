@@ -1,4 +1,4 @@
-# Common recent settings file for Wireshark 3.2.5.
+# Common recent settings file for Wireshark 3.2.7.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -17,10 +17,10 @@ recent.capture_file: /home/barbarik/weef/two-01.cap
 
 # Main window geometry.
 # Decimal numbers.
-gui.geometry_main_x: 0
-gui.geometry_main_y: 17
-gui.geometry_main_width: 1366
-gui.geometry_main_height: 751
+gui.geometry_main_x: 4
+gui.geometry_main_y: 21
+gui.geometry_main_width: 1046
+gui.geometry_main_height: 1053
 
 # Main window maximized.
 # TRUE or FALSE (case-insensitive).
