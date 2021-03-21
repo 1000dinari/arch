@@ -1,4 +1,6 @@
 # GIMP gimp-unified-transform-tool options
 
+(background (color-rgb 0.58039218187332153 0.035294119268655777 0.035294119268655777))
+(constrain-shear no)
 
 # end of gimp-unified-transform-tool options

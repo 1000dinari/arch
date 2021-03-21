@@ -1,1 +1,1 @@
-yay -S  gputest nerd-fonts-ubuntu-mono write-good yay zoom 
+yay -S  eagle gputest mdk nerd-fonts-ubuntu-mono orage tor-browser write-good yay zenmap zoom 

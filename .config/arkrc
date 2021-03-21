@@ -2,7 +2,7 @@
 LastMimeType=application/zip
 
 [ExtractDialog]
-DirHistory[$e]=$HOME/learning/,$HOME/learning/wireshark/,$HOME/learning/fs/,$HOME/learning/metasploit/,$HOME/learning/mobile platforms/,$HOME/Downloads/aarya/,$HOME/Downloads/,$HOME/buffer/assignments/,$HOME/games/getting over it/,$HOME/dwm-6.2/
+DirHistory[$e]=$HOME/movies/Aliens Vs. Predator Requiem (2007) [1080p] [BluRay] [5.1] [YTS.MX]/,$HOME/learning/,$HOME/learning/wireshark/,$HOME/learning/fs/,$HOME/learning/metasploit/,$HOME/learning/mobile platforms/,$HOME/Downloads/aarya/,$HOME/Downloads/,$HOME/buffer/assignments/,$HOME/games/getting over it/
 Height 768=512
 Width 1366=1000
 
@@ -11,8 +11,8 @@ AutomaticDetectionLanguage=1
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/learning/
-detailViewIconSize=0
+Recent URLs[$e]=file:$HOME/learning/,file:$HOME/movies/Aliens Vs. Predator Requiem (2007) [1080p] [BluRay] [5.1] [YTS.MX]/
+detailViewIconSize=16
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -105,32 +105,35 @@ Word Completion Remove Tail=true
 
 [MainWindow]
 Height 768=741
-State=AAAA/wAAAAD9AAAAAAAAAuUAAAKGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABBYAAAPrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
 ToolBarsMovable=Disabled
 Width 1366=741
-splitterSizes=491,244
+eDP1 Height 1080=1053
+eDP1 Width 1920=1046
+eDP1 XPosition=4
+eDP1 YPosition=21
+splitterSizes=696,346
+
+[Open-with settings]
+CompletionMode=1
+History=deluge
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx.zip
-File10[$e]=$HOME/Downloads/discord-0.0.12.tar.gz
 File2[$e]=$HOME/Downloads/Telegram Desktop/sas_session-3.0-fx/chrome/sas_session.jar
 File3[$e]=$HOME/.config/mpd/mpd.db
 File4[$e]=$HOME/.config/mpd/database
-File5[$e]=$HOME/buffer/ass.tar.gz
-File6[$e]=$HOME/ebooks/ebooks.zip
-File7[$e]=$HOME/Downloads/TL-MR3020_V1_150921.zip
-File8[$e]=$HOME/.cache/yay/openoffice/v4.1.7-x86_64
-File9[$e]=$HOME/Downloads/Quiz Form.csv.zip
+File5[$e]=$HOME/ebooks/ebooks.zip
+File6[$e]=$HOME/Downloads/TL-MR3020_V1_150921.zip
+File7[$e]=$HOME/Downloads/Quiz Form.csv.zip
 Name1[$e]=sas_session-3.0-fx.zip
-Name10[$e]=discord-0.0.12.tar.gz
 Name2[$e]=sas_session.jar
 Name3[$e]=mpd.db
 Name4[$e]=database
-Name5[$e]=ass.tar.gz
-Name6[$e]=ebooks.zip
-Name7[$e]=TL-MR3020_V1_150921.zip
-Name8[$e]=v4.1.7-x86_64
-Name9[$e]=Quiz Form.csv.zip
+Name5[$e]=ebooks.zip
+Name6[$e]=TL-MR3020_V1_150921.zip
+Name7[$e]=Quiz Form.csv.zip
 
 [Viewer]
 Height 768=741

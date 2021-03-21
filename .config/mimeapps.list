@@ -1,7 +1,7 @@
 [Added Associations]
 inode/directory=exo-file-manager.desktop
 x-scheme-handler/trash=exo-file-manager.desktop
-application/pdf=org.kde.okular.desktop;libreoffice-startcenter.desktop;org.pwmt.zathura.desktop;
+application/pdf=okularApplication_pdf.desktop;org.kde.okular.desktop;libreoffice-startcenter.desktop;org.pwmt.zathura.desktop;
 application/zip=org.kde.ark.desktop;
 application/javascript=geany.desktop;leafpad.desktop;
 application/rdf+xml=geany.desktop;
@@ -14,7 +14,13 @@ application/x-zip-compressed=uget-gtk.desktop;
 image/jpeg=feh.desktop;ristretto.desktop;
 image/png=ristretto.desktop;
 video/mp4=vlc.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-DPF0Y0.desktop;
+application/json=leafpad.desktop;
 
 [Default Applications]
-application/pdf=org.kde.okular.desktop
+application/pdf=FoxitReader.desktop
 text/x-arduino=arduino-arduinoide.desktop
+application/ppdf=FoxitReader.desktop
+application/xfdf=FoxitReader.desktop
+application/fdf=FoxitReader.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-DPF0Y0.desktop
