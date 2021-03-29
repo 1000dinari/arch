@@ -46,7 +46,6 @@ Units=pt
 
 [Recent Files]
 File1[$e]=$HOME/acad/ict/Tutorial-1.docx
-File10[$e]=$HOME/maal/acad/SaurabhChaudhary.pdf
 File2[$e]=$HOME/acad/ict/Tutorial-4.docx
 File3[$e]=$HOME/acad/ict/Tutorial-10.pdf
 File4[$e]=$HOME/acad/ict/Tutorial-3-converted.pdf
@@ -54,9 +53,8 @@ File5[$e]=$HOME/acad/ict/Tutorial-7-converted.pdf
 File6[$e]=$HOME/CSFDD/Computer-Stuff-for-Dum-Dums.odt
 File7[$e]=$HOME/csfdd/Computer-Stuff-for-Dum-Dums.pdf
 File8[$e]=$HOME/acad/analog/tuts.pdf
-File9[$e]=$HOME/acad/dsa/Lab Assignment 1.pdf
+File9[$e]=$HOME/maal/acad/SaurabhChaudhary.pdf
 Name1[$e]=Tutorial-1.docx
-Name10[$e]=SaurabhChaudhary.pdf
 Name2[$e]=Tutorial-4.docx
 Name3[$e]=Tutorial-10.pdf
 Name4[$e]=Tutorial-3-converted.pdf
@@ -64,7 +62,7 @@ Name5[$e]=Tutorial-7-converted.pdf
 Name6[$e]=Computer-Stuff-for-Dum-Dums.odt
 Name7[$e]=Computer-Stuff-for-Dum-Dums.pdf
 Name8[$e]=tuts.pdf
-Name9[$e]=Lab Assignment 1.pdf
+Name9[$e]=SaurabhChaudhary.pdf
 
 [SlideShow]
 PresentationMonitor=0
