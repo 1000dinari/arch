@@ -1,1 +1,1 @@
-yay -S  eagle gputest mdk nerd-fonts-ubuntu-mono orage tor-browser write-good yay zenmap zoom 
+yay -S  create_ap eagle gfxbench gputest mdk nerd-fonts-ubuntu-mono nouveau-fw orage termite tor-browser write-good yay zenmap zoom 

@@ -81,6 +81,6 @@ while true; do
 	if { [ "$(cat /sys/class/power_supply/BAT1/status)" = 'Discharging' ] && [ "$(cat /sys/class/power_supply/BAT1/capacity)" -le 10 ]; }
 		then
 		notify-send "BATTERY KHATAM HONE WAALI HAI GALEECH"
-		sleep 120s
 	fi
+	sleep 120s
 done &
