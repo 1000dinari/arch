@@ -1,9 +1,9 @@
 app=ristretto
 last_user=
-screenshot_dir=file:/home/barbarik/Pictures/acad
+screenshot_dir=file:/home/barbarik/Pictures
 action=1
 delay=0
-region=1
+region=3
 show_mouse=0
 last_extension=png
 enable_imgur_upload=true

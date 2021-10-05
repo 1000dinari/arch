@@ -1,5 +1,5 @@
 ﻿###
-###  vlc 3.0.14
+###  vlc 3.0.16
 ###
 
 ###
@@ -156,7 +156,7 @@
 #sout-avi-subject=
 
 # Encoder (string)
-#sout-avi-encoder=VLC Media Player - 3.0.14 Vetinari
+#sout-avi-encoder=VLC Media Player - 3.0.16 Vetinari
 
 # Keywords (string)
 #sout-avi-keywords=
@@ -4215,7 +4215,7 @@ vout=any
 #meta-url=
 
 # File caching (ms) (integer)
-#file-caching=1000
+file-caching=10000
 
 # Live capture caching (ms) (integer)
 #live-caching=300
@@ -4263,7 +4263,7 @@ vout=any
 #encoder=
 
 # Access module (string)
-#access=
+access=any
 
 # Demux module (string)
 #demux=any
@@ -4323,7 +4323,7 @@ vout=any
 #packetizer=
 
 # VoD server module (string)
-#vod-server=
+vod-server=any
 
 # Use a plugins cache (boolean)
 #plugins-cache=1

@@ -1,6 +1,6 @@
 [Desktop Entry]
-FullScreen=false
-shouldShowMenuBarComingFromFullScreen=false
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=true
 shouldShowToolBarComingFromFullScreen=false
 
 [Interface]
@@ -27,7 +27,7 @@ ZoomMode=1
 [MainWindow]
 Height 768=741
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAQnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQ4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1366=741
 eDP-1 Height 1920x1080=1080
@@ -35,40 +35,40 @@ eDP-1 Width 1920x1080=1920
 eDP-1 XPosition 1920x1080=0
 eDP-1 YPosition 1920x1080=0
 eDP1 Height 1080=1080
-eDP1 Height 1920x1080=1053
+eDP1 Height 1920x1080=1080
 eDP1 Height 768=768
 eDP1 Width 1366=1366
 eDP1 Width 1920=1920
-eDP1 Width 1920x1080=950
+eDP1 Width 1920x1080=1920
 eDP1 XPosition=0
-eDP1 XPosition 1920x1080=5
+eDP1 XPosition 1920x1080=0
 eDP1 YPosition=0
-eDP1 YPosition 1920x1080=22
+eDP1 YPosition 1920x1080=0
 
 [Misc]
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/acad/es/slides/Slide 3 (ARM Instruction Set).ppt
-File10[$e]=$HOME/HOT/certi.pdf
-File2[$e]=$HOME/acad/es/final/Ch 2_Architecture of ARM Processor.pptx
-File3[$e]=$HOME/Desktop/hostel-challan.pdf
-File4[$e]=$HOME/Desktop/mess-challan.pdf
-File5[$e]=$HOME/Documents/aishani.pdf
-File6[$e]=$HOME/acad/ed3/101915205_Saurabh_Chaudhary_ENC9_eced_ii.pdf
-File7[$e]=$HOME/acad/ed3/101915205_Saurabh_Chaudhary_ENC9_csed_2.pdf
-File8[$e]=$HOME/acad/dbms/101915205-Saurabh-Chaudhary-ENC9.pdf
-File9[$e]=$HOME/1000dinari.github.io/resume.pdf
-Name1[$e]=Slide 3 (ARM Instruction Set).ppt
-Name10[$e]=certi.pdf
-Name2[$e]=Ch 2_Architecture of ARM Processor.pptx
-Name3[$e]=hostel-challan.pdf
-Name4[$e]=mess-challan.pdf
-Name5[$e]=aishani.pdf
-Name6[$e]=101915205_Saurabh_Chaudhary_ENC9_eced_ii.pdf
-Name7[$e]=101915205_Saurabh_Chaudhary_ENC9_csed_2.pdf
-Name8[$e]=101915205-Saurabh-Chaudhary-ENC9.pdf
-Name9[$e]=resume.pdf
+File1[$e]=$HOME/acad/ed3/101915205_Saurabh_Chaudhary_ENC9_eced_ii.pdf
+File10[$e]=$HOME/Documents/thapar/Hostel-extension.pdf
+File2[$e]=$HOME/acad/ed3/101915205_Saurabh_Chaudhary_ENC9_csed_2.pdf
+File3[$e]=$HOME/acad/dbms/101915205-Saurabh-Chaudhary-ENC9.pdf
+File4[$e]=$HOME/1000dinari.github.io/resume.pdf
+File5[$e]=$HOME/HOT/certi.pdf
+File6[$e]=$HOME/acad/OS/Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley) - libgen.lc.pdf
+File7[$e]=$HOME/acad/dsa/ass3/Assignment_3.pdf
+File8[$e]=$HOME/acad/dsa/ass3/102086012_labAssignment3.pdf
+File9[$e]=$HOME/Documents/thapar/mess-extension.pdf
+Name1[$e]=101915205_Saurabh_Chaudhary_ENC9_eced_ii.pdf
+Name10[$e]=Hostel-extension.pdf
+Name2[$e]=101915205_Saurabh_Chaudhary_ENC9_csed_2.pdf
+Name3[$e]=101915205-Saurabh-Chaudhary-ENC9.pdf
+Name4[$e]=resume.pdf
+Name5[$e]=certi.pdf
+Name6[$e]=Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley) - libgen.lc.pdf
+Name7[$e]=Assignment_3.pdf
+Name8[$e]=102086012_labAssignment3.pdf
+Name9[$e]=mess-extension.pdf
 
 [SlideShow]
 PresentationMonitor=0

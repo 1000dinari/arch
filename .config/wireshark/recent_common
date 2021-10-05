@@ -1,4 +1,4 @@
-# Common recent settings file for Wireshark 3.2.7.
+# Common recent settings file for Wireshark 3.4.8.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -17,10 +17,10 @@ recent.capture_file: /home/barbarik/weef/two-01.cap
 
 # Main window geometry.
 # Decimal numbers.
-gui.geometry_main_x: 4
-gui.geometry_main_y: 21
-gui.geometry_main_width: 1046
-gui.geometry_main_height: 1053
+gui.geometry_main_x: 0
+gui.geometry_main_y: 17
+gui.geometry_main_width: 1920
+gui.geometry_main_height: 1063
 
 # Main window maximized.
 # TRUE or FALSE (case-insensitive).
@@ -49,9 +49,9 @@ gui.geometry_status_wlan_stats_pane: 200
 # TRUE or FALSE (case-insensitive).
 privs.warn_if_elevated: TRUE
 
-# Warn if npf.sys isn't loaded on Windows >= 6.0.
+# Warn if Wireshark is unable to capture.
 # TRUE or FALSE (case-insensitive).
-privs.warn_if_no_npf: TRUE
+sys.warn_if_no_capture: TRUE
 
 # Find packet search in.
 # One of: PACKET_LIST, PACKET_DETAILS, PACKET_BYTES

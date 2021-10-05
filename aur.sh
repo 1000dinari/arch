@@ -1,1 +1,1 @@
-yay -S  create_ap eagle gfxbench gputest mdk nerd-fonts-ubuntu-mono nouveau-fw orage termite tor-browser write-good yay zenmap zoom 
+yay -S  create_ap eagle gfxbench gputest i3lock-fancy-git mdk nerd-fonts-ubuntu-mono nouveau-fw orage termite tor-browser write-good yay zenmap zoom 
