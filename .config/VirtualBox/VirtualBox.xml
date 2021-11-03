@@ -11,10 +11,10 @@
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
       <ExtraDataItem name="GUI/GroupDefinitions/" value="n=GLOBAL"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="n=GLOBAL"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="0,17,1366,751,max"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="0,17,1920,1063,max"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/barbarik/isos/gentoo"/>
       <ExtraDataItem name="GUI/RecentListCD" value="/home/barbarik/isos/gentoo/install-amd64-minimal-20200329T214502Z.iso,--,/home/barbarik/isos/gentoo/install-amd64-minimal-20191016T214504Z.iso,/run/media/barbarik/windows/Users/adminsaurabh/Downloads/deluge/WINDOWS 7 ALL IN ONE(PRE-ACTIVATED).iso,/run/media/barbarik/windows/Users/adminsaurabh/Downloads/deluge/WINDOWS 7 ALL IN ONE(PRE-ACTIVATED).ISO"/>
-      <ExtraDataItem name="GUI/SplitterSizes" value="452,913"/>
+      <ExtraDataItem name="GUI/SplitterSizes" value="635,1284"/>
       <ExtraDataItem name="GUI/SuppressMessages" value="remindAboutMouseIntegration,remindAboutAutoCapture,confirmInputCapture"/>
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>

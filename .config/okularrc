@@ -49,26 +49,26 @@ eDP1 YPosition 1920x1080=0
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/acad/ed3/101915205_Saurabh_Chaudhary_ENC9_eced_ii.pdf
-File10[$e]=$HOME/Documents/thapar/Hostel-extension.pdf
-File2[$e]=$HOME/acad/ed3/101915205_Saurabh_Chaudhary_ENC9_csed_2.pdf
-File3[$e]=$HOME/acad/dbms/101915205-Saurabh-Chaudhary-ENC9.pdf
-File4[$e]=$HOME/1000dinari.github.io/resume.pdf
-File5[$e]=$HOME/HOT/certi.pdf
-File6[$e]=$HOME/acad/OS/Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley) - libgen.lc.pdf
-File7[$e]=$HOME/acad/dsa/ass3/Assignment_3.pdf
-File8[$e]=$HOME/acad/dsa/ass3/102086012_labAssignment3.pdf
-File9[$e]=$HOME/Documents/thapar/mess-extension.pdf
-Name1[$e]=101915205_Saurabh_Chaudhary_ENC9_eced_ii.pdf
-Name10[$e]=Hostel-extension.pdf
-Name2[$e]=101915205_Saurabh_Chaudhary_ENC9_csed_2.pdf
-Name3[$e]=101915205-Saurabh-Chaudhary-ENC9.pdf
-Name4[$e]=resume.pdf
-Name5[$e]=certi.pdf
-Name6[$e]=Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley) - libgen.lc.pdf
-Name7[$e]=Assignment_3.pdf
-Name8[$e]=102086012_labAssignment3.pdf
-Name9[$e]=mess-extension.pdf
+File1[$e]=$HOME/HOT/certi.pdf
+File10[$e]=$HOME/acad/dsp/Solutions Tutorial-1.pdf
+File2[$e]=$HOME/acad/OS/Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley) - libgen.lc.pdf
+File3[$e]=$HOME/acad/dsa/ass3/Assignment_3.pdf
+File4[$e]=$HOME/acad/dsa/ass3/102086012_labAssignment3.pdf
+File5[$e]=$HOME/Documents/thapar/mess-extension.pdf
+File6[$e]=$HOME/Documents/thapar/Hostel-extension.pdf
+File7[$e]=$HOME/acad/dsp/figures1.pdf
+File8[$e]=$HOME/acad/dbms/101915205-Saurabh-Chaudhary-ass2.pdf
+File9[$e]=$HOME/CSFDD/Computer-Stuff-for-Dum-Dums.pdf
+Name1[$e]=certi.pdf
+Name10[$e]=Solutions Tutorial-1.pdf
+Name2[$e]=Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley) - libgen.lc.pdf
+Name3[$e]=Assignment_3.pdf
+Name4[$e]=102086012_labAssignment3.pdf
+Name5[$e]=mess-extension.pdf
+Name6[$e]=Hostel-extension.pdf
+Name7[$e]=figures1.pdf
+Name8[$e]=101915205-Saurabh-Chaudhary-ass2.pdf
+Name9[$e]=Computer-Stuff-for-Dum-Dums.pdf
 
 [SlideShow]
 PresentationMonitor=0

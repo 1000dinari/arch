@@ -8,8 +8,8 @@
 0,/usr/lib/virtualbox/components
 
 [Files,2]
-0,VirtualBox_XPCOM.xpt,0,133825,1597136029000
-1,VBoxXPCOMBase.xpt,0,25931,1597136029000
+0,VirtualBox_XPCOM.xpt,0,133854,1627560928000
+1,VBoxXPCOMBase.xpt,0,25931,1627560928000
 
 [ArchiveItems,0]
 
@@ -377,7 +377,7 @@
 360,IAudioAdapter,{5155bfd3-7ba7-45a8-b26d-c91ae3754e37},0,-1,1
 361,INATRedirectEvent,{24eef068-c380-4510-bc7c-19314a7352f1},0,-1,1
 362,IStringFormValue,{cb6f0f2c-8384-11e9-921d-8b984e28a686},0,-1,1
-363,VirtualSystemDescriptionType,{9078595f-74cf-4454-8787-34a8f72beed5},0,-1,1
+363,VirtualSystemDescriptionType,{70c5ca7b-65a8-49cc-9b19-e80192b9db1d},0,-1,1
 364,DHCPGroupConditionType,{2cb9280f-ada2-4194-dee8-bfb8ad77119d},0,-1,1
 365,nsINativeComponentLoader,{10d1a2a2-d816-458d-a4c3-0805ff0f7b31},1,-1,0
 366,ProcessCreateFlag,{c544cd2b-f02d-4886-9901-71c523db8dc5},0,-1,1

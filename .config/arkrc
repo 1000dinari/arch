@@ -2,7 +2,7 @@
 LastMimeType=application/zip
 
 [ExtractDialog]
-DirHistory[$e]=/tmp/,$HOME/Downloads/resume/,$HOME/maal/movies/Allegiant (2016) [1080p] [YTS.AG]/,$HOME/maal/movies/Insurgent (2015) [1080p]/,$HOME/movies/Aliens Vs. Predator Requiem (2007) [1080p] [BluRay] [5.1] [YTS.MX]/,$HOME/learning/,$HOME/learning/wireshark/,$HOME/learning/fs/,$HOME/learning/metasploit/,$HOME/learning/mobile platforms/
+DirHistory[$e]=$HOME/acad/dsp/,/tmp/,$HOME/Downloads/resume/,$HOME/maal/movies/Allegiant (2016) [1080p] [YTS.AG]/,$HOME/maal/movies/Insurgent (2015) [1080p]/,$HOME/movies/Aliens Vs. Predator Requiem (2007) [1080p] [BluRay] [5.1] [YTS.MX]/,$HOME/learning/,$HOME/learning/wireshark/,$HOME/learning/fs/,$HOME/learning/metasploit/
 Height 768=512
 Width 1366=1000
 eDP1 Height 1920x1080=562
@@ -12,8 +12,8 @@ eDP1 Width 1920x1080=1442
 AutomaticDetectionLanguage=1
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME,file:$HOME/Downloads/resume,file:$HOME/acad/dsa
-Recent URLs[$e]=file:$HOME/learning/,file:$HOME/maal/movies/Insurgent (2015) [1080p]/,file:$HOME/maal/movies/Allegiant (2016) [1080p] [YTS.AG]/,file:$HOME/acad/,file:$HOME/Downloads/resume/,file:///tmp/
+Recent Files[$e]=file:$HOME,file:$HOME/Downloads/resume,file:$HOME/acad/dsa
+Recent URLs[$e]=file:$HOME/learning/,file:$HOME/maal/movies/Insurgent (2015) [1080p]/,file:$HOME/maal/movies/Allegiant (2016) [1080p] [YTS.AG]/,file:$HOME/acad/,file:$HOME/Downloads/resume/,file:///tmp/,file:$HOME/acad/dsp/
 detailViewIconSize=16
 
 [KTextEditor Document]
@@ -107,19 +107,19 @@ Word Completion Remove Tail=true
 
 [MainWindow]
 Height 768=741
-State=AAAA/wAAAAD9AAAAAAAAA7YAAAPrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABBYAAAPrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 Width 1366=741
 eDP1 Height 1080=1053
 eDP1 Height 1920x1080=1053
 eDP1 Width 1920=1046
-eDP1 Width 1920x1080=950
+eDP1 Width 1920x1080=1046
 eDP1 XPosition=4
 eDP1 XPosition 1920x1080=4
 eDP1 YPosition=21
 eDP1 YPosition 1920x1080=21
-splitterSizes=632,314
+splitterSizes=696,346
 
 [Open-with settings]
 CompletionMode=1
