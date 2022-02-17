@@ -9,7 +9,7 @@
 (import-raw-plug-in "${gimp_plug_in_dir}/plug-ins/file-raw-placeholder/file-raw-placeholder")
 (monitor-xresolution 143)
 (monitor-yresolution 144)
-(layer-new-name "bg")
+(layer-new-name "watermark")
 (fill-options
     (style solid)
     (antialias yes)

@@ -19,7 +19,7 @@
     "createtorrent.trackers": [],
     "default_load_path": "/home/barbarik/games",
     "edit_trackers_dialog_height": 251,
-    "edit_trackers_dialog_width": 400,
+    "edit_trackers_dialog_width": 498,
     "enable_appindicator": false,
     "enable_system_tray": true,
     "enabled_plugins": [],

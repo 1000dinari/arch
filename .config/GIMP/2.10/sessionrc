@@ -98,6 +98,9 @@
 (session-info "toplevel"
     (factory-entry "gimp-toolbox-color-dialog")
     (position 0 17))
+(session-info "toplevel"
+    (factory-entry "gimp-offset-tool-dialog")
+    (position 110 17))
 
 (hide-docks no)
 (single-window-mode yes)

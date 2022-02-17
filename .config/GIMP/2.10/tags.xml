@@ -1330,19 +1330,13 @@
   <resource identifier="Cantarell Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Cantarell Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cantarell Thin" checksum="(null)">
-  </resource>
-
   <resource identifier="Cantarell Thin" checksum="(null)">
   </resource>
 
   <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
+  <resource identifier="Classic Console" checksum="(null)">
   </resource>
 
   <resource identifier="D050000L" checksum="(null)">
@@ -1492,6 +1486,9 @@
   <resource identifier="Liberation Serif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Luxi Mono" checksum="(null)">
+  </resource>
+
   <resource identifier="Monospace" checksum="(null)">
   </resource>
 
@@ -1553,6 +1550,9 @@
   </resource>
 
   <resource identifier="Noto Color Emoji" checksum="(null)">
+  </resource>
+
+  <resource identifier="OCR A Std" checksum="(null)">
   </resource>
 
   <resource identifier="Open Sans" checksum="(null)">
@@ -1720,6 +1720,9 @@
   <resource identifier="Source Code Variable Ultra-Light Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Special Elite" checksum="(null)">
+  </resource>
+
   <resource identifier="Standard Symbols PS" checksum="(null)">
   </resource>
 
@@ -1772,6 +1775,9 @@
   </resource>
 
   <resource identifier="Z003 Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="gallant12x22 Medium" checksum="(null)">
   </resource>
 
   <resource identifier="${gimp_data_dir}/tool-presets/Crop/16_10.gtp" checksum="(null)">

@@ -1,5 +1,5 @@
 [Desktop Entry]
-FullScreen=true
+FullScreen=false
 shouldShowMenuBarComingFromFullScreen=true
 shouldShowToolBarComingFromFullScreen=false
 
@@ -27,7 +27,7 @@ ZoomMode=1
 [MainWindow]
 Height 768=741
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAQ4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQ4AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAACIAYQBuAG4AbwB0AGEAdABpAG8AbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 Width 1366=741
 eDP-1 Height 1920x1080=1080
@@ -35,7 +35,7 @@ eDP-1 Width 1920x1080=1920
 eDP-1 XPosition 1920x1080=0
 eDP-1 YPosition 1920x1080=0
 eDP1 Height 1080=1080
-eDP1 Height 1920x1080=1080
+eDP1 Height 1920x1080=1063
 eDP1 Height 768=768
 eDP1 Width 1366=1366
 eDP1 Width 1920=1920
@@ -43,32 +43,32 @@ eDP1 Width 1920x1080=1920
 eDP1 XPosition=0
 eDP1 XPosition 1920x1080=0
 eDP1 YPosition=0
-eDP1 YPosition 1920x1080=0
+eDP1 YPosition 1920x1080=17
 
 [Misc]
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/HOT/certi.pdf
-File10[$e]=$HOME/acad/dsp/Solutions Tutorial-1.pdf
-File2[$e]=$HOME/acad/OS/Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley) - libgen.lc.pdf
-File3[$e]=$HOME/acad/dsa/ass3/Assignment_3.pdf
-File4[$e]=$HOME/acad/dsa/ass3/102086012_labAssignment3.pdf
-File5[$e]=$HOME/Documents/thapar/mess-extension.pdf
-File6[$e]=$HOME/Documents/thapar/Hostel-extension.pdf
-File7[$e]=$HOME/acad/dsp/figures1.pdf
-File8[$e]=$HOME/acad/dbms/101915205-Saurabh-Chaudhary-ass2.pdf
-File9[$e]=$HOME/CSFDD/Computer-Stuff-for-Dum-Dums.pdf
-Name1[$e]=certi.pdf
-Name10[$e]=Solutions Tutorial-1.pdf
-Name2[$e]=Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley) - libgen.lc.pdf
-Name3[$e]=Assignment_3.pdf
-Name4[$e]=102086012_labAssignment3.pdf
-Name5[$e]=mess-extension.pdf
-Name6[$e]=Hostel-extension.pdf
-Name7[$e]=figures1.pdf
-Name8[$e]=101915205-Saurabh-Chaudhary-ass2.pdf
-Name9[$e]=Computer-Stuff-for-Dum-Dums.pdf
+File1[$e]=$HOME/acad/dbms/101915205-Saurabh-Chaudhary-ass2.pdf
+File10[$e]=$HOME/acad/ml/SaurabhChaudhary_101915205_Lab2.pdf
+File2[$e]=$HOME/CSFDD/Computer-Stuff-for-Dum-Dums.pdf
+File3[$e]=$HOME/acad/dsp/Solutions Tutorial-1.pdf
+File4[$e]=$HOME/Downloads/resume.pdf
+File5[$e]=$HOME/acad/dbms/101915205-Saurabh-Chaudhary-ass10.pdf
+File6[$e]=$HOME/HOT/temp/2.jpg
+File7[$e]=$HOME/acad/ml/SaurabhChaudhary_101915205_Lab1.pdf
+File8[$e]=$HOME/acad/ml/SaurabhChaudhary_101915205_Lab1_Q3.pdf
+File9[$e]=$HOME/Downloads/resume/resume.pdf
+Name1[$e]=101915205-Saurabh-Chaudhary-ass2.pdf
+Name10[$e]=SaurabhChaudhary_101915205_Lab2.pdf
+Name2[$e]=Computer-Stuff-for-Dum-Dums.pdf
+Name3[$e]=Solutions Tutorial-1.pdf
+Name4[$e]=resume.pdf
+Name5[$e]=101915205-Saurabh-Chaudhary-ass10.pdf
+Name6[$e]=2.jpg
+Name7[$e]=SaurabhChaudhary_101915205_Lab1.pdf
+Name8[$e]=SaurabhChaudhary_101915205_Lab1_Q3.pdf
+Name9[$e]=resume.pdf
 
 [SlideShow]
 PresentationMonitor=0

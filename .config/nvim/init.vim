@@ -1,5 +1,9 @@
 set number
+set clipboard=unnamedplus
+set completeopt=noinsert,menuone,noselect
+set hidden
 syntax on
+set expandtab
 set tabstop=4
 set autoindent
 set softtabstop=4
