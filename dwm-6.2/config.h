@@ -99,6 +99,8 @@ static const char *urxvt[] = { "urxvt", NULL };
 static const char *qute[] = { "qutebrowser", NULL };
 static const char *oku[] = { "okular", NULL };
 static const char *appf[] = { "xfce4-appfinder", NULL };
+static const char *bluem[] = { "blueman-manager", NULL };
+static const char *pavu[] = { "pavucontrol", NULL };
 
 
 static Key keys[] = {
@@ -140,6 +142,8 @@ static Key keys[] = {
 	{ MODKEY,                       XK_n,      spawn,          {.v = thunar } },
 	{ MODKEY,                       XK_p,      spawn,          {.v = firefox } },
 	{ MODKEY|ShiftMask,             XK_t,      spawn,          {.v = terminator } },
+	{ MODKEY|ShiftMask,             XK_b,      spawn,          {.v = bluem } },
+	{ MODKEY|ShiftMask,             XK_p,      spawn,          {.v = pavu } },
 	{ MODKEY|ShiftMask,             XK_o,      spawn,          {.v = oku } },
 	{ MODKEY,                       XK_q,      spawn,          {.v = qute } },
 	{ MODKEY|ControlMask,             XK_d,      spawn,          {.v = appf } },

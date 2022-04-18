@@ -33,6 +33,7 @@ alias cam='qv4l2'
 alias c='clear'
 alias calc='qalculate'
 alias cnk='conky -c ~/.config/conky/LSD-Conky-master/.conkyrc &'
+alias compress='tar -czvf'
 alias cp='cp -r'
 alias def="~/define.sh | sed '/^220/d; /^250/d; /^221/d; /^%/d; /^Dload/d; /^100/d'"
 alias df='df -h'

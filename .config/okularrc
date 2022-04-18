@@ -27,7 +27,7 @@ ZoomMode=1
 [MainWindow]
 Height 768=741
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAQ4AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAACIAYQBuAG4AbwB0AGEAdABpAG8AbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQnAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAACIAYQBuAG4AbwB0AGEAdABpAG8AbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 Width 1366=741
 eDP-1 Height 1920x1080=1080
@@ -49,25 +49,25 @@ eDP1 YPosition 1920x1080=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/acad/dbms/101915205-Saurabh-Chaudhary-ass2.pdf
-File10[$e]=$HOME/acad/ml/SaurabhChaudhary_101915205_Lab2.pdf
-File2[$e]=$HOME/CSFDD/Computer-Stuff-for-Dum-Dums.pdf
-File3[$e]=$HOME/acad/dsp/Solutions Tutorial-1.pdf
-File4[$e]=$HOME/Downloads/resume.pdf
-File5[$e]=$HOME/acad/dbms/101915205-Saurabh-Chaudhary-ass10.pdf
-File6[$e]=$HOME/HOT/temp/2.jpg
-File7[$e]=$HOME/acad/ml/SaurabhChaudhary_101915205_Lab1.pdf
-File8[$e]=$HOME/acad/ml/SaurabhChaudhary_101915205_Lab1_Q3.pdf
+File1[$e]=$HOME/acad/mos/lecture7a_fabrication.pdf
+File10[$e]=$HOME/csfdd/Computer-Stuff-for-Dum-Dums.pdf
+File2[$e]=$HOME/acad/mos/MOS circuit Design_Module 3PPT.pdf
+File3[$e]=$HOME/acad/mos/C-MOSkang.pdf
+File4[$e]=$HOME/acad/mos/ass3.pdf
+File5[$e]=$HOME/acad/mos/ass4.pdf
+File6[$e]=$HOME/acad/mos/sol1.pdf
+File7[$e]=$HOME/acad/mos/ass1.pdf
+File8[$e]=$HOME/acad/mos/ass5.pdf
 File9[$e]=$HOME/Downloads/resume/resume.pdf
-Name1[$e]=101915205-Saurabh-Chaudhary-ass2.pdf
-Name10[$e]=SaurabhChaudhary_101915205_Lab2.pdf
-Name2[$e]=Computer-Stuff-for-Dum-Dums.pdf
-Name3[$e]=Solutions Tutorial-1.pdf
-Name4[$e]=resume.pdf
-Name5[$e]=101915205-Saurabh-Chaudhary-ass10.pdf
-Name6[$e]=2.jpg
-Name7[$e]=SaurabhChaudhary_101915205_Lab1.pdf
-Name8[$e]=SaurabhChaudhary_101915205_Lab1_Q3.pdf
+Name1[$e]=lecture7a_fabrication.pdf
+Name10[$e]=Computer-Stuff-for-Dum-Dums.pdf
+Name2[$e]=MOS circuit Design_Module 3PPT.pdf
+Name3[$e]=C-MOSkang.pdf
+Name4[$e]=ass3.pdf
+Name5[$e]=ass4.pdf
+Name6[$e]=sol1.pdf
+Name7[$e]=ass1.pdf
+Name8[$e]=ass5.pdf
 Name9[$e]=resume.pdf
 
 [SlideShow]

@@ -1,0 +1,299 @@
+2022-03-03 00:08:54 INFO run.py:219 GNS3 server version 2.2.31
+2022-03-03 00:08:54 INFO run.py:221 Copyright (c) 2007-2022 GNS3 Technologies Inc.
+2022-03-03 00:08:54 INFO run.py:224 Config file /home/barbarik/.config/GNS3/2.2/gns3_server.conf loaded
+2022-03-03 00:08:54 WARNING run.py:230 Local mode is enabled. Beware, clients will have full control on your filesystem
+2022-03-03 00:08:54 INFO run.py:237 HTTP authentication is enabled with username 'admin'
+2022-03-03 00:08:54 INFO run.py:243 Running with Python 3.10.2 and has PID 172060
+2022-03-03 00:08:54 INFO run.py:79 Current locale is en_GB.UTF-8
+2022-03-03 00:08:54 INFO web_server.py:318 Starting server on localhost:3080
+2022-03-03 00:08:54 INFO __init__.py:63 Load controller configuration file /home/barbarik/.config/GNS3/2.2/gns3_controller.conf
+2022-03-03 00:08:54 INFO __init__.py:67 Controller is starting
+2022-03-03 00:08:54 INFO compute.py:64 Create compute local
+2022-03-03 00:08:54 INFO compute.py:364 Connecting to compute 'local'
+2022-03-03 00:08:54 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:54 +0000] "GET /v2/compute/capabilities HTTP/1.1" 200 553 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:54 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:54 +0000] "GET /v2/version HTTP/1.1" 200 228 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:08:54 INFO notification_handler.py:50 New client has connected to compute WebSocket
+2022-03-03 00:08:54 INFO compute.py:434 Connected to compute 'local' WebSocket 'http://localhost:3080/v2/compute/notifications/ws'
+2022-03-03 00:08:55 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:55 +0000] "GET /v2/version HTTP/1.1" 200 228 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:08:55 INFO notification_handler.py:73 New client has connected to controller WebSocket
+2022-03-03 00:08:55 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:55 +0000] "GET /v2/templates HTTP/1.1" 200 2502 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:08:55 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:55 +0000] "GET /v2/appliances?symbol_theme=Classic HTTP/1.1" 200 805727 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:08:55 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:55 +0000] "GET /v2/computes HTTP/1.1" 200 1023 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:08:55 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:55 +0000] "GET /v2/projects HTTP/1.1" 200 1442 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:08:55 INFO project.py:78 Project 86b0b48b-bba8-4986-9eae-8964d865c47a with path '/home/barbarik/GNS3/projects/aishani' created
+2022-03-03 00:08:55 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:55 +0000] "POST /v2/compute/projects HTTP/1.1" 201 303 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:55 INFO __init__.py:303 Creating new hypervisor localhost:36943 with working directory /home/barbarik/GNS3/projects/aishani/project-files/dynamips
+2022-03-03 00:08:55 INFO hypervisor.py:127 Starting Dynamips: ['/usr/bin/dynamips', '-N1', '-l', 'dynamips_i1_log.txt', '-H', 'localhost:36943']
+2022-03-03 00:08:55 INFO hypervisor.py:129 Dynamips process logging to /home/barbarik/GNS3/projects/aishani/project-files/dynamips/dynamips_i1_stdout.txt
+2022-03-03 00:08:55 INFO hypervisor.py:136 Dynamips process started PID=172109
+2022-03-03 00:08:55 INFO __init__.py:305 Hypervisor localhost:36943 has successfully started
+2022-03-03 00:08:56 INFO dynamips_hypervisor.py:92 Connected to Dynamips hypervisor on localhost:36943 after 0.3051 seconds
+2022-03-03 00:08:56 INFO ethernet_switch.py:187 Ethernet switch "198.16.0.1" [0dab2800-35cb-4361-884b-2862bcc9bfef] has been created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:55 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes HTTP/1.1" 201 1565 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO __init__.py:303 Creating new hypervisor localhost:46537 with working directory /home/barbarik/GNS3/projects/aishani/project-files/dynamips
+2022-03-03 00:08:56 INFO hypervisor.py:127 Starting Dynamips: ['/usr/bin/dynamips', '-N1', '-l', 'dynamips_i2_log.txt', '-H', 'localhost:46537']
+2022-03-03 00:08:56 INFO hypervisor.py:129 Dynamips process logging to /home/barbarik/GNS3/projects/aishani/project-files/dynamips/dynamips_i2_stdout.txt
+2022-03-03 00:08:56 INFO hypervisor.py:136 Dynamips process started PID=172149
+2022-03-03 00:08:56 INFO __init__.py:305 Hypervisor localhost:46537 has successfully started
+2022-03-03 00:08:56 INFO dynamips_hypervisor.py:92 Connected to Dynamips hypervisor on localhost:46537 after 0.0107 seconds
+2022-03-03 00:08:56 INFO ethernet_switch.py:187 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93] has been created
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes HTTP/1.1" 201 1566 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO __init__.py:303 Creating new hypervisor localhost:47091 with working directory /home/barbarik/GNS3/projects/aishani/project-files/dynamips
+2022-03-03 00:08:56 INFO hypervisor.py:127 Starting Dynamips: ['/usr/bin/dynamips', '-N1', '-l', 'dynamips_i3_log.txt', '-H', 'localhost:47091']
+2022-03-03 00:08:56 INFO hypervisor.py:129 Dynamips process logging to /home/barbarik/GNS3/projects/aishani/project-files/dynamips/dynamips_i3_stdout.txt
+2022-03-03 00:08:56 INFO hypervisor.py:136 Dynamips process started PID=172166
+2022-03-03 00:08:56 INFO __init__.py:305 Hypervisor localhost:47091 has successfully started
+2022-03-03 00:08:56 INFO dynamips_hypervisor.py:92 Connected to Dynamips hypervisor on localhost:47091 after 0.0111 seconds
+2022-03-03 00:08:56 INFO ethernet_switch.py:187 Ethernet switch "198.16.0.5" [af19e45f-67d3-439a-8b19-b50f30296103] has been created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes HTTP/1.1" 201 1565 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO __init__.py:303 Creating new hypervisor localhost:35323 with working directory /home/barbarik/GNS3/projects/aishani/project-files/dynamips
+2022-03-03 00:08:56 INFO hypervisor.py:127 Starting Dynamips: ['/usr/bin/dynamips', '-N1', '-l', 'dynamips_i4_log.txt', '-H', 'localhost:35323']
+2022-03-03 00:08:56 INFO hypervisor.py:129 Dynamips process logging to /home/barbarik/GNS3/projects/aishani/project-files/dynamips/dynamips_i4_stdout.txt
+2022-03-03 00:08:56 INFO hypervisor.py:136 Dynamips process started PID=172182
+2022-03-03 00:08:56 INFO __init__.py:305 Hypervisor localhost:35323 has successfully started
+2022-03-03 00:08:56 INFO dynamips_hypervisor.py:92 Connected to Dynamips hypervisor on localhost:35323 after 0.0112 seconds
+2022-03-03 00:08:56 INFO ethernet_switch.py:187 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d] has been created
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes HTTP/1.1" 201 1566 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.2 [af6a6809-6718-4867-8d5f-22d094f254f7] created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 580 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.3 [635346da-38c1-483d-92bb-3f00cd57af1c] created
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 580 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.6 [e3ef85ee-96c7-4e01-8601-a0e4df1246c7] created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 580 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.7 [68885b97-1f1a-48a2-b23a-482b60571460] created
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 580 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.8 [71c3a279-3e62-4502-a66f-575a3c1d71a9] created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 580 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.27 [e2993d66-e411-4303-b6db-8af0aeb31c01] created
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.26 [bfa31ea6-fddd-49d7-9888-ff20563e92c1] created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.25 [8e6346e2-24a5-49bd-9a6f-1de3884ad63a] created
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.24 [33bc1a19-ff1e-4f57-bd82-4573385cb39b] created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.21 [3f495037-4a81-40bd-bcab-e3d67cb4f5e0] created
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.20 [d21636fc-fa63-4777-9577-b2835249eac8] created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.19 [64af328b-55e7-440a-85da-f8fbb25223ba] created
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.18 [977096cf-ce03-4a78-8849-69e198f875af] created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.17 [0e72f780-c170-4138-9ea5-b8a1a17a17e3] created
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.16 [30827c6b-655c-457f-b522-f27f5dba2fce] created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO base_node.py:282 VPCS: 198.16.0.15 [6e7a02e8-e925-4c05-a9f0-0e442cff63e3] created
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes HTTP/1.1" 201 581 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO __init__.py:303 Creating new hypervisor localhost:55489 with working directory /home/barbarik/GNS3/projects/aishani/project-files/dynamips
+2022-03-03 00:08:56 INFO hypervisor.py:127 Starting Dynamips: ['/usr/bin/dynamips', '-N1', '-l', 'dynamips_i5_log.txt', '-H', 'localhost:55489']
+2022-03-03 00:08:56 INFO hypervisor.py:129 Dynamips process logging to /home/barbarik/GNS3/projects/aishani/project-files/dynamips/dynamips_i5_stdout.txt
+2022-03-03 00:08:56 INFO hypervisor.py:136 Dynamips process started PID=172198
+2022-03-03 00:08:56 INFO __init__.py:305 Hypervisor localhost:55489 has successfully started
+2022-03-03 00:08:56 INFO dynamips_hypervisor.py:92 Connected to Dynamips hypervisor on localhost:55489 after 0.0108 seconds
+2022-03-03 00:08:56 INFO ethernet_hub.py:97 Ethernet hub "198.16.0.0" [291f188c-98a7-4e5e-bfac-e00e19780bbd] has been created
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_hub/nodes HTTP/1.1" 201 1088 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.1" [0dab2800-35cb-4361-884b-2862bcc9bfef]: NIO udp-9d44720e-504a-4fc0-a3b3-5bd5e0b96aca bound to port 0
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.1" [0dab2800-35cb-4361-884b-2862bcc9bfef]: port 0 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0dab2800-35cb-4361-884b-2862bcc9bfef/adapters/0/ports/0/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.2" [af6a6809-6718-4867-8d5f-22d094f254f7]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/af6a6809-6718-4867-8d5f-22d094f254f7/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.1" [0dab2800-35cb-4361-884b-2862bcc9bfef]: NIO udp-db8cf222-5727-4a2e-8c07-2bcb88f11241 bound to port 1
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.1" [0dab2800-35cb-4361-884b-2862bcc9bfef]: port 1 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0dab2800-35cb-4361-884b-2862bcc9bfef/adapters/0/ports/1/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.3" [635346da-38c1-483d-92bb-3f00cd57af1c]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/635346da-38c1-483d-92bb-3f00cd57af1c/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.5" [af19e45f-67d3-439a-8b19-b50f30296103]: NIO udp-fecacae1-5fbc-4180-be85-bf7b241642a8 bound to port 0
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.5" [af19e45f-67d3-439a-8b19-b50f30296103]: port 0 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/af19e45f-67d3-439a-8b19-b50f30296103/adapters/0/ports/0/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.6" [e3ef85ee-96c7-4e01-8601-a0e4df1246c7]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/e3ef85ee-96c7-4e01-8601-a0e4df1246c7/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.5" [af19e45f-67d3-439a-8b19-b50f30296103]: NIO udp-98a6771e-484a-4901-8bbe-3097df25a18a bound to port 1
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.5" [af19e45f-67d3-439a-8b19-b50f30296103]: port 1 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/af19e45f-67d3-439a-8b19-b50f30296103/adapters/0/ports/1/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.7" [68885b97-1f1a-48a2-b23a-482b60571460]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/68885b97-1f1a-48a2-b23a-482b60571460/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.5" [af19e45f-67d3-439a-8b19-b50f30296103]: NIO udp-27cc183f-056e-4ab6-8351-1a712d4a96eb bound to port 2
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.5" [af19e45f-67d3-439a-8b19-b50f30296103]: port 2 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/af19e45f-67d3-439a-8b19-b50f30296103/adapters/0/ports/2/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.8" [71c3a279-3e62-4502-a66f-575a3c1d71a9]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/71c3a279-3e62-4502-a66f-575a3c1d71a9/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93]: NIO udp-60fae498-10a1-44b7-940b-743b80131810 bound to port 0
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93]: port 0 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/451f9b68-0a39-4975-8f9c-c47d48e7ed93/adapters/0/ports/0/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.27" [e2993d66-e411-4303-b6db-8af0aeb31c01]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/e2993d66-e411-4303-b6db-8af0aeb31c01/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93]: NIO udp-28ec49fd-60ef-48e6-a2d8-98b21bad08d6 bound to port 1
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93]: port 1 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/451f9b68-0a39-4975-8f9c-c47d48e7ed93/adapters/0/ports/1/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.26" [bfa31ea6-fddd-49d7-9888-ff20563e92c1]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/bfa31ea6-fddd-49d7-9888-ff20563e92c1/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93]: NIO udp-fb2f7a3e-af2d-4636-b822-d10e5d839f01 bound to port 2
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93]: port 2 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/451f9b68-0a39-4975-8f9c-c47d48e7ed93/adapters/0/ports/2/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.25" [8e6346e2-24a5-49bd-9a6f-1de3884ad63a]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/8e6346e2-24a5-49bd-9a6f-1de3884ad63a/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93]: NIO udp-2d5d727b-c9b7-4ceb-aea9-c136f2e6901a bound to port 3
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93]: port 3 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/451f9b68-0a39-4975-8f9c-c47d48e7ed93/adapters/0/ports/3/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.24" [33bc1a19-ff1e-4f57-bd82-4573385cb39b]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/33bc1a19-ff1e-4f57-bd82-4573385cb39b/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: NIO udp-e18dcbda-48a5-4ab4-9855-cf2a5a0fb8b0 bound to port 0
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: port 0 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0040c9ad-955e-44ea-b610-4e9ad87d664d/adapters/0/ports/0/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.21" [3f495037-4a81-40bd-bcab-e3d67cb4f5e0]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/3f495037-4a81-40bd-bcab-e3d67cb4f5e0/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: NIO udp-2e7ae44f-512b-4165-ab49-29699d0de3c7 bound to port 1
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: port 1 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0040c9ad-955e-44ea-b610-4e9ad87d664d/adapters/0/ports/1/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.20" [d21636fc-fa63-4777-9577-b2835249eac8]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/d21636fc-fa63-4777-9577-b2835249eac8/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: NIO udp-cfc2731b-8d52-4574-b89b-f98c91984cc9 bound to port 2
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: port 2 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0040c9ad-955e-44ea-b610-4e9ad87d664d/adapters/0/ports/2/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.19" [64af328b-55e7-440a-85da-f8fbb25223ba]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/64af328b-55e7-440a-85da-f8fbb25223ba/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: NIO udp-5de44822-bc70-4bb0-a347-c02455d0c83a bound to port 3
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: port 3 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0040c9ad-955e-44ea-b610-4e9ad87d664d/adapters/0/ports/3/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.18" [977096cf-ce03-4a78-8849-69e198f875af]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/977096cf-ce03-4a78-8849-69e198f875af/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: NIO udp-7f86a68f-5947-4910-9944-2e7acf306045 bound to port 4
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: port 4 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0040c9ad-955e-44ea-b610-4e9ad87d664d/adapters/0/ports/4/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.17" [0e72f780-c170-4138-9ea5-b8a1a17a17e3]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/0e72f780-c170-4138-9ea5-b8a1a17a17e3/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: NIO udp-d05601fc-2ccb-41f6-8ed1-9382db913a67 bound to port 5
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: port 5 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0040c9ad-955e-44ea-b610-4e9ad87d664d/adapters/0/ports/5/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.16" [30827c6b-655c-457f-b522-f27f5dba2fce]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/30827c6b-655c-457f-b522-f27f5dba2fce/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: NIO udp-b8c8a658-248c-432d-a752-54b04af50af1 bound to port 6
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: port 6 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0040c9ad-955e-44ea-b610-4e9ad87d664d/adapters/0/ports/6/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO vpcs_vm.py:376 VPCS "198.16.0.15" [6e7a02e8-e925-4c05-a9f0-0e442cff63e3]: NIO UDP added to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/6e7a02e8-e925-4c05-a9f0-0e442cff63e3/adapters/0/ports/0/nio HTTP/1.1" 201 379 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93]: NIO udp-e1a57212-ffaf-4f01-85a9-42fb8b36958b bound to port 4
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93]: port 4 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/451f9b68-0a39-4975-8f9c-c47d48e7ed93/adapters/0/ports/4/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_hub.py:147 Ethernet hub "198.16.0.0" [291f188c-98a7-4e5e-bfac-e00e19780bbd]: NIO udp-7ae5fecf-f24b-43ef-af7b-4d7117706cb9 bound to port 0
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_hub/nodes/291f188c-98a7-4e5e-bfac-e00e19780bbd/adapters/0/ports/0/nio HTTP/1.1" 201 387 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:56 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.1" [0dab2800-35cb-4361-884b-2862bcc9bfef]: NIO udp-5b0f3d0d-71f7-4ee8-8912-d7c2ce9fa30d bound to port 2
+2022-03-03 00:08:56 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.1" [0dab2800-35cb-4361-884b-2862bcc9bfef]: port 2 set as an access port in VLAN 1
+2022-03-03 00:08:56 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0dab2800-35cb-4361-884b-2862bcc9bfef/adapters/0/ports/2/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:57 INFO ethernet_hub.py:147 Ethernet hub "198.16.0.0" [291f188c-98a7-4e5e-bfac-e00e19780bbd]: NIO udp-aeaf52ee-13bf-4036-b413-b7ca2f36a092 bound to port 1
+2022-03-03 00:08:57 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:56 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_hub/nodes/291f188c-98a7-4e5e-bfac-e00e19780bbd/adapters/0/ports/1/nio HTTP/1.1" 201 387 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:57 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:57 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:57 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:57 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:57 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.5" [af19e45f-67d3-439a-8b19-b50f30296103]: NIO udp-de13e134-ab8a-45c8-a4ba-949a0148d0c7 bound to port 3
+2022-03-03 00:08:57 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.5" [af19e45f-67d3-439a-8b19-b50f30296103]: port 3 set as an access port in VLAN 1
+2022-03-03 00:08:57 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:57 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/af19e45f-67d3-439a-8b19-b50f30296103/adapters/0/ports/3/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:57 INFO ethernet_hub.py:147 Ethernet hub "198.16.0.0" [291f188c-98a7-4e5e-bfac-e00e19780bbd]: NIO udp-3854973f-1fd1-408e-af74-55852b267681 bound to port 2
+2022-03-03 00:08:57 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:57 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_hub/nodes/291f188c-98a7-4e5e-bfac-e00e19780bbd/adapters/0/ports/2/nio HTTP/1.1" 201 387 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:57 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:57 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:57 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:57 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ports/udp HTTP/1.1" 201 244 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:57 INFO ethernet_switch.py:275 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: NIO udp-58f1a8a6-4778-4bb1-a569-1fbf0362e283 bound to port 7
+2022-03-03 00:08:57 INFO ethernet_switch.py:365 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d]: port 7 set as an access port in VLAN 1
+2022-03-03 00:08:57 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:57 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0040c9ad-955e-44ea-b610-4e9ad87d664d/adapters/0/ports/7/nio HTTP/1.1" 201 390 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:57 INFO ethernet_hub.py:147 Ethernet hub "198.16.0.0" [291f188c-98a7-4e5e-bfac-e00e19780bbd]: NIO udp-901ffe6b-2bcf-4f4b-8e03-c2ebb366924c bound to port 3
+2022-03-03 00:08:57 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:38:57 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_hub/nodes/291f188c-98a7-4e5e-bfac-e00e19780bbd/adapters/0/ports/3/nio HTTP/1.1" 201 387 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:08:57 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:55 +0000] "POST /v2/projects/load HTTP/1.1" 201 734 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:08:57 INFO project_handler.py:272 New client has connected to the notification stream for project ID '86b0b48b-bba8-4986-9eae-8964d865c47a' (WebSocket method)
+2022-03-03 00:08:57 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:57 +0000] "GET /v2/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/nodes HTTP/1.1" 200 49855 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:08:57 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:57 +0000] "GET /v2/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/links HTTP/1.1" 200 26719 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:08:57 INFO web_log.py:206 ::1 [02/Mar/2022:18:38:57 +0000] "GET /v2/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/drawings HTTP/1.1" 200 206 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:09:06 INFO notification_handler.py:82 Client has disconnected from controller WebSocket
+2022-03-03 00:09:06 INFO server_handler.py:53 Start shutting down the server
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/451f9b68-0a39-4975-8f9c-c47d48e7ed93/stop HTTP/1.1" 204 197 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0dab2800-35cb-4361-884b-2862bcc9bfef/stop HTTP/1.1" 204 197 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/af19e45f-67d3-439a-8b19-b50f30296103/stop HTTP/1.1" 204 197 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_switch/nodes/0040c9ad-955e-44ea-b610-4e9ad87d664d/stop HTTP/1.1" 204 197 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/635346da-38c1-483d-92bb-3f00cd57af1c/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/af6a6809-6718-4867-8d5f-22d094f254f7/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/e3ef85ee-96c7-4e01-8601-a0e4df1246c7/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/71c3a279-3e62-4502-a66f-575a3c1d71a9/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/68885b97-1f1a-48a2-b23a-482b60571460/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/e2993d66-e411-4303-b6db-8af0aeb31c01/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/bfa31ea6-fddd-49d7-9888-ff20563e92c1/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/8e6346e2-24a5-49bd-9a6f-1de3884ad63a/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/33bc1a19-ff1e-4f57-bd82-4573385cb39b/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/d21636fc-fa63-4777-9577-b2835249eac8/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/3f495037-4a81-40bd-bcab-e3d67cb4f5e0/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/64af328b-55e7-440a-85da-f8fbb25223ba/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/0e72f780-c170-4138-9ea5-b8a1a17a17e3/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/977096cf-ce03-4a78-8849-69e198f875af/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/30827c6b-655c-457f-b522-f27f5dba2fce/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/ethernet_hub/nodes/291f188c-98a7-4e5e-bfac-e00e19780bbd/stop HTTP/1.1" 204 194 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/vpcs/nodes/6e7a02e8-e925-4c05-a9f0-0e442cff63e3/stop HTTP/1.1" 204 186 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.20' [d21636fc-fa63-4777-9577-b2835249eac8]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.18' [977096cf-ce03-4a78-8849-69e198f875af]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.17' [0e72f780-c170-4138-9ea5-b8a1a17a17e3]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.7' [68885b97-1f1a-48a2-b23a-482b60571460]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.26' [bfa31ea6-fddd-49d7-9888-ff20563e92c1]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.24' [33bc1a19-ff1e-4f57-bd82-4573385cb39b]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.2' [af6a6809-6718-4867-8d5f-22d094f254f7]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.19' [64af328b-55e7-440a-85da-f8fbb25223ba]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.27' [e2993d66-e411-4303-b6db-8af0aeb31c01]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.3' [635346da-38c1-483d-92bb-3f00cd57af1c]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.8' [71c3a279-3e62-4502-a66f-575a3c1d71a9]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.15' [6e7a02e8-e925-4c05-a9f0-0e442cff63e3]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.16' [30827c6b-655c-457f-b522-f27f5dba2fce]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.6' [e3ef85ee-96c7-4e01-8601-a0e4df1246c7]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.25' [8e6346e2-24a5-49bd-9a6f-1de3884ad63a]: is closing
+2022-03-03 00:09:06 INFO base_node.py:331 VPCS: '198.16.0.21' [3f495037-4a81-40bd-bcab-e3d67cb4f5e0]: is closing
+2022-03-03 00:09:06 INFO ethernet_switch.py:252 Ethernet switch "198.16.0.1" [0dab2800-35cb-4361-884b-2862bcc9bfef] has been deleted
+2022-03-03 00:09:06 INFO hypervisor.py:148 Stopping Dynamips process PID=172109
+2022-03-03 00:09:06 INFO ethernet_hub.py:123 Ethernet hub "198.16.0.0" [291f188c-98a7-4e5e-bfac-e00e19780bbd] has been deleted
+2022-03-03 00:09:06 INFO hypervisor.py:148 Stopping Dynamips process PID=172198
+2022-03-03 00:09:06 INFO ethernet_switch.py:252 Ethernet switch "198.16.0.5" [af19e45f-67d3-439a-8b19-b50f30296103] has been deleted
+2022-03-03 00:09:06 INFO hypervisor.py:148 Stopping Dynamips process PID=172166
+2022-03-03 00:09:06 INFO ethernet_switch.py:252 Ethernet switch "198.16.0.23" [451f9b68-0a39-4975-8f9c-c47d48e7ed93] has been deleted
+2022-03-03 00:09:06 INFO hypervisor.py:148 Stopping Dynamips process PID=172149
+2022-03-03 00:09:06 INFO ethernet_switch.py:252 Ethernet switch "198.16.0.14" [0040c9ad-955e-44ea-b610-4e9ad87d664d] has been deleted
+2022-03-03 00:09:06 INFO hypervisor.py:148 Stopping Dynamips process PID=172182
+2022-03-03 00:09:07 INFO project.py:361 Project 86b0b48b-bba8-4986-9eae-8964d865c47a with path '/home/barbarik/GNS3/projects/aishani' closed
+2022-03-03 00:09:07 INFO web_log.py:206 127.0.0.1 [02/Mar/2022:18:39:06 +0000] "POST /v2/compute/projects/86b0b48b-bba8-4986-9eae-8964d865c47a/close HTTP/1.1" 204 166 "-" "Python/3.10 aiohttp/3.8.1"
+2022-03-03 00:09:07 INFO web_log.py:206 ::1 [02/Mar/2022:18:39:06 +0000] "POST /v2/shutdown HTTP/1.1" 201 195 "-" "GNS3 QT Client v2.2.31"
+2022-03-03 00:09:07 INFO web_server.py:113 Closing 2 websocket connections...
+2022-03-03 00:09:07 INFO compute.py:460 Connection closed to compute 'local' WebSocket 'http://localhost:3080/v2/compute/notifications/ws'
+2022-03-03 00:09:07 INFO project_handler.py:281 Client has disconnected from notification stream for project ID '86b0b48b-bba8-4986-9eae-8964d865c47a' (WebSocket method)
+2022-03-03 00:09:07 INFO notification_handler.py:59 Client has disconnected from compute WebSocket
+2022-03-03 00:09:07 INFO __init__.py:138 Controller is stopping
+2022-03-03 00:09:07 INFO run.py:272 Remove PID file /home/barbarik/.config/GNS3/2.2/gns3_server.pid

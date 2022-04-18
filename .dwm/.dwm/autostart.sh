@@ -26,7 +26,7 @@ Vol(){
 }
 
 Mut(){
-	if [ "$(pacmd list-sinks | awk '/muted/ { print $2 }')" = 'no' ]
+	if [ "$(pactl list sinks | awk '/Mute/ { print $2 }')" = 'no' ]
 	then Mut=
 	else Mut=
 	fi
