@@ -50,7 +50,7 @@ Units=pt
 
 [Recent Files]
 File1[$e]=$HOME/acad/mos/lecture7a_fabrication.pdf
-File10[$e]=$HOME/csfdd/Computer-Stuff-for-Dum-Dums.pdf
+File10[$e]=$HOME/Downloads/resume/resume.pdf
 File2[$e]=$HOME/acad/mos/MOS circuit Design_Module 3PPT.pdf
 File3[$e]=$HOME/acad/mos/C-MOSkang.pdf
 File4[$e]=$HOME/acad/mos/ass3.pdf
@@ -58,9 +58,9 @@ File5[$e]=$HOME/acad/mos/ass4.pdf
 File6[$e]=$HOME/acad/mos/sol1.pdf
 File7[$e]=$HOME/acad/mos/ass1.pdf
 File8[$e]=$HOME/acad/mos/ass5.pdf
-File9[$e]=$HOME/Downloads/resume/resume.pdf
+File9[$e]=$HOME/csfdd/Computer-Stuff-for-Dum-Dums.pdf
 Name1[$e]=lecture7a_fabrication.pdf
-Name10[$e]=Computer-Stuff-for-Dum-Dums.pdf
+Name10[$e]=resume.pdf
 Name2[$e]=MOS circuit Design_Module 3PPT.pdf
 Name3[$e]=C-MOSkang.pdf
 Name4[$e]=ass3.pdf
@@ -68,7 +68,7 @@ Name5[$e]=ass4.pdf
 Name6[$e]=sol1.pdf
 Name7[$e]=ass1.pdf
 Name8[$e]=ass5.pdf
-Name9[$e]=resume.pdf
+Name9[$e]=Computer-Stuff-for-Dum-Dums.pdf
 
 [SlideShow]
 PresentationMonitor=0

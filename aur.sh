@@ -1,1 +1,1 @@
-yay -S  create_ap dynamips eagle eovpn gfxbench gnome-icon-theme gns3-gui gns3-server gputest hollywood i3lock-fancy-git mdk nerd-fonts-ubuntu-mono nouveau-fw orage termite tor-browser write-good yay zenmap zoom 
+yay -S  create_ap dynamips eagle eovpn gfxbench gnome-icon-theme gns3-gui gns3-server gputest hollywood i3lock-fancy-git mdk nerd-fonts-ubuntu-mono nouveau-fw orage termite tor-browser ubridge vpcs write-good yay zenmap zoom 

@@ -1,48 +1,45 @@
-00:00:00.001086 main     VirtualBox XPCOM Server 6.1.26 r145957 linux.amd64 (Jul 29 2021 12:15:28) release log
-00:00:00.001087 main     Log opened 2021-10-13T05:32:13.678152000Z
-00:00:00.001088 main     Build Type: release
-00:00:00.001089 main     OS Product: Linux
-00:00:00.001090 main     OS Release: 5.10.70-1-lts
-00:00:00.001090 main     OS Version: #1 SMP Thu, 30 Sep 2021 09:43:10 +0000
-00:00:00.001102 main     DMI Product Name: Nitro AN515-55
-00:00:00.001108 main     DMI Product Version: V1.00
-00:00:00.001111 main     Firmware type: UEFI
-00:00:00.001841 main     Secure Boot: Disabled
-00:00:00.001877 main     Host RAM: 7784MB (7.6GB) total, 6910MB (6.7GB) available
-00:00:00.001879 main     Executable: /usr/lib/virtualbox/VBoxSVC
-00:00:00.001880 main     Process ID: 25335
-00:00:00.001880 main     Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.002862 main     IPC socket path: /tmp/.vbox-barbarik-ipc/ipcd
-00:00:00.109812 nspr-2   VirtualBox: object creation starts
-00:00:00.109988 nspr-2   Home directory: '/home/barbarik/.config/VirtualBox'
-00:00:00.111952 nspr-2   Loading settings file "/home/barbarik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:00.126390 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:00.127875 nspr-2   HostDnsMonitor: initializing
-00:00:00.128464 nspr-2   NAT: resolv.conf: nameserver 8.8.8.8
-00:00:00.128492 nspr-2   NAT: resolv.conf: nameserver 8.8.4.4
-00:00:00.128500 nspr-2   NAT: resolv.conf: nameserver 1.1.1.1
-00:00:00.128521 nspr-2   HostDnsMonitor: updating information
-00:00:00.128553 nspr-2   HostDnsMonitor: old information
-00:00:00.128560 nspr-2     no server entries
-00:00:00.128566 nspr-2     no domain set
-00:00:00.128571 nspr-2     no search string entries
-00:00:00.128577 nspr-2   HostDnsMonitor: new information
-00:00:00.128582 nspr-2     server 1: 8.8.8.8
-00:00:00.128589 nspr-2     server 2: 8.8.4.4
-00:00:00.128594 nspr-2     server 3: 1.1.1.1
-00:00:00.128600 nspr-2     no domain set
-00:00:00.128605 nspr-2     no search string entries
-00:00:00.134107 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
-00:00:00.135767 nspr-2   VD: VDInit finished with VINF_SUCCESS
-00:00:00.136326 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
-00:00:00.137797 nspr-2   VirtualBox: object created
-00:00:51.611191 nspr-3   Saving settings file "/home/barbarik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:51.614145 nspr-3   Saving settings file "/home/barbarik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:51.619337 nspr-3   Saving settings file "/home/barbarik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:51.621511 nspr-2   Saving settings file "/home/barbarik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:57.135893 main     VirtualBox: object deletion starts
-00:00:57.136437 main     HostDnsMonitor: shutting down ...
-00:00:57.163976 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
-00:00:57.171947 main     HostDnsMonitor: shut down
-00:01:02.172225 main     {00007f1dec015a80} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
-00:01:02.172682 main     VirtualBox: object deleted
+00:00:00.001162 main     VirtualBox XPCOM Server 6.1.32 r149290 linux.amd64 (Feb 10 2022 14:02:19) release log
+00:00:00.001165 main     Log opened 2022-05-06T09:09:14.094764000Z
+00:00:00.001166 main     Build Type: release
+00:00:00.001168 main     OS Product: Linux
+00:00:00.001169 main     OS Release: 5.15.34-1-lts
+00:00:00.001170 main     OS Version: #1 SMP Thu, 14 Apr 2022 05:08:35 +0000
+00:00:00.001197 main     DMI Product Name: Nitro AN515-55
+00:00:00.001205 main     DMI Product Version: V1.00
+00:00:00.001210 main     Firmware type: UEFI
+00:00:00.002439 main     Secure Boot: Disabled
+00:00:00.002506 main     Host RAM: 7780MB (7.5GB) total, 5973MB (5.8GB) available
+00:00:00.002512 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.002513 main     Process ID: 92098
+00:00:00.002514 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.004865 main     IPC socket path: /tmp/.vbox-barbarik-ipc/ipcd
+00:00:00.113255 nspr-2   VirtualBox: object creation starts
+00:00:00.113393 nspr-2   Home directory: '/home/barbarik/.config/VirtualBox'
+00:00:00.114039 nspr-2   Loading settings file "/home/barbarik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.145414 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.146990 nspr-2   HostDnsMonitor: initializing
+00:00:00.147468 nspr-2   NAT: resolv.conf: nameserver 8.8.8.8
+00:00:00.147495 nspr-2   NAT: resolv.conf: nameserver 8.8.4.4
+00:00:00.147502 nspr-2   NAT: resolv.conf: nameserver 1.1.1.1
+00:00:00.147519 nspr-2   HostDnsMonitor: updating information
+00:00:00.147546 nspr-2   HostDnsMonitor: old information
+00:00:00.147551 nspr-2     no server entries
+00:00:00.147557 nspr-2     no domain set
+00:00:00.147561 nspr-2     no search string entries
+00:00:00.147566 nspr-2   HostDnsMonitor: new information
+00:00:00.147570 nspr-2     server 1: 8.8.8.8
+00:00:00.147576 nspr-2     server 2: 8.8.4.4
+00:00:00.147581 nspr-2     server 3: 1.1.1.1
+00:00:00.147586 nspr-2     no domain set
+00:00:00.147590 nspr-2     no search string entries
+00:00:00.152968 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.154076 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.154513 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.155888 nspr-2   VirtualBox: object created
+00:00:00.171027 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:06.530349 main     VirtualBox: object deletion starts
+00:00:06.530890 main     HostDnsMonitor: shutting down ...
+00:00:06.542965 main     HostDnsMonitor: shut down
+00:00:06.657536 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:11.543097 main     {00007f2d30015a90} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:11.553409 main     VirtualBox: object deleted
