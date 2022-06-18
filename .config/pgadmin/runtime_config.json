@@ -1,0 +1,7 @@
+{
+    "fixedPort": false,
+    "portNo": 5050,
+    "connectionTimeout": 90,
+    "zoomLevel": 0,
+    "openDocsInBrowser": true
+}

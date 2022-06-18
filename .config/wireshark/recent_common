@@ -1,4 +1,4 @@
-# Common recent settings file for Wireshark 3.4.8.
+# Common recent settings file for Wireshark 3.6.5.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -14,6 +14,12 @@ recent.capture_file: /home/barbarik/weef/two-01.cap
 
 ######## Recent display filters (latest last), cannot be altered through command line ########
 
+recent.display_filter: ip.addr
+recent.display_filter: udp.stream eq 83
+recent.display_filter: ipv6
+recent.display_filter: ip.addr == 172.16.48.1
+recent.display_filter: ip
+recent.display_filter: arp
 
 # Main window geometry.
 # Decimal numbers.
@@ -68,6 +74,15 @@ gui.search_case_sensitive: FALSE
 # Find packet search type.
 # One of: DISPLAY_FILTER, HEX_VALUE, STRING, REGEX
 gui.search_type: DISPLAY_FILTER
+
+# Geometry and maximized state of FollowStreamDialog window.
+# Decimal integers.
+gui.geom.FollowStreamDialog.x: 4
+gui.geom.FollowStreamDialog.y: 21
+gui.geom.FollowStreamDialog.width: 1046
+gui.geom.FollowStreamDialog.height: 1053
+# TRUE or FALSE (case-insensitive).
+gui.geom.FollowStreamDialog.maximized: FALSE
 
 # Custom colors.
 # List of custom colors selected in Qt color picker.

@@ -6,7 +6,7 @@ DirHistory[$e]=$HOME/acad/dsp/,/tmp/,$HOME/Downloads/resume/,$HOME/maal/movies/A
 Height 768=512
 Width 1366=1000
 eDP1 Height 1920x1080=562
-eDP1 Width 1920x1080=1442
+eDP1 Width 1920x1080=1448
 
 [HTML Settings]
 AutomaticDetectionLanguage=1
@@ -116,9 +116,9 @@ eDP1 Height 1920x1080=1053
 eDP1 Width 1920=1046
 eDP1 Width 1920x1080=1046
 eDP1 XPosition=4
-eDP1 XPosition 1920x1080=5
+eDP1 XPosition 1920x1080=4
 eDP1 YPosition=21
-eDP1 YPosition 1920x1080=22
+eDP1 YPosition 1920x1080=21
 splitterSizes=696,346
 
 [Open-with settings]

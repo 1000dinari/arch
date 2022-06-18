@@ -432,7 +432,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/Font Awesome 6 Brands-Regular-400.otf||489824:1644275321.0": {
+    "/usr/share/fonts/OTF/Font Awesome 6 Brands-Regular-400.otf||496360:1648385325.0": {
       "family_name": "Font Awesome 6 Brands Regular",
       "font-family": "Font Awesome 6 Brands Regular",
       "font-stretch": "normal",
@@ -468,7 +468,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/Font Awesome 6 Free-Regular-400.otf||168848:1644275321.0": {
+    "/usr/share/fonts/OTF/Font Awesome 6 Free-Regular-400.otf||168644:1648385325.0": {
       "family_name": "Font Awesome 6 Free Regular",
       "font-family": "Font Awesome 6 Free Regular",
       "font-stretch": "normal",
@@ -504,7 +504,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/Font Awesome 6 Free-Solid-900.otf||763488:1644275321.0": {
+    "/usr/share/fonts/OTF/Font Awesome 6 Free-Solid-900.otf||975352:1648385325.0": {
       "family_name": "Font Awesome 6 Free Solid",
       "font-family": "Font Awesome 6 Free Solid",
       "font-stretch": "normal",
@@ -5400,7 +5400,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/xscreensaver/OCRAStd.otf||30636:1634465669.0": {
+    "/usr/share/fonts/xscreensaver/OCRAStd.otf||30636:1646773605.0": {
       "family_name": "OCR A Std",
       "font-family": "OCR A Std",
       "font-stretch": "normal",
@@ -5436,7 +5436,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/xscreensaver/SpecialElite.ttf||166224:1634465669.0": {
+    "/usr/share/fonts/xscreensaver/SpecialElite.ttf||166224:1646773605.0": {
       "family_name": "Special Elite",
       "font-family": "Special Elite",
       "font-stretch": "normal",
@@ -5472,7 +5472,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/xscreensaver/clacon.ttf||103892:1634465669.0": {
+    "/usr/share/fonts/xscreensaver/clacon.ttf||103892:1646773605.0": {
       "family_name": "Classic Console",
       "font-family": "Classic Console",
       "font-stretch": "normal",
@@ -5508,7 +5508,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/xscreensaver/gallant12x22.ttf||25644:1634465669.0": {
+    "/usr/share/fonts/xscreensaver/gallant12x22.ttf||25644:1646773605.0": {
       "family_name": "gallant12x22",
       "font-family": "gallant12x22",
       "font-stretch": "normal",
@@ -5544,7 +5544,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/xscreensaver/luximr.ttf||71784:1634465669.0": {
+    "/usr/share/fonts/xscreensaver/luximr.ttf||71784:1646773605.0": {
       "family_name": "Luxi Mono",
       "font-family": "Luxi Mono",
       "font-stretch": "normal",

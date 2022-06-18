@@ -1,4 +1,5 @@
-2022-05-06 14:51:48 INFO logger.py:126 Log level: INFO
-2022-05-06 14:51:48 INFO main.py:259 GNS3 GUI version 2.2.32
-2022-05-06 14:51:48 INFO main.py:260 Copyright (c) 2007-2022 GNS3 Technologies Inc.
-2022-05-06 14:51:48 INFO main.py:261 Application started with /usr/bin/gns3
+2022-05-19 14:02:26 INFO logger.py:126 Log level: INFO
+2022-05-19 14:02:26 INFO main.py:259 GNS3 GUI version 2.2.32
+2022-05-19 14:02:26 INFO main.py:260 Copyright (c) 2007-2022 GNS3 Technologies Inc.
+2022-05-19 14:02:26 INFO main.py:261 Application started with /usr/bin/gns3
+2022-05-19 14:15:08 ERROR node.py:519 Error while duplicating PC: Cannot duplicate node data while the node is running

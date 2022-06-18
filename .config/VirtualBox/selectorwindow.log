@@ -1,18 +1,18 @@
-00:00:00.269424 VirtualBox GUI VM Selector Window 6.1.26 r145957 linux.amd64 (Jul 29 2021 12:15:28) release log
-00:00:00.269425 Log opened 2021-10-13T05:32:13.852586000Z
-00:00:00.269426 Build Type: release
-00:00:00.269427 OS Product: Linux
-00:00:00.269427 OS Release: 5.10.70-1-lts
-00:00:00.269428 OS Version: #1 SMP Thu, 30 Sep 2021 09:43:10 +0000
-00:00:00.269439 DMI Product Name: Nitro AN515-55
-00:00:00.269443 DMI Product Version: V1.00
-00:00:00.269446 Firmware type: UEFI
-00:00:00.270133 Secure Boot: Disabled
-00:00:00.270163 Host RAM: 7784MB (7.6GB) total, 6908MB (6.7GB) available
-00:00:00.270166 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:00.270166 Process ID: 25287
-00:00:00.270167 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.270194 Qt version: 5.15.2
-00:00:00.289835 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:00.289848 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:00:00.682338 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1059x20 x 854x1053
+00:00:00.303439 VirtualBox GUI VM Selector Window 6.1.34 r150636 linux.amd64 (Apr 21 2022 20:04:42) release log
+00:00:00.303441 Log opened 2022-05-19T07:44:08.305546000Z
+00:00:00.303441 Build Type: release
+00:00:00.303442 OS Product: Linux
+00:00:00.303442 OS Release: 5.15.37-1-lts
+00:00:00.303443 OS Version: #1 SMP Sun, 01 May 2022 15:44:53 +0000
+00:00:00.303453 DMI Product Name: Nitro AN515-55
+00:00:00.303457 DMI Product Version: V1.00
+00:00:00.303460 Firmware type: UEFI
+00:00:00.304079 Secure Boot: Disabled
+00:00:00.304107 Host RAM: 7780MB (7.5GB) total, 6806MB (6.6GB) available
+00:00:00.304110 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.304110 Process ID: 20402
+00:00:00.304110 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.304138 Qt version: 5.15.3
+00:00:00.340306 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.340319 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.738579 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1059x20 x 854x1053
