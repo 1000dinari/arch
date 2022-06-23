@@ -35,40 +35,40 @@ eDP-1 Width 1920x1080=1920
 eDP-1 XPosition 1920x1080=0
 eDP-1 YPosition 1920x1080=0
 eDP1 Height 1080=1080
-eDP1 Height 1920x1080=1053
+eDP1 Height 1920x1080=521
 eDP1 Height 768=768
 eDP1 Width 1366=1366
 eDP1 Width 1920=1920
-eDP1 Width 1920x1080=1046
+eDP1 Width 1920x1080=854
 eDP1 XPosition=0
-eDP1 XPosition 1920x1080=5
+eDP1 XPosition 1920x1080=4
 eDP1 YPosition=0
-eDP1 YPosition 1920x1080=22
+eDP1 YPosition 1920x1080=21
 
 [Misc]
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/acad/cao/102086012_3EC8_tutorial.pdf
-File10[$e]=$HOME/Documents/personal-docs/raghavadhaar.pdf
-File2[$e]=$HOME/acad/ics/Security in OS.pptx
-File3[$e]=$HOME/acad/ics/Network Security - Part I.pptx
-File4[$e]=$HOME/acad/ics/Network Security - Part III.pptx
-File5[$e]=$HOME/acad/ics/Authentication, Data Mining and other topics.pptx
-File6[$e]=$HOME/acad/ics/Legal Issues and Ethics.pptx
-File7[$e]=$HOME/acad/ics/Cloudcomputing and Security.pptx
-File8[$e]=$HOME/acad/ics/Handling incidents, Risk analysis and Dealing with Disasters.pptx
-File9[$e]=$HOME/Downloads/Telegram Desktop/Vaccinated_Saurabh.pdf
-Name1[$e]=102086012_3EC8_tutorial.pdf
-Name10[$e]=raghavadhaar.pdf
-Name2[$e]=Security in OS.pptx
-Name3[$e]=Network Security - Part I.pptx
-Name4[$e]=Network Security - Part III.pptx
-Name5[$e]=Authentication, Data Mining and other topics.pptx
-Name6[$e]=Legal Issues and Ethics.pptx
-Name7[$e]=Cloudcomputing and Security.pptx
-Name8[$e]=Handling incidents, Risk analysis and Dealing with Disasters.pptx
-Name9[$e]=Vaccinated_Saurabh.pdf
+File1[$e]=$HOME/acad/ics/Security in OS.pptx
+File10[$e]=$HOME/resume.pdf
+File2[$e]=$HOME/acad/ics/Network Security - Part I.pptx
+File3[$e]=$HOME/acad/ics/Network Security - Part III.pptx
+File4[$e]=$HOME/acad/ics/Authentication, Data Mining and other topics.pptx
+File5[$e]=$HOME/acad/ics/Legal Issues and Ethics.pptx
+File6[$e]=$HOME/acad/ics/Cloudcomputing and Security.pptx
+File7[$e]=$HOME/acad/ics/Handling incidents, Risk analysis and Dealing with Disasters.pptx
+File8[$e]=$HOME/Downloads/Telegram Desktop/Vaccinated_Saurabh.pdf
+File9[$e]=$HOME/Documents/personal-docs/raghavadhaar.pdf
+Name1[$e]=Security in OS.pptx
+Name10[$e]=resume.pdf
+Name2[$e]=Network Security - Part I.pptx
+Name3[$e]=Network Security - Part III.pptx
+Name4[$e]=Authentication, Data Mining and other topics.pptx
+Name5[$e]=Legal Issues and Ethics.pptx
+Name6[$e]=Cloudcomputing and Security.pptx
+Name7[$e]=Handling incidents, Risk analysis and Dealing with Disasters.pptx
+Name8[$e]=Vaccinated_Saurabh.pdf
+Name9[$e]=raghavadhaar.pdf
 
 [SlideShow]
 PresentationMonitor=0
