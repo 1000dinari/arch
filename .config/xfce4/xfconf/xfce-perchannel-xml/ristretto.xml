@@ -5,8 +5,8 @@
     <property name="navigationbar" type="empty">
       <property name="position" type="string" value="left"/>
     </property>
-    <property name="height" type="uint" value="1063"/>
-    <property name="width" type="uint" value="1920"/>
+    <property name="height" type="uint" value="1053"/>
+    <property name="width" type="uint" value="1046"/>
   </property>
   <property name="file" type="empty">
     <property name="current-uri" type="string" value="file:///home/barbarik/Pictures/acad"/>
