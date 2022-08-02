@@ -35,40 +35,40 @@ eDP-1 Width 1920x1080=1920
 eDP-1 XPosition 1920x1080=0
 eDP-1 YPosition 1920x1080=0
 eDP1 Height 1080=1080
-eDP1 Height 1920x1080=1053
+eDP1 Height 1920x1080=1063
 eDP1 Height 768=768
 eDP1 Width 1366=1366
 eDP1 Width 1920=1920
-eDP1 Width 1920x1080=950
+eDP1 Width 1920x1080=1920
 eDP1 XPosition=0
-eDP1 XPosition 1920x1080=5
+eDP1 XPosition 1920x1080=0
 eDP1 YPosition=0
-eDP1 YPosition 1920x1080=22
+eDP1 YPosition 1920x1080=17
 
 [Misc]
 Units=pt
 
 [Recent Files]
 File1[$e]=$HOME/acad/ics/Authentication, Data Mining and other topics.pptx
-File10[$e]=$HOME/Pictures/Ticket(Print).pdf
+File10[$e]=$HOME/resume.pdf
 File2[$e]=$HOME/acad/ics/Legal Issues and Ethics.pptx
 File3[$e]=$HOME/acad/ics/Cloudcomputing and Security.pptx
 File4[$e]=$HOME/acad/ics/Handling incidents, Risk analysis and Dealing with Disasters.pptx
 File5[$e]=$HOME/Downloads/Telegram Desktop/Vaccinated_Saurabh.pdf
 File6[$e]=$HOME/Documents/personal-docs/raghavadhaar.pdf
-File7[$e]=$HOME/resume.pdf
-File8[$e]=$HOME/Documents/ciscocert/ics.pdf
-File9[$e]=$HOME/Documents/dl/dlll-rec.pdf
+File7[$e]=$HOME/Documents/ciscocert/ics.pdf
+File8[$e]=$HOME/Documents/dl/dlll-rec.pdf
+File9[$e]=$HOME/Pictures/Ticket(Print).pdf
 Name1[$e]=Authentication, Data Mining and other topics.pptx
-Name10[$e]=Ticket(Print).pdf
+Name10[$e]=resume.pdf
 Name2[$e]=Legal Issues and Ethics.pptx
 Name3[$e]=Cloudcomputing and Security.pptx
 Name4[$e]=Handling incidents, Risk analysis and Dealing with Disasters.pptx
 Name5[$e]=Vaccinated_Saurabh.pdf
 Name6[$e]=raghavadhaar.pdf
-Name7[$e]=resume.pdf
-Name8[$e]=ics.pdf
-Name9[$e]=dlll-rec.pdf
+Name7[$e]=ics.pdf
+Name8[$e]=dlll-rec.pdf
+Name9[$e]=Ticket(Print).pdf
 
 [SlideShow]
 PresentationMonitor=0
