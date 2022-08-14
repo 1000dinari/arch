@@ -1,1 +1,1 @@
-yay -S  create_ap dynamips eagle eovpn exif geda-gaf gfxbench gnome-icon-theme gns3-gui gns3-server gputest hollywood i3lock-fancy-git mdk mininet nerd-fonts-ubuntu-mono nouveau-fw orage termite tor-browser ubridge vpcs write-good yay zenmap zoom 
+yay -S  cloudflare-warp-bin create_ap dynamips eagle eovpn exif geda-gaf gfxbench gnome-icon-theme gns3-gui gns3-server gputest hollywood i3lock-fancy-git mdk mininet nerd-fonts-ubuntu-mono nouveau-fw orage termite tor-browser ubridge vpcs write-good yay zenmap zoom 
