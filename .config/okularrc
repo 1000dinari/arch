@@ -49,26 +49,26 @@ eDP1 YPosition 1920x1080=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/acad/ics/Authentication, Data Mining and other topics.pptx
-File10[$e]=$HOME/resume.pdf
-File2[$e]=$HOME/acad/ics/Legal Issues and Ethics.pptx
-File3[$e]=$HOME/acad/ics/Cloudcomputing and Security.pptx
-File4[$e]=$HOME/acad/ics/Handling incidents, Risk analysis and Dealing with Disasters.pptx
-File5[$e]=$HOME/Downloads/Telegram Desktop/Vaccinated_Saurabh.pdf
-File6[$e]=$HOME/Documents/personal-docs/raghavadhaar.pdf
-File7[$e]=$HOME/Documents/ciscocert/ics.pdf
-File8[$e]=$HOME/Documents/dl/dlll-rec.pdf
-File9[$e]=$HOME/Pictures/Ticket(Print).pdf
-Name1[$e]=Authentication, Data Mining and other topics.pptx
-Name10[$e]=resume.pdf
-Name2[$e]=Legal Issues and Ethics.pptx
-Name3[$e]=Cloudcomputing and Security.pptx
-Name4[$e]=Handling incidents, Risk analysis and Dealing with Disasters.pptx
-Name5[$e]=Vaccinated_Saurabh.pdf
-Name6[$e]=raghavadhaar.pdf
-Name7[$e]=ics.pdf
-Name8[$e]=dlll-rec.pdf
-Name9[$e]=Ticket(Print).pdf
+File1[$e]=$HOME/acad/ics/Legal Issues and Ethics.pptx
+File10[$e]=$HOME/HOT/OFFICE ORDER Echoes Club.pdf
+File2[$e]=$HOME/acad/ics/Cloudcomputing and Security.pptx
+File3[$e]=$HOME/acad/ics/Handling incidents, Risk analysis and Dealing with Disasters.pptx
+File4[$e]=$HOME/Downloads/Telegram Desktop/Vaccinated_Saurabh.pdf
+File5[$e]=$HOME/Documents/personal-docs/raghavadhaar.pdf
+File6[$e]=$HOME/Documents/ciscocert/ics.pdf
+File7[$e]=$HOME/Documents/dl/dlll-rec.pdf
+File8[$e]=$HOME/Pictures/Ticket(Print).pdf
+File9[$e]=$HOME/resume.pdf
+Name1[$e]=Legal Issues and Ethics.pptx
+Name10[$e]=OFFICE ORDER Echoes Club.pdf
+Name2[$e]=Cloudcomputing and Security.pptx
+Name3[$e]=Handling incidents, Risk analysis and Dealing with Disasters.pptx
+Name4[$e]=Vaccinated_Saurabh.pdf
+Name5[$e]=raghavadhaar.pdf
+Name6[$e]=ics.pdf
+Name7[$e]=dlll-rec.pdf
+Name8[$e]=Ticket(Print).pdf
+Name9[$e]=resume.pdf
 
 [SlideShow]
 PresentationMonitor=0
