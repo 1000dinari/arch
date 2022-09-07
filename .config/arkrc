@@ -2,18 +2,18 @@
 LastMimeType=application/zip
 
 [ExtractDialog]
-DirHistory[$e]=$HOME/acad/dsp/,/tmp/,$HOME/Downloads/resume/,$HOME/maal/movies/Allegiant (2016) [1080p] [YTS.AG]/,$HOME/maal/movies/Insurgent (2015) [1080p]/,$HOME/movies/Aliens Vs. Predator Requiem (2007) [1080p] [BluRay] [5.1] [YTS.MX]/,$HOME/learning/,$HOME/learning/wireshark/,$HOME/learning/fs/,$HOME/learning/metasploit/
+DirHistory[$e]=$HOME/Downloads/,$HOME/acad/dsp/,/tmp/,$HOME/Downloads/resume/,$HOME/maal/movies/Allegiant (2016) [1080p] [YTS.AG]/,$HOME/maal/movies/Insurgent (2015) [1080p]/,$HOME/movies/Aliens Vs. Predator Requiem (2007) [1080p] [BluRay] [5.1] [YTS.MX]/,$HOME/learning/,$HOME/learning/wireshark/,$HOME/learning/fs/
 Height 768=512
 Width 1366=1000
 eDP1 Height 1920x1080=562
-eDP1 Width 1920x1080=1448
+eDP1 Width 1920x1080=1451
 
 [HTML Settings]
 AutomaticDetectionLanguage=1
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/GNS3/projects/aishani/aishani.zip,file:$HOME/GNS3/projects/aishani/aishani.gns3,file:$HOME/GNS3/projects/aishani/project-files/vpcs,file:$HOME/GNS3/projects/aishani/project-files/images,file:$HOME/GNS3/projects/aishani/project-files/dynamips,file:$HOME/GNS3/projects/aishani,file:$HOME/Downloads/resume,file:$HOME/acad/dsa
-Recent URLs[$e]=file:$HOME/learning/,file:$HOME/acad/,file:$HOME/Downloads/resume/,file:///tmp/,file:$HOME/acad/dsp/,file:$HOME/GNS3/,file:$HOME/,file:$HOME/Documents/,file:$HOME/GNS3/projects/aishani/
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/learning/,file:$HOME/acad/,file:///tmp/,file:$HOME/acad/dsp/,file:$HOME/GNS3/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Downloads/
 detailViewIconSize=16
 
 [KTextEditor Document]
