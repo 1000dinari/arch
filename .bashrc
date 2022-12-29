@@ -16,6 +16,8 @@ export PS1="\[\033[38;5;196m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]@\[$(tput sgr0)
 
 printf '\033[5 q\r'
 
+alias 1start='wg-quick up wgcf-profile'
+alias 1stop='wg-quick down wgcf-profile'
 alias ..='cd ..'
 alias aw='wiki-search'
 alias aaja='sudo pacman -S --noconfirm'

@@ -1,0 +1,6 @@
+2022/11/19-19:50:12.630 da503 Reusing MANIFEST /home/barbarik/.config/Postman/Partitions/b1430902-71a8-4e7d-a80d-76538b1c227d/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/11/19-19:50:12.630 da503 Recovering log #6
+2022/11/19-19:50:12.640 da503 Reusing old log /home/barbarik/.config/Postman/Partitions/b1430902-71a8-4e7d-a80d-76538b1c227d/IndexedDB/file__0.indexeddb.leveldb/000006.log 
+2022/11/19-19:50:12.799 da519 Level-0 table #10: started
+2022/11/19-19:50:12.807 da519 Level-0 table #10: 980523 bytes OK
+2022/11/19-19:50:12.808 da519 Delete type=0 #6

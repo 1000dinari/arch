@@ -1,0 +1,12 @@
+[Trace 11:43:44.502] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/barbarik/js/github-finder/README.md
+[Trace 11:43:44.503] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 11:43:44.505] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 11:43:44.520] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 11:43:44.548] DocumentSymbolProvider: provideDocumentSymbols — file:///home/barbarik/js/github-finder/README.md 1
+[Debug 11:43:44.549] LinkProvider: compute - file:///home/barbarik/js/github-finder/README.md
+[Trace 11:43:44.571] DocumentSymbolProvider: provideDocumentSymbols — file:///home/barbarik/js/github-finder/README.md 1
+[Debug 11:43:44.649] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Debug 11:43:44.716] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 1
+[Debug 11:43:45.063] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 1
+[Trace 11:43:45.790] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/barbarik/js/github-finder/README.md
+[Trace 11:43:45.790] VsCodeClientWorkspace: deleteDocument: file:///home/barbarik/js/github-finder/README.md

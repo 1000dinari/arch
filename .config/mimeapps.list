@@ -26,3 +26,4 @@ application/ppdf=FoxitReader.desktop
 application/xfdf=FoxitReader.desktop
 application/fdf=FoxitReader.desktop
 x-scheme-handler/tg=userapp-Telegram Desktop-DPF0Y0.desktop
+x-scheme-handler/postman=Postman.desktop

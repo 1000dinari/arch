@@ -1,0 +1,21 @@
+[2022-12-08 17:23:16.408] [exthost] [info] Extension host with pid 105230 started
+[2022-12-08 17:23:16.408] [exthost] [info] Skipping acquiring lock for /home/barbarik/.config/Code - OSS/User/workspaceStorage/9a883d7f9269d23aa362f4ab9aa054f3.
+[2022-12-08 17:23:16.501] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-12-08 17:23:16.501] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-12-08 17:23:16.502] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-12-08 17:23:16.502] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-12-08 17:23:16.502] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-08 17:23:16.502] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-12-08 17:23:16.502] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-08 17:23:16.503] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-12-08 17:23:16.503] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-12-08 17:23:16.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-12-08 17:23:16.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-08 17:23:16.912] [exthost] [info] Eager extensions activated
+[2022-12-08 17:23:16.925] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-08 17:23:16.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-08 17:23:16.926] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-08 17:23:16.926] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-08 17:23:17.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-12-08 17:23:53.009] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-12-08 17:23:53.027] [exthost] [info] Extension host with pid 105230 exiting with code 0

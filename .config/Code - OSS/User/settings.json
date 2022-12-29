@@ -1,0 +1,13 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "git.ignoredRepositories": [
+        "/home/barbarik"
+    ],
+    "prettier.tabWidth": 4,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.linkedEditing": true
+}

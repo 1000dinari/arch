@@ -1,6 +1,6 @@
 [Desktop Entry]
-FullScreen=false
-shouldShowMenuBarComingFromFullScreen=true
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=false
 
 [Interface]
@@ -34,41 +34,46 @@ eDP-1 Height 1920x1080=1080
 eDP-1 Width 1920x1080=1920
 eDP-1 XPosition 1920x1080=0
 eDP-1 YPosition 1920x1080=0
+eDP1=eDP1
 eDP1 Height 1080=1080
 eDP1 Height 1920x1080=1063
+eDP1 Height 1920x1080 eDP1=1080
 eDP1 Height 768=768
 eDP1 Width 1366=1366
 eDP1 Width 1920=1920
 eDP1 Width 1920x1080=1920
+eDP1 Width 1920x1080 eDP1=1920
 eDP1 XPosition=0
 eDP1 XPosition 1920x1080=0
+eDP1 XPosition 1920x1080 eDP1=0
 eDP1 YPosition=0
 eDP1 YPosition 1920x1080=17
+eDP1 YPosition 1920x1080 eDP1=0
 
 [Misc]
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Telegram Desktop/Vaccinated_Saurabh.pdf
-File10[$e]=$HOME/resume.pdf
-File2[$e]=$HOME/Documents/personal-docs/raghavadhaar.pdf
-File3[$e]=$HOME/Documents/ciscocert/ics.pdf
-File4[$e]=$HOME/Documents/dl/dlll-rec.pdf
-File5[$e]=$HOME/Pictures/Ticket(Print).pdf
-File6[$e]=$HOME/HOT/OFFICE ORDER Echoes Club.pdf
-File7[$e]=$HOME/Downloads/Ion Group/LDP Flyer_Class 2023.pdf
-File8[$e]=$HOME/Downloads/Ion Group/ION Group Developer Job Description 2023.pdf
-File9[$e]=$HOME/Downloads/Ion Group/About ION_LDP 2023.pdf
-Name1[$e]=Vaccinated_Saurabh.pdf
-Name10[$e]=resume.pdf
-Name2[$e]=raghavadhaar.pdf
-Name3[$e]=ics.pdf
-Name4[$e]=dlll-rec.pdf
-Name5[$e]=Ticket(Print).pdf
-Name6[$e]=OFFICE ORDER Echoes Club.pdf
-Name7[$e]=LDP Flyer_Class 2023.pdf
-Name8[$e]=ION Group Developer Job Description 2023.pdf
-Name9[$e]=About ION_LDP 2023.pdf
+File1[$e]=$HOME/acad/bigdata/newasses/Saurabh_Chaudhary_101915205.docx.pdf
+File10[$e]=$HOME/Downloads/bnk/jun22-dec22-01081140004905_1671356305736.pdf
+File2[$e]=$HOME/acad/bigdata/newasses/101915205_Saurabh_Chaudhary_4NC8-2.pdf
+File3[$e]=$HOME/acad/bigdata/EST_Lecture2_KMeansClustering.pdf
+File4[$e]=$HOME/acad/bigdata/EST_Lecture8_PCA.pdf
+File5[$e]=$HOME/acad/bigdata/PCA_numerical.pdf
+File6[$e]=$HOME/acad/bigdata/EST_Lecture1_Distance_and_KNN.pdf
+File7[$e]=$HOME/acad/bigdata/EST_Lecture3_Recommendation System.pdf
+File8[$e]=$HOME/acad/bigdata/EST_Lecture7_Naive_Bayes_Classifier.pdf
+File9[$e]=$HOME/Downloads/bnk/jun21-may22-01081140004905_1671356261623.pdf
+Name1[$e]=Saurabh_Chaudhary_101915205.docx.pdf
+Name10[$e]=jun22-dec22-01081140004905_1671356305736.pdf
+Name2[$e]=101915205_Saurabh_Chaudhary_4NC8-2.pdf
+Name3[$e]=EST_Lecture2_KMeansClustering.pdf
+Name4[$e]=EST_Lecture8_PCA.pdf
+Name5[$e]=PCA_numerical.pdf
+Name6[$e]=EST_Lecture1_Distance_and_KNN.pdf
+Name7[$e]=EST_Lecture3_Recommendation System.pdf
+Name8[$e]=EST_Lecture7_Naive_Bayes_Classifier.pdf
+Name9[$e]=jun21-may22-01081140004905_1671356261623.pdf
 
 [SlideShow]
 PresentationMonitor=0

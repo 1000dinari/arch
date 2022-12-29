@@ -1,0 +1,30 @@
+2022/11/05-15:14:58.729 3 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/11/05-15:14:58.730 3 Recovering log #3
+2022/11/05-15:14:58.731 3 Reusing old log /home/barbarik/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2022/11/05-15:16:45.050 3 Level-0 table #5: started
+2022/11/05-15:16:45.090 3 Level-0 table #5: 15261 bytes OK
+2022/11/05-15:16:45.094 3 Delete type=0 #3
+2022/11/05-15:17:45.050 a Level-0 table #7: started
+2022/11/05-15:17:45.091 a Level-0 table #7: 15988 bytes OK
+2022/11/05-15:17:45.094 a Delete type=0 #4
+2022/11/05-15:18:45.050 e Level-0 table #9: started
+2022/11/05-15:18:45.090 e Level-0 table #9: 13086 bytes OK
+2022/11/05-15:18:45.093 e Delete type=0 #6
+2022/11/05-15:19:45.050 12 Level-0 table #11: started
+2022/11/05-15:19:45.063 12 Level-0 table #11: 14017 bytes OK
+2022/11/05-15:19:45.067 12 Delete type=0 #8
+2022/11/05-15:20:45.049 15 Level-0 table #13: started
+2022/11/05-15:20:45.050 15 Level-0 table #13: 15281 bytes OK
+2022/11/05-15:20:45.052 15 Delete type=0 #10
+2022/11/05-15:21:18.513 16 Level-0 table #15: started
+2022/11/05-15:21:18.527 16 Level-0 table #15: 18258 bytes OK
+2022/11/05-15:21:18.530 16 Delete type=0 #12
+2022/11/05-15:21:18.531 16 Compacting 4@0 + 1@1 files
+2022/11/05-15:21:18.536 16 Generated table #16@0: 18 keys, 21740 bytes
+2022/11/05-15:21:18.536 16 Compacted 4@0 + 1@1 files => 21740 bytes
+2022/11/05-15:21:18.538 16 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/11/05-15:21:18.539 16 Delete type=2 #11
+2022/11/05-15:21:18.539 16 Delete type=2 #7
+2022/11/05-15:21:18.539 16 Delete type=2 #15
+2022/11/05-15:21:18.540 16 Delete type=2 #13
+2022/11/05-15:21:18.540 16 Delete type=2 #9

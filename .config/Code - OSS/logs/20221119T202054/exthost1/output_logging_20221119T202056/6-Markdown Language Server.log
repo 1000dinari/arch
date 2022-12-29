@@ -1,0 +1,79 @@
+[Trace 14:21:01.949] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:01.950] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:01.952] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:01.953] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:01.965] DocumentSymbolProvider: provideDocumentSymbols — file:///home/barbarik/js/github-finder/README.md 1
+[Debug 14:21:01.966] LinkProvider: compute - file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:02.040] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:02.153] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 1
+[Debug 14:21:02.394] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 1
+[Trace 14:21:17.831] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:17.831] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:17.952] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:17.952] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:18.127] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 3
+[Debug 14:21:18.127] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:18.271] DocumentSymbolProvider: provideDocumentSymbols — file:///home/barbarik/js/github-finder/README.md 3
+[Debug 14:21:18.272] LinkProvider: compute - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:24.830] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:24.831] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:24.940] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:24.940] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:25.126] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 5
+[Debug 14:21:25.126] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:25.177] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:25.177] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:25.365] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 6
+[Debug 14:21:25.366] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:25.509] DocumentSymbolProvider: provideDocumentSymbols — file:///home/barbarik/js/github-finder/README.md 6
+[Debug 14:21:25.510] LinkProvider: compute - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:25.908] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:25.908] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:26.099] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 7
+[Debug 14:21:26.099] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:26.151] LinkProvider: compute - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.220] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.220] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.387] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.387] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.527] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.527] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.653] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.654] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.809] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.809] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.916] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:26.916] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:27.091] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 13
+[Debug 14:21:27.091] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:27.241] DocumentSymbolProvider: provideDocumentSymbols — file:///home/barbarik/js/github-finder/README.md 13
+[Debug 14:21:27.241] LinkProvider: compute - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:27.758] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:27.759] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:27.839] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:27.840] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:28.037] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:28.037] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:28.211] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 16
+[Debug 14:21:28.211] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:28.362] DocumentSymbolProvider: provideDocumentSymbols — file:///home/barbarik/js/github-finder/README.md 16
+[Debug 14:21:28.362] LinkProvider: compute - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:28.739] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:28.739] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:28.932] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 17
+[Debug 14:21:28.932] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:28.984] LinkProvider: compute - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:29.018] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:29.018] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:29.193] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 18
+[Debug 14:21:29.194] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:29.343] DocumentSymbolProvider: provideDocumentSymbols — file:///home/barbarik/js/github-finder/README.md 18
+[Debug 14:21:29.344] LinkProvider: compute - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:30.109] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:30.109] Server: connection.languages.diagnostics.on: file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:30.291] MdFoldingProvider: provideFoldingRanges — file:///home/barbarik/js/github-finder/README.md 19
+[Debug 14:21:30.291] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:30.344] LinkProvider: compute - file:///home/barbarik/js/github-finder/README.md
+[Trace 14:21:30.442] DocumentSymbolProvider: provideDocumentSymbols — file:///home/barbarik/js/github-finder/README.md 19
+[Trace 14:21:33.107] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/barbarik/js/github-finder/README.md
+[Debug 14:21:37.752] TableOfContentsProvider: create - file:///home/barbarik/js/github-finder/README.md

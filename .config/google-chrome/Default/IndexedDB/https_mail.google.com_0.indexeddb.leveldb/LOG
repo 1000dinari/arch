@@ -1,0 +1,6 @@
+2022/11/05-15:15:04.847 803 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/05-15:15:04.847 803 Recovering log #4
+2022/11/05-15:15:04.851 803 Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2022/11/05-15:21:15.116 80b Level-0 table #8: started
+2022/11/05-15:21:15.130 80b Level-0 table #8: 2136199 bytes OK
+2022/11/05-15:21:15.135 80b Delete type=0 #4

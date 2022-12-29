@@ -1,0 +1,8 @@
+[2022-12-08 17:23:16.756] [sharedprocess] [info] Starting worker process with pid 105319 (type: fileWatcher, window: 1).
+[2022-12-08 17:23:21.558] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-12-08 17:23:24.761] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-12-08 17:23:30.285] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/barbarik/.config/Code - OSS/CachedExtensionVSIXs/esbenp.prettier-vscode-9.10.3-universal
+[2022-12-08 17:23:30.536] [sharedprocess] [info] Extracted extension to /home/barbarik/.vscode-oss/extensions/.f1aa9f7d-5c71-4919-bfbe-df5bc38524cd: esbenp.prettier-vscode
+[2022-12-08 17:23:30.547] [sharedprocess] [info] Renamed to /home/barbarik/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.3-universal
+[2022-12-08 17:23:30.555] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-12-08 17:23:30.563] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode

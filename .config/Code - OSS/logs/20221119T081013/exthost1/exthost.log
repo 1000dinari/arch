@@ -1,0 +1,305 @@
+[2022-11-19 08:10:15.921] [exthost] [info] Extension host with pid 10443 started
+[2022-11-19 08:10:15.921] [exthost] [info] Skipping acquiring lock for /home/barbarik/.config/Code - OSS/User/workspaceStorage/388bcd0f3863c9cf7894cbf2df777032.
+[2022-11-19 08:10:16.051] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-19 08:10:16.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-11-19 08:10:16.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-19 08:10:16.052] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-11-19 08:10:16.052] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-11-19 08:10:16.053] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-11-19 08:10:16.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-11-19 08:10:16.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-19 08:10:16.443] [exthost] [info] Eager extensions activated
+[2022-11-19 08:10:16.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-19 08:10:16.452] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-19 08:10:16.452] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-19 08:10:16.452] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-19 08:24:15.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-11-19 08:44:46.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-11-19 09:25:34.458] [exthost] [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2022-11-19 10:01:08.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-11-19 15:49:28.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-11-19 17:44:09.709] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-11-19 17:44:09.709] [exthost] [error] Error: <semantic> TypeScript Server Error (4.8.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:170309:23)
+    at ScriptInfo.getDefaultProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171152:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174365:48)
+    at ProjectService.ensureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174360:75)
+    at Session.getFileAndProjectWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179278:87)
+    at Session.getFileAndProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179261:29)
+    at Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179784:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:178259:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:96
+    at Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180165:28)
+    at Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:41)
+    at Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180202:35)
+    at process.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:184368:31)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21)
+    at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:562108)
+    at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:556161)
+    at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:555029)
+    at ChildProcess.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:554514)
+    at ChildProcess.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[2022-11-19 17:44:09.711] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-11-19 17:44:09.711] [exthost] [error] Error: <semantic> TypeScript Server Error (4.8.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:170309:23)
+    at ScriptInfo.getDefaultProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171152:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174365:48)
+    at ProjectService.ensureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174360:75)
+    at Session.getFileAndProjectWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179278:87)
+    at Session.getFileAndProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179261:29)
+    at Session.getEncodedSemanticClassifications (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:178685:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:178147:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:96
+    at Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180165:28)
+    at Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:41)
+    at Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180202:35)
+    at process.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:184368:31)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21)
+    at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:562108)
+    at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:556161)
+    at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:555029)
+    at ChildProcess.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:554514)
+    at ChildProcess.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[2022-11-19 17:44:09.833] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-11-19 17:44:09.833] [exthost] [error] Error: <semantic> TypeScript Server Error (4.8.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:170309:23)
+    at ScriptInfo.getDefaultProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171152:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174365:48)
+    at ProjectService.ensureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174360:75)
+    at Session.getFileAndProjectWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179278:87)
+    at Session.getFileAndProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179261:29)
+    at Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179784:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:178259:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:96
+    at Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180165:28)
+    at Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:41)
+    at Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180202:35)
+    at process.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:184368:31)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21)
+    at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:562108)
+    at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:556161)
+    at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:555029)
+    at ChildProcess.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:554514)
+    at ChildProcess.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[2022-11-19 17:44:10.126] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-11-19 17:44:10.126] [exthost] [error] Error: <semantic> TypeScript Server Error (4.8.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:170309:23)
+    at ScriptInfo.getDefaultProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171152:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174365:48)
+    at ProjectService.ensureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174360:75)
+    at Session.getFileAndProjectWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179278:87)
+    at Session.getFileAndProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179261:29)
+    at Session.getQuickInfoWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179336:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:178060:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:96
+    at Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180165:28)
+    at Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:41)
+    at Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180202:35)
+    at process.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:184368:31)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21)
+    at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:562108)
+    at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:556161)
+    at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:555029)
+    at ChildProcess.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:554514)
+    at ChildProcess.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[2022-11-19 17:57:36.638] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 251
+[2022-11-19 17:57:45.256] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 251
+[2022-11-19 18:00:18.892] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 252
+[2022-11-19 18:02:37.136] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 252
+[2022-11-19 18:03:10.111] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 252
+[2022-11-19 18:03:47.499] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2022-11-19 18:04:12.707] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+[2022-11-19 18:04:31.333] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+[2022-11-19 18:04:50.766] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 256
+[2022-11-19 18:06:41.441] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+[2022-11-19 18:07:08.967] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+[2022-11-19 18:08:06.779] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 259
+[2022-11-19 18:10:19.672] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 260
+[2022-11-19 18:16:38.012] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 261
+[2022-11-19 18:17:06.484] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 262
+[2022-11-19 18:17:41.154] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 263
+[2022-11-19 18:17:56.444] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+[2022-11-19 18:18:37.004] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 265
+[2022-11-19 18:18:50.121] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 265
+[2022-11-19 18:19:40.669] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 265
+[2022-11-19 18:20:29.458] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 265
+[2022-11-19 18:21:04.445] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 265
+[2022-11-19 18:21:50.473] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 266
+[2022-11-19 18:22:19.712] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 266
+[2022-11-19 18:23:33.043] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 267
+[2022-11-19 18:23:57.898] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 267
+[2022-11-19 18:24:06.103] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+[2022-11-19 18:24:20.510] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+[2022-11-19 18:24:37.202] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+[2022-11-19 18:25:40.988] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 270
+[2022-11-19 18:26:12.916] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 270
+[2022-11-19 18:26:23.712] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 271
+[2022-11-19 18:28:37.719] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 272
+[2022-11-19 18:29:07.085] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 273
+[2022-11-19 18:29:58.573] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 274
+[2022-11-19 18:30:07.526] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 275
+[2022-11-19 18:31:03.509] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 276
+[2022-11-19 18:31:44.941] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 276
+[2022-11-19 18:32:10.711] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 276
+[2022-11-19 18:32:34.168] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 277
+[2022-11-19 18:33:15.985] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 278
+[2022-11-19 18:33:43.059] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+[2022-11-19 18:34:35.865] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2022-11-19 18:36:05.419] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2022-11-19 18:36:44.697] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2022-11-19 18:37:14.752] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2022-11-19 18:37:29.623] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2022-11-19 18:37:44.182] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2022-11-19 18:38:03.563] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 284
+[2022-11-19 18:38:59.503] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2022-11-19 18:40:14.418] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 286
+[2022-11-19 18:40:31.586] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 287
+[2022-11-19 18:40:57.542] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 288
+[2022-11-19 18:41:05.751] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 289
+[2022-11-19 18:41:13.044] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 290
+[2022-11-19 18:41:33.263] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 291
+[2022-11-19 18:41:55.535] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 292
+[2022-11-19 18:42:24.692] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 293
+[2022-11-19 18:42:39.266] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 294
+[2022-11-19 18:43:18.503] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 295
+[2022-11-19 18:43:37.690] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 296
+[2022-11-19 18:44:25.557] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 297
+[2022-11-19 18:45:13.684] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-11-19 18:45:13.684] [exthost] [error] Error: <semantic> TypeScript Server Error (4.8.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:170309:23)
+    at ScriptInfo.getDefaultProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171152:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174365:48)
+    at ProjectService.ensureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174360:75)
+    at Session.getFileAndProjectWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179278:87)
+    at Session.getFileAndProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179261:29)
+    at Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179784:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:178259:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:96
+    at Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180165:28)
+    at Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:41)
+    at Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180202:35)
+    at process.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:184368:31)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21)
+    at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:562108)
+    at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:556161)
+    at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:555029)
+    at ChildProcess.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:554514)
+    at ChildProcess.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[2022-11-19 18:45:13.741] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-11-19 18:45:13.741] [exthost] [error] Error: <semantic> TypeScript Server Error (4.8.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:170309:23)
+    at ScriptInfo.getDefaultProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171152:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174365:48)
+    at ProjectService.ensureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174360:75)
+    at Session.getFileAndProjectWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179278:87)
+    at Session.getFileAndProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179261:29)
+    at Session.getEncodedSemanticClassifications (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:178685:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:178147:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:96
+    at Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180165:28)
+    at Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:41)
+    at Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180202:35)
+    at process.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:184368:31)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21)
+    at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:562108)
+    at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:556161)
+    at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:555029)
+    at ChildProcess.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:554514)
+    at ChildProcess.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[2022-11-19 18:45:13.950] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-11-19 18:45:13.950] [exthost] [error] Error: <semantic> TypeScript Server Error (4.8.4)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:170309:23)
+    at ScriptInfo.getDefaultProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171152:46)
+    at ProjectService.doEnsureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174365:48)
+    at ProjectService.ensureDefaultProjectForFile (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:174360:75)
+    at Session.getFileAndProjectWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179278:87)
+    at Session.getFileAndProject (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179261:29)
+    at Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:179784:31)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:178259:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:96
+    at Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180165:28)
+    at Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180174:41)
+    at Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:180202:35)
+    at process.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:184368:31)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21)
+    at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:562108)
+    at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:556161)
+    at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:555029)
+    at ChildProcess.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:554514)
+    at ChildProcess.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[2022-11-19 18:45:45.576] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 298
+[2022-11-19 18:47:28.537] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 299
+[2022-11-19 18:50:41.952] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 300
+[2022-11-19 18:52:21.411] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 301
+[2022-11-19 18:52:43.132] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 302
+[2022-11-19 18:53:13.692] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 303
+[2022-11-19 18:53:53.941] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 303
+[2022-11-19 18:54:07.599] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 304
+[2022-11-19 18:55:37.358] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 305
+[2022-11-19 18:56:01.797] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 306
+[2022-11-19 18:56:53.110] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+[2022-11-19 18:57:00.638] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+[2022-11-19 18:57:42.591] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 308
+[2022-11-19 18:58:01.510] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 309
+[2022-11-19 18:58:20.573] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 310
+[2022-11-19 18:58:57.230] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 311
+[2022-11-19 18:59:09.191] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 312
+[2022-11-19 18:59:24.969] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 313
+[2022-11-19 18:59:31.594] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 314
+[2022-11-19 18:59:43.362] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 315
+[2022-11-19 19:00:24.597] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 316
+[2022-11-19 19:00:50.677] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 317
+[2022-11-19 19:01:05.562] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 318
+[2022-11-19 19:01:17.459] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 319
+[2022-11-19 19:01:47.301] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 320
+[2022-11-19 19:02:34.071] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 321
+[2022-11-19 19:03:08.054] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 322
+[2022-11-19 19:03:17.453] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 323
+[2022-11-19 19:03:26.426] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 324
+[2022-11-19 19:03:34.283] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 325
+[2022-11-19 19:05:47.249] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 326
+[2022-11-19 19:07:55.199] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 327
+[2022-11-19 19:14:31.450] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-19 19:14:31.510] [exthost] [info] Extension host with pid 10443 exiting with code 0

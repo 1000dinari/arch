@@ -1,0 +1,18 @@
+[2022-11-22 16:03:03.943] [exthost] [info] Extension host with pid 159292 started
+[2022-11-22 16:03:03.943] [exthost] [info] Skipping acquiring lock for /home/barbarik/.config/Code - OSS/User/workspaceStorage/890104db86a120e79e48d93955f89dae.
+[2022-11-22 16:03:04.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-22 16:03:04.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-11-22 16:03:04.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-22 16:03:04.056] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-11-22 16:03:04.056] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-11-22 16:03:04.207] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-11-22 16:03:04.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-22 16:03:11.007] [exthost] [info] Not activating extension 'franneck94.c-cpp-runner': Timed out while searching for 'workspaceContains' pattern *.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp
+[2022-11-22 16:03:11.011] [exthost] [info] Eager extensions activated
+[2022-11-22 16:03:11.014] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-22 16:03:11.014] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-22 16:03:11.015] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-22 16:03:11.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-11-22 16:03:12.345] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-22 16:05:56.682] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-22 16:05:56.701] [exthost] [info] Extension host with pid 159292 exiting with code 0

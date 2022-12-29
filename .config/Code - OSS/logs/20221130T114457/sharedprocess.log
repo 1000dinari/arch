@@ -1,0 +1,5 @@
+[2022-11-30 11:45:00.609] [sharedprocess] [info] Starting worker process with pid 7751 (type: fileWatcher, window: 2).
+[2022-11-30 11:45:00.638] [sharedprocess] [info] Starting worker process with pid 7753 (type: fileWatcher, window: 1).
+[2022-11-30 11:45:10.488] [sharedprocess] [info] Worker process with pid 7751 terminated normally (type: fileWatcher, window: 2).
+[2022-11-30 11:45:30.287] [sharedprocess] [info] Starting worker process with pid 8776 (type: fileWatcher, window: 4).
+[2022-11-30 12:42:07.803] [sharedprocess] [info] Worker process with pid 7753 terminated normally (type: fileWatcher, window: 1).
