@@ -6,6 +6,6 @@
 (dynamics "Dynamics Off")
 (pattern "Pine")
 (gradient "FG to BG (RGB)")
-(palette "Color History")
+(palette "Standard")
 
 # end of gimp-vector-tool options

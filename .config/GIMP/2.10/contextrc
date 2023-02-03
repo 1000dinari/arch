@@ -9,7 +9,7 @@
 (mybrush "100% Opaque")
 (pattern "Pine")
 (gradient "FG to BG (RGB)")
-(palette "Color History")
+(palette "Standard")
 (font "URW Bookman Light Italic")
 (tool-preset "Core Pointer")
 

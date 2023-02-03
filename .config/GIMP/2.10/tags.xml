@@ -208,13 +208,13 @@
   <resource identifier="${gimp_data_dir}/dynamics/Basic/Negative-Size-Pressure.gdyn" checksum="(null)">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pen-Generic.gdyn" checksum="(null)">
-  </resource>
-
   <resource identifier="${gimp_data_dir}/dynamics/Basic/Pencil-Generic.gdyn" checksum="(null)">
   </resource>
 
   <resource identifier="${gimp_data_dir}/dynamics/Basic/Pencil-Shader.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pen-Generic.gdyn" checksum="(null)">
   </resource>
 
   <resource identifier="${gimp_data_dir}/dynamics/FX/Perspective.gdyn" checksum="(null)">
@@ -256,96 +256,6 @@
   <resource identifier="${mypaint_brushes_dir}/deevad/4H_pencil.myb" checksum="2718434e495370fb4d96d217a3c524c2">
   </resource>
 
-  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/Airbrush_a.myb" checksum="a1452f0bb3cb9b12bb675217f6bd9e35">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/B-pencil.myb" checksum="2988d540b16ef2e32d500e6b7af6d3cd">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Beamlight.myb" checksum="91a10104dfd5bfdf6bca31b00936d6f0">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/BigAirbrush.myb" checksum="faa4428842e786fffb727376c7cffa8b">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Blur_Fast.myb" checksum="3e14060e7440e0f8447f3fbb5c6710d6">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Classic_Paint.myb" checksum="652661a003f0969a8d63c5276c21af3b">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Clouds.myb" checksum="7fa3079c18b44060670420deec6861b2">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/experimental/DNA_brush.myb" checksum="e20d591640ba2295d68f2b358a118fae">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Delayed_.myb" checksum="2e4d57acffc5f5a229a616b10d3cc533">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Dirty_Noise.myb" checksum="d355916cb8aca79117279ad6319be40c">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/Dirty_Transparent_sk.myb" checksum="9700636c03eb486931da7b04bd9db1b7">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Glow_Airbrush.myb" checksum="df630083203326bda3748adbba905cb9">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Grain.myb" checksum="bde2dbc003d0628150e8b1851d17abe4">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Hard_Eraser.myb" checksum="524ee86e69183e91afdf94ce5a39365c">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Knife.myb" checksum="38ba0f2a7d41814354e53dd1676422fc">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Marker.myb" checksum="6dfbee4cd93bdee3bdd680a27c1ca5af">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/P._Shade.myb" checksum="a6b44ee613ffdd5b6d4ce6050838bbc5">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Pastel_1.myb" checksum="81db0eecb92781466b76b2a4066c1e33">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Pen.myb" checksum="b956254c3a665805448802fa1275b56a">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/PenBrush.myb" checksum="a2cb08ec273ec224df7217655de5fb19">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/RS_blendOP.myb" checksum="3c5a04b5775e9019cd3a94ad8c079164">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Round.myb" checksum="9a20f0b34a0d0eac9463e934699b4e76">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Round_Bl.myb" checksum="b4ebd4e616bb56bee49cc05a3c47676f">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Sketch_1.myb" checksum="40729d50c3623a8cac0ee1778debef65">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/Sketcher2_sk.myb" checksum="9f3192960ab6a09d560883f84bb8fbe1">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Smear.myb" checksum="b75b209217e7a5304177d5a94a97b0c8">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/Smear_sm.myb" checksum="3f5b61c4a3794ac0163b52a021f48a9d">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Soft_Eraser.myb" checksum="09e37d4660c215624747193a2bff2f74">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Thin_Pen.myb" checksum="a7461645815a188c87ef930138df87ee">
-  </resource>
-
-  <resource identifier="${mypaint_brushes_dir}/ramon/Wet_Direction.myb" checksum="11f4daa12dabb83908ecca48ffb81383">
-  </resource>
-
   <resource identifier="${mypaint_brushes_dir}/tanda/acrylic-03-only-water.myb" checksum="8e76d58e5779a6d3938bace274dfe2b8">
   </resource>
 
@@ -379,6 +289,9 @@
   <resource identifier="${mypaint_brushes_dir}/deevad/airbrush.myb" checksum="e0a42db004a2031d79bbad9cf7932fbb">
   </resource>
 
+  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/Airbrush_a.myb" checksum="a1452f0bb3cb9b12bb675217f6bd9e35">
+  </resource>
+
   <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/airsmudge_a.myb" checksum="dc8fa0d02e617af4edf1cf6c55e4b530">
   </resource>
 
@@ -403,7 +316,10 @@
   <resource identifier="${mypaint_brushes_dir}/deevad/basic_digital_knife_smudging.myb" checksum="62b21082fa2492e916825df3f820f8b2">
   </resource>
 
-  <resource identifier="${mypaint_brushes_dir}/classic/blend+paint.myb" checksum="bce3bd91fc31fadc39dafa95e33d9614">
+  <resource identifier="${mypaint_brushes_dir}/ramon/Beamlight.myb" checksum="91a10104dfd5bfdf6bca31b00936d6f0">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/BigAirbrush.myb" checksum="faa4428842e786fffb727376c7cffa8b">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/deevad/blending.myb" checksum="d90f949c9a06e542e7cf6300475d23c5">
@@ -412,7 +328,16 @@
   <resource identifier="${mypaint_brushes_dir}/classic/blending_knife.myb" checksum="1ce38e00da76b3ae3250dc093283964b">
   </resource>
 
+  <resource identifier="${mypaint_brushes_dir}/classic/blend+paint.myb" checksum="bce3bd91fc31fadc39dafa95e33d9614">
+  </resource>
+
   <resource identifier="${mypaint_brushes_dir}/classic/blur.myb" checksum="a8e7e042ec22897b8107f5ae2822c07f">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Blur_Fast.myb" checksum="3e14060e7440e0f8447f3fbb5c6710d6">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/B-pencil.myb" checksum="2988d540b16ef2e32d500e6b7af6d3cd">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/classic/brush.myb" checksum="edcc0d95df5c1e1388bd9a0216d46acb">
@@ -448,10 +373,16 @@
   <resource identifier="${mypaint_brushes_dir}/tanda/charcoal-blur1.myb" checksum="c8b7b28b8478b554f42d4e4a63796a11">
   </resource>
 
-  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/classic_sk.myb" checksum="9bd31cfe236ff595d72278dc9245c47e">
+  <resource identifier="${mypaint_brushes_dir}/ramon/Classic_Paint.myb" checksum="652661a003f0969a8d63c5276c21af3b">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/classicroundblock_static_c.myb" checksum="8a302c6160d1d033b13a4f4cd78f0646">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/classic_sk.myb" checksum="9bd31cfe236ff595d72278dc9245c47e">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Clouds.myb" checksum="7fa3079c18b44060670420deec6861b2">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/classic/coarse_bulk_1.myb" checksum="107f3a882b4b5edc19542a76a41c2c88">
@@ -461,6 +392,9 @@
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/classic/coarse_bulk_3.myb" checksum="f5faa729b0913a15aeec4f002b4705da">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Delayed_.myb" checksum="2e4d57acffc5f5a229a616b10d3cc533">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/deevad/detail_brush_large.myb" checksum="3ffe0b0d29fba957ea737215b62e1081">
@@ -473,6 +407,15 @@
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/deevad/detail_brush_thin_glazing.myb" checksum="d6ae174de6b77f2e6a3ccbf38396d1b6">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Dirty_Noise.myb" checksum="d355916cb8aca79117279ad6319be40c">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/Dirty_Transparent_sk.myb" checksum="9700636c03eb486931da7b04bd9db1b7">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/experimental/DNA_brush.myb" checksum="e20d591640ba2295d68f2b358a118fae">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/classic/dry_brush.myb" checksum="e2bc50ed4427d22dbc8a494363e75ff4">
@@ -496,10 +439,19 @@
   <resource identifier="${mypaint_brushes_dir}/experimental/glow.myb" checksum="2ae5b11c9fb61b057d171e4551787024">
   </resource>
 
+  <resource identifier="${mypaint_brushes_dir}/ramon/Glow_Airbrush.myb" checksum="df630083203326bda3748adbba905cb9">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Grain.myb" checksum="bde2dbc003d0628150e8b1851d17abe4">
+  </resource>
+
   <resource identifier="${mypaint_brushes_dir}/deevad/grainy_blending.myb" checksum="df5602fd713114eee5c59fdcbaeddb1f">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/experimental/hard_blot.myb" checksum="e412f824afaeab8d3fcfa3a69cb0a820">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Hard_Eraser.myb" checksum="524ee86e69183e91afdf94ce5a39365c">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/experimental/hard_sting.myb" checksum="51967351a9eec6cf6e6296f813d8c60e">
@@ -520,10 +472,10 @@
   <resource identifier="${mypaint_brushes_dir}/classic/ink_eraser.myb" checksum="2a9f9d4fc333a98c66b24bd3bf61bbf4">
   </resource>
 
-  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/ink_slow_s.myb" checksum="142431dd853cbaea246b5ef55d861218">
+  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/ink-slowline_s.myb" checksum="bdb4cc8434a37f470b8caad86e678c9e">
   </resource>
 
-  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/ink-slowline_s.myb" checksum="bdb4cc8434a37f470b8caad86e678c9e">
+  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/ink_slow_s.myb" checksum="142431dd853cbaea246b5ef55d861218">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/inkster_l.myb" checksum="34184247174bf95343a4fe85240789f1">
@@ -544,6 +496,9 @@
   <resource identifier="${mypaint_brushes_dir}/classic/knife.myb" checksum="ae918f91195757c1869c1f014c565c2e">
   </resource>
 
+  <resource identifier="${mypaint_brushes_dir}/ramon/Knife.myb" checksum="38ba0f2a7d41814354e53dd1676422fc">
+  </resource>
+
   <resource identifier="${mypaint_brushes_dir}/deevad/large_hard_eraser.myb" checksum="c0ba64637a3ed672f9933cc54a2ec2da">
   </resource>
 
@@ -557,6 +512,9 @@
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/classic/long_grass.myb" checksum="0a9f9091c733fa38dcedcb84e999b375">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Marker.myb" checksum="6dfbee4cd93bdee3bdd680a27c1ca5af">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/tanda/marker-01.myb" checksum="d7063a780f422102fffc2feb618873be">
@@ -616,13 +574,19 @@
   <resource identifier="${mypaint_brushes_dir}/experimental/particules_eraser.myb" checksum="192f5067106dcb3f605490e4495c2fa7">
   </resource>
 
+  <resource identifier="${mypaint_brushes_dir}/ramon/Pastel_1.myb" checksum="81db0eecb92781466b76b2a4066c1e33">
+  </resource>
+
   <resource identifier="${mypaint_brushes_dir}/classic/pen.myb" checksum="3bb7024548f46c8681a37593ee834d18">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Pen.myb" checksum="b956254c3a665805448802fa1275b56a">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/deevad/pen.myb" checksum="f153b2d8987efdb2be18b8813a47bf54">
   </resource>
 
-  <resource identifier="${mypaint_brushes_dir}/deevad/pen-note.myb" checksum="53c28c28967a1b373f58010d4e2883f2">
+  <resource identifier="${mypaint_brushes_dir}/ramon/PenBrush.myb" checksum="a2cb08ec273ec224df7217655de5fb19">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/classic/pencil.myb" checksum="21a17d4c4fce369e8b74d0e632962530">
@@ -634,16 +598,22 @@
   <resource identifier="${mypaint_brushes_dir}/tanda/pencil-8b.myb" checksum="45b873e55578e2287a2ab2ad73fbc461">
   </resource>
 
-  <resource identifier="${mypaint_brushes_dir}/experimental/pick_and_drag.myb" checksum="c2f441d54d7a8f2097c96087717e22ac">
+  <resource identifier="${mypaint_brushes_dir}/deevad/pen-note.myb" checksum="53c28c28967a1b373f58010d4e2883f2">
   </resource>
 
-  <resource identifier="${mypaint_brushes_dir}/experimental/pixel_hardink.myb" checksum="cc53998efab5d3cd5064e46bda62800c">
+  <resource identifier="${mypaint_brushes_dir}/experimental/pick_and_drag.myb" checksum="c2f441d54d7a8f2097c96087717e22ac">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/experimental/pixelblocking.myb" checksum="be6506b5fbef99d305c8b973cb7b14c3">
   </resource>
 
+  <resource identifier="${mypaint_brushes_dir}/experimental/pixel_hardink.myb" checksum="cc53998efab5d3cd5064e46bda62800c">
+  </resource>
+
   <resource identifier="${mypaint_brushes_dir}/classic/pointy_ink.myb" checksum="ab81789cd3584926f103b7a4ed452d65">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/P._Shade.myb" checksum="a6b44ee613ffdd5b6d4ce6050838bbc5">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/classic/puantilism.myb" checksum="d05c2b445f6c4e69886143ceb07adba0">
@@ -661,7 +631,16 @@
   <resource identifier="${mypaint_brushes_dir}/deevad/rough.myb" checksum="0498848831b2fb431b83f7691a844295">
   </resource>
 
+  <resource identifier="${mypaint_brushes_dir}/ramon/Round.myb" checksum="9a20f0b34a0d0eac9463e934699b4e76">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Round_Bl.myb" checksum="b4ebd4e616bb56bee49cc05a3c47676f">
+  </resource>
+
   <resource identifier="${mypaint_brushes_dir}/classic/rounded.myb" checksum="e3b3e38a6470df5fec0be391bbbf724c">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/RS_blendOP.myb" checksum="3c5a04b5775e9019cd3a94ad8c079164">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/experimental/sewing.myb" checksum="2987134ec9d4cd588a9b7246f7337738">
@@ -670,10 +649,22 @@
   <resource identifier="${mypaint_brushes_dir}/classic/short_grass.myb" checksum="0ec71dc5e66510177da72238274ca852">
   </resource>
 
+  <resource identifier="${mypaint_brushes_dir}/ramon/Sketch_1.myb" checksum="40729d50c3623a8cac0ee1778debef65">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/Sketcher2_sk.myb" checksum="9f3192960ab6a09d560883f84bb8fbe1">
+  </resource>
+
   <resource identifier="${mypaint_brushes_dir}/classic/slow_ink.myb" checksum="8f066598527f37508a61e1ee3e622d97">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/experimental/small_blot.myb" checksum="35249200497c58ecb7d1cd066d2c7764">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Smear.myb" checksum="b75b209217e7a5304177d5a94a97b0c8">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/kaerhon_v1/Smear_sm.myb" checksum="3f5b61c4a3794ac0163b52a021f48a9d">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/classic/smudge.myb" checksum="3a9883b06c2a1116783a94392616f8e8">
@@ -689,6 +680,9 @@
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/deevad/soft-dip-pen.myb" checksum="9eacd9038516a9119086f18c561666b9">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Soft_Eraser.myb" checksum="09e37d4660c215624747193a2bff2f74">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/experimental/soft_irregular.myb" checksum="396a9cc241a1e1fee1b681300de22295">
@@ -733,6 +727,9 @@
   <resource identifier="${mypaint_brushes_dir}/deevad/thin_hard_eraser.myb" checksum="cf2157f66a1e667648969e076766de28">
   </resource>
 
+  <resource identifier="${mypaint_brushes_dir}/ramon/Thin_Pen.myb" checksum="a7461645815a188c87ef930138df87ee">
+  </resource>
+
   <resource identifier="${mypaint_brushes_dir}/deevad/thin_watercolor.myb" checksum="8f873aaeb3794d515fa3b4d6bf37df40">
   </resource>
 
@@ -761,6 +758,9 @@
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/deevad/watercolor_glazing.myb" checksum="29d89e504a80fd714a6b817f8a6639b5">
+  </resource>
+
+  <resource identifier="${mypaint_brushes_dir}/ramon/Wet_Direction.myb" checksum="11f4daa12dabb83908ecca48ffb81383">
   </resource>
 
   <resource identifier="${mypaint_brushes_dir}/classic/wet_knife.myb" checksum="3a5b2a816f8a21e78b8c014189bac0c3">
@@ -895,6 +895,9 @@
   <resource identifier="${gimp_data_dir}/patterns/Water/rain.pat" checksum="8babfb520276b39f918aa059ca1594be">
   </resource>
 
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/recessed.pat" checksum="2743a836d39c547e0d83de27bffb45c1">
+  </resource>
+
   <resource identifier="${gimp_data_dir}/patterns/Legacy/redcube.pat" checksum="f64dee0efbc2fa301d7b4f3903a68308">
   </resource>
 
@@ -946,19 +949,16 @@
   <resource identifier="${gimp_data_dir}/patterns/Wood/wood1.pat" checksum="0c055f250ddbccc1b32d05f8c0ad7012">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/patterns/Legacy/recessed.pat" checksum="2743a836d39c547e0d83de27bffb45c1">
-  </resource>
-
   <resource identifier="gimp-gradient-custom" checksum="4a878c6cfae0b0e03c0834723daadf92">
   </resource>
 
-  <resource identifier="gimp-gradient-fg-bg-hsv-cw" checksum="86589f70c8a7777c6e2d1d14b99e3759">
+  <resource identifier="gimp-gradient-fg-bg-rgb-hardedge" checksum="f3a21fae99695a8feac84cee0ddd716a">
   </resource>
 
   <resource identifier="gimp-gradient-fg-bg-hsv-ccw" checksum="65aacbbd72d99ff20ca1bd310f0a21a5">
   </resource>
 
-  <resource identifier="gimp-gradient-fg-bg-rgb-hardedge" checksum="f3a21fae99695a8feac84cee0ddd716a">
+  <resource identifier="gimp-gradient-fg-bg-hsv-cw" checksum="86589f70c8a7777c6e2d1d14b99e3759">
   </resource>
 
   <resource identifier="gimp-gradient-fg-bg-rgb" checksum="4a878c6cfae0b0e03c0834723daadf92">
@@ -997,13 +997,13 @@
   <resource identifier="${gimp_data_dir}/gradients/Burning_Transparency.ggr" checksum="ab6a58127b01c77ea378b97585d2d3cb">
   </resource>
 
+  <resource identifier="${gimp_data_dir}/gradients/Caribbean_Blues.ggr" checksum="899e32a0cf94010dff9e1f93579f4292">
+  </resource>
+
   <resource identifier="${gimp_data_dir}/gradients/CD.ggr" checksum="aa4627507fb28c79bb1d864f2ae3eeaa">
   </resource>
 
   <resource identifier="${gimp_data_dir}/gradients/CD_Half.ggr" checksum="6f70875e41cc69d68b7a0e7d9d5652bf">
-  </resource>
-
-  <resource identifier="${gimp_data_dir}/gradients/Caribbean_Blues.ggr" checksum="899e32a0cf94010dff9e1f93579f4292">
   </resource>
 
   <resource identifier="${gimp_data_dir}/gradients/Coffee.ggr" checksum="a3407a154e1b875fe1858b57279db00f">
@@ -1177,7 +1177,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="19d50cabae3dcb6f1c6c30d2962d2fed">
+  <resource identifier="gimp-palette-color-history" checksum="938b5846f16f0cef5e643ae3e32746dc">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1222,19 +1222,22 @@
   <resource identifier="${gimp_data_dir}/palettes/Ega.gpl" checksum="a8842755eb6e9534d89bc4dfa360ea91">
   </resource>
 
+  <resource identifier="${gimp_data_dir}/palettes/elementary.gpl" checksum="ac686c9fe944015722238ecfd6c8cb9f">
+  </resource>
+
   <resource identifier="${gimp_data_dir}/palettes/Firecode.gpl" checksum="31da06a142dbb7e290ecae399da8c198">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Gold.gpl" checksum="69156b66cb39a691e8ee92824facfc74">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/palettes/GrayViolet.gpl" checksum="3a200b1b9ca7f3b7bcebc70fe4a4832e">
-  </resource>
-
   <resource identifier="${gimp_data_dir}/palettes/Grayblue.gpl" checksum="50e95752c59ed66f2871533b48ad80f7">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Grays.gpl" checksum="fcf5e6f9da0fbc46bac07d34741fd648">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/GrayViolet.gpl" checksum="3a200b1b9ca7f3b7bcebc70fe4a4832e">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Greens.gpl" checksum="c74e6275e9e921dcc64870a670697fa0">
@@ -1247,6 +1250,9 @@
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Lights.gpl" checksum="3483aee51ec01db06b41463903da53f9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Linux.gpl" checksum="0e7549f6e63ef2b1de3f537cc7da022b">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Muted.gpl" checksum="24bc023216795f2eb722546696d3082d">
@@ -1298,12 +1304,6 @@
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Web.gpl" checksum="f02e8dfa23d01d6acfbab7f895c2dd16">
-  </resource>
-
-  <resource identifier="${gimp_data_dir}/palettes/elementary.gpl" checksum="ac686c9fe944015722238ecfd6c8cb9f">
-  </resource>
-
-  <resource identifier="${gimp_data_dir}/palettes/Linux.gpl" checksum="0e7549f6e63ef2b1de3f537cc7da022b">
   </resource>
 
   <resource identifier="C059" checksum="(null)">
@@ -1441,13 +1441,16 @@
   <resource identifier="Droid Serif Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Font Awesome 5 Brands" checksum="(null)">
+  <resource identifier="Font Awesome 6 Brands" checksum="(null)">
   </resource>
 
-  <resource identifier="Font Awesome 5 Free" checksum="(null)">
+  <resource identifier="Font Awesome 6 Free" checksum="(null)">
   </resource>
 
-  <resource identifier="Font Awesome 5 Free Heavy" checksum="(null)">
+  <resource identifier="Font Awesome 6 Free Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="gallant12x22 Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Liberation Mono" checksum="(null)">
@@ -1499,6 +1502,9 @@
   </resource>
 
   <resource identifier="Monospace Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="mtx" checksum="(null)">
   </resource>
 
   <resource identifier="Nimbus Mono PS" checksum="(null)">
@@ -1726,30 +1732,6 @@
   <resource identifier="Standard Symbols PS" checksum="(null)">
   </resource>
 
-  <resource identifier="URW Bookman Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="URW Bookman Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="URW Bookman Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="URW Bookman Semi-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="URW Gothic" checksum="(null)">
-  </resource>
-
-  <resource identifier="URW Gothic Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="URW Gothic Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="URW Gothic Semi-Bold Oblique" checksum="(null)">
-  </resource>
-
   <resource identifier="UbuntuMono Nerd Font" checksum="(null)">
   </resource>
 
@@ -1774,10 +1756,31 @@
   <resource identifier="UbuntuMono Nerd Font Mono Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Z003 Medium Italic" checksum="(null)">
+  <resource identifier="URW Bookman Light" checksum="(null)">
   </resource>
 
-  <resource identifier="gallant12x22 Medium" checksum="(null)">
+  <resource identifier="URW Bookman Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Bookman Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Bookman Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Gothic" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Gothic Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Gothic Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Gothic Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Z003 Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="${gimp_data_dir}/tool-presets/Crop/16_10.gtp" checksum="(null)">
@@ -1834,16 +1837,16 @@
   <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Eraser-Soft.gtp" checksum="(null)">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/tool-presets/FX/FX-Confetti.gtp" checksum="(null)">
-  </resource>
-
-  <resource identifier="${gimp_data_dir}/tool-presets/FX/FX-Radial-Softlight.gtp" checksum="(null)">
-  </resource>
-
   <resource identifier="${gimp_data_dir}/tool-presets/Selection/Feathered-Selection.gtp" checksum="(null)">
   </resource>
 
   <resource identifier="${gimp_data_dir}/tool-presets/FX/Fill-Paper.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/FX-Confetti.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/FX-Radial-Softlight.gtp" checksum="(null)">
   </resource>
 
   <resource identifier="${gimp_data_dir}/tool-presets/FX/Glow-Lights.gtp" checksum="(null)">

@@ -1,0 +1,26 @@
+2023-01-13 12:35:18.521 [info] Log level: Info
+2023-01-13 12:35:18.521 [info] Validating found git in: "git"
+2023-01-13 12:35:18.521 [info] Using git "2.39.0" from "git"
+2023-01-13 12:35:18.521 [info] > git rev-parse --show-toplevel [7ms]
+2023-01-13 12:35:18.521 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-13 12:35:18.521 [info] Open repository: /home/barbarik/js/feedback-app
+2023-01-13 12:35:18.522 [info] > git rev-parse --show-toplevel [1068ms]
+2023-01-13 12:35:18.616 [info] > git rev-parse --show-toplevel [85ms]
+2023-01-13 12:35:18.625 [info] > git config --get commit.template [1160ms]
+2023-01-13 12:35:18.635 [info] > git check-ignore -v -z --stdin [96ms]
+2023-01-13 12:35:18.636 [info] > git rev-parse --show-toplevel [12ms]
+2023-01-13 12:35:18.673 [info] > git rev-parse --show-toplevel [29ms]
+2023-01-13 12:35:18.698 [info] > git show --textconv :src/components/AboutIconLink.jsx [10ms]
+2023-01-13 12:35:18.699 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [45ms]
+2023-01-13 12:35:18.716 [info] > git ls-files --stage -- /home/barbarik/js/feedback-app/src/components/AboutIconLink.jsx [20ms]
+2023-01-13 12:35:18.751 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [36ms]
+2023-01-13 12:35:18.753 [info] > git cat-file -s 7abe1dd0ddb3dc8645d2a673fe38274679aa1aed [3ms]
+2023-01-13 12:35:18.854 [info] > git status -z -uall [148ms]
+2023-01-13 12:35:18.880 [info] > git config --get commit.template [9ms]
+2023-01-13 12:35:18.880 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-01-13 12:35:18.902 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-13 12:35:19.006 [info] > git status -z -uall [119ms]
+2023-01-13 12:35:19.099 [info] > git check-ignore -v -z --stdin [49ms]
+2023-01-13 12:35:20.607 [info] > git show --textconv :src/context/FeedbackContext.js [19ms]
+2023-01-13 12:35:20.608 [info] > git ls-files --stage -- /home/barbarik/js/feedback-app/src/context/FeedbackContext.js [8ms]
+2023-01-13 12:35:20.618 [info] > git cat-file -s fc5b4a836342f20103b65efd6aa5786f858952e7 [1ms]

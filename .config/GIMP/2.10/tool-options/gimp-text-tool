@@ -1,7 +1,7 @@
 # GIMP gimp-text-tool options
 
 (foreground (color-rgb 0.95202952029520294 0.47282003021372487 0.47282003021372487))
-(palette "Color History")
+(palette "Standard")
 (font "URW Bookman Light Italic")
 (font-size 90)
 

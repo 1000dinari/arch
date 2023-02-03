@@ -1,5 +1,5 @@
 [Desktop Entry]
-FullScreen=true
+FullScreen=false
 shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=false
 
@@ -37,7 +37,7 @@ eDP-1 YPosition 1920x1080=0
 eDP1=eDP1
 eDP1 Height 1080=1080
 eDP1 Height 1920x1080=1063
-eDP1 Height 1920x1080 eDP1=1080
+eDP1 Height 1920x1080 eDP1=1063
 eDP1 Height 768=768
 eDP1 Width 1366=1366
 eDP1 Width 1920=1920
@@ -48,32 +48,32 @@ eDP1 XPosition 1920x1080=0
 eDP1 XPosition 1920x1080 eDP1=0
 eDP1 YPosition=0
 eDP1 YPosition 1920x1080=17
-eDP1 YPosition 1920x1080 eDP1=0
+eDP1 YPosition 1920x1080 eDP1=17
 
 [Misc]
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/acad/bigdata/newasses/Saurabh_Chaudhary_101915205.docx.pdf
-File10[$e]=$HOME/Downloads/bnk/jun22-dec22-01081140004905_1671356305736.pdf
-File2[$e]=$HOME/acad/bigdata/newasses/101915205_Saurabh_Chaudhary_4NC8-2.pdf
-File3[$e]=$HOME/acad/bigdata/EST_Lecture2_KMeansClustering.pdf
-File4[$e]=$HOME/acad/bigdata/EST_Lecture8_PCA.pdf
-File5[$e]=$HOME/acad/bigdata/PCA_numerical.pdf
-File6[$e]=$HOME/acad/bigdata/EST_Lecture1_Distance_and_KNN.pdf
-File7[$e]=$HOME/acad/bigdata/EST_Lecture3_Recommendation System.pdf
-File8[$e]=$HOME/acad/bigdata/EST_Lecture7_Naive_Bayes_Classifier.pdf
-File9[$e]=$HOME/Downloads/bnk/jun21-may22-01081140004905_1671356261623.pdf
-Name1[$e]=Saurabh_Chaudhary_101915205.docx.pdf
-Name10[$e]=jun22-dec22-01081140004905_1671356305736.pdf
-Name2[$e]=101915205_Saurabh_Chaudhary_4NC8-2.pdf
-Name3[$e]=EST_Lecture2_KMeansClustering.pdf
-Name4[$e]=EST_Lecture8_PCA.pdf
-Name5[$e]=PCA_numerical.pdf
-Name6[$e]=EST_Lecture1_Distance_and_KNN.pdf
-Name7[$e]=EST_Lecture3_Recommendation System.pdf
-Name8[$e]=EST_Lecture7_Naive_Bayes_Classifier.pdf
-Name9[$e]=jun21-may22-01081140004905_1671356261623.pdf
+File1[$e]=$HOME/acad/bigdata/EST_Lecture3_Recommendation System.pdf
+File10[$e]=$HOME/ch/How to find your next job through LinkedIn.pdf
+File2[$e]=$HOME/acad/bigdata/EST_Lecture7_Naive_Bayes_Classifier.pdf
+File3[$e]=$HOME/Downloads/bnk/jun21-may22-01081140004905_1671356261623.pdf
+File4[$e]=$HOME/Downloads/bnk/jun22-dec22-01081140004905_1671356305736.pdf
+File5[$e]=$HOME/acad/bigdata/newasses/Saurabh_Chaudhary_101915205.docx.pdf
+File6[$e]=$HOME/CSFDD/Computer-Stuff-for-Dum-Dums.pdf
+File7[$e]=$HOME/Downloads/rag3.pdf
+File8[$e]=$HOME/SaurabhChaudhary_101915205.pdf
+File9[$e]=$HOME/amdocs/Assignments - 5.docx.pdf
+Name1[$e]=EST_Lecture3_Recommendation System.pdf
+Name10[$e]=How to find your next job through LinkedIn.pdf
+Name2[$e]=EST_Lecture7_Naive_Bayes_Classifier.pdf
+Name3[$e]=jun21-may22-01081140004905_1671356261623.pdf
+Name4[$e]=jun22-dec22-01081140004905_1671356305736.pdf
+Name5[$e]=Saurabh_Chaudhary_101915205.docx.pdf
+Name6[$e]=Computer-Stuff-for-Dum-Dums.pdf
+Name7[$e]=rag3.pdf
+Name8[$e]=SaurabhChaudhary_101915205.pdf
+Name9[$e]=Assignments - 5.docx.pdf
 
 [SlideShow]
 PresentationMonitor=0

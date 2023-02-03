@@ -1,0 +1,1 @@
+(()=>{"use strict";!async function(){!function(e=window.document){const t=chrome.runtime.getURL("js/guest_script.js"),n=e.createElement("script");n.src=t,n.type="text/javascript",n.onload=function(){this.remove()},(e.head||e.documentElement).insertBefore(n,(e.head||e.documentElement).firstElementChild)}()}()})();

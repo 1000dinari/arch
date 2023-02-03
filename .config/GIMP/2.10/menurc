@@ -1,4 +1,4 @@
-; gimp-2.10 GtkAccelMap rc-file         -*- scheme -*-
+; gimp GtkAccelMap rc-file         -*- scheme -*-
 ; this file is an automated accelerator map dump
 ;
 ; (gtk_accel_path "<Actions>/tools/tools-rotate-image-arbitrary" "")
@@ -18,11 +18,9 @@
 ; (gtk_accel_path "<Actions>/vectors/vectors-color-tag-orange" "")
 ; (gtk_accel_path "<Actions>/view/view-zoom-8-1-accel" "KP_4")
 ; (gtk_accel_path "<Actions>/context/context-background-value-set" "")
-; (gtk_accel_path "<Actions>/windows/windows-display-0003" "")
 ; (gtk_accel_path "<Actions>/context/context-paint-mode-menu" "")
 ; (gtk_accel_path "<Actions>/filters/filters-motion-blur-linear" "")
 ; (gtk_accel_path "<Actions>/filters/filters-gegl-graph" "")
-; (gtk_accel_path "<Actions>/windows/windows-display-0002" "")
 ; (gtk_accel_path "<Actions>/context/context-brush-select-set" "")
 ; (gtk_accel_path "<Actions>/edit/edit-copy" "<Primary>c")
 ; (gtk_accel_path "<Actions>/context/context-brush-shape-circle" "")
@@ -45,8 +43,8 @@
 ; (gtk_accel_path "<Actions>/layers/layers-color-tag-brown" "")
 ; (gtk_accel_path "<Actions>/plug-in/plug-in-imagemap" "")
 ; (gtk_accel_path "<Actions>/filters/filters-recent-menu" "")
-; (gtk_accel_path "<Actions>/layers/layers-text-along-vectors" "")
 ; (gtk_accel_path "<Actions>/plug-in/plug-in-map-object" "")
+; (gtk_accel_path "<Actions>/layers/layers-text-along-vectors" "")
 ; (gtk_accel_path "<Actions>/view/view-zoom-revert" "grave")
 ; (gtk_accel_path "<Actions>/dialogs/dialogs-symmetry" "")
 ; (gtk_accel_path "<Actions>/plug-in/plug-in-script-fu-console" "")
@@ -73,9 +71,10 @@
 ; (gtk_accel_path "<Actions>/drawable/drawable-rotate-270" "")
 ; (gtk_accel_path "<Actions>/plug-in/script-fu-predator" "")
 ; (gtk_accel_path "<Actions>/tools/tools-hardness-increase-percent" "")
-; (gtk_accel_path "<Actions>/plug-in/plug-in-colorify" "")
 ; (gtk_accel_path "<Actions>/view/view-show-grid" "")
+; (gtk_accel_path "<Actions>/plug-in/plug-in-colorify" "")
 ; (gtk_accel_path "<Actions>/image/image-color-management-enabled" "")
+; (gtk_accel_path "<Actions>/plug-in/file-bigtiff-save" "")
 ; (gtk_accel_path "<Actions>/tools/tools-angle-increase" "")
 ; (gtk_accel_path "<Actions>/vectors/vectors-color-tag-violet" "")
 ; (gtk_accel_path "<Actions>/context/context-background-saturation-decrease-skip" "")

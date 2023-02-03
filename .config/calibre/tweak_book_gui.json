@@ -109,6 +109,108 @@
     "where": "current",
     "wrap": true
   },
+  "geometry-of-import-foreign-geometry": {
+    "frame_geometry": {
+      "height": 194,
+      "width": 505,
+      "x": 702,
+      "y": 407
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 192,
+      "width": 503,
+      "x": 703,
+      "y": 408
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 192,
+      "width": 503,
+      "x": 703,
+      "y": 408
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAK+AAABlwAABLYAAAJYAAACvwAAAZgAAAS1AAACVwAAAAAAAAAAB4AAAAK/AAABmAAABLUAAAJX"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "",
+      "name": "eDP1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1055,
+      "width": 1048,
+      "x": 4,
+      "y": 21
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1053,
+      "width": 1046,
+      "x": 5,
+      "y": 22
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1053,
+      "width": 1046,
+      "x": 5,
+      "y": 22
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAEAAAAFQAABBsAAAQzAAAABQAAABYAAAQaAAAEMgAAAAAAAAAAB4AAAAAFAAAAFgAABBoAAAQy"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "",
+      "name": "eDP1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "import-foreign-geometry": {
     "__class__": "bytearray",
     "__value__": "AdnQywADAAAAAAK9AAABlgAABLUAAAJXAAACvgAAAZcAAAS0AAACVgAAAAAAAAAAB4AAAAK+AAABlwAABLQAAAJW"

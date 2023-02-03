@@ -1,0 +1,18 @@
+2023/01/19-17:00:39.496 7016e Creating DB /home/barbarik/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/01/19-17:00:39.498 7016e Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/19-17:00:40.215 7016e Level-0 table #5: started
+2023/01/19-17:00:40.216 7016e Level-0 table #5: 2658 bytes OK
+2023/01/19-17:00:40.217 7016e Delete type=0 #3
+2023/01/19-17:00:40.217 7016e Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/19-18:46:20.339 91784 Level-0 table #7: started
+2023/01/19-18:46:20.342 91784 Level-0 table #7: 14544 bytes OK
+2023/01/19-18:46:20.344 91784 Delete type=0 #4
+2023/01/19-18:46:20.344 91784 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/01/19-18:46:20.344 91784 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xa0\x9b\xc4\xa2\xB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 380 : 1
+2023/01/19-18:46:20.344 91784 Compacting 1@1 + 1@2 files
+2023/01/19-18:46:20.346 91784 Generated table #8@1: 67 keys, 3371 bytes
+2023/01/19-18:46:20.346 91784 Compacted 1@1 + 1@2 files => 3371 bytes
+2023/01/19-18:46:20.347 91784 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/19-18:46:20.348 91784 Delete type=2 #5
+2023/01/19-18:46:20.348 91784 Delete type=2 #7
+2023/01/19-18:46:20.348 91784 Manual compaction at level-1 from '\x00\x04\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xa0\x9b\xc4\xa2\xB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 380 : 1 .. (end); will stop at (end)

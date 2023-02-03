@@ -432,7 +432,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/Font Awesome 6 Brands-Regular-400.otf||494104:1659471833.0": {
+    "/usr/share/fonts/OTF/Font Awesome 6 Brands-Regular-400.otf||515748:1668865866.0": {
       "family_name": "Font Awesome 6 Brands Regular",
       "font-family": "Font Awesome 6 Brands Regular",
       "font-stretch": "normal",
@@ -468,7 +468,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/Font Awesome 6 Free-Regular-400.otf||169548:1659471833.0": {
+    "/usr/share/fonts/OTF/Font Awesome 6 Free-Regular-400.otf||173996:1668865866.0": {
       "family_name": "Font Awesome 6 Free Regular",
       "font-family": "Font Awesome 6 Free Regular",
       "font-stretch": "normal",
@@ -504,7 +504,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/Font Awesome 6 Free-Solid-900.otf||979228:1659471833.0": {
+    "/usr/share/fonts/OTF/Font Awesome 6 Free-Solid-900.otf||997516:1668865866.0": {
       "family_name": "Font Awesome 6 Free Solid",
       "font-family": "Font Awesome 6 Free Solid",
       "font-stretch": "normal",
@@ -1800,7 +1800,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/Ubuntu Mono Bold Italic Nerd Font Complete Mono.ttf||959312:1603318494.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Bold Italic Nerd Font Complete Mono.ttf||1050780:1666550776.0": {
       "family_name": "UbuntuMono Nerd Font Mono",
       "font-family": "UbuntuMono Nerd Font Mono",
       "font-stretch": "normal",
@@ -1836,7 +1836,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/Ubuntu Mono Bold Italic Nerd Font Complete.ttf||975060:1603318494.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Bold Italic Nerd Font Complete.ttf||1069016:1666550776.0": {
       "family_name": "UbuntuMono Nerd Font",
       "font-family": "UbuntuMono Nerd Font",
       "font-stretch": "normal",
@@ -1872,7 +1872,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/Ubuntu Mono Bold Nerd Font Complete Mono.ttf||934436:1603318494.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Bold Nerd Font Complete Mono.ttf||1025904:1666550776.0": {
       "family_name": "UbuntuMono Nerd Font Mono",
       "font-family": "UbuntuMono Nerd Font Mono",
       "font-stretch": "normal",
@@ -1908,7 +1908,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/Ubuntu Mono Bold Nerd Font Complete.ttf||950184:1603318494.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Bold Nerd Font Complete.ttf||1044144:1666550776.0": {
       "family_name": "UbuntuMono Nerd Font",
       "font-family": "UbuntuMono Nerd Font",
       "font-stretch": "normal",
@@ -1944,7 +1944,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/Ubuntu Mono Italic Nerd Font Complete Mono.ttf||955348:1603318494.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Italic Nerd Font Complete Mono.ttf||1046816:1666550776.0": {
       "family_name": "UbuntuMono Nerd Font Mono",
       "font-family": "UbuntuMono Nerd Font Mono",
       "font-stretch": "normal",
@@ -1980,7 +1980,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/Ubuntu Mono Italic Nerd Font Complete.ttf||971096:1603318494.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Italic Nerd Font Complete.ttf||1065056:1666550776.0": {
       "family_name": "UbuntuMono Nerd Font",
       "font-family": "UbuntuMono Nerd Font",
       "font-stretch": "normal",
@@ -2016,7 +2016,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/Ubuntu Mono Nerd Font Complete Mono.ttf||948792:1603318494.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Nerd Font Complete Mono.ttf||1040264:1666550776.0": {
       "family_name": "UbuntuMono Nerd Font Mono",
       "font-family": "UbuntuMono Nerd Font Mono",
       "font-stretch": "normal",
@@ -2052,7 +2052,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/Ubuntu Mono Nerd Font Complete.ttf||964540:1603318494.0": {
+    "/usr/share/fonts/TTF/Ubuntu Mono Nerd Font Complete.ttf||1058500:1666550776.0": {
       "family_name": "UbuntuMono Nerd Font",
       "font-family": "UbuntuMono Nerd Font",
       "font-stretch": "normal",
@@ -5364,7 +5364,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/noto/NotoColorEmoji.ttf||9867108:1635795694.0": {
+    "/usr/share/fonts/noto/NotoColorEmoji.ttf||10353636:1664221172.0": {
       "family_name": "Noto Color Emoji",
       "font-family": "Noto Color Emoji",
       "font-stretch": "normal",
@@ -5400,7 +5400,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/xscreensaver/OCRAStd.otf||30636:1654882138.0": {
+    "/usr/share/fonts/xscreensaver/OCRAStd.otf||30636:1670917985.0": {
       "family_name": "OCR A Std",
       "font-family": "OCR A Std",
       "font-stretch": "normal",
@@ -5436,7 +5436,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/xscreensaver/SpecialElite.ttf||166224:1654882138.0": {
+    "/usr/share/fonts/xscreensaver/SpecialElite.ttf||166224:1670917985.0": {
       "family_name": "Special Elite",
       "font-family": "Special Elite",
       "font-stretch": "normal",
@@ -5472,7 +5472,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/xscreensaver/clacon.ttf||103892:1654882138.0": {
+    "/usr/share/fonts/xscreensaver/clacon.ttf||103892:1670917985.0": {
       "family_name": "Classic Console",
       "font-family": "Classic Console",
       "font-stretch": "normal",
@@ -5508,7 +5508,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/xscreensaver/gallant12x22.ttf||25644:1654882138.0": {
+    "/usr/share/fonts/xscreensaver/gallant12x22.ttf||25644:1670917985.0": {
       "family_name": "gallant12x22",
       "font-family": "gallant12x22",
       "font-stretch": "normal",
@@ -5544,7 +5544,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/xscreensaver/luximr.ttf||71784:1654882138.0": {
+    "/usr/share/fonts/xscreensaver/luximr.ttf||71784:1670917985.0": {
       "family_name": "Luxi Mono",
       "font-family": "Luxi Mono",
       "font-stretch": "normal",

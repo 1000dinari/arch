@@ -278,7 +278,13 @@
                                 },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
-                                    "label": "Export Settings Profile (Default)..."
+                                    "label": "Export Profile (Default)...",
+                                    "enabled": false
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.importProfile",
+                                    "label": "Import Profile...",
+                                    "enabled": false
                                 }
                             ]
                         }
@@ -420,7 +426,7 @@
                     },
                     {
                         "id": "workbench.action.replaceInFiles",
-                        "label": "Replace &&in Files"
+                        "label": "Replace in Files"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -635,6 +641,29 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "editor.action.toggleMinimap",
+                                    "label": "&&Minimap",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "breadcrumbs.toggle",
+                                    "label": "&&Breadcrumbs",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "editor.action.toggleRenderWhitespace",
+                                    "label": "&&Render Whitespace",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "editor.action.toggleRenderControlCharacter",
+                                    "label": "Render &&Control Characters",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.zoomIn",
                                     "label": "&&Zoom In"
                                 },
@@ -770,26 +799,6 @@
                     {
                         "id": "editor.action.toggleWordWrap",
                         "label": "&&Word Wrap"
-                    },
-                    {
-                        "id": "editor.action.toggleMinimap",
-                        "label": "&&Minimap",
-                        "checked": true
-                    },
-                    {
-                        "id": "breadcrumbs.toggle",
-                        "label": "&&Breadcrumbs",
-                        "checked": true
-                    },
-                    {
-                        "id": "editor.action.toggleRenderWhitespace",
-                        "label": "&&Render Whitespace",
-                        "checked": true
-                    },
-                    {
-                        "id": "editor.action.toggleRenderControlCharacter",
-                        "label": "Render &&Control Characters",
-                        "checked": true
                     },
                     {
                         "id": "editor.action.toggleStickyScroll",
