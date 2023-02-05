@@ -12,9 +12,9 @@
 export EDITOR=/usr/bin/vim
 export RANGER_LOAD_DEFAULT_RC=false
 
-export PS1="\[\033[38;5;196m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]@\[$(tput sgr0)\]\[\033[38;5;46m\]\H\[$(tput sgr0)\]\[\033[38;5;15m\]:: \[$(tput sgr0)\]\[\033[38;5;11m\]\\$\[$(tput sgr0)\]"
+export PS1="\[\033[38;5;196m\]\u\[$(tput sgr0)\]@\[$(tput sgr0)\]\[\033[38;5;82m\]\H\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;11m\]\\$\[$(tput sgr0)\]"
 
-printf '\033[5 q\r'
+#printf '\033[5 q\r'
 
 alias 1start='wg-quick up wgcf-profile'
 alias 1stop='wg-quick down wgcf-profile'
