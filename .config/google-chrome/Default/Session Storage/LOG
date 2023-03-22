@@ -1,3 +1,6 @@
-2023/02/16-15:02:59.103 3 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2023/02/16-15:02:59.104 3 Recovering log #15
-2023/02/16-15:02:59.104 3 Reusing old log /home/barbarik/.config/google-chrome/Default/Session Storage/000015.log 
+2023/03/20-11:19:21.658 3 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/03/20-11:19:21.659 3 Recovering log #15
+2023/03/20-11:19:21.660 3 Reusing old log /home/barbarik/.config/google-chrome/Default/Session Storage/000015.log 
+2023/03/20-11:40:31.353 4 Level-0 table #20: started
+2023/03/20-11:40:31.355 4 Level-0 table #20: 15883 bytes OK
+2023/03/20-11:40:31.357 4 Delete type=0 #15

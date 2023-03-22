@@ -18,6 +18,7 @@ x-scheme-handler/tg=userapp-Telegram Desktop-DPF0Y0.desktop;org.telegram.desktop
 application/json=leafpad.desktop;
 video/x-matroska=vlc.desktop;
 text/x-csrc=leafpad.desktop;
+image/webp=firefox.desktop;
 
 [Default Applications]
 application/pdf=FoxitReader.desktop

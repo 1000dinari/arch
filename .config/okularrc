@@ -25,6 +25,10 @@ Zoom=100
 ZoomMode=1
 
 [MainWindow]
+1920x1080 screen: Height=1053
+1920x1080 screen: Width=1142
+1920x1080 screen: XPosition=5
+1920x1080 screen: YPosition=22
 Height 768=741
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAQnAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAACIAYQBuAG4AbwB0AGEAdABpAG8AbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
@@ -54,26 +58,26 @@ eDP1 YPosition 1920x1080 eDP1=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/ch/How to find your next job through LinkedIn.pdf
-File10[$e]=$HOME/SaurabhChaudhary_101915205.pdf
-File2[$e]=$HOME/ch/Bootcamp Carousel.pdf
-File3[$e]=$HOME/amdocs/sql/Assignment1.docx.pdf
-File4[$e]=$HOME/amdocs/sql/Assignment2.docx.pdf
-File5[$e]=$HOME/amdocs/sql/Assignment3.docx.pdf
-File6[$e]=$HOME/amdocs/sql/Assignment4.docx.pdf
-File7[$e]=$HOME/amdocs/sql/Assignment5.docx.pdf
-File8[$e]=$HOME/amdocs/sql/Assignment6.docx.pdf
-File9[$e]=$HOME/amdocs/sql/Assignment7.docx.pdf
-Name1[$e]=How to find your next job through LinkedIn.pdf
-Name10[$e]=SaurabhChaudhary_101915205.pdf
-Name2[$e]=Bootcamp Carousel.pdf
-Name3[$e]=Assignment1.docx.pdf
-Name4[$e]=Assignment2.docx.pdf
-Name5[$e]=Assignment3.docx.pdf
-Name6[$e]=Assignment4.docx.pdf
-Name7[$e]=Assignment5.docx.pdf
-Name8[$e]=Assignment6.docx.pdf
-Name9[$e]=Assignment7.docx.pdf
+File1[$e]=$HOME/amdocs/sql/Assignment7.docx.pdf
+File10[$e]=$HOME/amdocs/unix/SaurabhChaudhary_Unix_SBA.pdf
+File2[$e]=$HOME/SaurabhChaudhary_101915205.pdf
+File3[$e]=$HOME/Documents/machuda.pdf
+File4[$e]=$HOME/Documents/crossing hurdles/Saurabh_Offer_Letter.pdf
+File5[$e]=$HOME/Documents/crossing hurdles/Emergency Contact.docx.pdf
+File6[$e]=$HOME/ch/Recession Proof.pdf
+File7[$e]=$HOME/Documents/crossing hurdles/Goals-Report-SaurabhChaudhary.pdf
+File8[$e]=$HOME/Documents/crossing hurdles/Goals-Report-SaurabhChaudhary-digital.pdf
+File9[$e]=$HOME/Documents/crossing hurdles/Saurabh Chaudhary Midway Report-digital.pdf
+Name1[$e]=Assignment7.docx.pdf
+Name10[$e]=SaurabhChaudhary_Unix_SBA.pdf
+Name2[$e]=SaurabhChaudhary_101915205.pdf
+Name3[$e]=machuda.pdf
+Name4[$e]=Saurabh_Offer_Letter.pdf
+Name5[$e]=Emergency Contact.docx.pdf
+Name6[$e]=Recession Proof.pdf
+Name7[$e]=Goals-Report-SaurabhChaudhary.pdf
+Name8[$e]=Goals-Report-SaurabhChaudhary-digital.pdf
+Name9[$e]=Saurabh Chaudhary Midway Report-digital.pdf
 
 [SlideShow]
 PresentationMonitor=0

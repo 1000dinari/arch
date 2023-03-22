@@ -1,0 +1,31 @@
+{
+   "action": {
+      "default_icon": "src/assets/img/logo.png",
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background.bundle.js"
+   },
+   "content_scripts": [ {
+      "css": [ "content.styles.css" ],
+      "js": [ "contentScript.bundle.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "description": "Optimize your LinkedIn profile to get more recruiters in your inbox, appear in 2.5X more search results, and impress your network!",
+   "externally_connectable": {
+      "matches": [ "https://auth-extension.web.app/*", "https://extension-auth.web.app/*", "https://job-tracker-test-app.web.app/*", "https://dev-auth-extension.web.app/*" ]
+   },
+   "icons": {
+      "128": "src/assets/img/logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi+W7507SjqsEgGOAOzXmj4V9EFw3g4GN8+cBU7ym8V99NgkkSYHpkUQscY11tj2mrnn3gDYjwvChnUX3Uw8jysPqU9h9r7oRsYS4AJzWVjOVupohNquioynDwzrgd808lFPhcSEnLsYurJE0V/TbU7ybtZASteQ3wCFcv4NspbrU1AkMMFU3pAra4XBQ7YSndjgDn+neqmjKMfrwfVhcm75sIawb92kDacywE6M3JVqQZpo9BR2W0GmBFR4pnuFNmyYCTINSYKPVSqyc/isKzwnPZrFSRQug+tuI1KhS+iU0Q1leM5jyNDmLzLXoE8Rspv0t1TKbgJIgMWg88Z/DNQIDAQAB",
+   "manifest_version": 3,
+   "name": "Careerflow LinkedIn Optimization",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.10",
+   "web_accessible_resources": [ {
+      "matches": [ "https://*/*" ],
+      "resources": [ "content.styles.css", "src/assets/*" ]
+   } ]
+}
