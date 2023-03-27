@@ -1,2 +1,3 @@
-2023/03/18-10:02:51.493 12fd Creating DB /home/barbarik/.config/google-chrome/Default/File System/Origins since it was missing.
-2023/03/18-10:02:51.496 12fd Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/File System/Origins/MANIFEST-000001
+2023/03/24-12:43:49.994 30dd8 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/File System/Origins/MANIFEST-000001
+2023/03/24-12:43:49.995 30dd8 Recovering log #3
+2023/03/24-12:43:49.996 30dd8 Reusing old log /home/barbarik/.config/google-chrome/Default/File System/Origins/000003.log 

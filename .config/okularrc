@@ -25,10 +25,10 @@ Zoom=100
 ZoomMode=1
 
 [MainWindow]
-1920x1080 screen: Height=1053
-1920x1080 screen: Width=1142
-1920x1080 screen: XPosition=5
-1920x1080 screen: YPosition=22
+1920x1080 screen: Height=1063
+1920x1080 screen: Width=1920
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=17
 Height 768=741
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAQnAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAACIAYQBuAG4AbwB0AGEAdABpAG8AbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
@@ -58,26 +58,26 @@ eDP1 YPosition 1920x1080 eDP1=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/amdocs/sql/Assignment7.docx.pdf
-File10[$e]=$HOME/amdocs/unix/SaurabhChaudhary_Unix_SBA.pdf
-File2[$e]=$HOME/SaurabhChaudhary_101915205.pdf
-File3[$e]=$HOME/Documents/machuda.pdf
-File4[$e]=$HOME/Documents/crossing hurdles/Saurabh_Offer_Letter.pdf
-File5[$e]=$HOME/Documents/crossing hurdles/Emergency Contact.docx.pdf
-File6[$e]=$HOME/ch/Recession Proof.pdf
-File7[$e]=$HOME/Documents/crossing hurdles/Goals-Report-SaurabhChaudhary.pdf
-File8[$e]=$HOME/Documents/crossing hurdles/Goals-Report-SaurabhChaudhary-digital.pdf
-File9[$e]=$HOME/Documents/crossing hurdles/Saurabh Chaudhary Midway Report-digital.pdf
-Name1[$e]=Assignment7.docx.pdf
-Name10[$e]=SaurabhChaudhary_Unix_SBA.pdf
-Name2[$e]=SaurabhChaudhary_101915205.pdf
-Name3[$e]=machuda.pdf
-Name4[$e]=Saurabh_Offer_Letter.pdf
-Name5[$e]=Emergency Contact.docx.pdf
-Name6[$e]=Recession Proof.pdf
-Name7[$e]=Goals-Report-SaurabhChaudhary.pdf
-Name8[$e]=Goals-Report-SaurabhChaudhary-digital.pdf
-Name9[$e]=Saurabh Chaudhary Midway Report-digital.pdf
+File1[$e]=$HOME/SaurabhChaudhary_101915205.pdf
+File10[$e]=$HOME/ch/Personal Brand.pdf
+File2[$e]=$HOME/Documents/machuda.pdf
+File3[$e]=$HOME/Documents/crossing hurdles/Saurabh_Offer_Letter.pdf
+File4[$e]=$HOME/Documents/crossing hurdles/Emergency Contact.docx.pdf
+File5[$e]=$HOME/Documents/crossing hurdles/Goals-Report-SaurabhChaudhary.pdf
+File6[$e]=$HOME/Documents/crossing hurdles/Goals-Report-SaurabhChaudhary-digital.pdf
+File7[$e]=$HOME/Documents/crossing hurdles/Saurabh Chaudhary Midway Report-digital.pdf
+File8[$e]=$HOME/amdocs/unix/SaurabhChaudhary_Unix_SBA.pdf
+File9[$e]=$HOME/ch/Recession Proof.pdf
+Name1[$e]=SaurabhChaudhary_101915205.pdf
+Name10[$e]=Personal Brand.pdf
+Name2[$e]=machuda.pdf
+Name3[$e]=Saurabh_Offer_Letter.pdf
+Name4[$e]=Emergency Contact.docx.pdf
+Name5[$e]=Goals-Report-SaurabhChaudhary.pdf
+Name6[$e]=Goals-Report-SaurabhChaudhary-digital.pdf
+Name7[$e]=Saurabh Chaudhary Midway Report-digital.pdf
+Name8[$e]=SaurabhChaudhary_Unix_SBA.pdf
+Name9[$e]=Recession Proof.pdf
 
 [SlideShow]
 PresentationMonitor=0

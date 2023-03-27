@@ -1,0 +1,48 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "extension-assets/images/logo-16.png",
+         "24": "extension-assets/images/logo-24.png",
+         "32": "extension-assets/images/logo-32.png"
+      },
+      "default_popup": "extension-assets/popup.html",
+      "default_title": "AuthoredUp – No. 1 LinkedIn Content Tool"
+   },
+   "background": {
+      "service_worker": "js/background_script.js"
+   },
+   "content_scripts": [ {
+      "js": [ "js/host_preload_script.js" ],
+      "matches": [ "*://*.linkedin.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "js/vendor.js", "js/host_script.js" ],
+      "matches": [ "*://*.linkedin.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "Preview your posts, save multiple drafts, analyze your LinkedIn post performance, and reuse the best ones.",
+   "differential_fingerprint": "1.efc97dfcb2ea44c04a6d20fba4f31201fa0ecfa53472684e8e44280b2759ac5d",
+   "host_permissions": [ "*://*.linkedin.com/*" ],
+   "icons": {
+      "128": "extension-assets/images/logo-128.png",
+      "16": "extension-assets/images/logo-16.png",
+      "48": "extension-assets/images/logo-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhAmbJYKprGXmg2j2gj4I3RsP2/g7JclypdWfgZ4hU1HU0MaGbEiH1ZMkXbDICOVHpe8aOItIyUwCqQnwxdCLp8QcaWGbyRKSS1u3Hd30P9w/O669jIzunF9J539UTcbFgMZU8bKDdIuPP0IMwEZGjna62c54WTzSGhQ799WgZXcv7id6Pc//RQd2UnbACKWnG/TkreDQXkruWzULVGLnlSZ73yWQRTXBnX8rew/l/hqBmuehW02JzSueklYNhJ80MUau2xLie5G8kjXqIoafBKADeAs/0RFneiXelnoDsBVBt0GX/29wE0ThJ8Cfirr0rCdIrvCV6AOhuJO+h8r8hwIDAQAB",
+   "manifest_version": 3,
+   "name": "AuthoredUp – No. 1 LinkedIn Content Tool",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "extension-assets/options.html"
+   },
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "js/guest_script.js" ]
+   }, {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "*.json" ]
+   } ]
+}

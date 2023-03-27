@@ -1,0 +1,48 @@
+{
+    "appliance_id": "915a93b4-b78f-47b4-9a6e-cadc25d55c0a",
+    "name": "Ostinato",
+    "category": "guest",
+    "description": "Packet crafter and traffic generator for network engineers",
+    "vendor_name": "Ostinato",
+    "vendor_url": "https://ostinato.org/",
+    "documentation_url": "https://ostinato.org/docs",
+    "product_name": "Ostinato",
+    "product_url": "https://ostinato.org/",
+    "registry_version": 4,
+    "status": "stable",
+    "availability": "service-contract",
+    "maintainer": "Srivats P",
+    "maintainer_email": "support@ostinato.org",
+    "symbol": ":/symbols/affinity/circle/gray/cog.svg",
+    "first_port_name": "eth0/mgmt",
+    "port_name_format": "eth{port1}",
+    "linked_clone": true,
+    "qemu": {
+        "adapter_type": "e1000",
+        "adapters": 4,
+        "ram": 256,
+        "cpus": 2,
+        "hda_disk_interface": "sata",
+        "arch": "i386",
+        "console_type": "vnc",
+        "kvm": "allow",
+        "options": "-vga std -usbdevice tablet"
+    },
+    "images": [
+        {
+            "filename": "ostinatostd-1.1-1.qcow2",
+            "version": "1.1",
+            "md5sum": "aa027e83cefea1c38d0102eb2f28956e",
+            "filesize": 134217728,
+            "download_url": "https://ostinato.org/pricing/gns3"
+        }
+    ],
+    "versions": [
+        {
+            "name": "1.1",
+            "images": {
+                "hda_disk_image": "ostinatostd-1.1-1.qcow2"
+            }
+        }
+    ]
+}

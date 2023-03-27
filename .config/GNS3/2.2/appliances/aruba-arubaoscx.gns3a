@@ -1,0 +1,166 @@
+{
+    "appliance_id": "8f074218-9d61-4e99-ab89-35ca19ad44ee",
+    "name": "ArubaOS-CX Simulation Software",
+    "category": "multilayer_switch",
+    "description": "The ArubaOS-CX Simulation Software is a virtual platform to enable simulation of the ArubaOS-CX Network Operating System. Simulated networks can be created using many of the protocols in the ArubaOS-CX Operating system like OSPF, BGP (inc. EVPN). Key features like the Aruba Network Analytics Engine and the REST API can be simulated, providing a lightweight development platform to building the modern network.",
+    "vendor_name": "HPE Aruba",
+    "vendor_url": "https://www.arubanetworks.com",
+    "product_name": "ArubaOS-CX Simulation Software",
+    "registry_version": 4,
+    "status": "stable",
+    "availability": "service-contract",
+    "maintainer": "Aruba",
+    "maintainer_email": "vincent.giles@hpe.com",
+    "usage": "Default username: admin, no password. New Password has to be set at first login.",
+    "symbol": ":/symbols/route_switch_processor.svg",
+    "first_port_name": "mgmt",
+    "port_name_format": "1/1/{port1}",
+    "qemu": {
+        "adapter_type": "virtio-net-pci",
+        "adapters": 8,
+        "ram": 4096,
+        "cpus": 2,
+        "hda_disk_interface": "ide",
+        "hdb_disk_interface": "ide",
+        "hdc_disk_interface": "ide",
+        "arch": "x86_64",
+        "console_type": "telnet",
+        "kvm": "require",
+        "options": "-nographic",
+        "process_priority": "normal"
+    },
+    "images": [
+        {
+            "filename": "arubaoscx-disk-image-genericx86-p4-20220815162137.vmdk",
+            "version": "10.10.1000",
+            "md5sum": "40f9ddf1e12640376af443b5d982f2f6",
+            "filesize": 356162560,
+            "download_url": "https://asp.arubanetworks.com/"
+        },
+        {
+            "filename": "arubaoscx-disk-image-genericx86-p4-20220616193419.vmdk",
+            "version": "10.10.0002",
+            "md5sum": "ed031aeb6caf92adb408c7603d294fd4",
+            "filesize": 355858944,
+            "download_url": "https://asp.arubanetworks.com/"
+        },
+        {
+            "filename": "arubaoscx-disk-image-genericx86-p4-20220223012712.vmdk",
+            "version": "10.09.1000",
+            "md5sum": "7b47c4442d825562e73e3f09b2f1f999",
+            "filesize": 556828672,
+            "download_url": "https://asp.arubanetworks.com/"
+        },
+        {
+            "filename": "arubaoscx-disk-image-genericx86-p4-20211206170615.vmdk",
+            "version": "10.09.0002",
+            "md5sum": "3c772546482013495e31fc9cb0591b46",
+            "filesize": 555656704,
+            "download_url": "https://asp.arubanetworks.com/"
+        },
+        {
+            "filename": "arubaoscx-disk-image-genericx86-p4-20210812172945.vmdk",
+            "version": "10.08.0001",
+            "md5sum": "762b139432aef1012d8be5afdfcb286e",
+            "filesize": 542237696,
+            "download_url": "https://asp.arubanetworks.com/"
+        },
+        {
+            "filename": "arubaoscx-disk-image-genericx86-p4-20210610000730.vmdk",
+            "version": "10.07.0010",
+            "md5sum": "396dc7ad964b7c517e01bc408e3bf84a",
+            "filesize": 531603968,
+            "download_url": "https://asp.arubanetworks.com/"
+        },
+        {
+            "filename": "arubaoscx-disk-image-genericx86-p4-20210316185909.vmdk",
+            "version": "10.06.0110",
+            "md5sum": "f1ed67d5c7e009e21bfb6a91d9183e8e",
+            "filesize": 381285376,
+            "download_url": "https://asp.arubanetworks.com/"
+        },
+        {
+            "filename": "arubaoscx-disk-image-genericx86-p4-20201110192651.vmdk",
+            "version": "10.06.0001",
+            "md5sum": "f8b45bc52f6bad79b5ff563e0c1ea73b",
+            "filesize": 380304896,
+            "download_url": "https://asp.arubanetworks.com/"
+        },
+        {
+            "filename": "arubaoscx-disk-image-genericx86-p4-20200311173823.vmdk",
+            "version": "10.04.1000",
+            "md5sum": "4e000d73c3593dfed6c49259c31401ea",
+            "filesize": 356249088,
+            "download_url": "https://asp.arubanetworks.com/"
+        },
+        {
+            "filename": "arubaoscx-disk-image-genericx86-p4-20180712161119.vmdk",
+            "version": "10.01.0001",
+            "md5sum": "9146ae0ac650d8206c9600e03753f022",
+            "filesize": 287734784,
+            "download_url": "http://support.arubanetworks.com/"
+        }
+    ],
+    "versions": [
+        {
+            "name": "10.10.1000",
+            "images": {
+                "hda_disk_image": "arubaoscx-disk-image-genericx86-p4-20220815162137.vmdk"
+            }
+        },
+        {
+            "name": "10.10.0002",
+            "images": {
+                "hda_disk_image": "arubaoscx-disk-image-genericx86-p4-20220616193419.vmdk"
+            }
+        },
+        {
+            "name": "10.09.1000",
+            "images": {
+                "hda_disk_image": "arubaoscx-disk-image-genericx86-p4-20220223012712.vmdk"
+            }
+        },
+        {
+            "name": "10.09.0002",
+            "images": {
+                "hda_disk_image": "arubaoscx-disk-image-genericx86-p4-20211206170615.vmdk"
+            }
+        },
+        {
+            "name": "10.08.0001",
+            "images": {
+                "hda_disk_image": "arubaoscx-disk-image-genericx86-p4-20210812172945.vmdk"
+            }
+        },
+        {
+            "name": "10.07.0010",
+            "images": {
+                "hda_disk_image": "arubaoscx-disk-image-genericx86-p4-20210610000730.vmdk"
+            }
+        },
+        {
+            "name": "10.06.0110",
+            "images": {
+                "hda_disk_image": "arubaoscx-disk-image-genericx86-p4-20210316185909.vmdk"
+            }
+        },
+        {
+            "name": "10.06.0001",
+            "images": {
+                "hda_disk_image": "arubaoscx-disk-image-genericx86-p4-20201110192651.vmdk"
+            }
+        },
+        {
+            "name": "10.04.1000",
+            "images": {
+                "hda_disk_image": "arubaoscx-disk-image-genericx86-p4-20200311173823.vmdk"
+            }
+        },
+        {
+            "name": "10.01.0001",
+            "images": {
+                "hda_disk_image": "arubaoscx-disk-image-genericx86-p4-20180712161119.vmdk"
+            }
+        }
+    ]
+}
