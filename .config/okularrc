@@ -58,26 +58,26 @@ eDP1 YPosition 1920x1080 eDP1=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/SaurabhChaudhary_101915205.pdf
-File10[$e]=$HOME/ch/Personal Brand.pdf
-File2[$e]=$HOME/Documents/machuda.pdf
-File3[$e]=$HOME/Documents/crossing hurdles/Saurabh_Offer_Letter.pdf
-File4[$e]=$HOME/Documents/crossing hurdles/Emergency Contact.docx.pdf
-File5[$e]=$HOME/Documents/crossing hurdles/Goals-Report-SaurabhChaudhary.pdf
-File6[$e]=$HOME/Documents/crossing hurdles/Goals-Report-SaurabhChaudhary-digital.pdf
-File7[$e]=$HOME/Documents/crossing hurdles/Saurabh Chaudhary Midway Report-digital.pdf
-File8[$e]=$HOME/amdocs/unix/SaurabhChaudhary_Unix_SBA.pdf
-File9[$e]=$HOME/ch/Recession Proof.pdf
-Name1[$e]=SaurabhChaudhary_101915205.pdf
-Name10[$e]=Personal Brand.pdf
-Name2[$e]=machuda.pdf
-Name3[$e]=Saurabh_Offer_Letter.pdf
-Name4[$e]=Emergency Contact.docx.pdf
-Name5[$e]=Goals-Report-SaurabhChaudhary.pdf
-Name6[$e]=Goals-Report-SaurabhChaudhary-digital.pdf
-Name7[$e]=Saurabh Chaudhary Midway Report-digital.pdf
-Name8[$e]=SaurabhChaudhary_Unix_SBA.pdf
-Name9[$e]=Recession Proof.pdf
+File1[$e]=$HOME/Documents/crossing hurdles/Saurabh Chaudhary Midway Report-digital.pdf
+File10[$e]=$HOME/ch/5PMMetrics.pdf
+File2[$e]=$HOME/amdocs/unix/SaurabhChaudhary_Unix_SBA.pdf
+File3[$e]=$HOME/ch/Recession Proof.pdf
+File4[$e]=$HOME/ch/Personal Brand.pdf
+File5[$e]=$HOME/ch/How to not get Promoted.png
+File6[$e]=$HOME/ch/Top questions to ask interviewer.pdf
+File7[$e]=$HOME/ch/How to not get Promoted.pdf
+File8[$e]=$HOME/amdocs/Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
+File9[$e]=$HOME/SaurabhChaudhary.pdf
+Name1[$e]=Saurabh Chaudhary Midway Report-digital.pdf
+Name10[$e]=5PMMetrics.pdf
+Name2[$e]=SaurabhChaudhary_Unix_SBA.pdf
+Name3[$e]=Recession Proof.pdf
+Name4[$e]=Personal Brand.pdf
+Name5[$e]=How to not get Promoted.png
+Name6[$e]=Top questions to ask interviewer.pdf
+Name7[$e]=How to not get Promoted.pdf
+Name8[$e]=Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
+Name9[$e]=SaurabhChaudhary.pdf
 
 [SlideShow]
 PresentationMonitor=0

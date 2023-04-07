@@ -26,3 +26,5 @@ exec dwm
 #exec i3
 #exec xmonad
 [[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources
+
+export _JAVA_AWT_WM_NONREPARENTING=1

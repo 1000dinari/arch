@@ -1,3 +1,14 @@
-2023/03/27-14:50:53.943 4927a Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_stats-dev.taplio.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/27-14:50:53.943 4927a Recovering log #3
-2023/03/27-14:50:53.944 4927a Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_stats-dev.taplio.com_0.indexeddb.leveldb/000003.log 
+2023/04/07-15:10:14.208 5e945 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_stats-dev.taplio.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/07-15:10:14.209 5e945 Recovering log #37
+2023/04/07-15:10:14.209 5e945 Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_stats-dev.taplio.com_0.indexeddb.leveldb/000037.log 
+2023/04/07-15:10:14.210 5e945 Delete type=2 #35
+2023/04/07-15:10:14.218 5e947 Level-0 table #42: started
+2023/04/07-15:10:14.220 5e947 Level-0 table #42: 6056 bytes OK
+2023/04/07-15:10:14.221 5e947 Delete type=0 #37
+2023/04/07-15:10:14.221 5e945 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 881 : 1
+2023/04/07-15:10:14.221 5e945 Compacting 1@0 + 1@1 files
+2023/04/07-15:10:14.223 5e945 Generated table #43@0: 32 keys, 2586 bytes
+2023/04/07-15:10:14.223 5e945 Compacted 1@0 + 1@1 files => 2586 bytes
+2023/04/07-15:10:14.224 5e945 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/07-15:10:14.224 5e945 Delete type=2 #42
+2023/04/07-15:10:14.225 5e945 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 881 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

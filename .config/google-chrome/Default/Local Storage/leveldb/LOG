@@ -1,6 +1,6 @@
-2023/03/27-14:50:27.297 3 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2023/03/27-14:50:27.299 3 Recovering log #34
-2023/03/27-14:50:27.300 3 Reusing old log /home/barbarik/.config/google-chrome/Default/Local Storage/leveldb/000034.log 
-2023/03/27-14:50:41.418 4 Level-0 table #38: started
-2023/03/27-14:50:41.430 4 Level-0 table #38: 21977 bytes OK
-2023/03/27-14:50:41.434 4 Delete type=0 #34
+2023/04/07-15:09:59.359 3 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/04/07-15:09:59.359 3 Recovering log #64
+2023/04/07-15:09:59.361 3 Reusing old log /home/barbarik/.config/google-chrome/Default/Local Storage/leveldb/000064.log 
+2023/04/07-15:11:13.489 4 Level-0 table #69: started
+2023/04/07-15:11:13.502 4 Level-0 table #69: 29204 bytes OK
+2023/04/07-15:11:13.505 4 Delete type=0 #64

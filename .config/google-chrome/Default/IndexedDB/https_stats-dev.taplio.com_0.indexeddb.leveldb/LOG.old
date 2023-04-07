@@ -1,2 +1,14 @@
-2023/03/24-12:44:03.548 30da8 Creating DB /home/barbarik/.config/google-chrome/Default/IndexedDB/https_stats-dev.taplio.com_0.indexeddb.leveldb since it was missing.
-2023/03/24-12:44:03.550 30da8 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_stats-dev.taplio.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/06-16:11:38.534 729aa Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_stats-dev.taplio.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/06-16:11:38.534 729aa Recovering log #33
+2023/04/06-16:11:38.535 729aa Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_stats-dev.taplio.com_0.indexeddb.leveldb/000033.log 
+2023/04/06-16:11:38.535 729aa Delete type=2 #31
+2023/04/06-16:11:38.543 729aa Level-0 table #38: started
+2023/04/06-16:11:38.545 729aa Level-0 table #38: 5968 bytes OK
+2023/04/06-16:11:38.547 729aa Delete type=0 #33
+2023/04/06-16:11:38.547 729ac Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 824 : 1
+2023/04/06-16:11:38.547 729ac Compacting 1@0 + 1@1 files
+2023/04/06-16:11:38.549 729ac Generated table #39@0: 28 keys, 2414 bytes
+2023/04/06-16:11:38.549 729ac Compacted 1@0 + 1@1 files => 2414 bytes
+2023/04/06-16:11:38.550 729ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/06-16:11:38.550 729ac Delete type=2 #38
+2023/04/06-16:11:38.551 729aa Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 824 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

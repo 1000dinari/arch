@@ -1,0 +1,11 @@
+2023/04/03-17:57:45.078 b28 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_app.taplio.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/03-17:57:45.078 b28 Recovering log #3
+2023/04/03-17:57:45.078 b28 Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_app.taplio.com_0.indexeddb.leveldb/000003.log 
+2023/04/03-17:57:45.937 b2b Level-0 table #5: started
+2023/04/03-17:57:45.938 b2b Level-0 table #5: 2328 bytes OK
+2023/04/03-17:57:45.939 b2b Delete type=0 #3
+2023/04/03-17:57:45.939 b29 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/03-18:00:36.352 b29 Level-0 table #7: started
+2023/04/03-18:00:36.353 b29 Level-0 table #7: 1387 bytes OK
+2023/04/03-18:00:36.354 b29 Delete type=0 #4
+2023/04/03-18:00:36.354 b29 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

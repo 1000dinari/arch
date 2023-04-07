@@ -1,6 +1,13 @@
-2023/03/17-17:25:15.506 8b2af Creating DB /home/barbarik/.config/google-chrome/Default/IndexedDB/https_extension-auth.web.app_0.indexeddb.leveldb since it was missing.
-2023/03/17-17:25:15.508 8b2af Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_extension-auth.web.app_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/17-17:25:15.513 8b2af Level-0 table #5: started
-2023/03/17-17:25:15.515 8b2af Level-0 table #5: 1199 bytes OK
-2023/03/17-17:25:15.516 8b2af Delete type=0 #3
-2023/03/17-17:25:15.516 8b2af Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/03-12:32:18.667 2ddbb Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_extension-auth.web.app_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/03-12:32:18.667 2ddbb Recovering log #7
+2023/04/03-12:32:18.668 2ddbb Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_extension-auth.web.app_0.indexeddb.leveldb/000007.log 
+2023/04/03-12:32:18.825 2ddbe Level-0 table #11: started
+2023/04/03-12:32:18.826 2ddbe Level-0 table #11: 1486 bytes OK
+2023/04/03-12:32:18.827 2ddbe Delete type=0 #7
+2023/04/03-12:32:18.827 2ddbb Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 201 : 1
+2023/04/03-12:32:18.827 2ddbb Compacting 1@0 + 1@1 files
+2023/04/03-12:32:18.828 2ddbb Generated table #12@0: 60 keys, 1390 bytes
+2023/04/03-12:32:18.828 2ddbb Compacted 1@0 + 1@1 files => 1390 bytes
+2023/04/03-12:32:18.829 2ddbb compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/03-12:32:18.829 2ddbb Delete type=2 #11
+2023/04/03-12:32:18.829 2ddbe Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 201 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
