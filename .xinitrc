@@ -12,6 +12,8 @@ picom --config ~/.config/picom/picom.conf &
 ~/battery.sh &
 feh --bg-scale --no-fehbg ~/wallpapers/ancient.png &
 
+export _JAVA_AWT_WM_NONREPARENTING=1
+
 while [ "$(cat /sys/class/power_supply/BAT0/capacity)" -le 10 ] && [ "$(cat /sys/class/power_supply/BAT0/status)" = 'Discharging' ]; do
 		notify-send "CONNECT THE FRICKING CHARGER YOU BLITHERING IDIOT"
 		sleep 10s
@@ -27,4 +29,3 @@ exec dwm
 #exec xmonad
 [[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources
 
-export _JAVA_AWT_WM_NONREPARENTING=1

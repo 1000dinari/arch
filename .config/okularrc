@@ -25,10 +25,10 @@ Zoom=100
 ZoomMode=1
 
 [MainWindow]
-1920x1080 screen: Height=1063
-1920x1080 screen: Width=1920
-1920x1080 screen: XPosition=0
-1920x1080 screen: YPosition=17
+1920x1080 screen: Height=1053
+1920x1080 screen: Width=1430
+1920x1080 screen: XPosition=5
+1920x1080 screen: YPosition=22
 Height 768=741
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAQnAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAACIAYQBuAG4AbwB0AGEAdABpAG8AbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
@@ -58,26 +58,26 @@ eDP1 YPosition 1920x1080 eDP1=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/Documents/crossing hurdles/Saurabh Chaudhary Midway Report-digital.pdf
-File10[$e]=$HOME/ch/5PMMetrics.pdf
-File2[$e]=$HOME/amdocs/unix/SaurabhChaudhary_Unix_SBA.pdf
-File3[$e]=$HOME/ch/Recession Proof.pdf
-File4[$e]=$HOME/ch/Personal Brand.pdf
-File5[$e]=$HOME/ch/How to not get Promoted.png
-File6[$e]=$HOME/ch/Top questions to ask interviewer.pdf
-File7[$e]=$HOME/ch/How to not get Promoted.pdf
-File8[$e]=$HOME/amdocs/Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
-File9[$e]=$HOME/SaurabhChaudhary.pdf
-Name1[$e]=Saurabh Chaudhary Midway Report-digital.pdf
-Name10[$e]=5PMMetrics.pdf
-Name2[$e]=SaurabhChaudhary_Unix_SBA.pdf
-Name3[$e]=Recession Proof.pdf
-Name4[$e]=Personal Brand.pdf
-Name5[$e]=How to not get Promoted.png
-Name6[$e]=Top questions to ask interviewer.pdf
-Name7[$e]=How to not get Promoted.pdf
-Name8[$e]=Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
-Name9[$e]=SaurabhChaudhary.pdf
+File1[$e]=$HOME/ch/How to not get Promoted.pdf
+File10[$e]=$HOME/Documents/crossing hurdles/Assessment by Industrial Mentor-20.pdf
+File2[$e]=$HOME/SaurabhChaudhary.pdf
+File3[$e]=$HOME/ch/5PMMetrics.pdf
+File4[$e]=$HOME/khushi/admissionform.pdf
+File5[$e]=$HOME/Downloads/SaurabhChaudhary.pdf
+File6[$e]=$HOME/ch/pmcrashcourse.pdf
+File7[$e]=$HOME/amdocs/Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
+File8[$e]=$HOME/Downloads/Doglapan-Book.pdf
+File9[$e]=$HOME/ch/Top questions to ask interviewer.pdf
+Name1[$e]=How to not get Promoted.pdf
+Name10[$e]=Assessment by Industrial Mentor-20.pdf
+Name2[$e]=SaurabhChaudhary.pdf
+Name3[$e]=5PMMetrics.pdf
+Name4[$e]=admissionform.pdf
+Name5[$e]=SaurabhChaudhary.pdf
+Name6[$e]=pmcrashcourse.pdf
+Name7[$e]=Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
+Name8[$e]=Doglapan-Book.pdf
+Name9[$e]=Top questions to ask interviewer.pdf
 
 [SlideShow]
 PresentationMonitor=0

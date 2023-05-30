@@ -1,3 +1,4 @@
-2023/04/06-16:22:09.762 73af2 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/06-16:22:09.762 73af2 Recovering log #3
-2023/04/06-16:22:09.762 73af2 Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/000003.log 
+2023/05/29-16:07:13.803 5cefb Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/29-16:07:13.803 5cefb Recovering log #14
+2023/05/29-16:07:13.803 5cefb Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/000014.log 
+2023/05/29-16:07:13.803 5cefb Delete type=2 #12

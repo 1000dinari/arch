@@ -1,12 +1,6 @@
-2023/03/18-10:03:55.218 12fd Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/18-10:03:55.219 12fd Recovering log #7
-2023/03/18-10:03:55.231 12fd Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
-2023/03/18-10:04:08.241 12fd Level-0 table #13: started
-2023/03/18-10:04:08.257 12fd Level-0 table #13: 2188021 bytes OK
-2023/03/18-10:04:08.259 12fd Delete type=0 #7
-2023/03/18-10:04:44.651 12fe Compacting 1@1 + 1@2 files
-2023/03/18-10:04:44.656 12fe Generated table #14@1: 188 keys, 264578 bytes
-2023/03/18-10:04:44.656 12fe Compacted 1@1 + 1@2 files => 264578 bytes
-2023/03/18-10:04:44.656 12fe compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/03/18-10:04:44.656 12fe Delete type=2 #10
-2023/03/18-10:04:44.656 12fe Delete type=2 #13
+2023/04/29-14:00:46.876 4055e Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/29-14:00:46.876 4055e Recovering log #12
+2023/04/29-14:00:46.883 4055e Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000012.log 
+2023/04/29-14:01:06.304 4055e Level-0 table #17: started
+2023/04/29-14:01:06.341 4055e Level-0 table #17: 1947913 bytes OK
+2023/04/29-14:01:06.344 4055e Delete type=0 #12

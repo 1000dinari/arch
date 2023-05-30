@@ -1,3 +1,26 @@
-2023/04/06-16:14:42.215 3 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2023/04/06-16:14:42.217 3 Recovering log #64
-2023/04/06-16:14:42.217 3 Reusing old log /home/barbarik/.config/google-chrome/Default/Local Storage/leveldb/000064.log 
+2023/05/29-13:39:06.497 3 Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/05/29-13:39:06.499 3 Recovering log #399
+2023/05/29-13:39:06.501 3 Level-0 table #401: started
+2023/05/29-13:39:06.505 3 Level-0 table #401: 22165 bytes OK
+2023/05/29-13:39:06.507 3 Delete type=0 #399
+2023/05/29-13:50:13.437 3 Level-0 table #404: started
+2023/05/29-13:50:13.440 3 Level-0 table #404: 34311 bytes OK
+2023/05/29-13:50:13.443 3 Delete type=0 #402
+2023/05/29-13:52:14.485 4 Level-0 table #406: started
+2023/05/29-13:52:14.489 4 Level-0 table #406: 39090 bytes OK
+2023/05/29-13:52:14.492 4 Delete type=0 #403
+2023/05/29-13:52:14.493 4 Compacting 4@0 + 1@1 files
+2023/05/29-13:52:14.530 4 Generated table #407@0: 312 keys, 724513 bytes
+2023/05/29-13:52:14.530 4 Compacted 4@0 + 1@1 files => 724513 bytes
+2023/05/29-13:52:14.532 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/29-13:52:14.533 4 Delete type=2 #398
+2023/05/29-13:52:14.533 4 Delete type=2 #401
+2023/05/29-13:52:14.533 4 Delete type=2 #396
+2023/05/29-13:52:14.533 4 Delete type=2 #406
+2023/05/29-13:52:14.533 4 Delete type=2 #404
+2023/05/29-13:52:17.309 4 Level-0 table #409: started
+2023/05/29-13:52:17.323 4 Level-0 table #409: 87462 bytes OK
+2023/05/29-13:52:17.326 4 Delete type=0 #405
+2023/05/29-13:59:56.693 4 Level-0 table #411: started
+2023/05/29-13:59:56.707 4 Level-0 table #411: 80670 bytes OK
+2023/05/29-13:59:56.711 4 Delete type=0 #408
