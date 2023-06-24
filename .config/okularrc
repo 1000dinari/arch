@@ -3,6 +3,10 @@ FullScreen=false
 shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=false
 
+[General]
+LockSidebar=true
+ShowSidebar=false
+
 [Interface]
 ResolutionX=14.1732529
 ResolutionY=14.1732529
@@ -26,12 +30,12 @@ ZoomMode=1
 
 [MainWindow]
 1920x1080 screen: Height=1053
-1920x1080 screen: Width=1430
-1920x1080 screen: XPosition=5
-1920x1080 screen: YPosition=22
+1920x1080 screen: Width=1046
+1920x1080 screen: XPosition=1060
+1920x1080 screen: YPosition=21
 Height 768=741
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAQnAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAACIAYQBuAG4AbwB0AGEAdABpAG8AbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAQAAAAAAAABaAAAEE/wCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAUAAAEEwAAAOEA///+AAAHgAAABCcAAAAEAAAABAAAAAgAAAAI/AAAAAIAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1366=741
 eDP-1 Height 1920x1080=1080
@@ -58,26 +62,26 @@ eDP1 YPosition 1920x1080 eDP1=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/ch/How to not get Promoted.pdf
-File10[$e]=$HOME/Documents/crossing hurdles/Assessment by Industrial Mentor-20.pdf
-File2[$e]=$HOME/SaurabhChaudhary.pdf
-File3[$e]=$HOME/ch/5PMMetrics.pdf
-File4[$e]=$HOME/khushi/admissionform.pdf
-File5[$e]=$HOME/Downloads/SaurabhChaudhary.pdf
-File6[$e]=$HOME/ch/pmcrashcourse.pdf
-File7[$e]=$HOME/amdocs/Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
-File8[$e]=$HOME/Downloads/Doglapan-Book.pdf
-File9[$e]=$HOME/ch/Top questions to ask interviewer.pdf
-Name1[$e]=How to not get Promoted.pdf
-Name10[$e]=Assessment by Industrial Mentor-20.pdf
-Name2[$e]=SaurabhChaudhary.pdf
-Name3[$e]=5PMMetrics.pdf
-Name4[$e]=admissionform.pdf
-Name5[$e]=SaurabhChaudhary.pdf
-Name6[$e]=pmcrashcourse.pdf
-Name7[$e]=Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
-Name8[$e]=Doglapan-Book.pdf
-Name9[$e]=Top questions to ask interviewer.pdf
+File1[$e]=$HOME/Documents/crossing hurdles/Assessment by Industrial mentor-20.docx.pdf
+File10[$e]=$HOME/acad/projectsem/finaldocs/SaurabhChaudhary_Intern_Report_2023.pdf
+File2[$e]=$HOME/acad/projectsem/finaldocs/Reflective Diary of Saurabh Chaudhary.pdf
+File3[$e]=$HOME/acad/projectsem/finaldocs/SaurabhChaudhary Employer 2.3.docx.pdf
+File4[$e]=$HOME/acad/projectsem/finaldocs/Saurabh Chaudhary Assessment by Industrial mentor-20.docx.pdf
+File5[$e]=$HOME/acad/projectsem/finaldocs/Saurabh Chaudhary Midway Report.pdf
+File6[$e]=$HOME/acad/projectsem/finaldocs/Saurabh Chaudhary Graduating student 2.1.pdf
+File7[$e]=$HOME/acad/projectsem/finaldocs/Goals-Report-SaurabhChaudhary.pdf
+File8[$e]=$HOME/acad/projectsem/finaldocs/SaurabhChaudhary_JOINING REPORT.pdf
+File9[$e]=$HOME/acad/projectsem/finaldocs/SaurabhChaudhary-FinalPresentation.pdf
+Name1[$e]=Assessment by Industrial mentor-20.docx.pdf
+Name10[$e]=SaurabhChaudhary_Intern_Report_2023.pdf
+Name2[$e]=Reflective Diary of Saurabh Chaudhary.pdf
+Name3[$e]=SaurabhChaudhary Employer 2.3.docx.pdf
+Name4[$e]=Saurabh Chaudhary Assessment by Industrial mentor-20.docx.pdf
+Name5[$e]=Saurabh Chaudhary Midway Report.pdf
+Name6[$e]=Saurabh Chaudhary Graduating student 2.1.pdf
+Name7[$e]=Goals-Report-SaurabhChaudhary.pdf
+Name8[$e]=SaurabhChaudhary_JOINING REPORT.pdf
+Name9[$e]=SaurabhChaudhary-FinalPresentation.pdf
 
 [SlideShow]
 PresentationMonitor=0

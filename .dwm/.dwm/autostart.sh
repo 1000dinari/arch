@@ -6,7 +6,7 @@ MUS(){
 }
 
 Bat(){
-  Bat="$(acpi -b | awk '{print "⚡" $4}' | sed "s/\,//g")"
+  Bat="$(acpi -b | awk '{print "⚡ " $4}' | sed "s/\,//g")"
   echo "$Bat"
 }
 

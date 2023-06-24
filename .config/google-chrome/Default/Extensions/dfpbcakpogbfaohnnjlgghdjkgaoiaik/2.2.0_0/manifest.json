@@ -1,0 +1,43 @@
+{
+   "action": {
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "/css/root.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "*://*.linkedin.com/*" ]
+   }, {
+      "js": [ "apibridge.js" ],
+      "matches": [ "*://*.taplio.com/*", "http://localhost:3003/*" ]
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_1",
+         "path": "rules.json"
+      } ]
+   },
+   "description": "Supercharge your LinkedIn experience: find post inspirations, consult your stats, get relevant info on people.",
+   "differential_fingerprint": "1.39ef0d04b9b8bea6384f87d3091ac5b80e62cc3d3b0fade48a98822e8209a8e8",
+   "host_permissions": [ "*://*.linkedin.com/", "*://app.taplio.com/*" ],
+   "icons": {
+      "128": "logo_128.png",
+      "16": "logo_16.png",
+      "48": "logo_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvSRbmfDg3uhg0Zz7V8Z0b7qrWfyNfrFmcX2vYC/JkAc2wxTyxdUZN+feXg5d/7WC3uYM+Y5SruOFh5oz/7SEXujafCbOJXrq8Ha3ssUL3DTAFJDIYHPaJ+7nqbdhJj4yrZW8gqO3blQFxtUkwPkFZ7KlB6FEF86wCgddLRqCeVm7i8KYmcjM9DXt1UpQPKJsH1OkaoHa6zx1z04+TB6U9VbMtkT8tmxOrlUH3RGKdtZWxhu+pqr3u6m40b3d/oHg4PDWpCInk0E76oX+5aPbLtpLLBFx9Oln2EQRug73vSrv05sHN7qoBZYsqK8ZUF4pxmlrzJK5B6S/SSru0rdwiwIDAQAB",
+   "manifest_version": 3,
+   "name": "Taplio X",
+   "permissions": [ "storage", "cookies", "webRequest", "declarativeNetRequestWithHostAccess" ],
+   "short_name": "Taplio X",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.0",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.linkedin.com/*", "*://linkedin.com/*" ],
+      "resources": [ "logo_taplio_500.png", "closeicon.png", "logo_48.png", "content-lib/*" ]
+   } ]
+}

@@ -4,7 +4,7 @@ LastMimeType=application/zip
 [ExtractDialog]
 1920x1080 screen: Height=562
 1920x1080 screen: Width=1451
-DirHistory[$e]=$HOME/games/,$HOME/,$HOME/learning/,$HOME/Downloads/,$HOME/acad/dsp/,/tmp/,$HOME/Downloads/resume/,$HOME/maal/movies/Allegiant (2016) [1080p] [YTS.AG]/,$HOME/maal/movies/Insurgent (2015) [1080p]/,$HOME/movies/Aliens Vs. Predator Requiem (2007) [1080p] [BluRay] [5.1] [YTS.MX]/
+DirHistory[$e]=$HOME/maal/tencent/gamedata/,$HOME/games/,$HOME/,$HOME/learning/,$HOME/Downloads/,$HOME/acad/dsp/,/tmp/,$HOME/Downloads/resume/,$HOME/maal/movies/Allegiant (2016) [1080p] [YTS.AG]/,$HOME/maal/movies/Insurgent (2015) [1080p]/
 Height 768=512
 Width 1366=1000
 eDP1 Height 1920x1080=562
@@ -16,8 +16,8 @@ eDP1 Width 1920x1080 eDP1=1451
 AutomaticDetectionLanguage=1
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME/games,file:$HOME/amdocs
-Recent URLs[$e]=file:$HOME/learning/,file:$HOME/acad/,file:///tmp/,file:$HOME/acad/dsp/,file:$HOME/GNS3/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Downloads/,file:$HOME/games/
+Recent Files[$e]=file:$HOME/maal/tencent/gamedata,file:$HOME/maal/tencent/gamedata
+Recent URLs[$e]=file:$HOME/acad/,file:///tmp/,file:$HOME/acad/dsp/,file:$HOME/GNS3/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Downloads/,file:$HOME/games/,file:$HOME/maal/tencent/gamedata/,file:$HOME/maal/tencent/,file:$HOME/maal/
 detailViewIconSize=16
 
 [KTextEditor Document]
@@ -137,12 +137,11 @@ Word Completion Remove Tail=true
 
 [MainWindow]
 1920x1080 screen: Height=1053
-1920x1080 screen: Width=1142
-1920x1080 screen: XPosition=5
-1920x1080 screen: YPosition=22
+1920x1080 screen: Width=1046
+1920x1080 screen: XPosition=4
+1920x1080 screen: YPosition=21
 Height 768=741
-State=AAAA/wAAAAD9AAAAAAAABHYAAAP/AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
-StatusBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABBYAAAPhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=741
 eDP1=eDP1
@@ -158,7 +157,7 @@ eDP1 XPosition 1920x1080 eDP1=5
 eDP1 YPosition=21
 eDP1 YPosition 1920x1080=21
 eDP1 YPosition 1920x1080 eDP1=22
-splitterSizes=760,378
+splitterSizes=696,346
 
 [Open-with settings]
 CompletionMode=1

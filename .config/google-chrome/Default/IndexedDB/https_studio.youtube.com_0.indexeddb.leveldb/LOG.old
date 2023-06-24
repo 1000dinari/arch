@@ -1,14 +1,4 @@
-2023/05/19-11:46:29.061 c85b Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/05/19-11:46:29.061 c85b Recovering log #10
-2023/05/19-11:46:29.062 c85b Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/000010.log 
-2023/05/19-11:46:29.062 c85b Delete type=2 #8
-2023/05/19-11:46:29.067 c868 Level-0 table #15: started
-2023/05/19-11:46:29.068 c868 Level-0 table #15: 1330 bytes OK
-2023/05/19-11:46:29.070 c868 Delete type=0 #10
-2023/05/19-11:46:29.070 c868 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 931 : 1
-2023/05/19-11:46:29.070 c868 Compacting 1@0 + 1@1 files
-2023/05/19-11:46:29.071 c868 Generated table #16@0: 100 keys, 2154 bytes
-2023/05/19-11:46:29.071 c868 Compacted 1@0 + 1@1 files => 2154 bytes
-2023/05/19-11:46:29.071 c868 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/05/19-11:46:29.072 c868 Delete type=2 #15
-2023/05/19-11:46:29.072 c868 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 931 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/29-16:07:13.803 5cefb Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/29-16:07:13.803 5cefb Recovering log #14
+2023/05/29-16:07:13.803 5cefb Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/000014.log 
+2023/05/29-16:07:13.803 5cefb Delete type=2 #12
