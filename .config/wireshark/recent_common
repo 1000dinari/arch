@@ -1,4 +1,4 @@
-# Common recent settings file for Wireshark 3.6.6.
+# Common recent settings file for Wireshark 4.0.6.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -23,10 +23,10 @@ recent.display_filter: arp
 
 # Main window geometry.
 # Decimal numbers.
-gui.geometry_main_x: 0
-gui.geometry_main_y: 17
-gui.geometry_main_width: 1920
-gui.geometry_main_height: 1063
+gui.geometry_main_x: 3
+gui.geometry_main_y: 20
+gui.geometry_main_width: 1046
+gui.geometry_main_height: 1053
 
 # Main window maximized.
 # TRUE or FALSE (case-insensitive).

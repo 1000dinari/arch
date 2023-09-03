@@ -1,16 +1,16 @@
 updateInfoAdded=true
 
 [ark.upd]
-ctime=1672330660
+ctime=1687174892
 done=add-hamburgermenu-to-toolbar
-mtime=1669999417
+mtime=1686081756
 
 [filepicker.upd]
-ctime=1672330660
+ctime=1687174892
 done=filepicker-remove-old-previews-entry
-mtime=1670330716
+mtime=1686821303
 
 [okular.upd]
-ctime=1672330710
+ctime=1687174920
 done=annotation-toolbar,builtin-annotations
-mtime=1669994176
+mtime=1686074410

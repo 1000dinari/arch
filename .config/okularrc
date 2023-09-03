@@ -29,10 +29,10 @@ Zoom=100
 ZoomMode=1
 
 [MainWindow]
-1920x1080 screen: Height=1053
-1920x1080 screen: Width=1046
-1920x1080 screen: XPosition=1060
-1920x1080 screen: YPosition=21
+1920x1080 screen: Height=1063
+1920x1080 screen: Width=1920
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=17
 Height 768=741
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAQAAAAAAAABaAAAEE/wCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAUAAAEEwAAAOEA///+AAAHgAAABCcAAAAEAAAABAAAAAgAAAAI/AAAAAIAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
@@ -62,26 +62,26 @@ eDP1 YPosition 1920x1080 eDP1=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/Documents/crossing hurdles/Assessment by Industrial mentor-20.docx.pdf
-File10[$e]=$HOME/acad/projectsem/finaldocs/SaurabhChaudhary_Intern_Report_2023.pdf
-File2[$e]=$HOME/acad/projectsem/finaldocs/Reflective Diary of Saurabh Chaudhary.pdf
-File3[$e]=$HOME/acad/projectsem/finaldocs/SaurabhChaudhary Employer 2.3.docx.pdf
-File4[$e]=$HOME/acad/projectsem/finaldocs/Saurabh Chaudhary Assessment by Industrial mentor-20.docx.pdf
-File5[$e]=$HOME/acad/projectsem/finaldocs/Saurabh Chaudhary Midway Report.pdf
-File6[$e]=$HOME/acad/projectsem/finaldocs/Saurabh Chaudhary Graduating student 2.1.pdf
-File7[$e]=$HOME/acad/projectsem/finaldocs/Goals-Report-SaurabhChaudhary.pdf
-File8[$e]=$HOME/acad/projectsem/finaldocs/SaurabhChaudhary_JOINING REPORT.pdf
-File9[$e]=$HOME/acad/projectsem/finaldocs/SaurabhChaudhary-FinalPresentation.pdf
-Name1[$e]=Assessment by Industrial mentor-20.docx.pdf
-Name10[$e]=SaurabhChaudhary_Intern_Report_2023.pdf
-Name2[$e]=Reflective Diary of Saurabh Chaudhary.pdf
-Name3[$e]=SaurabhChaudhary Employer 2.3.docx.pdf
-Name4[$e]=Saurabh Chaudhary Assessment by Industrial mentor-20.docx.pdf
-Name5[$e]=Saurabh Chaudhary Midway Report.pdf
-Name6[$e]=Saurabh Chaudhary Graduating student 2.1.pdf
-Name7[$e]=Goals-Report-SaurabhChaudhary.pdf
-Name8[$e]=SaurabhChaudhary_JOINING REPORT.pdf
-Name9[$e]=SaurabhChaudhary-FinalPresentation.pdf
+File1[$e]=$HOME/amdocs/Documents/ProvisionalDegree.pdf
+File10[$e]=$HOME/amdocs/Documents/10th_Marksheet.pdf
+File2[$e]=$HOME/amdocs/Documents/12th_Marksheet.pdf
+File3[$e]=$HOME/amdocs/Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
+File4[$e]=$HOME/amdocs/Documents/Saurabh Chaudhary Dox + BGV Form.pdf
+File5[$e]=$HOME/amdocs/Documents/GradeCard-Sem7.png
+File6[$e]=$HOME/amdocs/Documents/ADHAARCARD.pdf
+File7[$e]=$HOME/amdocs/Documents/Saurabh Chaudhary Document Un-Availability DeclarationV1.pdf
+File8[$e]=$HOME/amdocs/Documents/Saurabh Chaudhary Declaration Form Pune-2023.pdf
+File9[$e]=$HOME/Downloads/Telegram Desktop/Passport.pdf
+Name1[$e]=ProvisionalDegree.pdf
+Name10[$e]=10th_Marksheet.pdf
+Name2[$e]=12th_Marksheet.pdf
+Name3[$e]=Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
+Name4[$e]=Saurabh Chaudhary Dox + BGV Form.pdf
+Name5[$e]=GradeCard-Sem7.png
+Name6[$e]=ADHAARCARD.pdf
+Name7[$e]=Saurabh Chaudhary Document Un-Availability DeclarationV1.pdf
+Name8[$e]=Saurabh Chaudhary Declaration Form Pune-2023.pdf
+Name9[$e]=Passport.pdf
 
 [SlideShow]
 PresentationMonitor=0

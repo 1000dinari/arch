@@ -1,3 +1,3 @@
-2023/04/06-20:51:33.070 2693 Reusing MANIFEST /home/barbarik/.config/Postman/Partitions/b1430902-71a8-4e7d-a80d-76538b1c227d/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2023/04/06-20:51:33.070 2693 Recovering log #9
-2023/04/06-20:51:33.072 2693 Reusing old log /home/barbarik/.config/Postman/Partitions/b1430902-71a8-4e7d-a80d-76538b1c227d/IndexedDB/file__0.indexeddb.leveldb/000009.log 
+2023/06/25-15:07:01.195 bcc3 Reusing MANIFEST /home/barbarik/.config/Postman/Partitions/b1430902-71a8-4e7d-a80d-76538b1c227d/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/06/25-15:07:01.196 bcc3 Recovering log #9
+2023/06/25-15:07:01.201 bcc3 Reusing old log /home/barbarik/.config/Postman/Partitions/b1430902-71a8-4e7d-a80d-76538b1c227d/IndexedDB/file__0.indexeddb.leveldb/000009.log 

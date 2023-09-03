@@ -1,0 +1,9 @@
+{
+    "file": 1,
+    "format": 1
+}{
+    "apply_on_start": true,
+    "settings": {
+        "mixed_mode_algorithm": 0
+    }
+}

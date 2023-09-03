@@ -31,7 +31,7 @@
         56888,
         56888
     ],
-    "listen_random_port": 60953,
+    "listen_random_port": 50429,
     "listen_reuse_port": true,
     "listen_use_sys_port": false,
     "lsd": true,
@@ -81,7 +81,7 @@
         "username": ""
     },
     "queue_new_to_top": false,
-    "random_outgoing_ports": false,
+    "random_outgoing_ports": true,
     "random_port": true,
     "rate_limit_ip_overhead": true,
     "remove_seed_at_ratio": false,
