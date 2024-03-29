@@ -1,1 +1,1 @@
-yay -S  anydesk-bin clementine cloudflare-warp-bin create_ap eagle eclipse-java eovpn exif geda-gaf gfxbench gnome-icon-theme google-chrome gputest hollywood i3lock-fancy-git mdk mininet mps-youtube nouveau-fw orage pcb postman-bin soapui termite tor-browser ubridge vpcs write-good yay zenmap zoom 
+yay -S  anydesk-bin clementine cloudflare-warp-bin create_ap eagle eovpn exif geda-gaf gfxbench gnome-icon-theme google-chrome gputest hollywood i3lock-fancy-git mdk mininet mps-youtube nouveau-fw orage pcb postman-bin termite tor-browser ubridge vpcs write-good yay zenmap zoom 

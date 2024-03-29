@@ -62,26 +62,26 @@ eDP1 YPosition 1920x1080 eDP1=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/amdocs/Documents/ProvisionalDegree.pdf
-File10[$e]=$HOME/amdocs/Documents/10th_Marksheet.pdf
-File2[$e]=$HOME/amdocs/Documents/12th_Marksheet.pdf
-File3[$e]=$HOME/amdocs/Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
-File4[$e]=$HOME/amdocs/Documents/Saurabh Chaudhary Dox + BGV Form.pdf
-File5[$e]=$HOME/amdocs/Documents/GradeCard-Sem7.png
-File6[$e]=$HOME/amdocs/Documents/ADHAARCARD.pdf
-File7[$e]=$HOME/amdocs/Documents/Saurabh Chaudhary Document Un-Availability DeclarationV1.pdf
-File8[$e]=$HOME/amdocs/Documents/Saurabh Chaudhary Declaration Form Pune-2023.pdf
-File9[$e]=$HOME/Downloads/Telegram Desktop/Passport.pdf
-Name1[$e]=ProvisionalDegree.pdf
-Name10[$e]=10th_Marksheet.pdf
-Name2[$e]=12th_Marksheet.pdf
-Name3[$e]=Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
-Name4[$e]=Saurabh Chaudhary Dox + BGV Form.pdf
-Name5[$e]=GradeCard-Sem7.png
-Name6[$e]=ADHAARCARD.pdf
-Name7[$e]=Saurabh Chaudhary Document Un-Availability DeclarationV1.pdf
-Name8[$e]=Saurabh Chaudhary Declaration Form Pune-2023.pdf
-Name9[$e]=Passport.pdf
+File1[$e]=$HOME/Downloads/Telegram Desktop/Passport.pdf
+File10[$e]=$HOME/SaurabhChaudhary_101915205.pdf
+File2[$e]=$HOME/amdocs/Documents/10th_Marksheet.pdf
+File3[$e]=$HOME/amdocs/Documents/GradeCard-Sem7.pdf
+File4[$e]=$HOME/amdocs/Documents/PANCARD.pdf
+File5[$e]=$HOME/windows/Users/saura/Documents/DLappointment.pdf
+File6[$e]=$HOME/Downloads/Souvenir 2023.pdf
+File7[$e]=$HOME/amdocs/Documents/Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
+File8[$e]=$HOME/amdocs/Documents/APPRENTICESHIP CONTRACT REGISTRATION FORM.pdf
+File9[$e]=$HOME/SaurabhChaudhary_STMicroelectronics.pdf
+Name1[$e]=Passport.pdf
+Name10[$e]=SaurabhChaudhary_101915205.pdf
+Name2[$e]=10th_Marksheet.pdf
+Name3[$e]=GradeCard-Sem7.pdf
+Name4[$e]=PANCARD.pdf
+Name5[$e]=DLappointment.pdf
+Name6[$e]=Souvenir 2023.pdf
+Name7[$e]=Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
+Name8[$e]=APPRENTICESHIP CONTRACT REGISTRATION FORM.pdf
+Name9[$e]=SaurabhChaudhary_STMicroelectronics.pdf
 
 [SlideShow]
 PresentationMonitor=0

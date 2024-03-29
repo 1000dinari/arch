@@ -4,6 +4,19 @@
 			"group": 0,
 			"priority": 1
 		},
+		"common": {
+			"name": "New 0",
+			"folder": "\/home\/barbarik",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 1,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		},
 		"category": {
 			"hosts": [
 				".edu",
@@ -20,22 +33,72 @@
 			"active-limit": 3,
 			"finished-limit": 300,
 			"recycled-limit": 300
-		},
-		"common": {
-			"name": "New 0",
-			"folder": "\/home\/barbarik",
-			"connect-timeout": 15,
-			"transmit-timeout": 30,
-			"retry-delay": 6,
-			"retry-limit": 99,
-			"retry-count": 0,
-			"max-connections": 1,
-			"max-upload-speed": 0,
-			"max-download-speed": 0,
-			"timestamp": 1
 		}
 	},
 	"children": [
+		{
+			"info": {
+				"relation": {
+					"group": 4,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 821427893,
+					"total": 4185253131,
+					"elapsed": 162,
+					"uploaded": 0,
+					"percent": 19
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1695901356,
+					"completed-time": 0,
+					"messages": [
+					]
+				},
+				"common": {
+					"name": "Trapped (2016) Hindi 1080p WEB-DL ESub [BollyFlix].mkv",
+					"uri": "https:\/\/s76.desifile.in:182\/d\/wzbq6bottj2a27lrwkgxe6impetwlxzyuc4gph55en2hjudvrx77l5cow5kpg4ggm6bv2gzm\/Trapped%20(2016)%20Hindi%201080p%20WEB-DL%20ESub%20[BollyFlix].mkv",
+					"file": "Trapped (2016) Hindi 1080p WEB-DL ESub [BollyFlix].mkv",
+					"folder": "\/home\/barbarik\/movies",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/barbarik\/movies\/Trapped (2016) Hindi 1080p WEB-DL ESub [BollyFlix].mkv",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/home\/barbarik\/movies\/Trapped (2016) Hindi 1080p WEB-DL ESub [BollyFlix].mkv.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		}
 	]
 }
 
