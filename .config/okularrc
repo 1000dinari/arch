@@ -35,7 +35,6 @@ ZoomMode=1
 1920x1080 screen: YPosition=17
 Height 768=741
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAQAAAAAAAABaAAAEE/wCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAUAAAEEwAAAOEA///+AAAHgAAABCcAAAAEAAAABAAAAAgAAAAI/AAAAAIAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1366=741
 eDP-1 Height 1920x1080=1080
@@ -62,26 +61,26 @@ eDP1 YPosition 1920x1080 eDP1=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Telegram Desktop/Passport.pdf
-File10[$e]=$HOME/SaurabhChaudhary_101915205.pdf
-File2[$e]=$HOME/amdocs/Documents/10th_Marksheet.pdf
-File3[$e]=$HOME/amdocs/Documents/GradeCard-Sem7.pdf
-File4[$e]=$HOME/amdocs/Documents/PANCARD.pdf
-File5[$e]=$HOME/windows/Users/saura/Documents/DLappointment.pdf
-File6[$e]=$HOME/Downloads/Souvenir 2023.pdf
-File7[$e]=$HOME/amdocs/Documents/Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
-File8[$e]=$HOME/amdocs/Documents/APPRENTICESHIP CONTRACT REGISTRATION FORM.pdf
-File9[$e]=$HOME/SaurabhChaudhary_STMicroelectronics.pdf
-Name1[$e]=Passport.pdf
-Name10[$e]=SaurabhChaudhary_101915205.pdf
-Name2[$e]=10th_Marksheet.pdf
-Name3[$e]=GradeCard-Sem7.pdf
-Name4[$e]=PANCARD.pdf
-Name5[$e]=DLappointment.pdf
-Name6[$e]=Souvenir 2023.pdf
-Name7[$e]=Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
-Name8[$e]=APPRENTICESHIP CONTRACT REGISTRATION FORM.pdf
-Name9[$e]=SaurabhChaudhary_STMicroelectronics.pdf
+File1[$e]=$HOME/acad/projectsem/finaldocs/Saurabh Chaudhary Assessment by Industrial mentor-20.docx.pdf
+File10[$e]=$HOME/SaurabhChaudhary-2.pdf
+File2[$e]=$HOME/acad/projectsem/finaldocs/Saurabh Chaudhary Experience Letter.pdf
+File3[$e]=$HOME/acad/projectsem/finaldocs/Reflective Diary of Saurabh Chaudhary.pdf
+File4[$e]=$HOME/acad/projectsem/finaldocs/SaurabhChaudhary_JOINING REPORT.pdf
+File5[$e]=$HOME/amdocs/Documents/Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
+File6[$e]=$HOME/amdocs/Thapar Institute-Siddhant Goyal-7997753 VJ_signed.pdf
+File7[$e]=$HOME/amdocs/Documents/GradeCard-Sem8.pdf
+File8[$e]=$HOME/amdocs/Documents/ProvisionalDegree.pdf
+File9[$e]=$HOME/Downloads/degree.pdf
+Name1[$e]=Saurabh Chaudhary Assessment by Industrial mentor-20.docx.pdf
+Name10[$e]=SaurabhChaudhary-2.pdf
+Name2[$e]=Saurabh Chaudhary Experience Letter.pdf
+Name3[$e]=Reflective Diary of Saurabh Chaudhary.pdf
+Name4[$e]=SaurabhChaudhary_JOINING REPORT.pdf
+Name5[$e]=Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
+Name6[$e]=Thapar Institute-Siddhant Goyal-7997753 VJ_signed.pdf
+Name7[$e]=GradeCard-Sem8.pdf
+Name8[$e]=ProvisionalDegree.pdf
+Name9[$e]=degree.pdf
 
 [SlideShow]
 PresentationMonitor=0

@@ -12,6 +12,10 @@ eDP1 Height 1920x1080 eDP1=562
 eDP1 Width 1920x1080=1451
 eDP1 Width 1920x1080 eDP1=1451
 
+[General]
+LockSidebar=true
+ShowSidebar=true
+
 [HTML Settings]
 AutomaticDetectionLanguage=1
 
@@ -141,7 +145,6 @@ Word Completion Remove Tail=true
 1920x1080 screen: XPosition=5
 1920x1080 screen: YPosition=22
 Height 768=741
-State=AAAA/wAAAAD9AAAAAAAABBYAAAP/AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 Width 1366=741
