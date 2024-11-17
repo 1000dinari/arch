@@ -1,0 +1,100 @@
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:5000/api/todos
+Method: GET
+Request Headers:
+{
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)"
+}
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:5000/api/todos
+Method: POST
+Request Headers:
+{
+  "content-length": "25",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "body":"Learn unix"
+}
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:5000/api/todos
+Method: POST
+Request Headers:
+{
+  "content-length": "28",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "body":"Learn haskell"
+}
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:5000/api/todos
+Method: GET
+Request Headers:
+{
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)"
+}
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:5000/api/todos
+Method: POST
+Request Headers:
+{
+  "content-length": "22",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "body":"Learn C"
+}
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:5000/api/todos
+Method: POST
+Request Headers:
+{
+  "content-length": "24",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "body":"Learn DSA"
+}
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:5000/api/todos
+Method: POST
+Request Headers:
+{
+  "content-length": "25",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "body":"Learn Bash"
+}

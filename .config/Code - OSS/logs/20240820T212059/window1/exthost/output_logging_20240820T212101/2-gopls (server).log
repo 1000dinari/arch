@@ -1,0 +1,25 @@
+[Info  - 21:21:01] 2024/08/20 21:21:01 Created View (#1)
+	directory=/home/barbarik/go/todolist
+	view_type="GoMod"
+	root_dir="file:///home/barbarik/go/todolist"
+	go_version="go version go1.23.0 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/barbarik/.cache/go-build GOMODCACHE:/home/barbarik/go/pkg/mod GOPATH:/home/barbarik/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GoVersion:23 GoVersionOutput:go version go1.23.0 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 21:21:02] 2024/08/20 21:21:01 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/barbarik/go/todolist
+	query=[/home/barbarik/go/todolist/... builtin]
+	packages=2
+	duration=120.991502ms
+
+[Info  - 21:21:31] 2024/08/20 21:21:31 background imports cache refresh starting
+
+[Info  - 21:21:31] 2024/08/20 21:21:31 background refresh finished after 59.303781ms
+
+[Info  - 21:22:20] 2024/08/20 21:22:20 Shutdown session
+	shutdown_session=1
+

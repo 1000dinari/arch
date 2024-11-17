@@ -1,8 +1,0 @@
-2023-01-13 12:35:16.138 [info] Starting worker process with pid 92427 (type: fileWatcher, window: 1).
-2023-01-13 12:35:16.322 [info] Deleted from disk esbenp.prettier-vscode /home/barbarik/.vscode-oss/extensions/esbenp.prettier-vscode-9.9.0-universal
-2023-01-13 12:35:20.640 [info] Getting Manifest... esbenp.prettier-vscode
-2023-01-13 12:35:20.641 [info] Getting Manifest... franneck94.c-cpp-runner
-2023-01-13 12:35:22.653 [info] Installing extension: franneck94.c-cpp-runner
-2023-01-13 12:35:22.717 [info] Installing extension: esbenp.prettier-vscode
-2023-01-13 12:35:23.111 [info] Getting Manifest... vadimcn.vscode-lldb
-2023-01-13 12:35:25.716 [info] Installing extension: vadimcn.vscode-lldb franneck94.c-cpp-runner

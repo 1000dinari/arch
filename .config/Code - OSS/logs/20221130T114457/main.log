@@ -1,9 +1,0 @@
-[2022-11-30 11:44:57.937] [main] [info] update#ctor - updates are disabled as there is no update URL
-[2022-11-30 11:44:59.580] [main] [info] Starting extension host with pid 7685 (fork() took 9 ms).
-[2022-11-30 11:44:59.698] [main] [info] Starting extension host with pid 7701 (fork() took 7 ms).
-[2022-11-30 11:45:10.490] [main] [info] Extension host with pid 7685 exited with code: 0, signal: null.
-[2022-11-30 11:45:29.967] [main] [info] Starting extension host with pid 8763 (fork() took 5 ms).
-[2022-11-30 11:51:56.825] [main] [info] Enabling inspect port on extension host with pid 8763.
-[2022-11-30 12:42:07.805] [main] [info] Extension host with pid 7701 exited with code: 0, signal: null.
-[2022-11-30 12:42:10.051] [main] [info] Waiting for extension host with pid 8763 to exit.
-[2022-11-30 12:42:10.065] [main] [info] Extension host with pid 8763 exited with code: 0, signal: null.

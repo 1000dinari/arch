@@ -1,0 +1,191 @@
+[Info  - 20:59:55] 2024/08/20 20:59:55 Created View (#1)
+	directory=/home/barbarik/go/todolist
+	view_type="GoMod"
+	root_dir="file:///home/barbarik/go/todolist"
+	go_version="go version go1.23.0 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/barbarik/.cache/go-build GOMODCACHE:/home/barbarik/go/pkg/mod GOPATH:/home/barbarik/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GoVersion:23 GoVersionOutput:go version go1.23.0 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 20:59:55] 2024/08/20 20:59:55 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/barbarik/go/todolist
+	query=[/home/barbarik/go/todolist/... builtin]
+	packages=2
+	duration=45.106057ms
+
+[Error - 20:59:55] 2024/08/20 20:59:55 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:1:1: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:59:56] 2024/08/20 20:59:56 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:1:1: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:59:58] 2024/08/20 20:59:58 imports fixes: allImportsFixes: importPrefix: failed to parse: 1:1: expected 'package', found p
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:59:59] 2024/08/20 20:59:59 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:1:9: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:00:00] 2024/08/20 21:00:00 go/packages.Load #2
+	view_id="1"
+	snapshot=10
+	directory=/home/barbarik/go/todolist
+	query=[file=/home/barbarik/go/todolist/main.go]
+	packages=1
+	duration=24.590171ms
+
+[Info  - 21:00:00] 2024/08/20 21:00:00 go/packages.Load #3
+	view_id="1"
+	snapshot=11
+	directory=/home/barbarik/go/todolist
+	query=[file=/home/barbarik/go/todolist/main.go]
+	packages=1
+	duration=15.02927ms
+
+[Info  - 21:00:00] 2024/08/20 21:00:00 go/packages.Load #4
+	view_id="1"
+	snapshot=12
+	directory=/home/barbarik/go/todolist
+	query=[file=/home/barbarik/go/todolist/main.go]
+	packages=1
+	duration=26.09121ms
+
+[Info  - 21:00:00] 2024/08/20 21:00:00 go/packages.Load #5
+	view_id="1"
+	snapshot=12
+	directory=/home/barbarik/go/todolist
+	query=[file=/home/barbarik/go/todolist/main.go]
+	packages=1
+	duration=15.636214ms
+
+[Info  - 21:00:00] 2024/08/20 21:00:00 go/packages.Load #7
+	view_id="1"
+	snapshot=13
+	directory=/home/barbarik/go/todolist
+	query=[file=/home/barbarik/go/todolist/main.go]
+	packages=1
+	duration=124.598293ms
+
+[Info  - 21:00:00] 2024/08/20 21:00:00 go/packages.Load #6
+	view_id="1"
+	snapshot=13
+	directory=/home/barbarik/go/todolist
+	query=[file=/home/barbarik/go/todolist/main.go]
+	packages=1
+	duration=144.262237ms
+
+[Info  - 21:00:25] 2024/08/20 21:00:25 background imports cache refresh starting
+
+[Info  - 21:00:25] 2024/08/20 21:00:25 background refresh finished after 116.48776ms
+
+[Error - 21:01:26] 2024/08/20 21:01:26 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:3:10: expected '(', found newline (and 2 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:01:55] 2024/08/20 21:01:55 background imports cache refresh starting
+
+[Info  - 21:01:55] 2024/08/20 21:01:55 background refresh finished after 4.388168ms
+
+[Info  - 21:04:18] 2024/08/20 21:04:18 go/packages.Load #8
+	view_id="1"
+	snapshot=32
+	directory=/home/barbarik/go/todolist
+	query=[/home/barbarik/go/todolist/... builtin]
+	packages=2
+	duration=51.700598ms
+
+[Error - 21:04:38] Request textDocument/codeAction failed.
+  Message: context canceled
+  Code: 0 
+[Info  - 21:05:08] 2024/08/20 21:05:08 background imports cache refresh starting
+
+[Info  - 21:05:08] 2024/08/20 21:05:08 background refresh finished after 8.148371ms
+
+[Error - 21:05:50] 2024/08/20 21:05:50 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:5:1: expected operand, found '}' (and 3 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:05:57] 2024/08/20 21:05:57 go/packages.Load #10
+	view_id="1"
+	snapshot=66
+	directory=/home/barbarik/go/todolist
+	query=[file=/home/barbarik/go/todolist/main.go]
+	packages=1
+	duration=189.955448ms
+
+[Info  - 21:06:08] 2024/08/20 21:06:08 go/packages.Load #11
+	view_id="1"
+	snapshot=75
+	directory=/home/barbarik/go/todolist
+	query=[file=/home/barbarik/go/todolist/main.go]
+	packages=1
+	duration=214.005573ms
+
+[Info  - 21:06:17] 2024/08/20 21:06:17 background imports cache refresh starting
+
+[Info  - 21:06:17] 2024/08/20 21:06:17 background refresh finished after 2.101343ms
+
+[Info  - 21:06:48] 2024/08/20 21:06:48 background imports cache refresh starting
+
+[Info  - 21:06:48] 2024/08/20 21:06:48 background refresh finished after 5.202927ms
+
+[Info  - 21:07:04] 2024/08/20 21:07:04 go/packages.Load #12
+	view_id="1"
+	snapshot=111
+	directory=/home/barbarik/go/todolist
+	query=[file=/home/barbarik/go/todolist/main.go]
+	packages=1
+	duration=132.47822ms
+
+[Info  - 21:07:04] 2024/08/20 21:07:04 go/packages.Load #13
+	view_id="1"
+	snapshot=111
+	directory=/home/barbarik/go/todolist
+	query=[file=/home/barbarik/go/todolist/main.go]
+	packages=1
+	duration=162.409786ms
+
+[Info  - 21:07:30] 2024/08/20 21:07:30 background imports cache refresh starting
+
+[Info  - 21:07:30] 2024/08/20 21:07:30 background refresh finished after 1.699912ms
+
+[Info  - 21:09:33] 2024/08/20 21:09:33 go/packages.Load #14
+	view_id="1"
+	snapshot=128
+	directory=/home/barbarik/go/todolist
+	query=[/home/barbarik/go/todolist/... builtin]
+	packages=2
+	duration=95.91771ms
+
+[Error - 21:15:29] 2024/08/20 21:15:29 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:16:19: expected '(', found ')' (and 12 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:15:42] 2024/08/20 21:15:42 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:16:23: expected type, found ')'
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:15:47] 2024/08/20 21:15:47 background imports cache refresh starting
+
+[Info  - 21:15:47] 2024/08/20 21:15:47 background refresh finished after 5.148404ms
+
+[Info  - 21:16:20] 2024/08/20 21:16:20 background imports cache refresh starting
+
+[Info  - 21:16:20] 2024/08/20 21:16:20 background refresh finished after 4.696517ms
+
+[Info  - 21:16:51] 2024/08/20 21:16:51 background imports cache refresh starting
+
+[Info  - 21:16:51] 2024/08/20 21:16:51 background refresh finished after 4.660095ms
+
+[Error - 21:17:19] 2024/08/20 21:17:19 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:17:45: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:17:23] 2024/08/20 21:17:23 background imports cache refresh starting
+
+[Info  - 21:17:23] 2024/08/20 21:17:23 background refresh finished after 4.396082ms
+
+[Info  - 21:17:53] 2024/08/20 21:17:53 background imports cache refresh starting
+
+[Info  - 21:17:53] 2024/08/20 21:17:53 background refresh finished after 4.50005ms
+
+[Info  - 21:20:57] 2024/08/20 21:20:57 Shutdown session
+	shutdown_session=1
+

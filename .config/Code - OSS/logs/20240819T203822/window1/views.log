@@ -1,0 +1,14 @@
+2024-08-19 20:38:23.729 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-08-19 20:38:23.729 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-08-19 20:38:23.729 [info] Added views:terminal in terminal
+2024-08-19 20:38:23.729 [info] Added views:outline in workbench.view.explorer
+2024-08-19 20:38:23.729 [info] Added views:workbench.scm in workbench.view.scm
+2024-08-19 20:38:23.729 [info] Added views:workbench.view.search in workbench.view.search
+2024-08-19 20:38:23.729 [info] Added views:timeline in workbench.view.explorer
+2024-08-19 20:38:23.729 [info] Added views:workbench.explorer.openEditorsView,workbench.explorer.fileView in workbench.view.explorer
+2024-08-19 20:38:24.001 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-08-19 20:38:24.860 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-08-19 20:38:25.248 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2024-08-19 20:38:25.260 [info] Added views:go.explorer in workbench.view.explorer
+2024-08-19 20:38:26.018 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-08-19 22:28:14.008 [info] Removed views:workbench.view.testing from workbench.view.extension.test

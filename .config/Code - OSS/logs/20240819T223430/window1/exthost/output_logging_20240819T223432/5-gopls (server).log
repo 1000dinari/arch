@@ -1,0 +1,1216 @@
+[Info  - 22:35:12] 2024/08/19 22:35:12 Created View (#1)
+	directory=/home/barbarik/go/weatherapp
+	view_type="GoMod"
+	root_dir="file:///home/barbarik/go/weatherapp"
+	go_version="go version go1.23.0 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/barbarik/.cache/go-build GOMODCACHE:/home/barbarik/go/pkg/mod GOPATH:/home/barbarik/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GoVersion:23 GoVersionOutput:go version go1.23.0 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 22:35:12] 2024/08/19 22:35:12 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/barbarik/go/weatherapp
+	query=[/home/barbarik/go/weatherapp/... builtin]
+	packages=1
+	duration=13.256741ms
+
+[Info  - 22:35:18] 2024/08/19 22:35:18 go/packages.Load #3
+	view_id="1"
+	snapshot=3
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=16.403654ms
+
+[Error - 22:35:18] 2024/08/19 22:35:18 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:1:1: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:35:19] 2024/08/19 22:35:19 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:1:1: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:35:21] 2024/08/19 22:35:21 go/packages.Load #4
+	view_id="1"
+	snapshot=13
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=15.301518ms
+
+[Info  - 22:35:21] 2024/08/19 22:35:21 go/packages.Load #5
+	view_id="1"
+	snapshot=14
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=12.148642ms
+
+[Info  - 22:35:21] 2024/08/19 22:35:21 go/packages.Load #6
+	view_id="1"
+	snapshot=15
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=25.209772ms
+
+[Info  - 22:35:21] 2024/08/19 22:35:21 go/packages.Load #8
+	view_id="1"
+	snapshot=16
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=55.959712ms
+
+[Info  - 22:35:21] 2024/08/19 22:35:21 go/packages.Load #9
+	view_id="1"
+	snapshot=16
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=56.317265ms
+
+[Info  - 22:35:42] 2024/08/19 22:35:42 background imports cache refresh starting
+
+[Info  - 22:35:42] 2024/08/19 22:35:42 background refresh finished after 34.109865ms
+
+[Info  - 22:37:35] 2024/08/19 22:37:35 background imports cache refresh starting
+
+[Info  - 22:37:35] 2024/08/19 22:37:35 background refresh finished after 4.406501ms
+
+[Error - 22:38:49] 2024/08/19 22:38:49 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:3:6: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:38:51] 2024/08/19 22:38:51 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:3:15: expected type, found newline
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:38:52] 2024/08/19 22:38:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:3:19: expected type, found newline
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:38:56] 2024/08/19 22:38:56 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:3:26: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:39:13] 2024/08/19 22:39:13 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:4:20: expected ';', found ':' (and 3 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:39:13] 2024/08/19 22:39:13 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:4:20: expected ';', found ':' (and 3 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:39:14] 2024/08/19 22:39:14 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:4:20: expected ';', found ':' (and 3 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:39:15] 2024/08/19 22:39:15 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:4:20: expected type, found ':='
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:39:19] 2024/08/19 22:39:19 background imports cache refresh starting
+
+[Info  - 22:39:19] 2024/08/19 22:39:19 background refresh finished after 3.985177ms
+
+[Error - 22:39:20] 2024/08/19 22:39:20 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:4:20: expected type, found ':='
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:39:20] 2024/08/19 22:39:20 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:4:20: expected type, found ':='
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:39:21] 2024/08/19 22:39:21 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:4:20: expected type, found ':='
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:39:22] 2024/08/19 22:39:22 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:4:21: expected type, found ':='
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:39:23] 2024/08/19 22:39:23 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:4:23: expected type, found ':='
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:39:26] 2024/08/19 22:39:26 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:4:23: expected type, found ':='
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:39:57] 2024/08/19 22:39:57 background imports cache refresh starting
+
+[Info  - 22:39:57] 2024/08/19 22:39:57 background refresh finished after 5.647339ms
+
+[Error - 22:40:23] 2024/08/19 22:40:23 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:7:1: expected declaration, found typ
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:40:24] 2024/08/19 22:40:24 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:7:6: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:40:27] 2024/08/19 22:40:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:7:13: expected type, found newline
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:40:28] 2024/08/19 22:40:28 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:7:18: expected type, found newline
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:40:30] 2024/08/19 22:40:30 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:7:24: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:40:51] 2024/08/19 22:40:51 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:10:1: expected '{', found '}' (and 4 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:40:52] 2024/08/19 22:40:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:10:1: expected '{', found '}' (and 4 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:40:52] 2024/08/19 22:40:52 background imports cache refresh starting
+
+[Info  - 22:40:52] 2024/08/19 22:40:52 background refresh finished after 4.37302ms
+
+[Error - 22:40:56] 2024/08/19 22:40:56 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:10:1: expected '{', found '}' (and 4 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:41:27] 2024/08/19 22:41:27 background imports cache refresh starting
+
+[Info  - 22:41:27] 2024/08/19 22:41:27 background refresh finished after 1.757389ms
+
+[Info  - 22:41:59] 2024/08/19 22:41:59 background imports cache refresh starting
+
+[Info  - 22:41:59] 2024/08/19 22:41:59 background refresh finished after 3.902477ms
+
+[Error - 22:42:20] 2024/08/19 22:42:20 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:14:10: expected '(', found newline (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:42:22] 2024/08/19 22:42:22 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:14:19: expected '(', found newline (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:42:29] 2024/08/19 22:42:29 background imports cache refresh starting
+
+[Info  - 22:42:29] 2024/08/19 22:42:29 background refresh finished after 1.530036ms
+
+[Error - 22:42:45] 2024/08/19 22:42:45 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:14:38: expected ')', found '{' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:42:59] 2024/08/19 22:42:59 background imports cache refresh starting
+
+[Info  - 22:42:59] 2024/08/19 22:42:59 background refresh finished after 1.382751ms
+
+[Error - 22:43:11] 2024/08/19 22:43:11 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:15:2: expected 1 expression
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:43:13] 2024/08/19 22:43:13 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:15:2: expected 1 expression
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:43:15] 2024/08/19 22:43:15 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:16:1: expected operand, found '}' (and 3 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:43:21] 2024/08/19 22:43:21 go/packages.Load #10
+	view_id="1"
+	snapshot=310
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=55.630697ms
+
+[Info  - 22:43:32] 2024/08/19 22:43:32 background imports cache refresh starting
+
+[Info  - 22:43:32] 2024/08/19 22:43:32 background refresh finished after 5.000149ms
+
+[Info  - 22:43:52] 2024/08/19 22:43:52 go/packages.Load #11
+	view_id="1"
+	snapshot=329
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=55.852324ms
+
+[Info  - 22:43:57] 2024/08/19 22:43:57 go/packages.Load #12
+	view_id="1"
+	snapshot=330
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=61.071856ms
+
+[Error - 22:44:08] 2024/08/19 22:44:08 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:21:1: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:44:08] 2024/08/19 22:44:08 background imports cache refresh starting
+
+[Info  - 22:44:08] 2024/08/19 22:44:08 background refresh finished after 2.172324ms
+
+[Error - 22:44:11] 2024/08/19 22:44:11 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:21:1: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:44:17] 2024/08/19 22:44:17 go/packages.Load #13
+	view_id="1"
+	snapshot=352
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=58.055905ms
+
+[Info  - 22:44:38] 2024/08/19 22:44:38 background imports cache refresh starting
+
+[Info  - 22:44:38] 2024/08/19 22:44:38 background refresh finished after 4.387ms
+
+[Error - 22:44:54] 2024/08/19 22:44:54 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:23:2: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:45:10] 2024/08/19 22:45:10 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:26:8: expected type, found newline
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:45:19] 2024/08/19 22:45:19 background imports cache refresh starting
+
+[Info  - 22:45:19] 2024/08/19 22:45:19 background refresh finished after 3.862766ms
+
+[Error - 22:45:33] 2024/08/19 22:45:33 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:29:1: expected operand, found '}' (and 3 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:45:35] 2024/08/19 22:45:35 go/packages.Load #14
+	view_id="1"
+	snapshot=412
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=56.757502ms
+
+[Error - 22:45:46] 2024/08/19 22:45:46 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:29:39: expected operand, found ')' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:46:00] 2024/08/19 22:46:00 background imports cache refresh starting
+
+[Info  - 22:46:00] 2024/08/19 22:46:00 background refresh finished after 4.112555ms
+
+[Error - 22:46:01] 2024/08/19 22:46:01 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:29:23: expected operand, found ',' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:46:32] 2024/08/19 22:46:32 background imports cache refresh starting
+
+[Info  - 22:46:32] 2024/08/19 22:46:32 background refresh finished after 4.870537ms
+
+[Error - 22:46:39] 2024/08/19 22:46:39 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:31:1: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:46:41] 2024/08/19 22:46:41 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:30:8: expected ';', found '!' (and 6 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 22:46:41] 2024/08/19 22:46:41 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:31:1: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:47:06] 2024/08/19 22:47:06 background imports cache refresh starting
+
+[Info  - 22:47:06] 2024/08/19 22:47:06 background refresh finished after 1.844654ms
+
+[Info  - 22:47:39] 2024/08/19 22:47:39 background imports cache refresh starting
+
+[Info  - 22:47:39] 2024/08/19 22:47:39 background refresh finished after 4.804949ms
+
+[Info  - 22:47:41] 2024/08/19 22:47:41 go/packages.Load #15
+	view_id="1"
+	snapshot=466
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=52.082245ms
+
+[Info  - 22:47:41] 2024/08/19 22:47:41 go/packages.Load #16
+	view_id="1"
+	snapshot=470
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=63.859575ms
+
+[Error - 22:47:54] 2024/08/19 22:47:54 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:35:10: expected '(', found newline (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 22:48:06] 2024/08/19 22:48:06 go/packages.Load #17
+	view_id="1"
+	snapshot=491
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=83.334461ms
+
+[Info  - 22:48:11] 2024/08/19 22:48:11 background imports cache refresh starting
+
+[Info  - 22:48:11] 2024/08/19 22:48:11 background refresh finished after 4.405335ms
+
+[Info  - 22:48:41] 2024/08/19 22:48:41 background imports cache refresh starting
+
+[Info  - 22:48:41] 2024/08/19 22:48:41 background refresh finished after 4.238317ms
+
+[Info  - 22:55:29] 2024/08/19 22:55:29 background imports cache refresh starting
+
+[Info  - 22:55:29] 2024/08/19 22:55:29 background refresh finished after 2.995092ms
+
+[Info  - 22:56:15] 2024/08/19 22:56:15 background imports cache refresh starting
+
+[Info  - 22:56:15] 2024/08/19 22:56:15 background refresh finished after 3.863274ms
+
+[Info  - 23:04:14] 2024/08/19 23:04:14 background imports cache refresh starting
+
+[Info  - 23:04:14] 2024/08/19 23:04:14 background refresh finished after 3.974627ms
+
+[Error - 23:04:47] 2024/08/19 23:04:47 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:40:1: expected '(', found ')' (and 11 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:04:47] 2024/08/19 23:04:47 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:8: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:04:49] 2024/08/19 23:04:49 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:10: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:04:51] 2024/08/19 23:04:51 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:11: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:04:51] 2024/08/19 23:04:51 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:13: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:04:52] 2024/08/19 23:04:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:14: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:04:52] 2024/08/19 23:04:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:16: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:04:53] 2024/08/19 23:04:53 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:19: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:04:55] 2024/08/19 23:04:55 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:29: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:05:02] 2024/08/19 23:05:02 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:31: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:05:09] 2024/08/19 23:05:09 background imports cache refresh starting
+
+[Info  - 23:05:09] 2024/08/19 23:05:09 background refresh finished after 4.348309ms
+
+[Error - 23:05:39] 2024/08/19 23:05:39 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:32: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:05:40] 2024/08/19 23:05:40 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:31: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:05:48] 2024/08/19 23:05:48 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:30: mixed named and unnamed parameters (and 1 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:05:48] 2024/08/19 23:05:48 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:33: expected type, found ')' (and 1 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:05:49] 2024/08/19 23:05:49 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:39: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:05:50] 2024/08/19 23:05:50 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:38: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:05:50] 2024/08/19 23:05:50 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:40: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:05:56] 2024/08/19 23:05:56 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:42: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:05:56] 2024/08/19 23:05:56 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:46: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:01] 2024/08/19 23:06:01 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:46: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:02] 2024/08/19 23:06:02 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:45: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:03] 2024/08/19 23:06:03 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:46: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:04] 2024/08/19 23:06:04 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:46: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:04] 2024/08/19 23:06:04 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:46: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:06] 2024/08/19 23:06:06 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:39:48: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:06] 2024/08/19 23:06:06 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:06:18] 2024/08/19 23:06:18 background imports cache refresh starting
+
+[Info  - 23:06:18] 2024/08/19 23:06:18 background refresh finished after 3.645518ms
+
+[Error - 23:06:22] 2024/08/19 23:06:22 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:23] 2024/08/19 23:06:23 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:24] 2024/08/19 23:06:24 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:2: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:26] 2024/08/19 23:06:26 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:27] 2024/08/19 23:06:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:27] 2024/08/19 23:06:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:28] 2024/08/19 23:06:28 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:31] 2024/08/19 23:06:31 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:34] 2024/08/19 23:06:34 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:06:35] 2024/08/19 23:06:35 go/packages.Load #18
+	view_id="1"
+	snapshot=638
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=108.413221ms
+
+[Info  - 23:06:35] 2024/08/19 23:06:35 go/packages.Load #19
+	view_id="1"
+	snapshot=638
+	directory=/home/barbarik/go/weatherapp
+	query=[file=/home/barbarik/go/weatherapp/main.go]
+	packages=1
+	duration=106.183916ms
+
+[Error - 23:06:35] 2024/08/19 23:06:35 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:37] 2024/08/19 23:06:37 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:37] 2024/08/19 23:06:37 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:38] 2024/08/19 23:06:38 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:39] 2024/08/19 23:06:39 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:40] 2024/08/19 23:06:40 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:40] 2024/08/19 23:06:40 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:06:52] 2024/08/19 23:06:52 background imports cache refresh starting
+
+[Info  - 23:06:52] 2024/08/19 23:06:52 background refresh finished after 3.98889ms
+
+[Error - 23:06:55] 2024/08/19 23:06:55 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:56] 2024/08/19 23:06:56 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:56] 2024/08/19 23:06:56 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:06:57] 2024/08/19 23:06:57 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:04] 2024/08/19 23:07:04 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:04] 2024/08/19 23:07:04 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:05] 2024/08/19 23:07:05 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:41:46: expected operand, found ']' (and 1 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:05] 2024/08/19 23:07:05 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:07] 2024/08/19 23:07:07 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:12] 2024/08/19 23:07:12 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:13] 2024/08/19 23:07:13 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:14] 2024/08/19 23:07:14 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:14] 2024/08/19 23:07:14 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:19] 2024/08/19 23:07:19 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:19] 2024/08/19 23:07:19 signature help failed: cannot get type for Fun *ast.Ident (query)
+	position=41:8
+
+[Error - 23:07:19] 2024/08/19 23:07:19 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:20] 2024/08/19 23:07:20 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:07:48] 2024/08/19 23:07:48 background imports cache refresh starting
+
+[Error - 23:07:48] 2024/08/19 23:07:48 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:13: missing ',' before newline in argument list (and 1 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:07:48] 2024/08/19 23:07:48 background refresh finished after 4.527564ms
+
+[Error - 23:07:52] 2024/08/19 23:07:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:42:13: missing ',' before newline in argument list (and 1 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:53] 2024/08/19 23:07:53 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:55] 2024/08/19 23:07:55 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:56] 2024/08/19 23:07:56 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:57] 2024/08/19 23:07:57 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:07:59] 2024/08/19 23:07:59 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:08] 2024/08/19 23:08:08 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:08] 2024/08/19 23:08:08 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:09] 2024/08/19 23:08:09 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:09] 2024/08/19 23:08:09 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:44:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:10] 2024/08/19 23:08:10 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:44:2: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:11] 2024/08/19 23:08:11 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:44:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:12] 2024/08/19 23:08:12 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:43:9: expected ';', found '!' (and 10 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:13] 2024/08/19 23:08:13 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:44:2: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:14] 2024/08/19 23:08:14 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:44:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:14] 2024/08/19 23:08:14 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:44:2: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:15] 2024/08/19 23:08:15 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:44:2: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:15] 2024/08/19 23:08:15 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:44:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:16] 2024/08/19 23:08:16 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:44:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:16] 2024/08/19 23:08:16 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:44:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:17] 2024/08/19 23:08:17 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:08:26] 2024/08/19 23:08:26 background imports cache refresh starting
+
+[Info  - 23:08:26] 2024/08/19 23:08:26 background refresh finished after 3.987417ms
+
+[Error - 23:08:29] 2024/08/19 23:08:29 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:32] 2024/08/19 23:08:32 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:32] 2024/08/19 23:08:32 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:34] 2024/08/19 23:08:34 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:35] 2024/08/19 23:08:35 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:37] 2024/08/19 23:08:37 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:38] 2024/08/19 23:08:38 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:41] 2024/08/19 23:08:41 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:41] 2024/08/19 23:08:41 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:41] 2024/08/19 23:08:41 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:46] 2024/08/19 23:08:46 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:49] 2024/08/19 23:08:49 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:57] 2024/08/19 23:08:57 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:08:58] 2024/08/19 23:08:58 background imports cache refresh starting
+
+[Info  - 23:08:58] 2024/08/19 23:08:58 background refresh finished after 3.617505ms
+
+[Error - 23:08:58] 2024/08/19 23:08:58 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:08:59] 2024/08/19 23:08:59 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:00] 2024/08/19 23:09:00 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:01] 2024/08/19 23:09:01 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:02] 2024/08/19 23:09:02 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:03] 2024/08/19 23:09:03 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:05] 2024/08/19 23:09:05 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:05] 2024/08/19 23:09:05 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:09] 2024/08/19 23:09:09 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:46:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:10] 2024/08/19 23:09:10 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:47:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:27] 2024/08/19 23:09:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:47:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:09:28] 2024/08/19 23:09:28 background imports cache refresh starting
+
+[Info  - 23:09:28] 2024/08/19 23:09:28 background refresh finished after 4.000762ms
+
+[Error - 23:09:38] 2024/08/19 23:09:38 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:47:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:45] 2024/08/19 23:09:45 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:47:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:45] 2024/08/19 23:09:45 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:48] 2024/08/19 23:09:48 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:49] 2024/08/19 23:09:49 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:49] 2024/08/19 23:09:49 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:52] 2024/08/19 23:09:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:54] 2024/08/19 23:09:54 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:09:55] 2024/08/19 23:09:55 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:17] 2024/08/19 23:10:17 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:10:18] 2024/08/19 23:10:18 background imports cache refresh starting
+
+[Info  - 23:10:18] 2024/08/19 23:10:18 background refresh finished after 2.726361ms
+
+[Error - 23:10:19] 2024/08/19 23:10:19 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:19] 2024/08/19 23:10:19 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:20] 2024/08/19 23:10:20 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:22] 2024/08/19 23:10:22 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:23] 2024/08/19 23:10:23 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:25] 2024/08/19 23:10:25 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:27] 2024/08/19 23:10:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:27] 2024/08/19 23:10:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:28] 2024/08/19 23:10:28 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:29] 2024/08/19 23:10:29 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:29] 2024/08/19 23:10:29 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:31] 2024/08/19 23:10:31 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:38] 2024/08/19 23:10:38 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:39] 2024/08/19 23:10:39 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:41] 2024/08/19 23:10:41 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:45] 2024/08/19 23:10:45 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:46] 2024/08/19 23:10:46 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:46] 2024/08/19 23:10:46 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:47] 2024/08/19 23:10:47 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:10:47] 2024/08/19 23:10:47 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:10] 2024/08/19 23:11:10 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:14] 2024/08/19 23:11:14 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:19] 2024/08/19 23:11:19 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:22] 2024/08/19 23:11:22 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:22] 2024/08/19 23:11:22 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:23] 2024/08/19 23:11:23 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:23] 2024/08/19 23:11:23 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:28] 2024/08/19 23:11:28 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:28] 2024/08/19 23:11:28 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:29] 2024/08/19 23:11:29 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:30] 2024/08/19 23:11:30 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:48:19: expected operand, found 'ILLEGAL' (and 10 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:31] 2024/08/19 23:11:31 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:31] 2024/08/19 23:11:31 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:33] 2024/08/19 23:11:33 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:34] 2024/08/19 23:11:34 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:35] 2024/08/19 23:11:35 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:36] 2024/08/19 23:11:36 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:38] 2024/08/19 23:11:38 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:11:39] 2024/08/19 23:11:39 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:11:51] 2024/08/19 23:11:51 background imports cache refresh starting
+
+[Info  - 23:11:51] 2024/08/19 23:11:51 background refresh finished after 3.732124ms
+
+[Error - 23:11:52] 2024/08/19 23:11:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:49:3: missing ',' before newline in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:12:23] 2024/08/19 23:12:23 background imports cache refresh starting
+
+[Info  - 23:12:23] 2024/08/19 23:12:23 background refresh finished after 3.78386ms
+
+[Error - 23:12:54] 2024/08/19 23:12:54 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:53:8: expected '(', found newline (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:12:55] 2024/08/19 23:12:55 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:53:9: expected '(', found newline (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:12:55] 2024/08/19 23:12:55 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:53:11: expected '(', found newline (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:13:19] 2024/08/19 23:13:19 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:53:35: mixed named and unnamed parameters
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:13:19] 2024/08/19 23:13:19 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:53:38: expected type, found ')'
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:13:21] 2024/08/19 23:13:21 background imports cache refresh starting
+
+[Info  - 23:13:21] 2024/08/19 23:13:21 background refresh finished after 3.678194ms
+
+[Error - 23:13:35] 2024/08/19 23:13:35 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:54:12: expected type, found ')'
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:13:36] 2024/08/19 23:13:36 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:54:12: expected type, found ')'
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:13:44] 2024/08/19 23:13:44 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:54:16: missing ',' in argument list (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:13:46] 2024/08/19 23:13:46 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:54:16: missing ',' in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:13:47] 2024/08/19 23:13:47 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:54:16: missing ',' in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:13:50] 2024/08/19 23:13:50 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:54:16: missing ',' in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:13:51] 2024/08/19 23:13:51 background imports cache refresh starting
+
+[Info  - 23:13:51] 2024/08/19 23:13:51 background refresh finished after 3.532827ms
+
+[Error - 23:14:11] 2024/08/19 23:14:11 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:54:17: string literal not terminated (and 9 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:14:25] 2024/08/19 23:14:25 background imports cache refresh starting
+
+[Info  - 23:14:25] 2024/08/19 23:14:25 background refresh finished after 1.353878ms
+
+[Error - 23:14:28] 2024/08/19 23:14:28 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:57:6: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:14:29] 2024/08/19 23:14:29 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:57:11: expected '(', found newline (and 2 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:14:58] 2024/08/19 23:14:58 background imports cache refresh starting
+
+[Info  - 23:14:58] 2024/08/19 23:14:58 background refresh finished after 3.971288ms
+
+[Error - 23:15:05] 2024/08/19 23:15:05 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:57:26: expected ')', found '{' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:15:34] 2024/08/19 23:15:34 background imports cache refresh starting
+
+[Info  - 23:15:34] 2024/08/19 23:15:34 background refresh finished after 3.806821ms
+
+[Info  - 23:16:11] 2024/08/19 23:16:11 background imports cache refresh starting
+
+[Info  - 23:16:11] 2024/08/19 23:16:11 background refresh finished after 1.322508ms
+
+[Error - 23:16:22] 2024/08/19 23:16:22 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:58:2: expected 1 expression (and 4 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:16:23] 2024/08/19 23:16:23 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:58:2: expected 1 expression
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:16:25] 2024/08/19 23:16:25 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:59:1: expected operand, found '}' (and 3 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:16:48] 2024/08/19 23:16:48 background imports cache refresh starting
+
+[Info  - 23:16:48] 2024/08/19 23:16:48 background refresh finished after 4.10295ms
+
+[Error - 23:16:58] 2024/08/19 23:16:58 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:60:1: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:16:59] 2024/08/19 23:16:59 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:59:5: expected operand, found ')' (and 8 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:16:59] 2024/08/19 23:16:59 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:60:1: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:17:00] 2024/08/19 23:17:00 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:60:1: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:17:02] 2024/08/19 23:17:02 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:59:8: expected ';', found '!' (and 6 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:17:02] 2024/08/19 23:17:02 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:60:1: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:17:19] 2024/08/19 23:17:19 background imports cache refresh starting
+
+[Info  - 23:17:19] 2024/08/19 23:17:19 background refresh finished after 3.651006ms
+
+[Error - 23:17:39] 2024/08/19 23:17:39 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:61:2: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:18:05] 2024/08/19 23:18:05 background imports cache refresh starting
+
+[Info  - 23:18:05] 2024/08/19 23:18:05 background refresh finished after 3.26419ms
+
+[Info  - 23:18:44] 2024/08/19 23:18:44 background imports cache refresh starting
+
+[Info  - 23:18:44] 2024/08/19 23:18:44 background refresh finished after 3.459188ms
+
+[Info  - 23:19:14] 2024/08/19 23:19:14 background imports cache refresh starting
+
+[Info  - 23:19:14] 2024/08/19 23:19:14 background refresh finished after 4.242756ms
+
+[Info  - 23:19:44] 2024/08/19 23:19:44 background imports cache refresh starting
+
+[Info  - 23:19:44] 2024/08/19 23:19:44 background refresh finished after 3.48955ms
+
+[Error - 23:20:07] 2024/08/19 23:20:07 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:68: missing ',' in argument list (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:08] 2024/08/19 23:20:08 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: missing ',' in argument list (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:09] 2024/08/19 23:20:09 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:68: expected operand, found '%' (and 6 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:10] 2024/08/19 23:20:10 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: expected operand, found '%' (and 6 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:10] 2024/08/19 23:20:10 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: expected operand, found '%' (and 6 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:10] 2024/08/19 23:20:10 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: expected operand, found '%' (and 6 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:11] 2024/08/19 23:20:11 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:13] 2024/08/19 23:20:13 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:20:15] 2024/08/19 23:20:15 background imports cache refresh starting
+
+[Info  - 23:20:15] 2024/08/19 23:20:15 background refresh finished after 3.935408ms
+
+[Error - 23:20:15] 2024/08/19 23:20:15 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:16] 2024/08/19 23:20:16 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:16] 2024/08/19 23:20:16 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:17] 2024/08/19 23:20:17 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:18] 2024/08/19 23:20:18 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:19] 2024/08/19 23:20:19 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:19] 2024/08/19 23:20:19 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:69: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:20] 2024/08/19 23:20:20 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:70: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:20] 2024/08/19 23:20:20 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:100: missing ',' in argument list (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:21] 2024/08/19 23:20:21 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:100: missing ',' in argument list (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:22] 2024/08/19 23:20:22 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:100: missing ',' in argument list (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:24] 2024/08/19 23:20:24 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:100: missing ',' in argument list (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:25] 2024/08/19 23:20:25 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:100: missing ',' in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:26] 2024/08/19 23:20:26 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:100: missing ',' in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:27] 2024/08/19 23:20:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:100: missing ',' in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:27] 2024/08/19 23:20:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:101: missing ',' in argument list
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:51] 2024/08/19 23:20:51 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:102: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:52] 2024/08/19 23:20:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:102: string literal not terminated (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:52] 2024/08/19 23:20:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:103: expected operand, found ')' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:52] 2024/08/19 23:20:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:103: expected operand, found ')' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:53] 2024/08/19 23:20:53 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:102: expected operand, found ')' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:20:53] 2024/08/19 23:20:53 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:101: expected operand, found ')' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:20:58] 2024/08/19 23:20:58 background imports cache refresh starting
+
+[Info  - 23:20:58] 2024/08/19 23:20:58 background refresh finished after 3.779615ms
+
+[Error - 23:21:27] 2024/08/19 23:21:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:101: expected operand, found ')' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:21:27] 2024/08/19 23:21:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:102: expected operand, found ')' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:21:41] 2024/08/19 23:21:41 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:109: expected operand, found ')' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:21:57] 2024/08/19 23:21:57 background imports cache refresh starting
+
+[Info  - 23:21:57] 2024/08/19 23:21:57 background refresh finished after 1.537456ms
+
+[Error - 23:24:48] 2024/08/19 23:24:48 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:66:1: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:24:49] 2024/08/19 23:24:49 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:64:8: expected ';', found '!' (and 6 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:24:49] 2024/08/19 23:24:49 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:66:1: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:25:05] 2024/08/19 23:25:05 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:66:2: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:25:11] 2024/08/19 23:25:11 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:66:2: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:25:17] 2024/08/19 23:25:17 background imports cache refresh starting
+
+[Info  - 23:25:17] 2024/08/19 23:25:17 background refresh finished after 4.800841ms
+
+[Error - 23:25:26] 2024/08/19 23:25:26 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:68:12: expression in defer must be function call
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:25:28] 2024/08/19 23:25:28 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:68:14: expression in defer must be function call
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:25:29] 2024/08/19 23:25:29 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:68:17: expression in defer must be function call
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:25:30] 2024/08/19 23:25:30 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:68:14: expression in defer must be function call
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:25:31] 2024/08/19 23:25:31 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:68:17: expression in defer must be function call
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:25:48] 2024/08/19 23:25:48 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:68:19: expression in defer must be function call
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:25:49] 2024/08/19 23:25:49 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:68:23: expression in defer must be function call
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:25:55] 2024/08/19 23:25:55 background imports cache refresh starting
+
+[Info  - 23:25:55] 2024/08/19 23:25:55 background refresh finished after 4.069467ms
+
+[Error - 23:26:00] 2024/08/19 23:26:00 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:69:8: expected type, found newline
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:26:24] 2024/08/19 23:26:24 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:7: expected ';', found http
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:26:26] 2024/08/19 23:26:26 background imports cache refresh starting
+
+[Info  - 23:26:26] 2024/08/19 23:26:26 background refresh finished after 2.007087ms
+
+[Error - 23:26:26] 2024/08/19 23:26:26 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:2: expected 1 expression
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:26:27] 2024/08/19 23:26:27 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:2: expected 1 expression (and 1 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:26:28] 2024/08/19 23:26:28 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:2: expected 1 expression (and 1 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:26:28] 2024/08/19 23:26:28 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:2: expected 1 expression (and 1 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:26:29] 2024/08/19 23:26:29 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:63:2: expected 1 expression
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:27:00] 2024/08/19 23:27:00 background imports cache refresh starting
+
+[Info  - 23:27:00] 2024/08/19 23:27:00 background refresh finished after 5.210724ms
+
+[Info  - 23:27:33] 2024/08/19 23:27:33 background imports cache refresh starting
+
+[Info  - 23:27:33] 2024/08/19 23:27:33 background refresh finished after 4.180215ms
+
+[Error - 23:27:33] 2024/08/19 23:27:33 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:70:9: expected ';', found json (and 6 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:27:33] 2024/08/19 23:27:33 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:70:9: illegal label declaration (and 7 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:27:33] 2024/08/19 23:27:33 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:72:1: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:27:34] 2024/08/19 23:27:34 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:72:1: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:27:35] 2024/08/19 23:27:35 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:72:1: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:27:36] 2024/08/19 23:27:36 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:72:1: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:27:40] 2024/08/19 23:27:40 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:72:1: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Error - 23:27:52] 2024/08/19 23:27:52 imports fixes: allImportsFixes: /home/barbarik/go/weatherapp/main.go:72:2: expected operand, found '}' (and 5 more errors)
+	file="/home/barbarik/go/weatherapp/main.go"
+
+[Info  - 23:28:06] 2024/08/19 23:28:06 background imports cache refresh starting
+
+[Info  - 23:28:06] 2024/08/19 23:28:06 background refresh finished after 4.170584ms
+
+[Info  - 23:28:36] 2024/08/19 23:28:36 background imports cache refresh starting
+
+[Info  - 23:28:36] 2024/08/19 23:28:36 background refresh finished after 3.773486ms
+
+[Info  - 23:30:22] 2024/08/19 23:30:22 background imports cache refresh starting
+
+[Info  - 23:30:22] 2024/08/19 23:30:22 background refresh finished after 4.249495ms
+
+[Info  - 23:32:42] 2024/08/19 23:32:42 background imports cache refresh starting
+
+[Info  - 23:32:42] 2024/08/19 23:32:42 background refresh finished after 4.09807ms
+
+[Info  - 23:38:15] 2024/08/19 23:38:15 Shutdown session
+	shutdown_session=1
+

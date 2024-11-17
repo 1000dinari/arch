@@ -1,0 +1,31 @@
+2024-08-25 18:13:01.339 [info] Try to start language server - activation (enabled: true)
+2024-08-25 18:13:01.399 [info] Running language server gopls(v0.16.1/go1.23.0)
+2024-08-25 18:51:47.829 [info] Running checks...
+2024-08-25 18:51:47.829 [info] Starting linting the current package at /home/barbarik/go/todolist
+2024-08-25 18:51:53.690 [info] /home/barbarik/go/todolist>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-25 18:51:53.690 [info] /home/barbarik/go/todolist/main.go:21:5 var collection is unused (U1000)
+2024-08-25 18:51:53.690 [info] 
+2024-08-25 19:12:50.555 [info] Running checks...
+2024-08-25 19:12:50.555 [info] Starting linting the current package at /home/barbarik/go/todolist
+2024-08-25 19:12:52.248 [info] /home/barbarik/go/todolist>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-25 19:12:52.248 [info] 
+2024-08-25 19:25:12.686 [info] Running checks...
+2024-08-25 19:25:12.686 [info] Starting linting the current package at /home/barbarik/go/todolist
+2024-08-25 19:25:12.993 [info] /home/barbarik/go/todolist>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-25 19:25:12.993 [info] 
+2024-08-25 19:34:55.427 [info] Running checks...
+2024-08-25 19:34:55.427 [info] Starting linting the current package at /home/barbarik/go/todolist
+2024-08-25 19:34:55.727 [info] /home/barbarik/go/todolist>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-25 19:34:55.727 [info] 
+2024-08-25 19:43:37.492 [info] Running checks...
+2024-08-25 19:43:37.492 [info] Starting linting the current package at /home/barbarik/go/todolist
+2024-08-25 19:43:37.783 [info] /home/barbarik/go/todolist>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-25 19:43:37.783 [info] 
+2024-08-25 19:46:19.055 [info] Running checks...
+2024-08-25 19:46:19.055 [info] Starting linting the current package at /home/barbarik/go/todolist
+2024-08-25 19:46:19.350 [info] /home/barbarik/go/todolist>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-25 19:46:19.350 [info] 
+2024-08-25 19:47:05.991 [info] Running checks...
+2024-08-25 19:47:05.991 [info] Starting linting the current package at /home/barbarik/go/todolist
+2024-08-25 19:47:06.282 [info] /home/barbarik/go/todolist>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-25 19:47:06.282 [info] 

@@ -1,0 +1,19 @@
+file:///home/barbarik/go/digitalwallet/internal/handlers/api.go {"mtime":1723983706312,"ctime":1723983500166,"size":216,"etag":"3cr91gsmm6u","orphaned":false,"typeId":""}
+package handlers
+
+import import(
+	"encoding/json"
+	"net/http"
+	"github.com/go-chi/chi"
+	chimiddle "github.com/go-chi/chi/middleware"
+	"github.com/1000dinari/"
+
+)
+
+func Handler(r *chi.Mux){
+	//GLobal middleware
+	r.Use(chimiddle.StripSlashes)
+	r.Route("/account", func(router chi.Router) {
+		router.Use(middleware.Authorization)
+	})
+}

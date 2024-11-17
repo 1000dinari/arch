@@ -1,0 +1,15 @@
+2024-08-25 18:13:00.064 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-08-25 18:13:00.064 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-08-25 18:13:00.064 [info] Added views:terminal in terminal
+2024-08-25 18:13:00.064 [info] Added views:outline in workbench.view.explorer
+2024-08-25 18:13:00.064 [info] Added views:workbench.scm in workbench.view.scm
+2024-08-25 18:13:00.064 [info] Added views:workbench.view.search in workbench.view.search
+2024-08-25 18:13:00.064 [info] Added views:timeline in workbench.view.explorer
+2024-08-25 18:13:00.064 [info] Added views:workbench.explorer.openEditorsView,workbench.explorer.fileView in workbench.view.explorer
+2024-08-25 18:13:00.308 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-08-25 18:13:00.817 [info] Added views:thunder-client-sidebar in workbench.view.extension.thunder-client
+2024-08-25 18:13:01.115 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-08-25 18:13:01.453 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2024-08-25 18:13:01.465 [info] Added views:go.explorer in workbench.view.explorer
+2024-08-25 18:13:01.718 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-08-25 19:50:48.992 [info] Removed views:workbench.view.testing from workbench.view.extension.test

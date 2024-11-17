@@ -1,0 +1,3 @@
+PORT=5000
+MONGODB_URI=mongodb+srv://saurabhkinha:1PTjpTzaP3b2PtPo@cluster0.ihe58.mongodb.net/golang_db?retryWrites=true&w=majority&appName=Cluster0
+ENV=development

@@ -1,0 +1,16 @@
+2024-08-20 21:18:11.870 [info] Getting Manifest... postman.postman-for-vscode
+2024-08-20 21:18:12.128 [info] Installing extension: postman.postman-for-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/barbarik/.vscode-oss/extensions/extensions.json","path":"/home/barbarik/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.92.1","date":"2024-08-09T07:48:41.621Z"}}
+2024-08-20 21:20:22.002 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-08-20 21:20:22.003 [info] Extension signature verification is not done: postman.postman-for-vscode
+2024-08-20 21:20:24.117 [info] Extracted extension to file:///home/barbarik/.vscode-oss/extensions/postman.postman-for-vscode-1.2.1-universal: postman.postman-for-vscode
+2024-08-20 21:20:24.131 [info] Renamed to /home/barbarik/.vscode-oss/extensions/postman.postman-for-vscode-1.2.1-universal
+2024-08-20 21:20:24.145 [info] Extension installed successfully: postman.postman-for-vscode vscode-userdata:/home/barbarik/.vscode-oss/extensions/extensions.json
+2024-08-20 21:20:24.215 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/barbarik/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/barbarik/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19408)
+    at u (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19519)
+    at p.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36714)
+    at p.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29034)
+    at async c.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14940)
+    at async z.ub (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120384)

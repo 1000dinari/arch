@@ -1,0 +1,23 @@
+file:///home/barbarik/go/digitalwallet/cmd/api/main.go {"mtime":1723983291303,"ctime":1723981551447,"size":160,"etag":"3cr90ss9355","orphaned":false,"typeId":""}
+package main
+
+import (
+	"fmt"
+	"net/http"
+
+	"github.com/go-chi/chi"
+	log "github.com/sirupsen/logrus"
+)
+
+func main(){
+	log.SetReportCaller(true)
+	var r *chi.Mux = chi.NewRouter()
+	handlers.Handler(r)
+
+	fmt.Println("Starting GO API Service..")
+	err := http.ListenAndServe("localhost:8000", r)
+	if err!= nil {
+		log.Error(err)
+	}
+	
+}

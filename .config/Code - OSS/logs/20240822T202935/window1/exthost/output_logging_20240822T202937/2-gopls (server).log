@@ -1,0 +1,616 @@
+[Info  - 20:29:37] 2024/08/22 20:29:37 Created View (#1)
+	directory=/home/barbarik/go/todolist
+	view_type="GoMod"
+	root_dir="file:///home/barbarik/go/todolist"
+	go_version="go version go1.23.0 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/barbarik/.cache/go-build GOMODCACHE:/home/barbarik/go/pkg/mod GOPATH:/home/barbarik/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GoVersion:23 GoVersionOutput:go version go1.23.0 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 20:29:38] 2024/08/22 20:29:37 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/barbarik/go/todolist
+	query=[/home/barbarik/go/todolist/... builtin]
+	packages=2
+	duration=338.669578ms
+
+[Error - 20:29:38] 2024/08/22 20:29:38 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:43:34: expected ';', found 3 (and 6 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:29:38] 2024/08/22 20:29:38 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:43:34: expected ';', found 3 (and 6 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 20:30:07] 2024/08/22 20:30:07 background imports cache refresh starting
+
+[Info  - 20:30:07] 2024/08/22 20:30:07 background refresh finished after 104.303562ms
+
+[Info  - 20:31:18] 2024/08/22 20:31:18 background imports cache refresh starting
+
+[Info  - 20:31:18] 2024/08/22 20:31:18 background refresh finished after 8.150406ms
+
+[Info  - 20:35:00] 2024/08/22 20:35:00 background imports cache refresh starting
+
+[Info  - 20:35:00] 2024/08/22 20:35:00 background refresh finished after 6.517224ms
+
+[Info  - 20:35:35] 2024/08/22 20:35:35 background imports cache refresh starting
+
+[Info  - 20:35:35] 2024/08/22 20:35:35 background refresh finished after 4.547394ms
+
+[Info  - 20:36:15] 2024/08/22 20:36:15 background imports cache refresh starting
+
+[Info  - 20:36:15] 2024/08/22 20:36:15 background refresh finished after 3.7186ms
+
+[Error - 20:36:16] 2024/08/22 20:36:16 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:48:34: expected '(', found ')' (and 5 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:36:19] 2024/08/22 20:36:19 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:48:38: expected type, found ')'
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:36:43] 2024/08/22 20:36:43 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:50:2: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:36:46] 2024/08/22 20:36:46 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:50:2: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 20:36:46] 2024/08/22 20:36:46 background imports cache refresh starting
+
+[Info  - 20:36:46] 2024/08/22 20:36:46 background refresh finished after 5.298433ms
+
+[Info  - 20:37:20] 2024/08/22 20:37:20 background imports cache refresh starting
+
+[Info  - 20:37:20] 2024/08/22 20:37:20 background refresh finished after 2.965413ms
+
+[Error - 20:37:21] 2024/08/22 20:37:21 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:52:2: expected operand, found '}' (and 9 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:23] 2024/08/22 20:37:23 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:24] 2024/08/22 20:37:24 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:26] 2024/08/22 20:37:26 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:29] 2024/08/22 20:37:29 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 12 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:30] 2024/08/22 20:37:30 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 12 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:31] 2024/08/22 20:37:31 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:32] 2024/08/22 20:37:32 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:35] 2024/08/22 20:37:35 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:37] 2024/08/22 20:37:37 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:38] 2024/08/22 20:37:38 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:38] 2024/08/22 20:37:38 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:45] 2024/08/22 20:37:45 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 12 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:46] 2024/08/22 20:37:46 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:46] 2024/08/22 20:37:46 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:47] 2024/08/22 20:37:47 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:47] 2024/08/22 20:37:47 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:48] 2024/08/22 20:37:48 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:49] 2024/08/22 20:37:49 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 20:37:51] 2024/08/22 20:37:51 background imports cache refresh starting
+
+[Info  - 20:37:51] 2024/08/22 20:37:51 background refresh finished after 4.457764ms
+
+[Error - 20:37:51] 2024/08/22 20:37:51 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:51] 2024/08/22 20:37:51 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:52] 2024/08/22 20:37:52 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:52] 2024/08/22 20:37:52 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:55] 2024/08/22 20:37:55 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 20:37:55] 2024/08/22 20:37:55 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 17 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 20:38:21] 2024/08/22 20:38:21 background imports cache refresh starting
+
+[Info  - 20:38:21] 2024/08/22 20:38:21 background refresh finished after 2.430686ms
+
+[Error - 21:07:22] 2024/08/22 21:07:22 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:07:52] 2024/08/22 21:07:52 background imports cache refresh starting
+
+[Info  - 21:07:52] 2024/08/22 21:07:52 background refresh finished after 4.813043ms
+
+[Error - 21:09:23] 2024/08/22 21:09:23 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:09:38] 2024/08/22 21:09:38 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:09:39] 2024/08/22 21:09:39 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:09:39] 2024/08/22 21:09:39 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:09:41] 2024/08/22 21:09:41 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:09:42] 2024/08/22 21:09:42 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 20 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:09:43] 2024/08/22 21:09:43 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 20 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:09:44] 2024/08/22 21:09:44 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 20 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:09:44] 2024/08/22 21:09:44 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 20 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:09:45] 2024/08/22 21:09:45 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:02] 2024/08/22 21:10:02 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:03] 2024/08/22 21:10:03 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:03] 2024/08/22 21:10:03 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:10:09] 2024/08/22 21:10:09 background imports cache refresh starting
+
+[Info  - 21:10:09] 2024/08/22 21:10:09 background refresh finished after 3.008892ms
+
+[Error - 21:10:09] 2024/08/22 21:10:09 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:09] 2024/08/22 21:10:09 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:10] 2024/08/22 21:10:10 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:11] 2024/08/22 21:10:11 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:11] 2024/08/22 21:10:11 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:11] 2024/08/22 21:10:11 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:12] 2024/08/22 21:10:12 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:14] 2024/08/22 21:10:14 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:15] 2024/08/22 21:10:15 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:16] 2024/08/22 21:10:16 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:17] 2024/08/22 21:10:17 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:28] 2024/08/22 21:10:28 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:32] 2024/08/22 21:10:32 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:32] 2024/08/22 21:10:32 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 20 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:34] 2024/08/22 21:10:34 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:36] 2024/08/22 21:10:36 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 16 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:37] 2024/08/22 21:10:37 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:37] 2024/08/22 21:10:37 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:39] 2024/08/22 21:10:39 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:10:39] 2024/08/22 21:10:39 background imports cache refresh starting
+
+[Info  - 21:10:39] 2024/08/22 21:10:39 background refresh finished after 5.315856ms
+
+[Error - 21:10:48] 2024/08/22 21:10:48 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:49] 2024/08/22 21:10:49 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:10:52] 2024/08/22 21:10:52 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:02] 2024/08/22 21:11:02 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 15 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:04] 2024/08/22 21:11:04 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 23 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:04] 2024/08/22 21:11:04 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:05] 2024/08/22 21:11:05 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:07] 2024/08/22 21:11:07 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:07] 2024/08/22 21:11:07 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:08] 2024/08/22 21:11:08 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:11] 2024/08/22 21:11:11 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:11] 2024/08/22 21:11:11 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:12] 2024/08/22 21:11:12 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:12] 2024/08/22 21:11:12 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:15] 2024/08/22 21:11:15 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:16] 2024/08/22 21:11:16 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:21] 2024/08/22 21:11:21 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:11:21] 2024/08/22 21:11:21 background imports cache refresh starting
+
+[Info  - 21:11:21] 2024/08/22 21:11:21 background refresh finished after 2.05442ms
+
+[Error - 21:11:21] 2024/08/22 21:11:21 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:28] 2024/08/22 21:11:28 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:29] 2024/08/22 21:11:29 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:30] 2024/08/22 21:11:30 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:31] 2024/08/22 21:11:31 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:32] 2024/08/22 21:11:32 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:33] 2024/08/22 21:11:33 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:37] 2024/08/22 21:11:37 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:37] 2024/08/22 21:11:37 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:38] 2024/08/22 21:11:38 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:39] 2024/08/22 21:11:39 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:40] 2024/08/22 21:11:40 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:41] 2024/08/22 21:11:41 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:42] 2024/08/22 21:11:42 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:43] 2024/08/22 21:11:43 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:44] 2024/08/22 21:11:44 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:11:45] 2024/08/22 21:11:45 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:11:59] 2024/08/22 21:11:59 background imports cache refresh starting
+
+[Info  - 21:11:59] 2024/08/22 21:11:59 background refresh finished after 4.667178ms
+
+[Error - 21:11:59] 2024/08/22 21:11:59 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:01] 2024/08/22 21:12:01 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:01] 2024/08/22 21:12:01 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:03] 2024/08/22 21:12:03 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:04] 2024/08/22 21:12:04 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:05] 2024/08/22 21:12:05 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:07] 2024/08/22 21:12:07 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:08] 2024/08/22 21:12:08 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:09] 2024/08/22 21:12:09 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:10] 2024/08/22 21:12:10 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:11] 2024/08/22 21:12:11 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:13] 2024/08/22 21:12:13 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:14] 2024/08/22 21:12:14 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:15] 2024/08/22 21:12:15 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:12:30] 2024/08/22 21:12:30 background imports cache refresh starting
+
+[Info  - 21:12:30] 2024/08/22 21:12:30 background refresh finished after 4.59261ms
+
+[Error - 21:12:30] 2024/08/22 21:12:30 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:34] 2024/08/22 21:12:34 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:34] 2024/08/22 21:12:34 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:46] 2024/08/22 21:12:46 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:46] 2024/08/22 21:12:46 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:46] 2024/08/22 21:12:46 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:47] 2024/08/22 21:12:47 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:48] 2024/08/22 21:12:48 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:49] 2024/08/22 21:12:49 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:49] 2024/08/22 21:12:49 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:50] 2024/08/22 21:12:50 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:12:51] 2024/08/22 21:12:51 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:13:04] 2024/08/22 21:13:04 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:51:7: expected 1 expression (and 18 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:13:35] 2024/08/22 21:13:35 background imports cache refresh starting
+
+[Info  - 21:13:35] 2024/08/22 21:13:35 background refresh finished after 4.468688ms
+
+[Info  - 21:17:15] 2024/08/22 21:17:15 background imports cache refresh starting
+
+[Info  - 21:17:15] 2024/08/22 21:17:15 background refresh finished after 4.598702ms
+
+[Info  - 21:17:46] 2024/08/22 21:17:46 background imports cache refresh starting
+
+[Info  - 21:17:46] 2024/08/22 21:17:46 background refresh finished after 5.095263ms
+
+[Info  - 21:18:38] 2024/08/22 21:18:38 background imports cache refresh starting
+
+[Info  - 21:18:38] 2024/08/22 21:18:38 background refresh finished after 2.074372ms
+
+[Info  - 21:19:33] 2024/08/22 21:19:33 background imports cache refresh starting
+
+[Info  - 21:19:33] 2024/08/22 21:19:33 background refresh finished after 4.735111ms
+
+[Error - 21:21:25] 2024/08/22 21:21:25 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:61:35: expected '(', found ')' (and 5 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:21:26] 2024/08/22 21:21:26 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:61:39: expected type, found ')'
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:21:38] 2024/08/22 21:21:38 background imports cache refresh starting
+
+[Info  - 21:21:38] 2024/08/22 21:21:38 background refresh finished after 4.676493ms
+
+[Error - 21:21:40] 2024/08/22 21:21:40 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:63:2: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:21:42] 2024/08/22 21:21:42 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:63:2: expected operand, found '}' (and 7 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:21:49] 2024/08/22 21:21:49 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:65:2: expected operand, found '}' (and 9 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:21:49] 2024/08/22 21:21:49 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:64:7: expected operand, found ')' (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:21:51] 2024/08/22 21:21:51 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:64:8: expected operand, found ')' (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:21:52] 2024/08/22 21:21:52 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:65:2: expected operand, found '}' (and 9 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:21:53] 2024/08/22 21:21:53 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:64:7: expected 1 expression (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:21:54] 2024/08/22 21:21:54 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:64:7: expected 1 expression
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:21:55] 2024/08/22 21:21:55 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:64:7: expected 1 expression
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:21:56] 2024/08/22 21:21:56 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:64:7: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:22:02] 2024/08/22 21:22:02 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:22:04] 2024/08/22 21:22:04 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:22:07] 2024/08/22 21:22:07 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:22:09] 2024/08/22 21:22:09 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:22:09] 2024/08/22 21:22:09 background imports cache refresh starting
+
+[Info  - 21:22:09] 2024/08/22 21:22:09 background refresh finished after 4.93983ms
+
+[Error - 21:22:09] 2024/08/22 21:22:09 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:22:10] 2024/08/22 21:22:10 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:22:11] 2024/08/22 21:22:11 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:22:13] 2024/08/22 21:22:13 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:22:13] 2024/08/22 21:22:13 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:22:14] 2024/08/22 21:22:14 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:22:14] 2024/08/22 21:22:14 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:3: expected operand, found '}' (and 13 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:22:45] 2024/08/22 21:22:45 background imports cache refresh starting
+
+[Info  - 21:22:45] 2024/08/22 21:22:45 background refresh finished after 5.373253ms
+
+[Error - 21:24:01] 2024/08/22 21:24:01 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:67:4: expected operand, found '}' (and 11 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:24:03] 2024/08/22 21:24:03 signature help failed: cannot get type for Fun *ast.Ident (appen)
+	position=65:18
+
+[Error - 21:24:08] 2024/08/22 21:24:08 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:25: expected operand, found ']'
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:24:17] 2024/08/22 21:24:17 signature help failed: cannot get type for Fun *ast.Ident (appen)
+	position=65:29
+
+[Error - 21:24:20] 2024/08/22 21:24:20 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:36: expected operand, found ']'
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:24:21] 2024/08/22 21:24:21 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:66:38: expected operand, found ']' (and 14 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:24:30] 2024/08/22 21:24:30 background imports cache refresh starting
+
+[Info  - 21:24:30] 2024/08/22 21:24:30 background refresh finished after 4.888029ms
+
+[Info  - 21:25:00] 2024/08/22 21:25:00 background imports cache refresh starting
+
+[Info  - 21:25:00] 2024/08/22 21:25:00 background refresh finished after 3.282551ms
+
+[Info  - 21:26:30] 2024/08/22 21:26:30 background imports cache refresh starting
+
+[Info  - 21:26:30] 2024/08/22 21:26:30 background refresh finished after 5.084104ms
+
+[Error - 21:27:20] 2024/08/22 21:27:20 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:67:22: expected ';', found 204 (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Error - 21:27:30] 2024/08/22 21:27:30 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:67:37: expected operand, found ']'
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:27:33] 2024/08/22 21:27:33 background imports cache refresh starting
+
+[Info  - 21:27:33] 2024/08/22 21:27:33 background refresh finished after 1.976168ms
+
+[Info  - 21:28:03] 2024/08/22 21:28:03 background imports cache refresh starting
+
+[Info  - 21:28:03] 2024/08/22 21:28:03 background refresh finished after 5.593533ms
+
+[Error - 21:29:21] 2024/08/22 21:29:21 imports fixes: allImportsFixes: /home/barbarik/go/todolist/main.go:67:52: expected operand, found '}' (and 10 more errors)
+	file="/home/barbarik/go/todolist/main.go"
+
+[Info  - 21:29:27] 2024/08/22 21:29:27 background imports cache refresh starting
+
+[Info  - 21:29:27] 2024/08/22 21:29:27 background refresh finished after 5.045143ms
+
+[Info  - 21:30:04] 2024/08/22 21:30:04 background imports cache refresh starting
+
+[Info  - 21:30:04] 2024/08/22 21:30:04 background refresh finished after 5.314277ms
+
+[Info  - 21:31:07] 2024/08/22 21:31:07 background imports cache refresh starting
+
+[Info  - 21:31:07] 2024/08/22 21:31:07 background refresh finished after 4.872575ms
+
+[Info  - 21:35:36] 2024/08/22 21:35:36 Shutdown session
+	shutdown_session=1
+

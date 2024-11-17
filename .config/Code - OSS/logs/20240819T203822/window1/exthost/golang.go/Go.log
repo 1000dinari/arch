@@ -1,0 +1,34 @@
+2024-08-19 20:38:25.164 [info] Try to start language server - activation (enabled: true)
+2024-08-19 20:38:25.218 [info] Running language server gopls(v0.16.1/go1.23.0)
+2024-08-19 20:42:00.648 [info] Running checks...
+2024-08-19 20:42:00.649 [info] Starting linting the current package at /home/barbarik/go/stonks
+2024-08-19 20:42:01.056 [info] /home/barbarik/go/stonks>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-19 20:42:01.056 [info] 
+2024-08-19 20:43:26.693 [info] Running checks...
+2024-08-19 20:43:26.693 [info] Starting linting the current package at /home/barbarik/go/stonks
+2024-08-19 20:43:26.954 [info] /home/barbarik/go/stonks>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-19 20:43:26.954 [info] 
+2024-08-19 20:44:20.847 [info] Running checks...
+2024-08-19 20:44:20.847 [info] Starting linting the current package at /home/barbarik/go/stonks
+2024-08-19 20:44:21.101 [info] /home/barbarik/go/stonks>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-19 20:44:21.101 [info] 
+2024-08-19 20:53:07.660 [info] Running checks...
+2024-08-19 20:53:07.660 [info] Starting linting the current package at /home/barbarik/go/stonks
+2024-08-19 20:53:07.922 [info] /home/barbarik/go/stonks>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-19 20:53:07.922 [info] 
+2024-08-19 20:53:37.288 [info] Running checks...
+2024-08-19 20:53:37.288 [info] Starting linting the current package at /home/barbarik/go/stonks
+2024-08-19 20:53:37.546 [info] /home/barbarik/go/stonks>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-19 20:53:37.546 [info] 
+2024-08-19 21:01:27.268 [info] Running checks...
+2024-08-19 21:01:27.269 [info] Starting linting the current package at /home/barbarik/go/stonks
+2024-08-19 21:01:27.532 [info] /home/barbarik/go/stonks>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-19 21:01:27.532 [info] 
+2024-08-19 21:01:52.327 [info] Running checks...
+2024-08-19 21:01:52.327 [info] Starting linting the current package at /home/barbarik/go/stonks
+2024-08-19 21:01:52.579 [info] /home/barbarik/go/stonks>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-19 21:01:52.579 [info] 
+2024-08-19 22:28:11.756 [info] Running checks...
+2024-08-19 22:28:11.756 [info] Starting linting the current package at /home/barbarik/go/stonks
+2024-08-19 22:28:12.009 [info] /home/barbarik/go/stonks>Finished running tool: /home/barbarik/go/bin/staticcheck
+2024-08-19 22:28:12.009 [info] 
