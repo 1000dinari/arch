@@ -1,0 +1,34 @@
+2024-12-19 20:29:04.839 [info] [main] Log level: Info
+2024-12-19 20:29:04.839 [info] [main] Validating found git in: "git"
+2024-12-19 20:29:04.839 [info] [main] Using git "2.47.0" from "git"
+2024-12-19 20:29:04.839 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-19 20:29:04.839 [info] > git rev-parse --show-toplevel [16ms]
+2024-12-19 20:29:04.840 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2024-12-19 20:29:04.864 [info] [Model][openRepository] Opened repository: /home/barbarik/go/todolist
+2024-12-19 20:29:04.897 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-19 20:29:04.897 [info] > git config --get commit.template [17ms]
+2024-12-19 20:29:04.932 [info] > git rev-parse --show-toplevel [22ms]
+2024-12-19 20:29:04.932 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-19 20:29:04.936 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2024-12-19 20:29:04.962 [info] > git status -z -uall [17ms]
+2024-12-19 20:29:04.963 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-12-19 20:29:05.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [717ms]
+2024-12-19 20:29:05.878 [info] > git check-ignore -v -z --stdin [163ms]
+2024-12-19 20:29:05.880 [info] > git config --local branch.master.vscode-merge-base [170ms]
+2024-12-19 20:29:05.880 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-19 20:29:05.889 [info] > git config --get commit.template [207ms]
+2024-12-19 20:29:06.013 [info] > git show --textconv :client/src/components/ToDoList.tsx [15ms]
+2024-12-19 20:29:06.013 [info] > git ls-files --stage -- /home/barbarik/go/todolist/client/src/components/ToDoList.tsx [6ms]
+2024-12-19 20:29:06.022 [info] > git reflog master --grep-reflog=branch: Created from *. [134ms]
+2024-12-19 20:29:06.051 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [20ms]
+2024-12-19 20:29:06.051 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-12-19 20:29:06.051 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-12-19 20:29:06.064 [info] > git cat-file -s cde45bfab2ed91e341123b40732feb1a592d3708 [43ms]
+2024-12-19 20:29:06.067 [info] > git merge-base refs/heads/master refs/remotes/origin/master [5ms]
+2024-12-19 20:29:06.078 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2024-12-19 20:29:06.088 [info] > git diff --name-status -z --diff-filter=ADMR 15ef74ca4193a7864978a412c91a67381f5d736a...refs/remotes/origin/master [11ms]
+2024-12-19 20:29:06.108 [info] > git status -z -uall [8ms]
+2024-12-19 20:29:06.109 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-19 20:29:16.929 [info] > git show --textconv :main.go [9ms]
+2024-12-19 20:29:16.930 [info] > git ls-files --stage -- /home/barbarik/go/todolist/main.go [1ms]
+2024-12-19 20:29:16.936 [info] > git cat-file -s 9cb979ccbc29a8c5b56fe554c31f83d336a0c5d4 [1ms]

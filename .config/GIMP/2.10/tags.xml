@@ -967,6 +967,9 @@
   <resource identifier="gimp-gradient-fg-transparent" checksum="1491f74caf057a39c8193470da2d2a29">
   </resource>
 
+  <resource identifier="gimp-gradient-fg-transparent-hardedge" checksum="34dca90c80cbb5d91a2d07a0e2cfba84">
+  </resource>
+
   <resource identifier="${gimp_data_dir}/gradients/Abstract_1.ggr" checksum="edaa7d1fc882ab813b75b49ee9272913">
   </resource>
 
@@ -1177,7 +1180,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="938b5846f16f0cef5e643ae3e32746dc">
+  <resource identifier="gimp-palette-color-history" checksum="f6bf1af5a154f1b28c19ff251680ca7f">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1222,7 +1225,7 @@
   <resource identifier="${gimp_data_dir}/palettes/Ega.gpl" checksum="a8842755eb6e9534d89bc4dfa360ea91">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/palettes/elementary.gpl" checksum="ac686c9fe944015722238ecfd6c8cb9f">
+  <resource identifier="${gimp_data_dir}/palettes/elementary.gpl" checksum="ae5b36415496922dd83a5bb532be3b73">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Firecode.gpl" checksum="31da06a142dbb7e290ecae399da8c198">
@@ -1558,7 +1561,7 @@
   <resource identifier="Noto Color Emoji" checksum="(null)">
   </resource>
 
-  <resource identifier="OCR A Std" checksum="(null)">
+  <resource identifier="OCR A" checksum="(null)">
   </resource>
 
   <resource identifier="Open Sans" checksum="(null)">
@@ -1678,52 +1681,52 @@
   <resource identifier="Source Code Pro Ultra-Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable" checksum="(null)">
+  <resource identifier="SourceCodeVF" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable" checksum="(null)">
+  <resource identifier="SourceCodeVF" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Bold" checksum="(null)">
+  <resource identifier="SourceCodeVF Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Bold Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Heavy" checksum="(null)">
+  <resource identifier="SourceCodeVF Heavy" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Heavy Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Heavy Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Light" checksum="(null)">
+  <resource identifier="SourceCodeVF Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Light Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Medium" checksum="(null)">
+  <resource identifier="SourceCodeVF Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Medium Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Semi-Bold" checksum="(null)">
+  <resource identifier="SourceCodeVF Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Semi-Bold Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Ultra-Light" checksum="(null)">
+  <resource identifier="SourceCodeVF Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Ultra-Light Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Special Elite" checksum="(null)">
@@ -1754,6 +1757,18 @@
   </resource>
 
   <resource identifier="UbuntuMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Propo" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Propo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Propo Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Propo Italic" checksum="(null)">
   </resource>
 
   <resource identifier="URW Bookman Light" checksum="(null)">

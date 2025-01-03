@@ -18,10 +18,10 @@
             "backupPath": "/home/barbarik/.config/Code - OSS/Backups/fbbe095679bfac254c546688e338ed26",
             "uiState": {
                 "mode": 1,
-                "x": 0,
-                "y": 17,
-                "width": 1920,
-                "height": 1063
+                "x": 5,
+                "y": 22,
+                "width": 1046,
+                "height": 1053
             }
         },
         "openedWindows": []
@@ -76,8 +76,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -338,10 +337,6 @@
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
-                                },
-                                {
-                                    "id": "workbench.profiles.actions.importProfile",
-                                    "label": "Import Profile..."
                                 }
                             ]
                         }
@@ -359,47 +354,8 @@
                         "submenu": {
                             "items": [
                                 {
-                                    "id": "submenuitem.Profiles",
-                                    "label": "Profile (Default)",
-                                    "submenu": {
-                                        "items": [
-                                            {
-                                                "id": "workbench.profiles.actions.profileEntry.__default__profile__",
-                                                "label": "Default",
-                                                "checked": true
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.showProfileContents",
-                                                "label": "Show Profile Contents"
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.createProfile",
-                                                "label": "New Profile..."
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.deleteProfile",
-                                                "label": "Delete Profile...",
-                                                "enabled": false
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.exportProfile",
-                                                "label": "Export Profile..."
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.importProfile",
-                                                "label": "Import Profile..."
-                                            }
-                                        ]
-                                    }
+                                    "id": "workbench.profiles.actions.manageProfiles",
+                                    "label": "&&Profiles"
                                 },
                                 {
                                     "id": "workbench.action.openSettings",
@@ -959,6 +915,10 @@
                         "label": "E&&xtensions"
                     },
                     {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -990,8 +950,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1390,6 +1349,10 @@
                     {
                         "id": "workbench.action.showInteractivePlayground",
                         "label": "Editor Playgrou&&nd"
+                    },
+                    {
+                        "id": "workbench.action.getStartedWithAccessibilityFeatures",
+                        "label": "Get Started with Accessibility Features"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1896,9 +1859,13 @@
             "background": "#1f1f1f",
             "editorBackground": "#1f1f1f",
             "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
             "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
             "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
             "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
             "statusBarNoFolderBackground": "#1f1f1f"
         },
         "layoutInfo": {

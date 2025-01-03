@@ -1,0 +1,19 @@
+2024-12-19 20:29:03.252 [info] Deleted uninstalled extension from disk golang.go /home/barbarik/.vscode-oss/extensions/golang.go-0.42.0-universal
+2024-12-19 20:29:03.285 [info] Deleted uninstalled extension from disk rangav.vscode-thunder-client /home/barbarik/.vscode-oss/extensions/rangav.vscode-thunder-client-2.24.12-universal
+2024-12-19 20:29:08.039 [info] Getting Manifest... rangav.vscode-thunder-client
+2024-12-19 20:29:08.042 [info] Getting Manifest... vadimcn.vscode-lldb
+2024-12-19 20:29:15.046 [info] Installing extension: rangav.vscode-thunder-client {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/barbarik/.vscode-oss/extensions/extensions.json","path":"/home/barbarik/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-19 20:29:15.192 [info] Installing extension: vadimcn.vscode-lldb {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/barbarik/.vscode-oss/extensions/extensions.json","path":"/home/barbarik/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-19 20:29:16.778 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-12-19 20:29:16.779 [info] Extension signature verification is not done: vadimcn.vscode-lldb
+2024-12-19 20:29:16.801 [info] Extracted extension to file:///home/barbarik/.vscode-oss/extensions/vadimcn.vscode-lldb-1.11.1-universal: vadimcn.vscode-lldb
+2024-12-19 20:29:16.804 [info] Renamed to /home/barbarik/.vscode-oss/extensions/vadimcn.vscode-lldb-1.11.1-universal
+2024-12-19 20:29:16.828 [info] Marked extension as uninstalled vadimcn.vscode-lldb-1.10.0
+2024-12-19 20:29:16.849 [info] Extension installed successfully: vadimcn.vscode-lldb vscode-userdata:/home/barbarik/.vscode-oss/extensions/extensions.json
+2024-12-19 20:29:16.898 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/barbarik/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/barbarik/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

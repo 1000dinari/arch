@@ -1,0 +1,17 @@
+2024-12-19 20:29:02.473 [info] Added views:outline in workbench.view.explorer
+2024-12-19 20:29:02.473 [info] Added views:workbench.view.search in workbench.view.search
+2024-12-19 20:29:02.473 [info] Added views:workbench.scm in workbench.view.scm
+2024-12-19 20:29:02.474 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-12-19 20:29:02.474 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-12-19 20:29:02.474 [info] Added views:terminal in terminal
+2024-12-19 20:29:02.474 [info] Added views:timeline in workbench.view.explorer
+2024-12-19 20:29:02.474 [info] Added views:workbench.explorer.openEditorsView,workbench.explorer.fileView in workbench.view.explorer
+2024-12-19 20:29:02.745 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-12-19 20:29:03.549 [info] Added views:thunder-client-sidebar in workbench.view.extension.thunder-client
+2024-12-19 20:29:03.737 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-12-19 20:29:04.879 [info] Added views:workbench.scm.history in workbench.view.scm
+2024-12-19 20:29:05.099 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-12-19 20:29:17.039 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2024-12-19 20:29:17.046 [info] Added views:go.explorer in workbench.view.explorer
+2024-12-19 20:29:18.615 [info] Removed views:workbench.scm.history from workbench.view.scm
+2024-12-19 20:29:18.618 [info] Removed views:workbench.view.testing from workbench.view.extension.test
