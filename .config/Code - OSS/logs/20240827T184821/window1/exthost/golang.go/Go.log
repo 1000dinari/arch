@@ -1,6 +1,0 @@
-2024-08-27 18:48:23.106 [info] Try to start language server - activation (enabled: true)
-2024-08-27 18:48:23.153 [info] Running language server gopls(v0.16.1/go1.23.0)
-2024-08-27 20:00:03.169 [info] Running checks...
-2024-08-27 20:00:03.169 [info] Starting linting the current package at /home/barbarik/go/todolist
-2024-08-27 20:00:03.687 [info] /home/barbarik/go/todolist>Finished running tool: /home/barbarik/go/bin/staticcheck
-2024-08-27 20:00:03.687 [info] 

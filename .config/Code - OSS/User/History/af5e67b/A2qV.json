@@ -1,9 +1,0 @@
-{
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact"
-    },
-    "git.ignoredRepositories": [
-        "/home/barbarik"
-    ],
-    "prettier.tabWidth": 4
-}
