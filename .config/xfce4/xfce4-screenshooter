@@ -6,7 +6,6 @@ delay=0
 region=3
 show_mouse=0
 last_extension=png
-enable_imgur_upload=true
 show_border=1
 show_in_folder=false
 custom_action_command=none

@@ -1,3 +1,0 @@
-organizations
-skillset
-checksum_v1 = e8c42539ee49cf14eb19e04006568ba1

@@ -1,0 +1,110 @@
+{
+ "Week": "2024-12-23",
+ "LastWeek": "",
+ "X": 0.7296653524019758,
+ "Programs": [
+  {
+   "Program": "cmd/asm",
+   "Version": "go1.23.3",
+   "GoVersion": "go1.23.3",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {},
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/cgo",
+   "Version": "go1.23.3",
+   "GoVersion": "go1.23.3",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "cgo/flag:dynimport": 2,
+    "cgo/flag:dynlinker": 1,
+    "cgo/flag:dynout": 2,
+    "cgo/flag:dynpackage": 2,
+    "cgo/flag:import_runtime_cgo": 1,
+    "cgo/flag:import_syscall": 1,
+    "cgo/flag:importpath": 2,
+    "cgo/flag:ldflags": 2,
+    "cgo/flag:objdir": 2,
+    "cgo/invocations": 4
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/compile",
+   "Version": "go1.23.3",
+   "GoVersion": "go1.23.3",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "compile/invocations": 8
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/go",
+   "Version": "go1.23.3",
+   "GoVersion": "go1.23.3",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "go/buildcache/miss": 252,
+    "go/buildcache/stdlib-recompiled": 1,
+    "go/env/flag:json": 2,
+    "go/goroot:usr-lib-go": 11,
+    "go/invocations": 11,
+    "go/list/flag:compiled": 1,
+    "go/list/flag:deps": 1,
+    "go/list/flag:e": 3,
+    "go/list/flag:export": 1,
+    "go/list/flag:f": 3,
+    "go/list/flag:find": 1,
+    "go/list/flag:json": 1,
+    "go/list/flag:pgo": 1,
+    "go/list/flag:test": 1,
+    "go/mod-tidy/flag:modfile": 1,
+    "go/mode:gopath": 2,
+    "go/mode:module": 9,
+    "go/platform/host/linux/major-version:6": 11,
+    "go/platform/host/linux/version:6-6": 11,
+    "go/platform/target/goamd64:v1": 11,
+    "go/platform/target/goarch:amd64": 11,
+    "go/platform/target/goos:linux": 11,
+    "go/subcommand:env": 2,
+    "go/subcommand:list": 4,
+    "go/subcommand:mod-tidy": 1,
+    "go/subcommand:version": 4,
+    "go/version/flag:m": 2
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "golang.org/x/tools/gopls",
+   "Version": "v0.16.1",
+   "GoVersion": "go1.23.0",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "gopls/client-other:Code - OSS": 1,
+    "gopls/client:other": 1,
+    "gopls/gotoolchain:auto": 1,
+    "gopls/goversion:1.23": 1
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/link",
+   "Version": "go1.23.3",
+   "GoVersion": "go1.23.3",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "link/invocations": 1
+   },
+   "Stacks": {}
+  }
+ ],
+ "Config": "v0.0.0-0"
+}

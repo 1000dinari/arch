@@ -1,6 +1,0 @@
-2023/04/29-14:00:46.876 4055e Reusing MANIFEST /home/barbarik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/29-14:00:46.876 4055e Recovering log #12
-2023/04/29-14:00:46.883 4055e Reusing old log /home/barbarik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000012.log 
-2023/04/29-14:01:06.304 4055e Level-0 table #17: started
-2023/04/29-14:01:06.341 4055e Level-0 table #17: 1947913 bytes OK
-2023/04/29-14:01:06.344 4055e Delete type=0 #12
