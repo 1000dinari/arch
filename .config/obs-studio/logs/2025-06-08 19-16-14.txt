@@ -1,0 +1,303 @@
+19:16:14.215: Using EGL/X11
+19:16:14.215: CPU Name: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+19:16:14.215: CPU Speed: 800.000MHz
+19:16:14.215: Physical Cores: 4, Logical Cores: 8
+19:16:14.215: Physical Memory: 7770MB Total, 5053MB Free
+19:16:14.215: Kernel Version: Linux 6.12.13-1-lts
+19:16:14.215: Distribution: "Arch Linux" Unknown
+19:16:14.215: Session Type: tty
+19:16:14.215: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+19:16:14.216: Qt Version: 6.8.2 (runtime), 6.8.1 (compiled)
+19:16:14.216: Portable mode: false
+19:16:14.261: OBS 31.0.1 (linux)
+19:16:14.261: ---------------------------------
+19:16:14.262: ---------------------------------
+19:16:14.262: audio settings reset:
+19:16:14.262: 	samples per sec: 48000
+19:16:14.262: 	speakers:        2
+19:16:14.262: 	max buffering:   960 milliseconds
+19:16:14.262: 	buffering type:  dynamically increasing
+19:16:14.264: ---------------------------------
+19:16:14.264: Initializing OpenGL...
+19:16:14.403: Loading up OpenGL on adapter Mesa llvmpipe (LLVM 19.1.7, 256 bits)
+19:16:14.403: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 24.3.4-arch1.1, shading language 4.50
+19:16:14.580: ---------------------------------
+19:16:14.581: video settings reset:
+19:16:14.581: 	base resolution:   1920x1080
+19:16:14.581: 	output resolution: 1920x1080
+19:16:14.581: 	downscale filter:  Bicubic
+19:16:14.581: 	fps:               30/1
+19:16:14.581: 	format:            NV12
+19:16:14.581: 	YUV mode:          Rec. 709/Partial
+19:16:14.581: NV12 texture support enabled
+19:16:14.581: P010 texture support not available
+19:16:14.589: Audio monitoring device:
+19:16:14.589: 	name: Default
+19:16:14.589: 	id: default
+19:16:14.590: ---------------------------------
+19:16:14.599: Failed to load 'en-US' text for module: 'decklink-captions.so'
+19:16:14.606: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+19:16:14.614: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:16:14.614: Failed to initialize module 'decklink.so'
+19:16:14.802: [pipewire] No capture sources available
+19:16:14.821: v4l2loopback not installed, virtual camera not registered
+19:16:14.895: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+19:16:14.895: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+19:16:14.895: FFmpeg VAAPI H264 encoding not supported
+19:16:14.895: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+19:16:14.895: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+19:16:14.895: FFmpeg VAAPI AV1 encoding not supported
+19:16:14.895: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+19:16:14.895: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+19:16:14.895: FFmpeg VAAPI HEVC encoding not supported
+19:16:15.554: [obs-nvenc] NVENC version: 12.2 (compiled) / 13.0 (driver), CUDA driver version: 12.80, AV1 supported: false
+19:16:15.696: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+19:16:15.696: 
+19:16:15.699: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+19:16:15.699: 
+19:16:15.699: Module '/usr/lib/obs-plugins/obs-websocket.so' not loaded
+19:16:15.729: ---------------------------------
+19:16:15.729:   Loaded Modules:
+19:16:15.729:     text-freetype2.so
+19:16:15.729:     rtmp-services.so
+19:16:15.729:     obs-x264.so
+19:16:15.729:     obs-webrtc.so
+19:16:15.729:     obs-vst.so
+19:16:15.729:     obs-transitions.so
+19:16:15.729:     obs-qsv11.so
+19:16:15.729:     obs-outputs.so
+19:16:15.729:     obs-nvenc.so
+19:16:15.729:     obs-libfdk.so
+19:16:15.729:     obs-filters.so
+19:16:15.729:     obs-ffmpeg.so
+19:16:15.729:     linux-v4l2.so
+19:16:15.729:     linux-pulseaudio.so
+19:16:15.729:     linux-pipewire.so
+19:16:15.729:     linux-jack.so
+19:16:15.729:     linux-capture.so
+19:16:15.729:     linux-alsa.so
+19:16:15.729:     image-source.so
+19:16:15.729:     frontend-tools.so
+19:16:15.729:     decklink-output-ui.so
+19:16:15.729:     decklink-captions.so
+19:16:15.729: ---------------------------------
+19:16:15.729: ---------------------------------
+19:16:15.729: Available Encoders:
+19:16:15.729:   Video Encoders:
+19:16:15.729: 	- ffmpeg_svt_av1 (SVT-AV1)
+19:16:15.729: 	- ffmpeg_aom_av1 (AOM AV1)
+19:16:15.730: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+19:16:15.730: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+19:16:15.730: 	- obs_x264 (x264)
+19:16:15.730:   Audio Encoders:
+19:16:15.730: 	- ffmpeg_aac (FFmpeg AAC)
+19:16:15.730: 	- ffmpeg_opus (FFmpeg Opus)
+19:16:15.730: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+19:16:15.730: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+19:16:15.730: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+19:16:15.730: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+19:16:15.730: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+19:16:15.730: 	- libfdk_aac (libfdk AAC)
+19:16:15.730: ==== Startup complete ===============================================
+19:16:15.757: All scene data cleared
+19:16:15.757: ------------------------------------------------
+19:16:15.769: pulse-input: Server name: 'pulseaudio 17.0-43-g3e2bb'
+19:16:15.769: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+19:16:15.769: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+19:16:15.769: [Loaded global audio device]: 'Desktop Audio'
+19:16:15.844: pulse-input: Server name: 'pulseaudio 17.0-43-g3e2bb'
+19:16:15.844: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+19:16:15.845: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+19:16:15.845: [Loaded global audio device]: 'Mic/Aux'
+19:16:15.846: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:16:15.846: 	title: unknown
+19:16:15.846: 	class: unknown
+19:16:15.846: 
+19:16:15.855: alsa-input: PCM 'default' rate set to 48000
+19:16:15.855: alsa-input: PCM 'default' channels set to 2
+19:16:15.858: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+19:16:15.858: 	title: unknown
+19:16:15.858: 	class: unknown
+19:16:15.858: 
+19:16:15.860: v4l2-input: Start capture from /dev/video0
+19:16:15.962: v4l2-input: Input: 0
+19:16:15.987: v4l2-input: Resolution: 1280x720
+19:16:15.987: v4l2-input: Pixelformat: MJPG
+19:16:15.987: v4l2-input: Linesize: 0 Bytes
+19:16:15.987: v4l2-input: Framerate: 30.00 fps
+19:16:15.993: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+19:16:15.997: Switched to scene 'Scene'
+19:16:15.997: ------------------------------------------------
+19:16:15.997: Loaded scenes:
+19:16:15.997: - scene 'Scene':
+19:16:15.997:     - source: 'Audio Capture Device (ALSA)' (alsa_input_capture)
+19:16:15.997:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+19:16:15.997:     - source: 'Window Capture (Xcomposite) 2' (xcomposite_input)
+19:16:15.997:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+19:16:15.997: ------------------------------------------------
+19:16:16.163: v4l2-input: /dev/video0: select timed out
+19:16:16.163: v4l2-input: /dev/video0: failed to log status
+19:16:16.330: v4l2-input: /dev/video0: select timed out
+19:16:16.330: v4l2-input: /dev/video0: failed to log status
+19:16:16.418: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Audio Capture Device (ALSA))
+19:16:16.418: 
+19:16:16.866: [rtmp-services plugin] Successfully updated file 'services.json' (version 272)
+19:16:16.866: [rtmp-services plugin] Successfully updated package (version 272)
+19:16:33.309: User added scene 'Scene 2'
+19:16:33.317: User switched to scene 'Scene 2'
+19:17:21.982: User added source 'Window Capture (Xcomposite) 3' (xcomposite_input) to scene 'Scene 2'
+19:17:25.455: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:17:25.455: 	title: QADBS Demo - Google Slides — Mozilla Firefox
+19:17:25.455: 	class: Navigator
+19:17:25.455: 
+19:17:54.014: User switched to scene 'Scene'
+19:18:05.273: User switched to scene 'Scene 2'
+19:18:16.117: User Removed source 'Window Capture (Xcomposite) 3' (xcomposite_input) from scene 'Scene 2'
+19:18:27.502: User added source 'Window Capture (Xcomposite) 3' (xcomposite_input) to scene 'Scene 2'
+19:18:32.789: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:18:32.789: 	title: QADBS Demo - Google Slides — Mozilla Firefox
+19:18:32.789: 	class: Navigator
+19:18:32.789: 
+19:18:49.855: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:18:49.855: 	title: Presenter view - QADBS Demo - Google Slides — Mozilla Firefox
+19:18:49.855: 	class: Navigator
+19:18:49.855: 
+19:18:52.755: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:18:52.755: 	title: QADBS Demo - Google Slides — Mozilla Firefox
+19:18:52.755: 	class: Navigator
+19:18:52.755: 
+19:19:35.159: User Removed source 'Window Capture (Xcomposite) 3' (xcomposite_input) from scene 'Scene 2'
+19:19:41.490: User added source 'Display Capture (XSHM)' (xshm_input_v2) to scene 'Scene 2'
+19:19:43.622: xshm-input: Geometry 1920x1080 @ 0,0
+19:19:53.493: User Removed source 'Display Capture (XSHM)' (xshm_input_v2) from scene 'Scene 2'
+19:20:36.134: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene 2'
+19:20:43.913: User Removed source 'Window Capture (Xcomposite)' (xcomposite_input) from scene 'Scene 2'
+19:20:50.875: User added source 'Window Capture (Xcomposite) 3' (xcomposite_input) to scene 'Scene 2'
+19:20:53.188: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:20:53.188: 	title: Properties for 'Window Capture (Xcomposite) 3'
+19:20:53.188: 	class: obs
+19:20:53.188: 
+19:20:55.055: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:20:55.055: 	title: OBS 31.0.1 - Profile: Untitled - Scenes: Untitled
+19:20:55.055: 	class: obs
+19:20:55.055: 
+19:20:56.655: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:20:56.655: 	title: fiirefox window not showing in obs scene - Google Search — Mozilla Firefox
+19:20:56.655: 	class: Navigator
+19:20:56.655: 
+19:20:58.288: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:20:58.288: 	title: QADBS Demo - Google Slides — Mozilla Firefox
+19:20:58.288: 	class: Navigator
+19:20:58.288: 
+19:22:19.388: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:22:19.388: 	title: QADBS Demo - Google Slides — Mozilla Firefox
+19:22:19.388: 	class: Navigator
+19:22:19.388: 
+19:22:20.122: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:22:20.122: 	title: QADBS Demo - Google Slides — Mozilla Firefox
+19:22:20.122: 	class: Navigator
+19:22:20.122: 
+19:22:22.222: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:22:22.222: 	title: QADBS Demo - Google Slides — Mozilla Firefox
+19:22:22.222: 	class: Navigator
+19:22:22.222: 
+19:22:32.051: Switched to Preview/Program mode
+19:22:32.051: ------------------------------------------------
+19:22:34.603: Switched to scene 'Scene 2'
+19:22:34.604: Switched to regular Preview mode
+19:22:34.605: ------------------------------------------------
+19:22:37.870: User switched to scene 'Scene'
+19:22:42.225: User switched to scene 'Scene 2'
+19:22:46.622: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:22:46.622: 	title: QADBS Demo - Google Slides — Mozilla Firefox
+19:22:46.622: 	class: Navigator
+19:22:46.622: 
+19:22:51.888: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:22:51.888: 	title: OBS 31.0.1 - Profile: Untitled - Scenes: Untitled
+19:22:51.888: 	class: obs
+19:22:51.888: 
+19:22:53.488: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:22:53.488: 	title: No Window Capture - Arch + KDE + Wayland | OBS Forums — Mozilla Firefox
+19:22:53.488: 	class: Navigator
+19:22:53.488: 
+19:22:55.122: [window-capture: 'Window Capture (Xcomposite) 3'] update settings:
+19:22:55.122: 	title: QADBS Demo - Google Slides — Mozilla Firefox
+19:22:55.122: 	class: Navigator
+19:22:55.122: 
+19:23:07.923: User added source 'Window Capture (Xcomposite) 4' (xcomposite_input) to scene 'Scene 2'
+19:23:09.622: [window-capture: 'Window Capture (Xcomposite) 4'] update settings:
+19:23:09.622: 	title: QADBS Demo - Google Slides — Mozilla Firefox
+19:23:09.622: 	class: Navigator
+19:23:09.622: 
+19:23:14.969: User Removed source 'Window Capture (Xcomposite) 4' (xcomposite_input) from scene 'Scene 2'
+19:23:23.780: User Removed source 'Window Capture (Xcomposite) 3' (xcomposite_input) from scene 'Scene 2'
+19:46:33.444: ==== Shutting down ==================================================
+19:46:33.491: v4l2-input: /dev/video0: Stopped capture after 54643 frames
+19:46:33.495: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+19:46:33.495: pulse-input: Got 373197 packets with 80070918 frames
+19:46:33.495: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+19:46:33.495: pulse-input: Got 187670 packets with 87246896 frames
+19:46:33.509: All scene data cleared
+19:46:33.509: ------------------------------------------------
+19:46:33.592: [Scripting] Total detached callbacks: 0
+19:46:33.592: Freeing OBS context data
+19:46:33.627: == Profiler Results =============================
+19:46:33.627: run_program_init: 1964.87 ms
+19:46:33.627:  ┣OBSApp::AppInit: 34.074 ms
+19:46:33.627:  ┃ ┗OBSApp::InitLocale: 6.918 ms
+19:46:33.627:  ┗OBSApp::OBSInit: 1859.28 ms
+19:46:33.627:    ┣obs_startup: 1.053 ms
+19:46:33.627:    ┗OBSBasic::OBSInit: 1812.35 ms
+19:46:33.627:      ┣OBSBasic::InitBasicConfig: 0.84 ms
+19:46:33.627:      ┣OBSBasic::ResetAudio: 0.196 ms
+19:46:33.627:      ┣OBSBasic::ResetVideo: 326.491 ms
+19:46:33.627:      ┃ ┗obs_init_graphics: 317.813 ms
+19:46:33.627:      ┃   ┗shader compilation: 177.701 ms
+19:46:33.627:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+19:46:33.627:      ┣OBSBasic::InitHotkeys: 0.021 ms
+19:46:33.627:      ┣obs_load_all_modules2: 1138.98 ms
+19:46:33.627:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+19:46:33.627:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+19:46:33.627:      ┃ ┣obs_init_module(decklink.so): 0.11 ms
+19:46:33.627:      ┃ ┣obs_init_module(frontend-tools.so): 101.725 ms
+19:46:33.627:      ┃ ┣obs_init_module(image-source.so): 0.009 ms
+19:46:33.627:      ┃ ┣obs_init_module(linux-alsa.so): 0.002 ms
+19:46:33.627:      ┃ ┣obs_init_module(linux-capture.so): 0.767 ms
+19:46:33.627:      ┃ ┣obs_init_module(linux-jack.so): 0.002 ms
+19:46:33.627:      ┃ ┣obs_init_module(linux-pipewire.so): 18.553 ms
+19:46:33.627:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.004 ms
+19:46:33.627:      ┃ ┣obs_init_module(linux-v4l2.so): 2.513 ms
+19:46:33.627:      ┃ ┣obs_init_module(obs-ffmpeg.so): 4.245 ms
+19:46:33.627:      ┃ ┣obs_init_module(obs-filters.so): 0.023 ms
+19:46:33.627:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+19:46:33.627:      ┃ ┣obs_init_module(obs-nvenc.so): 633.757 ms
+19:46:33.627:      ┃ ┃ ┗nvenc_check: 633.747 ms
+19:46:33.627:      ┃ ┣obs_init_module(obs-outputs.so): 0.005 ms
+19:46:33.627:      ┃ ┣obs_init_module(obs-qsv11.so): 10.419 ms
+19:46:33.627:      ┃ ┣obs_init_module(obs-transitions.so): 0.008 ms
+19:46:33.627:      ┃ ┣obs_init_module(obs-vst.so): 0.005 ms
+19:46:33.627:      ┃ ┣obs_init_module(obs-webrtc.so): 0.003 ms
+19:46:33.627:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+19:46:33.627:      ┃ ┣obs_init_module(rtmp-services.so): 1.295 ms
+19:46:33.627:      ┃ ┗obs_init_module(text-freetype2.so): 0.016 ms
+19:46:33.628:      ┣OBSBasic::InitService: 2.192 ms
+19:46:33.628:      ┣OBSBasic::ResetOutputs: 0.256 ms
+19:46:33.628:      ┣OBSBasic::CreateHotkeys: 0.023 ms
+19:46:33.628:      ┣OBSBasic::InitPrimitives: 0.049 ms
+19:46:33.628:      ┗OBSBasic::Load: 291.866 ms
+19:46:33.628: obs_hotkey_thread(25 ms): min=0.047 ms, median=0.423 ms, max=47.982 ms, 99th percentile=9.939 ms, 99.9484% below 25 ms
+19:46:33.628: audio_thread(Audio): min=0.006 ms, median=0.172 ms, max=174.012 ms, 99th percentile=0.842 ms
+19:46:33.628: obs_graphics_thread(33.3333 ms): min=0.066 ms, median=15.157 ms, max=225.341 ms, 99th percentile=35.539 ms, 98.7319% below 33.333 ms
+19:46:33.628:  ┣tick_sources: min=0 ms, median=0.021 ms, max=138.462 ms, 99th percentile=3.597 ms
+19:46:33.628:  ┣output_frame: min=0.049 ms, median=0.17 ms, max=191.393 ms, 99th percentile=6.705 ms
+19:46:33.628:  ┃ ┗gs_context(video->graphics): min=0.049 ms, median=0.169 ms, max=191.39 ms, 99th percentile=6.685 ms
+19:46:33.628:  ┃   ┣render_video: min=0.015 ms, median=0.061 ms, max=191.314 ms, 99th percentile=6.658 ms
+19:46:33.628:  ┃   ┃ ┗render_main_texture: min=0.013 ms, median=0.054 ms, max=191.306 ms, 99th percentile=6.654 ms
+19:46:33.628:  ┃   ┗gs_flush: min=0.002 ms, median=0.091 ms, max=3.342 ms, 99th percentile=0.264 ms
+19:46:33.628:  ┗render_displays: min=0.003 ms, median=14.817 ms, max=97.16 ms, 99th percentile=32.512 ms
+19:46:33.628: =================================================
+19:46:33.628: == Profiler Time Between Calls ==================
+19:46:33.628: obs_hotkey_thread(25 ms): min=25.11 ms, median=25.629 ms, max=73.097 ms, 40.3729% within ±2% of 25 ms (0% lower, 59.6271% higher)
+19:46:33.628: obs_graphics_thread(33.3333 ms): min=8.405 ms, median=33.333 ms, max=225.382 ms, 96.049% within ±2% of 33.333 ms (2.12141% lower, 1.82963% higher)
+19:46:33.628: =================================================
+19:46:33.689: Number of memory leaks: 0

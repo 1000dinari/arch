@@ -61,25 +61,25 @@ eDP1 YPosition 1920x1080 eDP1=17
 Units=pt
 
 [Recent Files]
-File1[$e]=$HOME/acad/projectsem/finaldocs/Reflective Diary of Saurabh Chaudhary.pdf
-File10[$e]=$HOME/amdocs/Assignments - 1.docx.pdf
-File2[$e]=$HOME/acad/projectsem/finaldocs/SaurabhChaudhary_JOINING REPORT.pdf
-File3[$e]=$HOME/amdocs/Documents/Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
-File4[$e]=$HOME/amdocs/Thapar Institute-Siddhant Goyal-7997753 VJ_signed.pdf
-File5[$e]=$HOME/amdocs/Documents/GradeCard-Sem8.pdf
-File6[$e]=$HOME/amdocs/Documents/ProvisionalDegree.pdf
-File7[$e]=$HOME/Downloads/degree.pdf
-File8[$e]=$HOME/SaurabhChaudhary-2.pdf
+File1[$e]=$HOME/SaurabhChaudhary-2.pdf
+File10[$e]=$HOME/Downloads/SaurabhChaudhary_WolfMentoring_Assessment.pdf
+File2[$e]=$HOME/Documents/Final Complaint.pdf
+File3[$e]=$HOME/Documents/dox.pdf
+File4[$e]=$HOME/CSFDD/Computer-Stuff-for-Dum-Dums.pdf
+File5[$e]=$HOME/Documents/resume/SE/SaurabhChaudhary.pdf
+File6[$e]=$HOME/Documents/resume/SE/CoverLetter.pdf
+File7[$e]=$HOME/amdocs/Assignments - 1.docx.pdf
+File8[$e]=$HOME/Documents/101915205_Saurabh_Chaudhary.pdf
 File9[$e]=$HOME/Documents/resume/SaurabhChaudhary.pdf
-Name1[$e]=Reflective Diary of Saurabh Chaudhary.pdf
-Name10[$e]=Assignments - 1.docx.pdf
-Name2[$e]=SaurabhChaudhary_JOINING REPORT.pdf
-Name3[$e]=Thapar Institute-Saurabh Chaudhary-7997807 VJ_signed.pdf
-Name4[$e]=Thapar Institute-Siddhant Goyal-7997753 VJ_signed.pdf
-Name5[$e]=GradeCard-Sem8.pdf
-Name6[$e]=ProvisionalDegree.pdf
-Name7[$e]=degree.pdf
-Name8[$e]=SaurabhChaudhary-2.pdf
+Name1[$e]=SaurabhChaudhary-2.pdf
+Name10[$e]=SaurabhChaudhary_WolfMentoring_Assessment.pdf
+Name2[$e]=Final Complaint.pdf
+Name3[$e]=dox.pdf
+Name4[$e]=Computer-Stuff-for-Dum-Dums.pdf
+Name5[$e]=SaurabhChaudhary.pdf
+Name6[$e]=CoverLetter.pdf
+Name7[$e]=Assignments - 1.docx.pdf
+Name8[$e]=101915205_Saurabh_Chaudhary.pdf
 Name9[$e]=SaurabhChaudhary.pdf
 
 [SlideShow]

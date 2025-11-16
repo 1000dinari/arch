@@ -1,6 +1,6 @@
 app=ristretto
 last_user=
-screenshot_dir=file:/home/barbarik/Pictures
+screenshot_dir=file:/home/barbarik/Pictures/screenshots
 action=1
 delay=0
 region=3
@@ -8,5 +8,5 @@ show_mouse=0
 last_extension=png
 show_border=1
 show_in_folder=false
-custom_action_command=none
+custom_action_command=/usr/lib/xfce4/screenshooter/scripts/imgur-upload.sh %f %imgur_client_id
 
